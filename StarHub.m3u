@@ -313,6 +313,13 @@ https://ucdn.starhubgo.com/bpk-tv/HubPremier12/output/manifest.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b5d217f06033494f8c536322324231eb:b6c80055ee20cf222d792ce702b3644a
+#EXTINF:-1 tvg-id="222" tvg-chno="222" ch-number="222" tvg-logo="https://raw.githubusercontent.com/rahul979854/winner/refs/heads/main/hubpremr24k.png",Hub Premier 2 UHD
+https://ucdn.starhubgo.com/bpk-tv/HubPremier2-4K/output/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d02ff184351548eea3981c38b6f48d9b:42d56d760c19c180ceaf2e7ef512e5be
 #EXTINF:-1 tvg-id="223" tvg-chno="223" ch-number="223" tvg-logo="https://poster.starhubgo.com/Linear_channels2/223_1920x1080_HTV.png",Hub Premier 3
 https://ucdn.starhubgo.com/bpk-tv/HubPremier3/output/manifest.mpd
