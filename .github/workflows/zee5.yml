@@ -74,7 +74,7 @@ jobs:
 
             "#EXTINF:-1 " +
               (if ($tvg_id | length > 0) then "tvg-id=\"\($tvg_id)\" " else "" end) +
-              "group-title=\"JioStar\" " +
+              "group-title=\"z5tv\" " +
               (if ($tvg_logo | length > 0) then "tvg-logo=\"\($tvg_logo)\" " else "" end) +
               ",\($name | gsub(","; "\\,"))" |
             . as $extinf |
