@@ -2,6 +2,9 @@
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140061_CASACARDS_PARTNER_16_9_1920_1080.png" ,Al Hussein Vs Esteghlal Fc
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
 https://in-mc-flive.fancode.com/mumbai/140061_english_hls_db731f332072640_1ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140017_CASACARDS_PARTNER_16_9_1920_1080.png" ,Blackpool Vs Mansfield Town
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+https://in-mc-flive.fancode.com/mumbai/140017_english_hls_f6bb7dae9e59884_1ta-di_h264/index.m3u8
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140648_CASACARDS_PARTNER_16_9_1920_1080.png" ,Center Court
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
 https://in-mc-plive.fancode.com/mumbai/140648_english_hls_4deb6b7f4433909_1ta-di_h264/index.m3u8
@@ -11,15 +14,18 @@ https://in-mc-plive.fancode.com/mumbai/140647_english_hls_68594fe0ab5130_1ta-di_
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140296_CASACARDS_PARTNER_16_9_1920_1080.png" ,Court A Feed
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
 https://in-mc-flive.fancode.com/mumbai/140296_english_hls_9b76968d5074560_1ta-di_h264/index.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015295/1771308617008111_UCL26_Playoffs_Leg1_Galatasaray_vs_Juventus_14feb_eng_landscape_thumb.jpg" ,Galatasaray vs Juventus - Play-offs Leg 1 - 17 Feb 2026 [ENG]
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140286_CASACARDS_PARTNER_16_9_1920_1080.png" ,Qaudra 1
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771395549~acl=/*~id=31242666624987057473396260202347~hmac=31464b8dac249779e7e4c632cdbb32c3ed2394cf65576b036c66754bc6b5276a
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015295/1771308617008111_UCL26_Playoffs_Leg1_Galatasaray_vs_Juventus_14feb_eng_landscape_thumb.jpg" ,Galatasaray vs Juventus - Play-offs Leg 1 - 17 Feb 2026 [HIN]
+https://in-mc-flive.fancode.com/mumbai/140286_english_hls_97cbc4efc975587_1ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140656_CASACARDS_PARTNER_16_9_1920_1080.png" ,World Feed
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771395549~acl=/*~id=31242666624987057473396260202347~hmac=31464b8dac249779e7e4c632cdbb32c3ed2394cf65576b036c66754bc6b5276a
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015295/1771308617008111_UCL26_Playoffs_Leg1_Galatasaray_vs_Juventus_14feb_eng_landscape_thumb.jpg" ,Galatasaray vs Juventus - Play-offs Leg 1 - 17 Feb 2026 [TAM]
+https://in-mc-flive.fancode.com/mumbai/140656_english_hls_d0b11efc7361302_1ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140655_CASACARDS_PARTNER_16_9_1920_1080.png" ,Quadra 4
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771395549~acl=/*~id=31242666624987057473396260202347~hmac=31464b8dac249779e7e4c632cdbb32c3ed2394cf65576b036c66754bc6b5276a
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015295/1771308617008111_UCL26_Playoffs_Leg1_Galatasaray_vs_Juventus_14feb_eng_landscape_thumb.jpg" ,Galatasaray vs Juventus - Play-offs Leg 1 - 17 Feb 2026 [TEL]
+https://in-mc-flive.fancode.com/mumbai/140655_english_hls_1fe984173d91515_1ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140654_CASACARDS_PARTNER_16_9_1920_1080.png" ,Quadra 2
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771395549~acl=/*~id=31242666624987057473396260202347~hmac=31464b8dac249779e7e4c632cdbb32c3ed2394cf65576b036c66754bc6b5276a
+https://in-mc-flive.fancode.com/mumbai/140654_english_hls_7fcd49e7fc88358_1ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140653_CASACARDS_PARTNER_16_9_1920_1080.png" ,Quadra Guga Kuerten
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+https://in-mc-flive.fancode.com/mumbai/140653_english_hls_858561e08624721_1ta-di_h264/index.m3u8
