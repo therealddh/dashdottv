@@ -1,25 +1,25 @@
 #EXTM3U
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/134035_CASACARDS_PARTNER_16_9_1920_1080.png" ,Queensland Vs South Australia
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://in-mc-flive.fancode.com/mumbai/134035_english_hls_1afd89d14d51593_1ta-di_h264/index.m3u8
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/134036_CASACARDS_PARTNER_16_9_1920_1080.png" ,Victoria Vs Western Australia
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
 https://in-mc-flive.fancode.com/mumbai/134036_english_hls_ab6f47f92034501_1ta-di_h264/index.m3u8
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/134037_CASACARDS_PARTNER_16_9_1920_1080.png" ,Tasmania Vs New South Wales
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
 https://in-mc-flive.fancode.com/mumbai/134037_english_hls_26ae0af60c38725_1ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/138808_CASACARDS_PARTNER_16_9_1920_1080.png" ,Sydney Fc Vs Auckland
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+https://in-mc-flive.fancode.com/mumbai/138808_english_hls_c885c46e606308_1ta-di_h264/index.m3u8
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140600_CASACARDS_PARTNER_16_9_1920_1080.png" ,Day 2
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
 https://in-mc-flive.fancode.com/mumbai/140600_english_hls_6b62fe153b82281_1ta-di_h264/index.m3u8
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015236/1771175119590741_AsiaCup_RisingStar_Womens2026_Pakistan_A_vs_UAE_15feb_eng_Landscape_thumb.jpg" ,Pakistan A Women vs UAE Women - 17 Feb 2026 [ENG]
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771357995~acl=/*~id=95840291859034732507151277128282~hmac=e033383d5e33d3ec31099fc350f17050bbe9f37c35d23230f098d7b8cce8c3f5
+https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771361027~acl=/*~id=07711143360254669515502474120016~hmac=404d02829d533a6856760db7767730160f0df1cee77acfc22dc24c978b5e2bf6
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015236/1771175119590741_AsiaCup_RisingStar_Womens2026_Pakistan_A_vs_UAE_15feb_eng_Landscape_thumb.jpg" ,Pakistan A Women vs UAE Women - 17 Feb 2026 [HIN]
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771357995~acl=/*~id=95840291859034732507151277128282~hmac=e033383d5e33d3ec31099fc350f17050bbe9f37c35d23230f098d7b8cce8c3f5
+https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771361027~acl=/*~id=07711143360254669515502474120016~hmac=404d02829d533a6856760db7767730160f0df1cee77acfc22dc24c978b5e2bf6
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015236/1771175119590741_AsiaCup_RisingStar_Womens2026_Pakistan_A_vs_UAE_15feb_eng_Landscape_thumb.jpg" ,Pakistan A Women vs UAE Women - 17 Feb 2026 [TAM]
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771357995~acl=/*~id=95840291859034732507151277128282~hmac=e033383d5e33d3ec31099fc350f17050bbe9f37c35d23230f098d7b8cce8c3f5
+https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771361027~acl=/*~id=07711143360254669515502474120016~hmac=404d02829d533a6856760db7767730160f0df1cee77acfc22dc24c978b5e2bf6
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015236/1771175119590741_AsiaCup_RisingStar_Womens2026_Pakistan_A_vs_UAE_15feb_eng_Landscape_thumb.jpg" ,Pakistan A Women vs UAE Women - 17 Feb 2026 [TEL]
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771357995~acl=/*~id=95840291859034732507151277128282~hmac=e033383d5e33d3ec31099fc350f17050bbe9f37c35d23230f098d7b8cce8c3f5
+https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771361027~acl=/*~id=07711143360254669515502474120016~hmac=404d02829d533a6856760db7767730160f0df1cee77acfc22dc24c978b5e2bf6
