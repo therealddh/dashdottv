@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/136042_CASACARDS_PARTNER_16_9_1920_1080.png" ,Melbourne City Vs Gangwon
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+https://in-mc-flive.fancode.com/mumbai/136042_english_hls_85c9cd791911695_1ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/136041_CASACARDS_PARTNER_16_9_1920_1080.png" ,Shanghai Port Vs Ulsan Hd
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+https://in-mc-flive.fancode.com/mumbai/136041_english_hls_2a0f5f45d279567_1ta-di_h264/index.m3u8
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/134036_CASACARDS_PARTNER_16_9_1920_1080.png" ,Victoria Vs Western Australia
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
 https://in-mc-flive.fancode.com/mumbai/134036_english_hls_ab6f47f920741_1ta-di_h264/index.m3u8
@@ -13,4 +19,4 @@ https://in-mc-flive.fancode.com/mumbai/140601_english_hls_fb36d3a80c49827_1ta-di
 https://india-mpv2.fancode.com/out/v1/ap-south-1/139561_english_571505/ad-h264/index.m3u8
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015238/1771175858085856_AsiaCup_RisingStar_Womens2026_Sri_Lanka_A_vs_Thailand_15feb_eng_Landscape_thumb.jpg" ,Sri Lanka A Women vs Thailand Women - 18 Feb 2026 [ENG]
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771446471~acl=/*~id=25837318393026206345331642567331~hmac=cb15b105746822ce7421819962a4e5173248d80d60096f12b59888c7bad7bf99
+https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771449500~acl=/*~id=31156551113839667625063295428768~hmac=146e1d582417f28a748f1196284294c8e1a6de4471717b22940261fc21945cce
