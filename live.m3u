@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140293_CASACARDS_PARTNER_16_9_1920_1080.png" ,Aberdeen Vs Motherwell
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140380_CASACARDS_PARTNER_16_9_1920_1080.png" ,Defense Force Vs Philadelphia Union
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://in-mc-flive.fancode.com/mumbai/140293_english_hls_9c6526862022121_1ta-di_h264/index.m3u8
+https://in-mc-flive.fancode.com/mumbai/140380_english_hls_8c14c35afc78977_1ta-di_h264/index.m3u8
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140297_CASACARDS_PARTNER_16_9_1920_1080.png" ,Court A Feed
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
 https://in-mc-flive.fancode.com/mumbai/140297_english_hls_b1a5458b5688562_1ta-di_h264/index.m3u8
@@ -17,24 +17,3 @@ https://in-mc-flive.fancode.com/mumbai/140748_english_hls_c74f9b91ec61687_1ta-di
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140747_CASACARDS_PARTNER_16_9_1920_1080.png" ,Quadra Guga Kuerten
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
 https://in-mc-flive.fancode.com/mumbai/140747_english_hls_f9a0d7bc4b88071_1ta-di_h264/index.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140417_CASACARDS_PARTNER_16_9_1920_1080.png" ,Arsenal Women Vs Oud Heverlee Leuven Women
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://in-mc-flive.fancode.com/mumbai/140417_english_hls_5e8d87506f97841_1ta-di_h264/index.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015295/1771308663785111_UCL26_Playoffs_Leg1_Bodo_Glimt_vs_Inter_16feb_eng_landscape_thumb.jpg" ,Bodo/Glimt vs Inter - Play-offs Leg 1 - 19 Feb 2026 [ENG]
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771494977~acl=/*~id=82957466666845310847683438333427~hmac=ce139e9b78f06df4e6c891b822902d42f7d926b6c78cd144c1ae87b9db472a5b
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015295/1771308663785111_UCL26_Playoffs_Leg1_Bodo_Glimt_vs_Inter_16feb_eng_landscape_thumb.jpg" ,Bodo/Glimt vs Inter - Play-offs Leg 1 - 19 Feb 2026 [HIN]
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771494977~acl=/*~id=82957466666845310847683438333427~hmac=ce139e9b78f06df4e6c891b822902d42f7d926b6c78cd144c1ae87b9db472a5b
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015295/1771308663785111_UCL26_Playoffs_Leg1_Bodo_Glimt_vs_Inter_16feb_eng_landscape_thumb.jpg" ,Bodo/Glimt vs Inter - Play-offs Leg 1 - 19 Feb 2026 [TAM]
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771494977~acl=/*~id=82957466666845310847683438333427~hmac=ce139e9b78f06df4e6c891b822902d42f7d926b6c78cd144c1ae87b9db472a5b
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015295/1771308663785111_UCL26_Playoffs_Leg1_Bodo_Glimt_vs_Inter_16feb_eng_landscape_thumb.jpg" ,Bodo/Glimt vs Inter - Play-offs Leg 1 - 19 Feb 2026 [TEL]
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771494977~acl=/*~id=82957466666845310847683438333427~hmac=ce139e9b78f06df4e6c891b822902d42f7d926b6c78cd144c1ae87b9db472a5b
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015295/1771308650608111_UCL26_Playoffs_Leg1_Club_Brugge_vs_Atletico_16feb_landscape_thumb.jpg" ,Club Brugge vs Atletico Madrid - Play-offs Leg 1 - 19 Feb 2026 [ENG]
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771494977~acl=/*~id=82957466666845310847683438333427~hmac=ce139e9b78f06df4e6c891b822902d42f7d926b6c78cd144c1ae87b9db472a5b
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015295/1771308637114111_UCL26_Playoffs_Leg1_Olympiacos_vs_Leverkusen_16feb_landscape_thumb.jpg" ,Olympiacos vs Leverkusen - Play-offs Leg 1 - 19 Feb 2026 [ENG]
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771494977~acl=/*~id=82957466666845310847683438333427~hmac=ce139e9b78f06df4e6c891b822902d42f7d926b6c78cd144c1ae87b9db472a5b
