@@ -5,9 +5,6 @@ https://in-mc-flive.fancode.com/mumbai/136042_english_hls_85c9cd791911695_1ta-di
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/136041_CASACARDS_PARTNER_16_9_1920_1080.png" ,Shanghai Port Vs Ulsan Hd
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
 https://in-mc-flive.fancode.com/mumbai/136041_english_hls_2a0f5f45d279567_1ta-di_h264/index.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/134037_CASACARDS_PARTNER_16_9_1920_1080.png" ,Tasmania Vs New South Wales
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://in-mc-plive.fancode.com/mumbai/134037_english_hls_26ae0af60c62361_1ta-di_h264/index.m3u8
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140601_CASACARDS_PARTNER_16_9_1920_1080.png" ,Day 3
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
 https://in-mc-flive.fancode.com/mumbai/140601_english_hls_fb36d3a80c49827_1ta-di_h264/index.m3u8
@@ -23,6 +20,6 @@ https://in-mc-flive.fancode.com/mumbai/140745_english_hls_ebf6c65e0675571_1ta-di
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140744_CASACARDS_PARTNER_16_9_1920_1080.png" ,Grandstand 1
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
 https://in-mc-flive.fancode.com/mumbai/140744_english_hls_c20d98980124459_1ta-di_h264/index.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015238/1771175858085856_AsiaCup_RisingStar_Womens2026_Sri_Lanka_A_vs_Thailand_15feb_eng_Landscape_thumb.jpg" ,Sri Lanka A Women vs Thailand Women - 18 Feb 2026 [ENG]
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140746_CASACARDS_PARTNER_16_9_1920_1080.png" ,Grandstand 2
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771453144~acl=/*~id=05258322595357765984840488686077~hmac=a4005fe44ac3ccd9c371f2eaed1969f1aaef340267c694357c6c7f5561fe25a1
+https://in-mc-flive.fancode.com/mumbai/140746_english_hls_14a98fe61d99629_1ta-di_h264/index.m3u8
