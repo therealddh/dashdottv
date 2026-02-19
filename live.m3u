@@ -1,19 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140437_CASACARDS_PARTNER_16_9_1920_1080.png" ,Mumbai City Fc Vs Chennaiyin Fc
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://in-mc-flive.fancode.com/mumbai/140437_english_hls_5d588c23d311284_1ta-di_h264/index.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140437_CASACARDS_PARTNER_16_9_1920_1080.png" ,Mumbai City Fc Vs Chennaiyin Fc
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://in-mc-flive.fancode.com/mumbai/140437_hindi_hls_25618a1fd257759_1ta-di_h264/index.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140437_CASACARDS_PARTNER_16_9_1920_1080.png" ,Mumbai City Fc Vs Chennaiyin Fc
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://in-mc-flive.fancode.com/mumbai/140437_tamil_hls_0dbabda65446672_1ta-di_h264/index.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140437_CASACARDS_PARTNER_16_9_1920_1080.png" ,Mumbai City Fc Vs Chennaiyin Fc
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://in-mc-flive.fancode.com/mumbai/140437_malayalam_hls_03793e4e8b86235_1ta-di_h264/index.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140437_CASACARDS_PARTNER_16_9_1920_1080.png" ,Mumbai City Fc Vs Chennaiyin Fc
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://in-mc-flive.fancode.com/mumbai/140437_bengali_hls_6114e6947c43993_1ta-di_h264/index.m3u8
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140752_CASACARDS_PARTNER_16_9_1920_1080.png" ,Mumbai City Fc Vs Chennaiyin Fc
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
 https://in-mc-flive.fancode.com/mumbai/140752_tamil_hls_c70a3b257411493_1ta-di_h264/index.m3u8
@@ -31,4 +16,4 @@ https://in-mc-flive.fancode.com/mumbai/140756_english_hls_419fdbac8523112_1ta-di
 https://in-mc-flive.fancode.com/mumbai/140755_english_hls_66f4c33efc95962_1ta-di_h264/index.m3u8
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015364/1771401586595586_DP_World_Tour_Magical_Kenya_Open_Day1_landscape_thumb.jpg" ,Magical Kenya Open - Day 1 - 19 Feb 2026 [ENG]
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://sonydaimenew.akamaized.net/hls/live/20000092/DAI03MSL5-V3/std_lrh-800300010.m3u8?hdnea=exp=1771551315~acl=/*~id=61465207202053501516066262359340~hmac=e8df90138a48e59be36969f5c08a23c89d88de796e9045f79e114b7bd8faf1f5
+https://sonydaimenew.akamaized.net/hls/live/20000092/DAI03MSL5-V3/std_lrh-800300010.m3u8?hdnea=exp=1771554955~acl=/*~id=16942652886156195736784950374075~hmac=2bc96842f7bc930ccdaac47703d2bea9434bb2eeeb169bc17dcce0612270a6f9
