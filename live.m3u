@@ -1,13 +1,16 @@
 #EXTM3U
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015421/1771493214000608_ACRS_womens26_semi_final_INDvsSL_landcape_thumb.jpg" ,India A Women vs Sri Lanka A Women - Semi-Final - 20 Feb 2026 [ENG]
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/139563_CASACARDS_PARTNER_16_9_1920_1080.png" ,Day 3
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771607105~acl=/*~id=01096287219487865269870903465676~hmac=4092fc95b6a8c8325e2e79d5ac4b1a67df9ee40a4c18120889fe4edd6fabdb31
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015421/1771493214000608_ACRS_womens26_semi_final_INDvsSL_landcape_thumb.jpg" ,India A Women vs Sri Lanka A Women - Semi-Final - 20 Feb 2026 [HIN]
+https://india-mpv2.fancode.com/out/v1/ap-south-1/139563_english_164866/ad-h264/index.m3u8
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015423/1771495274000232_ACC_BANvsPAK_SF_19feb_live_landscape_thumb.jpg" ,Bangladesh A Women vs Pakistan A Women - Semi-Final - 20 Feb 2026 [ENG]
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771607105~acl=/*~id=01096287219487865269870903465676~hmac=4092fc95b6a8c8325e2e79d5ac4b1a67df9ee40a4c18120889fe4edd6fabdb31
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015421/1771493214000608_ACRS_womens26_semi_final_INDvsSL_landcape_thumb.jpg" ,India A Women vs Sri Lanka A Women - Semi-Final - 20 Feb 2026 [TAM]
+https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771614416~acl=/*~id=83445653567370030962874645604166~hmac=69b8fff1ec47b4f0f056f3f4d02778f03699fcded516a04d4b4b45bb12f42861
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015423/1771495274000232_ACC_BANvsPAK_SF_19feb_live_landscape_thumb.jpg" ,Bangladesh A Women vs Pakistan A Women - Semi-Final - 20 Feb 2026 [HIN]
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771607105~acl=/*~id=01096287219487865269870903465676~hmac=4092fc95b6a8c8325e2e79d5ac4b1a67df9ee40a4c18120889fe4edd6fabdb31
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015421/1771493214000608_ACRS_womens26_semi_final_INDvsSL_landcape_thumb.jpg" ,India A Women vs Sri Lanka A Women - Semi-Final - 20 Feb 2026 [TEL]
+https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771614416~acl=/*~id=83445653567370030962874645604166~hmac=69b8fff1ec47b4f0f056f3f4d02778f03699fcded516a04d4b4b45bb12f42861
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015423/1771495274000232_ACC_BANvsPAK_SF_19feb_live_landscape_thumb.jpg" ,Bangladesh A Women vs Pakistan A Women - Semi-Final - 20 Feb 2026 [TAM]
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771607105~acl=/*~id=01096287219487865269870903465676~hmac=4092fc95b6a8c8325e2e79d5ac4b1a67df9ee40a4c18120889fe4edd6fabdb31
+https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771614416~acl=/*~id=83445653567370030962874645604166~hmac=69b8fff1ec47b4f0f056f3f4d02778f03699fcded516a04d4b4b45bb12f42861
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015423/1771495274000232_ACC_BANvsPAK_SF_19feb_live_landscape_thumb.jpg" ,Bangladesh A Women vs Pakistan A Women - Semi-Final - 20 Feb 2026 [TEL]
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771614416~acl=/*~id=83445653567370030962874645604166~hmac=69b8fff1ec47b4f0f056f3f4d02778f03699fcded516a04d4b4b45bb12f42861
