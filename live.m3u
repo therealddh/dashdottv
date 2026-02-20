@@ -1,22 +1,25 @@
 #EXTM3U
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140138_CASACARDS_PARTNER_16_9_1920_1080.png" ,Sri Lanka Women Vs West Indies Women
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://in-mc-flive.fancode.com/mumbai/140138_english_hls_74b6af168927832_1ta-di_h264/index.m3u8?hdnea=exp=1771593245~acl=/mumbai/140138_english_hls_74b6af168927832_1ta-di_h264/*~id=318105927_739657e5-8426-47~data=318105927~hmac=1d39baaf26d1f2669937e907669c6ae7d79288ceb452b317915edd725b72eec3&deviceId=4f3d9bc5a271f8a3&advertiserId=d8e5c7f4-1d0f-42a3-bc2f-86a78a5b7cde&cust_params=app_version%3D6.15.0%26app_platform%3Dsportsguruand%26state%3D%26city%3DAmsterdam%26userId%3D318105927%26match_id%3D140138%26match_format%3DODI%26tour_id%3D5934%26tour_name%3DSri_Lanka_Women_tour_of_West_Indies_2026%26sport%3Dcricket%26authorizationType%3DPAID&city=Amsterdam
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140660_CASACARDS_PARTNER_16_9_1920_1080.png" ,Paarl Cc Vs Van Der Stel Cricket Club
+https://in-mc-flive.fancode.com/mumbai/140138_english_hls_74b6af168927832_1ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140677_CASACARDS_PARTNER_16_9_1920_1080.png" ,Vredenburg/saldanha Cc Vs Paarl East Cricket Club
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://in-mc-plive.fancode.com/mumbai/140660_english_hls_e500227d8f13427_1ta-di_h264/index.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/139563_CASACARDS_PARTNER_16_9_1920_1080.png" ,Day 3
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://india-mpv2.fancode.com/out/v1/ap-south-1/139563_english_164866/ad-h264/index.m3u8
+https://in-mc-flive.fancode.com/mumbai/140677_english_hls_edd21ba2066792_1ta-di_h264/index.m3u8
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140757_CASACARDS_PARTNER_16_9_1920_1080.png" ,Center Court
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://in-mc-flive.fancode.com/mumbai/140757_english_hls_a0e3f712395899_1ta-di_h264/index.m3u8?hdnea=exp=1771588386~acl=/mumbai/140757_english_hls_a0e3f712395899_1ta-di_h264/*~id=318105927_8f1da88c-f980-4a~data=318105927~hmac=35e4631bea272c1989bf7fd9abbd4c6ac293488eaace08e8ddab82cde27a3260&deviceId=4f3d9bc5a271f8a3&advertiserId=d8e5c7f4-1d0f-42a3-bc2f-86a78a5b7cde&cust_params=app_version%3D6.15.0%26app_platform%3Dsportsguruand%26state%3D%26city%3DAmsterdam%26userId%3D318105927%26match_id%3D140757%26match_format%3DSingles%26tour_id%3D5941%26tour_name%3DATP_500_-_Qatar_ExxonMobil_Open_2026%26sport%3Dlawn-tennis%26authorizationType%3DPAID&city=Amsterdam
+https://in-mc-plive.fancode.com/mumbai/140757_english_hls_a0e3f712395899_1ta-di_h264/index.m3u8
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140571_CASACARDS_PARTNER_16_9_1920_1080.png" ,Featured Groups   Day 2
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://in-mc-flive.fancode.com/mumbai/140571_english_hls_8df7ce99ba86559_1ta-di_h264/index.m3u8?hdnea=exp=1771599184~acl=/mumbai/140571_english_hls_8df7ce99ba86559_1ta-di_h264/*~id=318105927_db69ada4-9775-45~data=318105927~hmac=30da8c5c5e43e04aec4986057a8dc095c1f860c66a614fdfad9f31b5d2b1928f&deviceId=4f3d9bc5a271f8a3&advertiserId=d8e5c7f4-1d0f-42a3-bc2f-86a78a5b7cde&cust_params=app_version%3D6.15.0%26app_platform%3Dsportsguruand%26state%3D%26city%3D%26userId%3D318105927%26match_id%3D140571%26match_format%3DStroke_Play%26tour_id%3D5926%26tour_name%3DThe_Genesis_Invitational_2026%26sport%3Dgolf%26authorizationType%3DPAID
+https://in-mc-plive.fancode.com/mumbai/140571_english_hls_8df7ce99ba86559_1ta-di_h264/index.m3u8
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140570_CASACARDS_PARTNER_16_9_1920_1080.png" ,Marquee Group   Day 2
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://in-mc-flive.fancode.com/mumbai/140570_english_hls_db62e78e2a67743_1ta-di_h264/index.m3u8?hdnea=exp=1771599189~acl=/mumbai/140570_english_hls_db62e78e2a67743_1ta-di_h264/*~id=318105927_816baa6a-7a80-48~data=318105927~hmac=ccdcba4a02428fc26f539893069ec348098a1915b4e1e7d84f5c06b6d7b56e90&deviceId=4f3d9bc5a271f8a3&advertiserId=d8e5c7f4-1d0f-42a3-bc2f-86a78a5b7cde&cust_params=app_version%3D6.15.0%26app_platform%3Dsportsguruand%26state%3D%26city%3D%26userId%3D318105927%26match_id%3D140570%26match_format%3DStroke_Play%26tour_id%3D5926%26tour_name%3DThe_Genesis_Invitational_2026%26sport%3Dgolf%26authorizationType%3DPAID
+https://in-mc-plive.fancode.com/mumbai/140570_english_hls_db62e78e2a67743_1ta-di_h264/index.m3u8
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140569_CASACARDS_PARTNER_16_9_1920_1080.png" ,Main Feed   Day 2
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://in-mc-flive.fancode.com/mumbai/140569_english_hls_2201b7773938313_1ta-di_h264/index.m3u8?hdnea=exp=1771599196~acl=/mumbai/140569_english_hls_2201b7773938313_1ta-di_h264/*~id=5c1a2d7b8f02d931_20764eef-6478-46~data=5c1a2d7b8f02d931_free_420~hmac=24ea366acd855a3486b1ef545d684abcc738980641264da81233cbf68a5f4de1&deviceId=5c1a2d7b8f02d931&advertiserId=7e42d87b-45cd-4cf6-b0ae-1fae68d9430&ft_type=c1&cust_params=app_version%3D6.15.0%26app_platform%3Dsportsguruand%26state%3D%26city%3D%26userId%3D%26match_id%3D140569%26match_format%3DStroke_Play%26tour_id%3D5926%26tour_name%3DThe_Genesis_Invitational_2026%26sport%3Dgolf%26authorizationType%3DPAID
+https://in-mc-plive.fancode.com/mumbai/140569_english_hls_2201b7773938313_1ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140212_CASACARDS_PARTNER_16_9_1920_1080.png" ,World Feed
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+https://in-mc-flive.fancode.com/mumbai/140212_english_hls_341b6aef4a2950_1ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140299_CASACARDS_PARTNER_16_9_1920_1080.png" ,Center Court
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+https://in-mc-plive.fancode.com/mumbai/140299_english_hls_add56807e482715_1ta-di_h264/index.m3u8
