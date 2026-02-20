@@ -11,9 +11,6 @@ https://in-mc-flive.fancode.com/mumbai/140122_english_hls_acfa12043f61996_1ta-di
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140424_CASACARDS_PARTNER_16_9_1920_1080.png" ,Ceuta Vs Granada
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
 https://in-mc-flive.fancode.com/mumbai/140424_english_hls_45a85e90b081817_1ta-di_h264/index.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140757_CASACARDS_PARTNER_16_9_1920_1080.png" ,Center Court
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://in-mc-plive.fancode.com/mumbai/140757_english_hls_a0e3f712395899_1ta-di_h264/index.m3u8
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140571_CASACARDS_PARTNER_16_9_1920_1080.png" ,Featured Groups   Day 2
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
 https://in-mc-plive.fancode.com/mumbai/140571_english_hls_8df7ce99ba86559_1ta-di_h264/index.m3u8
@@ -23,9 +20,6 @@ https://in-mc-flive.fancode.com/mumbai/140570_english_hls_db62e78e2a67743_1ta-di
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140569_CASACARDS_PARTNER_16_9_1920_1080.png" ,Main Feed   Day 2
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
 https://in-mc-flive.fancode.com/mumbai/140569_english_hls_2201b7773938313_1ta-di_h264/index.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140212_CASACARDS_PARTNER_16_9_1920_1080.png" ,World Feed
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://in-mc-flive.fancode.com/mumbai/140212_english_hls_341b6aef4a2950_1ta-di_h264/index.m3u8
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140299_CASACARDS_PARTNER_16_9_1920_1080.png" ,Center Court
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
 https://in-mc-plive.fancode.com/mumbai/140299_english_hls_add56807e482715_1ta-di_h264/index.m3u8
@@ -38,6 +32,9 @@ https://in-mc-flive.fancode.com/mumbai/140289_english_hls_dfd9e8fb3e20043_1ta-di
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140759_CASACARDS_PARTNER_16_9_1920_1080.png" ,Quadra Guga Kuerten
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
 https://in-mc-flive.fancode.com/mumbai/140759_english_hls_eff853c1bd22575_1ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140069_CASACARDS_PARTNER_16_9_1920_1080.png" ,World Feed   Day 2
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+https://in-mc-flive.fancode.com/mumbai/140069_english_hls_eb81ef56b242945_1ta-di_h264/index.m3u8
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014972/1770358159193999_BLIGA_26_MD23_Mainz-vs-Hamburger-SV_landscape_thumb.jpg" ,Mainz vs Hamburger SV - MD 23 - 21 Feb 2026 [ENG]
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771663436~acl=/*~id=68426265460956613623496724154445~hmac=9591d19f76eff616dd16929615a4c18909588ffad33b722b10af8f2cd43e7171
+https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771664645~acl=/*~id=31959919660046155279513429206698~hmac=d82959afc94d579925d6a6d30685ea214c5df0a20c45298f50ba4f616c526864
