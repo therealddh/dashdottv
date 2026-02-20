@@ -1,22 +1,22 @@
 #EXTM3U
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140659_CASACARDS_PARTNER_16_9_1920_1080.png" ,Maties Cricket Club Vs Paarl Cc
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://in-mc-flive.fancode.com/mumbai/140659_english_hls_d2af7d6af463674_1ta-di_h264/index.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140211_CASACARDS_PARTNER_16_9_1920_1080.png" ,World Feed
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://in-mc-flive.fancode.com/mumbai/140211_english_hls_e1ffbe35933090_1ta-di_h264/index.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140755_CASACARDS_PARTNER_16_9_1920_1080.png" ,Center Court
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://in-mc-flive.fancode.com/mumbai/140755_english_hls_66f4c33efc95962_1ta-di_h264/index.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140566_CASACARDS_PARTNER_16_9_1920_1080.png" ,Main Feed   Day 1
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://in-mc-flive.fancode.com/mumbai/140566_english_hls_810880327e13667_1ta-di_h264/index.m3u8?hdnea=exp=1771520586~acl=/mumbai/140566_english_hls_810880327e13667_1ta-di_h264/*~id=5c1a2d7b8f02d931_93d13351-2d9e-49~data=5c1a2d7b8f02d931_free_420~hmac=970bdfdb208cd22a0fb2b414ade868475804dee0a3377f41ebb1610b00e7e6f2&deviceId=5c1a2d7b8f02d931&advertiserId=7e42d87b-45cd-4cf6-b0ae-1fae68d9430&ft_type=c1&cust_params=app_version%3D6.15.0%26app_platform%3Dsportsguruand%26state%3D%26city%3DAmsterdam%26userId%3D%26match_id%3D140566%26match_format%3DStroke_Play%26tour_id%3D5926%26tour_name%3DThe_Genesis_Invitational_2026%26sport%3Dgolf%26authorizationType%3DPAID&city=Amsterdam
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140298_CASACARDS_PARTNER_16_9_1920_1080.png" ,Match 4
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://in-mc-flive.fancode.com/mumbai/140298_english_hls_2acd725e8676575_1ta-di_h264/index.m3u8?hdnea=exp=1771520594~acl=/mumbai/140298_english_hls_2acd725e8676575_1ta-di_h264/*~id=5c1a2d7b8f02d931_9fd90e28-6eb0-4b~data=5c1a2d7b8f02d931_free_420~hmac=aba28a1b7edd199cd6a1928b98db14558ecc51249508006a9e033bbaee5c9ac2&deviceId=5c1a2d7b8f02d931&advertiserId=7e42d87b-45cd-4cf6-b0ae-1fae68d9430&ft_type=c1&cust_params=app_version%3D6.15.0%26app_platform%3Dsportsguruand%26state%3D%26city%3DAmsterdam%26userId%3D%26match_id%3D140298%26match_format%3DSingles%26tour_id%3D5945%26tour_name%3DATP_250_-_Delray_Beach_Open_2026%26sport%3Dlawn-tennis%26authorizationType%3DPAID&city=Amsterdam
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140568_CASACARDS_PARTNER_16_9_1920_1080.png" ,Featured Groups   Day 1
+https://in-mc-flive.fancode.com/mumbai/140298_english_hls_2acd725e8676575_1ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140288_CASACARDS_PARTNER_16_9_1920_1080.png" ,World Feed
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://in-mc-flive.fancode.com/mumbai/140568_english_hls_2b27813a5079952_1ta-di_h264/index.m3u8?hdnea=exp=1771520604~acl=/mumbai/140568_english_hls_2b27813a5079952_1ta-di_h264/*~id=5c1a2d7b8f02d931_a7d738ed-00ca-44~data=5c1a2d7b8f02d931_free_420~hmac=29a63e1e33ef651eb2b73821bba80146fc8c9ccc95502dbc6a3326d49e16ea0d&deviceId=5c1a2d7b8f02d931&advertiserId=7e42d87b-45cd-4cf6-b0ae-1fae68d9430&ft_type=c1&cust_params=app_version%3D6.15.0%26app_platform%3Dsportsguruand%26state%3D%26city%3DAmsterdam%26userId%3D%26match_id%3D140568%26match_format%3DStroke_Play%26tour_id%3D5926%26tour_name%3DThe_Genesis_Invitational_2026%26sport%3Dgolf%26authorizationType%3DPAID&city=Amsterdam
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140567_CASACARDS_PARTNER_16_9_1920_1080.png" ,Marquee Feed   Day 1
+https://in-mc-flive.fancode.com/mumbai/140288_english_hls_8324c2194710697_1ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140754_CASACARDS_PARTNER_16_9_1920_1080.png" ,Quadra 1
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://in-mc-flive.fancode.com/mumbai/140567_english_hls_28fc17fc2827502_1ta-di_h264/index.m3u8?hdnea=exp=1771520613~acl=/mumbai/140567_english_hls_28fc17fc2827502_1ta-di_h264/*~id=5c1a2d7b8f02d931_cc4b1e57-d2de-4b~data=5c1a2d7b8f02d931_free_420~hmac=b7d5533909792c82f0cdfcb52f6ce56dc84d147d928ea71be6c4acfc9a3a1539&deviceId=5c1a2d7b8f02d931&advertiserId=7e42d87b-45cd-4cf6-b0ae-1fae68d9430&ft_type=c1&cust_params=app_version%3D6.15.0%26app_platform%3Dsportsguruand%26state%3D%26city%3DAmsterdam%26userId%3D%26match_id%3D140567%26match_format%3DStroke_Play%26tour_id%3D5926%26tour_name%3DThe_Genesis_Invitational_2026%26sport%3Dgolf%26authorizationType%3DPAID&city=Amsterdam
+https://in-mc-flive.fancode.com/mumbai/140754_english_hls_f319aa71051989_1ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015421/1771493214000608_ACRS_womens26_semi_final_INDvsSL_landcape_thumb.jpg" ,India A Women vs Sri Lanka A Women - Semi-Final - 20 Feb 2026 [ENG]
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771601647~acl=/*~id=24963279625275903971055840158644~hmac=83b6f9c4b460a5ffb29d486e72c9622a8876d54ccbd4484c3e16cee7330a7230
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015421/1771493214000608_ACRS_womens26_semi_final_INDvsSL_landcape_thumb.jpg" ,India A Women vs Sri Lanka A Women - Semi-Final - 20 Feb 2026 [HIN]
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771601647~acl=/*~id=24963279625275903971055840158644~hmac=83b6f9c4b460a5ffb29d486e72c9622a8876d54ccbd4484c3e16cee7330a7230
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015421/1771493214000608_ACRS_womens26_semi_final_INDvsSL_landcape_thumb.jpg" ,India A Women vs Sri Lanka A Women - Semi-Final - 20 Feb 2026 [TAM]
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771601647~acl=/*~id=24963279625275903971055840158644~hmac=83b6f9c4b460a5ffb29d486e72c9622a8876d54ccbd4484c3e16cee7330a7230
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015421/1771493214000608_ACRS_womens26_semi_final_INDvsSL_landcape_thumb.jpg" ,India A Women vs Sri Lanka A Women - Semi-Final - 20 Feb 2026 [TEL]
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771601647~acl=/*~id=24963279625275903971055840158644~hmac=83b6f9c4b460a5ffb29d486e72c9622a8876d54ccbd4484c3e16cee7330a7230
