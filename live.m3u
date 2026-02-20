@@ -1,22 +1,13 @@
 #EXTM3U
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140298_CASACARDS_PARTNER_16_9_1920_1080.png" ,Match 4
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://in-mc-flive.fancode.com/mumbai/140298_english_hls_2acd725e8676575_1ta-di_h264/index.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140288_CASACARDS_PARTNER_16_9_1920_1080.png" ,World Feed
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://in-mc-flive.fancode.com/mumbai/140288_english_hls_8324c2194710697_1ta-di_h264/index.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140754_CASACARDS_PARTNER_16_9_1920_1080.png" ,Quadra 1
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://in-mc-flive.fancode.com/mumbai/140754_english_hls_f319aa71051989_1ta-di_h264/index.m3u8
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015421/1771493214000608_ACRS_womens26_semi_final_INDvsSL_landcape_thumb.jpg" ,India A Women vs Sri Lanka A Women - Semi-Final - 20 Feb 2026 [ENG]
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771601647~acl=/*~id=24963279625275903971055840158644~hmac=83b6f9c4b460a5ffb29d486e72c9622a8876d54ccbd4484c3e16cee7330a7230
+https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771607105~acl=/*~id=01096287219487865269870903465676~hmac=4092fc95b6a8c8325e2e79d5ac4b1a67df9ee40a4c18120889fe4edd6fabdb31
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015421/1771493214000608_ACRS_womens26_semi_final_INDvsSL_landcape_thumb.jpg" ,India A Women vs Sri Lanka A Women - Semi-Final - 20 Feb 2026 [HIN]
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771601647~acl=/*~id=24963279625275903971055840158644~hmac=83b6f9c4b460a5ffb29d486e72c9622a8876d54ccbd4484c3e16cee7330a7230
+https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771607105~acl=/*~id=01096287219487865269870903465676~hmac=4092fc95b6a8c8325e2e79d5ac4b1a67df9ee40a4c18120889fe4edd6fabdb31
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015421/1771493214000608_ACRS_womens26_semi_final_INDvsSL_landcape_thumb.jpg" ,India A Women vs Sri Lanka A Women - Semi-Final - 20 Feb 2026 [TAM]
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771601647~acl=/*~id=24963279625275903971055840158644~hmac=83b6f9c4b460a5ffb29d486e72c9622a8876d54ccbd4484c3e16cee7330a7230
+https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771607105~acl=/*~id=01096287219487865269870903465676~hmac=4092fc95b6a8c8325e2e79d5ac4b1a67df9ee40a4c18120889fe4edd6fabdb31
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015421/1771493214000608_ACRS_womens26_semi_final_INDvsSL_landcape_thumb.jpg" ,India A Women vs Sri Lanka A Women - Semi-Final - 20 Feb 2026 [TEL]
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771601647~acl=/*~id=24963279625275903971055840158644~hmac=83b6f9c4b460a5ffb29d486e72c9622a8876d54ccbd4484c3e16cee7330a7230
+https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771607105~acl=/*~id=01096287219487865269870903465676~hmac=4092fc95b6a8c8325e2e79d5ac4b1a67df9ee40a4c18120889fe4edd6fabdb31
