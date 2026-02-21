@@ -1,16 +1,10 @@
 #EXTM3U
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/133947_CASACARDS_PARTNER_16_9_1920_1080.png" ,Tasmania Vs New South Wales
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://in-mc-pdlive.fancode.com/linear/hls/pb/event/KaxUXH1iST-40L-2ePgQGw/stream/9fd75fb2-723f-4536-8901-3aced9193c34:TPE2/index.m3u8
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/133948_CASACARDS_PARTNER_16_9_1920_1080.png" ,Victoria Vs Western Australia
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
 https://in-mc-pdlive.fancode.com/linear/hls/pb/event/J5QuinfXSmiPfUf2O5q0PQ/stream/73e7f9f3-e2df-40b1-a914-b22d28700085:SIN/index.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140678_CASACARDS_PARTNER_16_9_1920_1080.png" ,Paarl East Cricket Club Vs Paarl Cc
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://in-mc-plive.fancode.com/mumbai/140678_english_hls_6141da286025496_1ta-di_h264/index.m3u8
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/139415_CASACARDS_PARTNER_16_9_1920_1080.png" ,Melbourne City Vs Melbourne Victory
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
 https://in-mc-flive.fancode.com/mumbai/139415_english_hls_164c09fef816235_1ta-di_h264/index.m3u8
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015364/1771401562482586_DP_World_Tour_Magical_Kenya_Open_Day3_landscape_thumb.jpg" ,Magical Kenya Open - Day 3 - 21 Feb 2026 [ENG]
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771708208~acl=/*~id=90565027098705139602701930195275~hmac=665f2520ccb12c1c8f5e8b15c7309857d98616a10a28b411c91a6b37bc912219
+https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771711841~acl=/*~id=39000372675647451967712105690745~hmac=7c61907128628b976bb5ec47de9d77716802499334cdf338bd11659ec5fa6518
