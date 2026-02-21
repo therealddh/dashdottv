@@ -1,4 +1,28 @@
 #EXTM3U
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140680_CASACARDS_PARTNER_16_9_1920_1080.png" ,Paarl East Cricket Club Vs Van Der Stel Cricket Club
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+https://in-mc-flive.fancode.com/mumbai/140680_english_hls_5fcde3b05690545_1ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140574_CASACARDS_PARTNER_16_9_1920_1080.png" ,Featured Groups   Day 3
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+https://in-mc-flive.fancode.com/mumbai/140574_english_hls_e219ac7cc959228_1ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140572_CASACARDS_PARTNER_16_9_1920_1080.png" ,Main Feed   Day 3
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+https://in-mc-plive.fancode.com/mumbai/140572_english_hls_6001cdec6e66986_1ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140573_CASACARDS_PARTNER_16_9_1920_1080.png" ,Marquee Group   Day 3
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+https://in-mc-plive.fancode.com/mumbai/140573_english_hls_0cf4a170424094_1ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140761_CASACARDS_PARTNER_16_9_1920_1080.png" ,Quadra Guga Kuerten
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+https://in-mc-flive.fancode.com/mumbai/140761_english_hls_999778d0cb24394_1ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140070_CASACARDS_PARTNER_16_9_1920_1080.png" ,World Feed   Day 3
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+https://in-mc-flive.fancode.com/mumbai/140070_english_hls_2117e08aee82740_1ta-di_h264/index.m3u8?hdnea=exp=1771696388~acl=/mumbai/140070_english_hls_2117e08aee82740_1ta-di_h264/*~id=5c1a2d7b8f02d931_5327593f-ad67-47~data=5c1a2d7b8f02d931_free_420~hmac=9b38db69ed802c7e4d024a838789a0e7ea3e7f0f4ca012e464c67d26cd3709c4&deviceId=5c1a2d7b8f02d931&advertiserId=7e42d87b-45cd-4cf6-b0ae-1fae68d9430&ft_type=c1&cust_params=app_version%3D6.15.0%26app_platform%3Dsportsguruand%26state%3D%26city%3DAmsterdam%26userId%3D%26match_id%3D140070%26match_format%3DStroke_Play%26tour_id%3D5926%26tour_name%3DThe_Genesis_Invitational_2026%26sport%3Dgolf%26authorizationType%3DPAID&city=Amsterdam
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140213_CASACARDS_PARTNER_16_9_1920_1080.png" ,World Feed
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+https://in-mc-flive.fancode.com/mumbai/140213_english_hls_2d30ef323549757_1ta-di_h264/index.m3u8?hdnea=exp=1771696394~acl=/mumbai/140213_english_hls_2d30ef323549757_1ta-di_h264/*~id=5c1a2d7b8f02d931_7162f178-bf3a-4c~data=5c1a2d7b8f02d931_free_420~hmac=8de4310fa962182b09600894d35f54baf54c5b9eda74b5ddc80ca5626de22aa1&deviceId=5c1a2d7b8f02d931&advertiserId=7e42d87b-45cd-4cf6-b0ae-1fae68d9430&ft_type=c1&cust_params=app_version%3D6.15.0%26app_platform%3Dsportsguruand%26state%3D%26city%3DAmsterdam%26userId%3D%26match_id%3D140213%26match_format%3DSingles%26tour_id%3D5941%26tour_name%3DATP_500_-_Qatar_ExxonMobil_Open_2026%26sport%3Dlawn-tennis%26authorizationType%3DPAID&city=Amsterdam
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140758_CASACARDS_PARTNER_16_9_1920_1080.png" ,Center Court
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+https://in-mc-flive.fancode.com/mumbai/140758_english_hls_db7b42d9e81423_1ta-di_h264/index.m3u8?hdnea=exp=1771696398~acl=/mumbai/140758_english_hls_db7b42d9e81423_1ta-di_h264/*~id=5c1a2d7b8f02d931_cfae7871-5806-44~data=5c1a2d7b8f02d931_free_420~hmac=333906939214d355b703c69854419e2c0f32a8f078f9acac10f01f3fe435e3f6&deviceId=5c1a2d7b8f02d931&advertiserId=7e42d87b-45cd-4cf6-b0ae-1fae68d9430&ft_type=c1&cust_params=app_version%3D6.15.0%26app_platform%3Dsportsguruand%26state%3D%26city%3DAmsterdam%26userId%3D%26match_id%3D140758%26match_format%3DSingles%26tour_id%3D5941%26tour_name%3DATP_500_-_Qatar_ExxonMobil_Open_2026%26sport%3Dlawn-tennis%26authorizationType%3DPAID&city=Amsterdam
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014972/1770362315837999_BLIGA_26_MD23_RB-Leipzig-vs-Borussia-Dortmund_landscape_thumb.jpg" ,RB Leipzig vs Borussia Dortmund - MD 23 - 21 Feb 2026 [ENG]
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771737292~acl=/*~id=44329508154487951859862365583518~hmac=7be11c55788d5fcf4b2cc9ac2eeded88a65c7e6c7b266fcee78adf7a616d4757
+https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771740922~acl=/*~id=96750106231385021227066306004119~hmac=93a646a82063a2b68ad111076f138bf1ab31ba2923d42a48ba24213d5dd0cc8e
