@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/133948_CASACARDS_PARTNER_16_9_1920_1080.png" ,Victoria Vs Western Australia
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://in-mc-pdlive.fancode.com/linear/hls/pb/event/J5QuinfXSmiPfUf2O5q0PQ/stream/73e7f9f3-e2df-40b1-a914-b22d28700085:SIN/index.m3u8
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140679_CASACARDS_PARTNER_16_9_1920_1080.png" ,Van Der Stel Cricket Club Vs Vredenburg/saldanha Cc
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
 https://in-mc-plive.fancode.com/mumbai/140679_english_hls_64def5c24966429_1ta-di_h264/index.m3u8
@@ -20,3 +17,6 @@ https://in-mc-flive.fancode.com/mumbai/140439_bengali_hls_8bef81215065858_1ta-di
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140886_CASACARDS_PARTNER_16_9_1920_1080.png" ,East Bengal Fc Vs Sporting Club Delhi
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
 https://in-mc-flive.fancode.com/mumbai/140886_bengali_hls_70b2d9a09038078_1ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140123_CASACARDS_PARTNER_16_9_1920_1080.png" ,West Bromwich Albion F.c. Vs Coventry City Football Club
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+https://in-mc-plive.fancode.com/mumbai/140123_english_hls_622a10974211509_1ta-di_h264/index.m3u8
