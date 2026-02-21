@@ -19,19 +19,28 @@ https://in-mc-plive.fancode.com/mumbai/140124_english_hls_e5cf35b13920993_1ta-di
 https://in-mc-flive.fancode.com/mumbai/131078_english_hls_3486ed0d3063401_1ta-di_h264/index.m3u8
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140425_CASACARDS_PARTNER_16_9_1920_1080.png" ,Deportivo La Coruna Vs Eibar
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://in-mc-flive.fancode.com/mumbai/140425_english_hls_aee8c684b835426_1ta-di_h264/index.m3u8
+https://in-mc-plive.fancode.com/mumbai/140425_english_hls_aee8c684b835426_1ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140574_CASACARDS_PARTNER_16_9_1920_1080.png" ,Featured Groups   Day 3
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+https://in-mc-flive.fancode.com/mumbai/140574_english_hls_e219ac7cc959228_1ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140572_CASACARDS_PARTNER_16_9_1920_1080.png" ,Main Feed   Day 3
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+https://in-mc-plive.fancode.com/mumbai/140572_english_hls_6001cdec6e66986_1ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140573_CASACARDS_PARTNER_16_9_1920_1080.png" ,Marquee Group   Day 3
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+https://in-mc-plive.fancode.com/mumbai/140573_english_hls_0cf4a170424094_1ta-di_h264/index.m3u8
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014972/1770359048482999_BLIGA_26_MD23_Bayern-Munich-vs-Eintracht-Frankfurt_landscape_thumb.jpg" ,Bayern Munich vs Eintracht Frankfurt - MD 23 - 21 Feb 2026 [ENG]
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771730005~acl=/*~id=57537735781117778358494800837787~hmac=b98ddbdef760cf034d0e158d300c42781cf81c1af081a5061ab3a03de6901af9
+https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771731220~acl=/*~id=39269807422769443065328491768624~hmac=dd616084f1186eca5f5f34cbbee464a21dcd8c1106937ed60d3b1d85e6af3920
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006892/1755929846694147_Bliga26_Goal_Arena_landscape_thumb.jpg" ,Goal Arena - MD 23 - 21 Feb 2026 [ENG]
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771730005~acl=/*~id=57537735781117778358494800837787~hmac=b98ddbdef760cf034d0e158d300c42781cf81c1af081a5061ab3a03de6901af9
+https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771731220~acl=/*~id=39269807422769443065328491768624~hmac=dd616084f1186eca5f5f34cbbee464a21dcd8c1106937ed60d3b1d85e6af3920
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014972/1770358588893999_BLIGA_26_MD23_Union-Berlin-vs-Bayer-Leverkusen_landscape_thumb.jpg" ,Union Berlin vs Bayer Leverkusen - MD 23 - 21 Feb 2026 [ENG]
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771730005~acl=/*~id=57537735781117778358494800837787~hmac=b98ddbdef760cf034d0e158d300c42781cf81c1af081a5061ab3a03de6901af9
+https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771731220~acl=/*~id=39269807422769443065328491768624~hmac=dd616084f1186eca5f5f34cbbee464a21dcd8c1106937ed60d3b1d85e6af3920
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014972/1770361855584999_BLIGA_26_MD23_FC-Koln-vs-Hoffenheim_landscape_thumb.jpg" ,FC Koln vs Hoffenheim - MD 23 - 21 Feb 2026 [ENG]
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771730005~acl=/*~id=57537735781117778358494800837787~hmac=b98ddbdef760cf034d0e158d300c42781cf81c1af081a5061ab3a03de6901af9
+https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771731220~acl=/*~id=39269807422769443065328491768624~hmac=dd616084f1186eca5f5f34cbbee464a21dcd8c1106937ed60d3b1d85e6af3920
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014972/1770362117061999_BLIGA_26_MD23_VfL-Wolfsburg-vs-FC-Augsburg_landscape_thumb.jpg" ,VfL Wolfsburg vs FC Augsburg - MD 23 - 21 Feb 2026 [ENG]
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771730005~acl=/*~id=57537735781117778358494800837787~hmac=b98ddbdef760cf034d0e158d300c42781cf81c1af081a5061ab3a03de6901af9
+https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771731220~acl=/*~id=39269807422769443065328491768624~hmac=dd616084f1186eca5f5f34cbbee464a21dcd8c1106937ed60d3b1d85e6af3920
