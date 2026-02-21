@@ -1,22 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140680_CASACARDS_PARTNER_16_9_1920_1080.png" ,Paarl East Cricket Club Vs Van Der Stel Cricket Club
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014972/1770362315837999_BLIGA_26_MD23_RB-Leipzig-vs-Borussia-Dortmund_landscape_thumb.jpg" ,RB Leipzig vs Borussia Dortmund - MD 23 - 21 Feb 2026 [ENG]
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://in-mc-flive.fancode.com/mumbai/140680_english_hls_5fcde3b05690545_1ta-di_h264/index.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140124_CASACARDS_PARTNER_16_9_1920_1080.png" ,Southampton F.c. Vs Charlton Athletic F.c
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://in-mc-plive.fancode.com/mumbai/140124_english_hls_e5cf35b13920993_1ta-di_h264/index.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/131078_CASACARDS_PARTNER_16_9_1920_1080.png" ,Real Betis Vs Rayo Vallecano
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://in-mc-flive.fancode.com/mumbai/131078_english_hls_3486ed0d3063401_1ta-di_h264/index.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140425_CASACARDS_PARTNER_16_9_1920_1080.png" ,Deportivo La Coruna Vs Eibar
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://in-mc-plive.fancode.com/mumbai/140425_english_hls_aee8c684b835426_1ta-di_h264/index.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140574_CASACARDS_PARTNER_16_9_1920_1080.png" ,Featured Groups   Day 3
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://in-mc-flive.fancode.com/mumbai/140574_english_hls_e219ac7cc959228_1ta-di_h264/index.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140572_CASACARDS_PARTNER_16_9_1920_1080.png" ,Main Feed   Day 3
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://in-mc-plive.fancode.com/mumbai/140572_english_hls_6001cdec6e66986_1ta-di_h264/index.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140573_CASACARDS_PARTNER_16_9_1920_1080.png" ,Marquee Group   Day 3
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://in-mc-plive.fancode.com/mumbai/140573_english_hls_0cf4a170424094_1ta-di_h264/index.m3u8
+https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771737292~acl=/*~id=44329508154487951859862365583518~hmac=7be11c55788d5fcf4b2cc9ac2eeded88a65c7e6c7b266fcee78adf7a616d4757
