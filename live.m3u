@@ -1,16 +1,16 @@
 #EXTM3U
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/133947_CASACARDS_PARTNER_16_9_1920_1080.png" ,Tasmania Vs New South Wales
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://dai.google.com/linear/hls/event/6h1jE-CYQI-tNp7M_z3qzQ/master.m3u8
+https://in-mc-pdlive.fancode.com/linear/hls/pb/event/KaxUXH1iST-40L-2ePgQGw/stream/9fd75fb2-723f-4536-8901-3aced9193c34:TPE2/index.m3u8
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/133948_CASACARDS_PARTNER_16_9_1920_1080.png" ,Victoria Vs Western Australia
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://dai.google.com/linear/hls/event/OylFDK9YT9Op_7SB31SzAg/master.m3u8
+https://in-mc-pdlive.fancode.com/linear/hls/pb/event/J5QuinfXSmiPfUf2O5q0PQ/stream/73e7f9f3-e2df-40b1-a914-b22d28700085:SIN/index.m3u8
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140678_CASACARDS_PARTNER_16_9_1920_1080.png" ,Paarl East Cricket Club Vs Paarl Cc
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
 https://in-mc-plive.fancode.com/mumbai/140678_english_hls_6141da286025496_1ta-di_h264/index.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/139414_CASACARDS_PARTNER_16_9_1920_1080.png" ,Sydney Fc Vs Brisbane Roar
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/139415_CASACARDS_PARTNER_16_9_1920_1080.png" ,Melbourne City Vs Melbourne Victory
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://in-mc-plive.fancode.com/mumbai/139414_english_hls_f1fc11c95a98372_1ta-di_h264/index.m3u8
+https://in-mc-flive.fancode.com/mumbai/139415_english_hls_164c09fef816235_1ta-di_h264/index.m3u8
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015364/1771401562482586_DP_World_Tour_Magical_Kenya_Open_Day3_landscape_thumb.jpg" ,Magical Kenya Open - Day 3 - 21 Feb 2026 [ENG]
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771704576~acl=/*~id=13244985604795500407277187963155~hmac=e29b5fbd5c1ecf9ff10311800630b5e236b9334e11066220bfe0b072f3d71b06
+https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771706392~acl=/*~id=90578082066008054163115455733617~hmac=715f121fea47947a26c2a535862e3e0705c50bcbfc571145819a999572517daa
