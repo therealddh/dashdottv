@@ -5,9 +5,27 @@ https://in-mc-flive.fancode.com/mumbai/140617_english_hls_2b20126b8847793_1ta-di
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140616_CASACARDS_PARTNER_16_9_1920_1080.png" ,United Services Recreation Club Vs Kowloon Cricket Club
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
 https://in-mc-flive.fancode.com/mumbai/140616_english_hls_49dc98e7af12694_1ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140681_CASACARDS_PARTNER_16_9_1920_1080.png" ,Vredenburg/saldanha Cc Vs Maties Cricket Club
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+https://in-mc-flive.fancode.com/mumbai/140681_english_hls_398c45f75b91419_1ta-di_h264/index.m3u8
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/139416_CASACARDS_PARTNER_16_9_1920_1080.png" ,Central Coast Mariners Vs Western Sydney Wanderers
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
 https://in-mc-flive.fancode.com/mumbai/139416_english_hls_f2e88d4f8d88432_1ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/139417_CASACARDS_PARTNER_16_9_1920_1080.png" ,Newcastle Jets Vs Macarthur
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+https://in-mc-flive.fancode.com/mumbai/139417_english_hls_5b1f17c46e61015_1ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015471/1771612443971836_AsiaCup_RisingStar_Womens2026_final_india_A_vs_ban_A_20feb_eng_landscape_thumb.jpg" ,India A Women vs Bangladesh A Women - Final - 22 Feb 2026 [ENG]
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771786949~acl=/*~id=25680158968644833773616962758777~hmac=94091ad543bb734f7c28ba7a1bb19dfd30f4101821703ad5f625a49ae53488fb
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015471/1771612443971836_AsiaCup_RisingStar_Womens2026_final_india_A_vs_ban_A_20feb_eng_landscape_thumb.jpg" ,India A Women vs Bangladesh A Women - Final - 22 Feb 2026 [HIN]
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771786949~acl=/*~id=25680158968644833773616962758777~hmac=94091ad543bb734f7c28ba7a1bb19dfd30f4101821703ad5f625a49ae53488fb
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015471/1771612443971836_AsiaCup_RisingStar_Womens2026_final_india_A_vs_ban_A_20feb_eng_landscape_thumb.jpg" ,India A Women vs Bangladesh A Women - Final - 22 Feb 2026 [TAM]
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771786949~acl=/*~id=25680158968644833773616962758777~hmac=94091ad543bb734f7c28ba7a1bb19dfd30f4101821703ad5f625a49ae53488fb
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015471/1771612443971836_AsiaCup_RisingStar_Womens2026_final_india_A_vs_ban_A_20feb_eng_landscape_thumb.jpg" ,India A Women vs Bangladesh A Women - Final - 22 Feb 2026 [TEL]
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12-criclive/std_lrh-800300010.m3u8?hdnea=exp=1771786949~acl=/*~id=25680158968644833773616962758777~hmac=94091ad543bb734f7c28ba7a1bb19dfd30f4101821703ad5f625a49ae53488fb
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015364/1771401550988586_DP_World_Tour_Magical_Kenya_Open_Day4_landscape_thumb.jpg" ,Magical Kenya Open - Day 4 - 22 Feb 2026 [ENG]
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771783313~acl=/*~id=35574888283147014334910433439560~hmac=916e8b32d7902ac3915454eb02ec9323dfb5aabdaad7a2d48878f223a834c178
+https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771786949~acl=/*~id=25680158968644833773616962758777~hmac=94091ad543bb734f7c28ba7a1bb19dfd30f4101821703ad5f625a49ae53488fb
