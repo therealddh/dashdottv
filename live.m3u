@@ -2,12 +2,12 @@
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140139_CASACARDS_PARTNER_16_9_1920_1080.png" ,Sri Lanka Women Vs West Indies Women
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
 https://in-mc-flive.fancode.com/mumbai/140139_english_hls_ea776e6d4938001_1ta-di_h264/index.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140683_CASACARDS_PARTNER_16_9_1920_1080.png" ,Maties Cricket Club Vs Paarl East Cricket Club
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/131072_CASACARDS_PARTNER_16_9_1920_1080.png" ,Villarreal Cf Vs Valencia Cf
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://in-mc-flive.fancode.com/mumbai/140683_english_hls_61d30e7f9933488_1ta-di_h264/index.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/131079_CASACARDS_PARTNER_16_9_1920_1080.png" ,Rc Celta Vs Rcd Mallorca
+https://in-mc-flive.fancode.com/mumbai/131072_english_hls_4406e5224f36759_1ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140426_CASACARDS_PARTNER_16_9_1920_1080.png" ,Málaga Vs Albacete
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://in-mc-flive.fancode.com/mumbai/131079_english_hls_fba55e4f0513954_1ta-di_h264/index.m3u8
+https://in-mc-flive.fancode.com/mumbai/140426_english_hls_4dd6158bfe35817_1ta-di_h264/index.m3u8
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140291_CASACARDS_PARTNER_16_9_1920_1080.png" ,World Feed
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
 https://in-mc-flive.fancode.com/mumbai/140291_english_hls_e3a36aeb2a1248_1ta-di_h264/index.m3u8
@@ -28,4 +28,4 @@ https://in-mc-flive.fancode.com/mumbai/140576_english_hls_037beb412a84381_1ta-di
 https://in-mc-flive.fancode.com/mumbai/140071_english_hls_6d517055d860962_1ta-di_h264/index.m3u8
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014972/1770366458050999_BLIGA_26_MD23_Heidenheim-vs-VfB-Stuttgart_landscape_thumb.jpg" ,Heidenheim vs VfB Stuttgart - MD 23 - 22 Feb 2026 [ENG]
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771829458~acl=/*~id=63629978131837660824325756764030~hmac=7c9eaa2fd28be033ce94bfdeb5ec09df9f8d5884dedf8e1b08bd0bf0642d9d77
+https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771834300~acl=/*~id=56448823094556789266803858705936~hmac=7dc0f45d6783fcb6c0f510ddb432c470303c273482f1134c1ee4f8d047be32c1
