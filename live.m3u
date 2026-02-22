@@ -26,9 +26,15 @@ https://in-mc-flive.fancode.com/mumbai/140904_english_hls_8b1b76b79122813_1ta-di
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140575_CASACARDS_PARTNER_16_9_1920_1080.png" ,Main Feed   Day 4
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
 https://in-mc-flive.fancode.com/mumbai/140575_english_hls_e22cb13b7b73079_1ta-di_h264/index.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/131070_CASACARDS_PARTNER_16_9_1920_1080.png" ,Getafe Cf Vs Sevilla Fc
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140577_CASACARDS_PARTNER_16_9_1920_1080.png" ,Featured Groups   Day 4
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://in-mc-flive.fancode.com/mumbai/131070_english_hls_0a2a3cfc7877198_1ta-di_h264/index.m3u8
+https://in-mc-flive.fancode.com/mumbai/140577_english_hls_9caaab04be34866_1ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140576_CASACARDS_PARTNER_16_9_1920_1080.png" ,Marquee Group   Day 4
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+https://in-mc-flive.fancode.com/mumbai/140576_english_hls_037beb412a84381_1ta-di_h264/index.m3u8
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014972/1770362901279999_BLIGA_26_MD23_SC-Freiburg-vs-Borussia-Mgladbach_landscape_thumb.jpg" ,SC Freiburg vs Borussia M'gladbach - MD 23 - 22 Feb 2026 [ENG]
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771816116~acl=/*~id=53260011588995248693435677202790~hmac=e1f7e0d7211c6e4a42eb69b03a81d62e1c9754d034e8a889c2cac07b39382565
+https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771819738~acl=/*~id=04155284088168902848879846037482~hmac=09c152e0e05807dcfe8d18e4253cb555025263c6c532df8c0307bb1189dfa246
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014972/1770363079049999_BLIGA_26_MD23_St-Pauli-vs-Werder-Bremen_landscape_thumb.jpg" ,St. Pauli vs Werder Bremen - MD 23 - 22 Feb 2026 [ENG]
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771819738~acl=/*~id=04155284088168902848879846037482~hmac=09c152e0e05807dcfe8d18e4253cb555025263c6c532df8c0307bb1189dfa246
