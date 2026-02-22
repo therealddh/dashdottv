@@ -4,7 +4,7 @@
 https://in-mc-flive.fancode.com/mumbai/140139_english_hls_ea776e6d4938001_1ta-di_h264/index.m3u8
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140683_CASACARDS_PARTNER_16_9_1920_1080.png" ,Maties Cricket Club Vs Paarl East Cricket Club
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://in-mc-plive.fancode.com/mumbai/140683_english_hls_61d30e7f9933488_1ta-di_h264/index.m3u8
+https://in-mc-flive.fancode.com/mumbai/140683_english_hls_61d30e7f9933488_1ta-di_h264/index.m3u8
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/131079_CASACARDS_PARTNER_16_9_1920_1080.png" ,Rc Celta Vs Rcd Mallorca
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
 https://in-mc-flive.fancode.com/mumbai/131079_english_hls_fba55e4f0513954_1ta-di_h264/index.m3u8
@@ -28,7 +28,4 @@ https://in-mc-flive.fancode.com/mumbai/140576_english_hls_037beb412a84381_1ta-di
 https://in-mc-flive.fancode.com/mumbai/140071_english_hls_6d517055d860962_1ta-di_h264/index.m3u8
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014972/1770366458050999_BLIGA_26_MD23_Heidenheim-vs-VfB-Stuttgart_landscape_thumb.jpg" ,Heidenheim vs VfB Stuttgart - MD 23 - 22 Feb 2026 [ENG]
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771827033~acl=/*~id=59584244444265258172759430425347~hmac=30f5bda6df85516ec1c4daf6d459c0bb82d0b2e1ffdbecc611e3f1ddb91493cb
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014972/1770363079049999_BLIGA_26_MD23_St-Pauli-vs-Werder-Bremen_landscape_thumb.jpg" ,St. Pauli vs Werder Bremen - MD 23 - 22 Feb 2026 [ENG]
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771827033~acl=/*~id=59584244444265258172759430425347~hmac=30f5bda6df85516ec1c4daf6d459c0bb82d0b2e1ffdbecc611e3f1ddb91493cb
+https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771829458~acl=/*~id=63629978131837660824325756764030~hmac=7c9eaa2fd28be033ce94bfdeb5ec09df9f8d5884dedf8e1b08bd0bf0642d9d77
