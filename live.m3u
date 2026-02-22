@@ -1,7 +1,13 @@
 #EXTM3U
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/133982_CASACARDS_PARTNER_16_9_1920_1080.png" ,Act Meteors Vs South Australian Scorpions
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://in-mc-flive.fancode.com/mumbai/133982_english_hls_0a41ee57bc36345_1ta-di_h264/index.m3u8
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140617_CASACARDS_PARTNER_16_9_1920_1080.png" ,Diasqua Little Sai Wan Cricket Club Vs Hong Kong Cricket Club
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
 https://in-mc-flive.fancode.com/mumbai/140617_english_hls_2b20126b8847793_1ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140616_CASACARDS_PARTNER_16_9_1920_1080.png" ,United Services Recreation Club Vs Kowloon Cricket Club
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+https://in-mc-flive.fancode.com/mumbai/140616_english_hls_49dc98e7af12694_1ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/139416_CASACARDS_PARTNER_16_9_1920_1080.png" ,Central Coast Mariners Vs Western Sydney Wanderers
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+https://in-mc-flive.fancode.com/mumbai/139416_english_hls_f2e88d4f8d88432_1ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015364/1771401550988586_DP_World_Tour_Magical_Kenya_Open_Day4_landscape_thumb.jpg" ,Magical Kenya Open - Day 4 - 22 Feb 2026 [ENG]
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771783313~acl=/*~id=35574888283147014334910433439560~hmac=916e8b32d7902ac3915454eb02ec9323dfb5aabdaad7a2d48878f223a834c178
