@@ -1,13 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/131074_CASACARDS_PARTNER_16_9_1920_1080.png" ,Deportivo Alaves Vs Girona Fc
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://in-mc-flive.fancode.com/mumbai/131074_english_hls_467483908f84437_1ta-di_h264/index.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140427_CASACARDS_PARTNER_16_9_1920_1080.png" ,Cádiz Vs Real Sociedad B
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://in-mc-flive.fancode.com/mumbai/140427_english_hls_4d40ff138959596_1ta-di_h264/index.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140019_CASACARDS_PARTNER_16_9_1920_1080.png" ,Walsall Vs Mk Dons
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://in-mc-flive.fancode.com/mumbai/140019_english_hls_99ac80687690410_1ta-di_h264/index.m3u8
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140357_CASACARDS_PARTNER_16_9_1920_1080.png" ,Court Jaime Fillol
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
 https://in-mc-flive.fancode.com/mumbai/140357_english_hls_a30faa2f5741221_1ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/139171_CASACARDS_PARTNER_16_9_1920_1080.png" ,Atlanta Vs Boston
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+https://dai.google.com/linear/hls/event/vCuYOYycQBSbL4-2DN84Jw/master.m3u8
