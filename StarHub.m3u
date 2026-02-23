@@ -265,35 +265,35 @@ https://ucdn.starhubgo.com/bpk-tv/SPOTV2NEW/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9e9a4d58a8bb48019ec1589df652dd2b:8b1ba8fdf2c1a141322cd18564973bd4
-#EXTINF:-1 tvg-id="211" tvg-chno="211" ch-number="211" tvg-logo="https://poster.starhubgo.com/Linear_channels2/211_1920x1080_HTV.png",BeIN Sports 2 SG
+#EXTINF:-1 tvg-id="211" tvg-chno="211" ch-number="211" tvg-logo="https://poster.starhubgo.com/Linear_channels2/211_1920x1080_HTV.png",BEIN SPORTS 2 SG
 https://ucdn.starhubgo.com/bpk-tv/beINSportsHD2/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4c4b013320654277a19df8f14b80b6c5:4751e8a9d798c2a1e1c581f179771f48
-#EXTINF:-1 tvg-id="213" tvg-chno="213" ch-number="213" tvg-logo="https://poster.starhubgo.com/Linear_channels2/213_1920x1080_HTV.png",BeIN Sports 1 SG
+#EXTINF:-1 tvg-id="213" tvg-chno="213" ch-number="213" tvg-logo="https://poster.starhubgo.com/Linear_channels2/213_1920x1080_HTV.png",BEIN SPORTS 1 SG
 https://ucdn.starhubgo.com/bpk-tv/BeINSportsHD/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f8b328f4b7bd4ac5966f8a7d434536b7:9354e572eaedf7b9481cbe30776ae781
-#EXTINF:-1 tvg-id="214" tvg-chno="214" ch-number="214" tvg-logo="https://poster.starhubgo.com/Linear_channels2/214_1920x1080_HTV.png",BeIN Sports 3 SG
+#EXTINF:-1 tvg-id="214" tvg-chno="214" ch-number="214" tvg-logo="https://poster.starhubgo.com/Linear_channels2/214_1920x1080_HTV.png",BEIN SPORTS 3 SG
 https://ucdn.starhubgo.com/bpk-tv/beINSports3NEW/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b6addeb1135a4279b917e35c26d5b0f5:7f5599f34b2a49e23f98045a5a0f512a
-#EXTINF:-1 tvg-id="215" tvg-chno="215" ch-number="215" tvg-logo="https://poster.starhubgo.com/Linear_channels2/215_1920x1080_HTV.png",BeIN Sports 4 SG
+#EXTINF:-1 tvg-id="215" tvg-chno="215" ch-number="215" tvg-logo="https://poster.starhubgo.com/Linear_channels2/215_1920x1080_HTV.png",BEIN SPORTS 4 SG
 https://ucdn.starhubgo.com/bpk-tv/beINSports4/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7f8252e59f9b439cb89cb8628ced2443:4faba8fd3d200f9825dc29ca98d97e33
-#EXTINF:-1 tvg-id="216" tvg-chno="216" ch-number="216" tvg-logo="https://poster.starhubgo.com/Linear_channels2/216_1920x1080_HTV.png",BeIN Sports 5 SG
+#EXTINF:-1 tvg-id="216" tvg-chno="216" ch-number="216" tvg-logo="https://poster.starhubgo.com/Linear_channels2/216_1920x1080_HTV.png",BEIN SPORTS 5 SG
 https://ucdn.starhubgo.com/bpk-tv/beINSports5/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
