@@ -126,5 +126,5 @@ jobs:
             exit 0
           fi
 
-          git commit -m "✅ Auto-update M3U: $(date -u '+%Y-%m-%d %H:%M')"
+          git commit -m "✅ JIOTV Auto-update M3U: $(date -u '+%Y-%m-%d %H:%M')"
           git push origin main
