@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140663_CASACARDS_PARTNER_16_9_1920_1080.png" ,Pakistan Shaheens Vs England Lions
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+https://in-mc-plive.fancode.com/mumbai/140663_english_hls_954543269d89050_1ta-di_h264/index.m3u8
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140444_CASACARDS_PARTNER_16_9_1920_1080.png" ,Odisha Fc Vs Inter Kashi Fc
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
 https://in-mc-flive.fancode.com/mumbai/140444_english_hls_dba160238263461_1ta-di_h264/index.m3u8
@@ -23,6 +26,9 @@ https://in-mc-flive.fancode.com/mumbai/140894_english_hls_b9a119fb0153672_1ta-di
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140893_CASACARDS_PARTNER_16_9_1920_1080.png" ,Centre Court
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
 https://in-mc-flive.fancode.com/mumbai/140893_english_hls_416b1a365b26522_1ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140358_CASACARDS_PARTNER_16_9_1920_1080.png" ,Court Jaime Fillol
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+https://in-mc-flive.fancode.com/mumbai/140358_english_hls_a2c84695d834528_1ta-di_h264/index.m3u8
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015485/1771688026410794_UEFAYouthLeague26_Roundof16_Frankfurt_vs_Sporting_CP_21feb_landscape_thumb.jpg" ,Eintracht Frankfurt vs Sporting CP - 24 Feb 2026 [ENG]
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771988605~acl=/*~id=51240803698196697166399582184673~hmac=91f59da696f5abfe0eddb56f96d98ae69ef10e6a6065129d1983f7958d53d2fe
+https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771992230~acl=/*~id=43006048616032511921960886029318~hmac=2e93dda9138eadfad0b062a8c0d48e401d8bc70b6e719616fa308b79ef6314d1
