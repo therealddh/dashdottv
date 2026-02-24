@@ -38,8 +38,6 @@ jobs:
             --retry-delay 5 \
             -H "User-Agent: plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6" \
             -H "Accept: application/json,text/plain,*/*" \
-            -H "Origin: https://github.com" \
-            -H "Referer: https://github.com/" \
             "$MAIN_JSON_URL") || { echo "❌ Failed to fetch main JSON"; exit 1; }
 
           echo "📥 Fetching cookie JSON..."
@@ -51,7 +49,6 @@ jobs:
             --retry-delay 5 \
             -H "User-Agent: Mozilla/5.0" \
             -H "Accept: application/json" \
-            -H "Referer: https://playify.pages.dev/" \
             "$MAIN_JSON_URL") || { echo "❌ Failed to fetch main JSON"; exit 1; }
 
           # Validate JSON
