@@ -28,122 +28,53 @@ jobs:
         run: sudo apt-get update && sudo apt-get install -y jq
 
       - name: Generate cplaytv.m3u
+        shell: bash
         run: |
-          echo "📥 Fetching main JSON..."
+          set -e
+
           MAIN_JSON_URL="${{ secrets.MAIN_JSON_URL }}"
           COOKIE_JSON_URL="${{ secrets.COOKIE_JSON_URL }}"
 
-          if [ -z "$MAIN_JSON_URL" ]; then
-            echo "❌ MAIN_JSON_URL secret not set"
-            exit 1
-          fi
-
-          if [ -z "$COOKIE_JSON_URL" ]; then
-            echo "❌ COOKIE_JSON_URL secret not set"
-            exit 1
-          fi
-
-          MAIN_JSON=$(curl -sS --fail \
-            --connect-timeout 15 \
-            --max-time 30 \
-            --retry 3 \
-            --retry-delay 5 \
-            -H "User-Agent: plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6" \
-            -H "Accept: application/json,text/plain,*/*" \
-            "$MAIN_JSON_URL") || { echo "❌ Failed to fetch main JSON"; exit 1; }
+          echo "📥 Fetching main JSON..."
+          curl -sS --fail "$MAIN_JSON_URL" -o main.json
 
           echo "📥 Fetching cookie JSON..."
-          COOKIE_JSON=$(curl -sS --fail \
-            --connect-timeout 15 \
-            --max-time 30 \
-            --retry 3 \
-            --retry-delay 5 \
-            -H "User-Agent: Mozilla/5.0" \
-            -H "Accept: application/json" \
-            "$COOKIE_JSON_URL") || { echo "❌ Failed to fetch cookie JSON"; exit 1; }
+          curl -sS --fail "$COOKIE_JSON_URL" -o cookie.json
 
-          echo "$MAIN_JSON" | jq -e . > /dev/null || { echo "❌ Invalid main JSON"; exit 1; }
-          echo "$COOKIE_JSON" | jq -e . > /dev/null || { echo "❌ Invalid cookie JSON"; exit 1; }
+          jq -e . main.json > /dev/null
+          jq -e . cookie.json > /dev/null
 
           echo "#EXTM3U" > cplaytv.m3u
 
-          GLOBAL_COOKIE=$(echo "$COOKIE_JSON" | jq -r '
-            if type=="object" and has("cookie") then .cookie
-            elif type=="object" and has("cookies") then .cookies
-            elif type=="array" and length>0 and .[0].cookie then .[0].cookie
-            else ""
-            end
-          ')
-
-          echo "$MAIN_JSON" | jq -r --arg cookie "$GLOBAL_COOKIE" '
-
+          cat << 'EOF' > filter.jq
           def normalize:
             if type == "array" then .
             elif type == "object" then
-              if has("channels") and (.channels | type == "array") then .channels
-              elif has("data") and (.data | type == "array") then .data
-              elif has("list") and (.list | type == "array") then .list
-              elif (.[] | type == "object") then [.[]]
-              else []
-              end
+              (.channels // .data // .list // [])
             else []
             end;
 
-          normalize |
-          map(select(type == "object")) |
-          .[] |
-
-          (.name // .title // .channel_name // "Unknown") as $name |
-          (.tvg-id // .tvgId // .id // "") as $tvg_id |
-          (.tvg-language //  "") as $tvg_language |
-          (.tvg_logo // .logo // .icon // "") as $tvg_logo |
-          (.drmScheme // .drm_scheme // .drm // "") as $drmScheme |
-          (.drmLicense // .license // "") as $drmLicense |
-          (.link // .url // .stream_url // .hls // .mpd // "") as $link |
-
-          if ($link | length) == 0 then empty else
-
-            "#EXTINF:-1 " +
-            (if ($tvg_id | length > 0) then "tvg-id=\"\($tvg_id)\" " else "" end) +
-            (if ($tvg_language | length > 0)
-              then "tvg-language=\"\($tvg_language)\" "
-              else "" end) +
+          normalize
+          | map(select(type == "object"))
+          | .[]
+          | (.name // .title // .channel_name // "Unknown") as $name
+          | (.["tvg-id"]? // .tvgId? // .id? // "") as $tvg_id
+          | (.["tvg-language"]? // .language? // .lang? // "") as $tvg_language
+          | (.["tvg-logo"]? // .logo? // .icon? // "") as $tvg_logo
+          | (.link? // .url? // .stream_url? // .hls? // .mpd? // "") as $link
+          | select($link != "")
+          | "#EXTINF:-1 " +
+            (if $tvg_id != "" then "tvg-id=\"\($tvg_id)\" " else "" end) +
+            (if $tvg_language != "" then "tvg-language=\"\($tvg_language)\" " else "" end) +
             "group-title=\"" +
-              (if ($tvg_language | length > 0)
-                then $tvg_language
-                else "Unknown"
-              end) + "\" " +
-            (if ($tvg_logo | length > 0)
-              then "tvg-logo=\"\($tvg_logo)\" "
-              else "" end) +
-            ",\($name | gsub(","; "\\,"))"
-          as $extinf |
+              (if $tvg_language != "" then $tvg_language else "Unknown" end)
+            + "\" " +
+            (if $tvg_logo != "" then "tvg-logo=\"\($tvg_logo)\" " else "" end) +
+            ",\($name)",
+          $link
+          EOF
 
-          (if ($drmScheme == "clearkey") and ($drmLicense | test("^[^:]+:[^:]+$")) then
-            "#KODIPROP:inputstream.adaptive.license_type=clearkey\n#KODIPROP:inputstream.adaptive.license_key=" +
-            (($drmLicense | split(":"))[0] + ":" + ($drmLicense | split(":"))[1])
-          else "" end) as $drm |
-
-          "#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69" as $ua |
-
-          (if ($cookie | length > 0) then
-            "#EXTHTTP:{\"cookie\":\"" +
-            ($cookie | gsub("\n"; "") | gsub("\""; "\\\"")) +
-            "\"}"
-          else "" end) as $cookie_line |
-
-          [
-            $extinf,
-            ($drm | select(. != "")),
-            $ua,
-            ($cookie_line | select(. != "")),
-            $link
-          ] | join("\n")
-
-          end
-          ' >> cplaytv.m3u
-
-          sed -i 's/[[:space:]]*$//' cplaytv.m3u
+          jq -r -f filter.jq main.json >> cplaytv.m3u
 
           LINE_COUNT=$(wc -l < cplaytv.m3u)
           if [ "$LINE_COUNT" -le 1 ]; then
