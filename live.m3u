@@ -5,12 +5,6 @@ https://in-mc-plive.fancode.com/mumbai/140663_english_hls_954543269d89050_1ta-di
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140685_CASACARDS_PARTNER_16_9_1920_1080.png" ,Paarl Cc Vs Maties Cricket Club
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
 https://in-mc-flive.fancode.com/mumbai/140685_english_hls_60c206ea1c26919_1ta-di_h264/index.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140346_CASACARDS_PARTNER_16_9_1920_1080.png" ,Court 2
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://in-mc-flive.fancode.com/mumbai/140346_english_hls_8f0e6eacbc5849_1ta-di_h264/index.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140896_CASACARDS_PARTNER_16_9_1920_1080.png" ,New Court 1
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://in-mc-flive.fancode.com/mumbai/140896_english_hls_d3e71cc86f10359_1ta-di_h264/index.m3u8
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140894_CASACARDS_PARTNER_16_9_1920_1080.png" ,World Feed
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
 https://in-mc-flive.fancode.com/mumbai/140894_english_hls_b9a119fb0153672_1ta-di_h264/index.m3u8
@@ -22,13 +16,13 @@ https://in-mc-flive.fancode.com/mumbai/140893_english_hls_416b1a365b26522_1ta-di
 https://in-mc-flive.fancode.com/mumbai/140358_english_hls_a2c84695d834528_1ta-di_h264/index.m3u8
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015486/177168975407896_UCL26_Playoffs_Leg2_Atletico_Madrid_vs_Club_Brugge_21feb_eng_landscape_thumb.jpg" ,Atletico vs Club Brugge - Play-offs Leg 2 - 24 Feb 2026 [ENG]
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771999510~acl=/*~id=19911073243421053306376729537540~hmac=a9fcf519962abe61484dd0db44440e8f0bb8257b9ac50b0e916da8e6f949371d
+https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772003145~acl=/*~id=38981987652251909796623120431427~hmac=2e1148863b47198b1f81f281683f7ea61fc4af950c4c5dfd690def06b4f154be
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015486/177168975407896_UCL26_Playoffs_Leg2_Atletico_Madrid_vs_Club_Brugge_21feb_eng_landscape_thumb.jpg" ,Atletico vs Club Brugge - Play-offs Leg 2 - 24 Feb 2026 [HIN]
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771999510~acl=/*~id=19911073243421053306376729537540~hmac=a9fcf519962abe61484dd0db44440e8f0bb8257b9ac50b0e916da8e6f949371d
+https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772003145~acl=/*~id=38981987652251909796623120431427~hmac=2e1148863b47198b1f81f281683f7ea61fc4af950c4c5dfd690def06b4f154be
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015486/177168975407896_UCL26_Playoffs_Leg2_Atletico_Madrid_vs_Club_Brugge_21feb_eng_landscape_thumb.jpg" ,Atletico vs Club Brugge - Play-offs Leg 2 - 24 Feb 2026 [TAM]
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771999510~acl=/*~id=19911073243421053306376729537540~hmac=a9fcf519962abe61484dd0db44440e8f0bb8257b9ac50b0e916da8e6f949371d
+https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772003145~acl=/*~id=38981987652251909796623120431427~hmac=2e1148863b47198b1f81f281683f7ea61fc4af950c4c5dfd690def06b4f154be
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015486/177168975407896_UCL26_Playoffs_Leg2_Atletico_Madrid_vs_Club_Brugge_21feb_eng_landscape_thumb.jpg" ,Atletico vs Club Brugge - Play-offs Leg 2 - 24 Feb 2026 [TEL]
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771999510~acl=/*~id=19911073243421053306376729537540~hmac=a9fcf519962abe61484dd0db44440e8f0bb8257b9ac50b0e916da8e6f949371d
+https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772003145~acl=/*~id=38981987652251909796623120431427~hmac=2e1148863b47198b1f81f281683f7ea61fc4af950c4c5dfd690def06b4f154be
