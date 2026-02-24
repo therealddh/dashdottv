@@ -96,7 +96,7 @@ jobs:
           (.name // .title // .channel_name // "Unknown") as $name |
           (.tvg_id // .tvgId // .id // "") as $tvg_id |
           (.tvg_logo // .logo // .icon // "") as $tvg_logo |
-          (.tvg-language // .language // .lang // "") as $tvg_language |
+          (.tvg-language // .language // .lang // "") as $tvg-language |
           (.drmScheme // .drm_scheme // .drm // "") as $drmScheme |
           (.drmLicense // .license // "") as $drmLicense |
           (.link // .url // .stream_url // .hls // .mpd // "") as $link |
@@ -105,7 +105,7 @@ jobs:
 
           "#EXTINF:-1 " +
             (if ($tvg_id | length > 0) then "tvg-id=\"\($tvg_id)\" " else "" end) +
-            "group-title=\"\($tvg_language)\" " +
+            "group-title=\"\($tvg-language)\" " +
             (if ($tvg_logo | length > 0) then "tvg-logo=\"\($tvg_logo)\" " else "" end) +
             ",\($name | gsub(","; "\\,"))" |
           . as $extinf |
