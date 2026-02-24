@@ -1,4 +1,4 @@
-name: Auto-Update M3U
+name: JIOTV AUTO
 
 on:
   schedule:
