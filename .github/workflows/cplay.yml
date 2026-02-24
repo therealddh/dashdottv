@@ -85,17 +85,21 @@ jobs:
           .[] |
 
           (.name // .title // .channel_name // "Unknown") as $name |
-          (.tvg_id // .tvgId // .id // "") as $tvg_id |
-          (.tvg_logo // .logo // .icon // "") as $tvg_logo |
+          (.tvg-id // .tvgId // .id // "") as $tvg_id |
+          # Attempt to find a language field, fallback to empty string if not found
+          (.tvg-language // .language // .lang // "") as $tvg_language |
+          (.tvg-logo // .logo // .icon // "") as $tvg_logo |
           (.drmScheme // .drm_scheme // .drm // "") as $drmScheme |
           (.drmLicense // .license // "") as $drmLicense |
           (.link // .url // .stream_url // .hls // .mpd // "") as $link |
-
+          
           if ($link | length) == 0 then empty else
-
-          "#EXTINF:-1 " +
+          
+            # Construct the #EXTINF line with tvg-language
+            "#EXTINF:-1 " +
             (if ($tvg_id | length > 0) then "tvg-id=\"\($tvg_id)\" " else "" end) +
-            "group-title=\"JioStar\" " +
+            (if ($tvg_language | length > 0) then "tvg-language=\"\($tvg_language)\" " else "" end) +
+            "group-title=\"\($tvg_language // "Unknown")\" " +
             (if ($tvg_logo | length > 0) then "tvg-logo=\"\($tvg_logo)\" " else "" end) +
             ",\($name | gsub(","; "\\,"))" |
           . as $extinf |
