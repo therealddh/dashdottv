@@ -94,8 +94,7 @@ jobs:
           .[] |
 
           (.name // .title // .channel_name // "Unknown") as $name |
-          (.tvg-id // .tvgId // .id // "") as $tvg_id |
-          (.tvg-language // .language // .lang // "") as $tvg_language |
+          (.tvg_id // .tvgId // .id // "") as $tvg_id |
           (.tvg_logo // .logo // .icon // "") as $tvg_logo |
           (.drmScheme // .drm_scheme // .drm // "") as $drmScheme |
           (.drmLicense // .license // "") as $drmLicense |
@@ -103,18 +102,12 @@ jobs:
 
           if ($link | length) == 0 then empty else
 
-            "#EXTINF:-1 " +
+          "#EXTINF:-1 " +
             (if ($tvg_id | length > 0) then "tvg-id=\"\($tvg_id)\" " else "" end) +
-            "group-title=\"" +
-              (if ($tvg_language | length > 0)
-                then $tvg_language
-                else "Unknown"
-              end) + "\" " +
-            (if ($tvg_logo | length > 0)
-              then "tvg-logo=\"\($tvg_logo)\" "
-              else "" end) +
-            ",\($name | gsub(","; "\\,"))"
-          as $extinf |
+            "group-title=\"JioStar\" " +
+            (if ($tvg_logo | length > 0) then "tvg-logo=\"\($tvg_logo)\" " else "" end) +
+            ",\($name | gsub(","; "\\,"))" |
+          . as $extinf |
 
           (if ($drmScheme == "clearkey") and ($drmLicense | test("^[^:]+:[^:]+$")) then
             "#KODIPROP:inputstream.adaptive.license_type=clearkey\n#KODIPROP:inputstream.adaptive.license_key=" +
