@@ -1,4 +1,4 @@
-name: Auto-Update M3U
+name: Fancode live
 
 on:
   schedule:
