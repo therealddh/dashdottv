@@ -96,7 +96,7 @@ jobs:
           (.name // .title // .channel_name // "Unknown") as $name |
           (.tvg_id // .tvgId // .id // "") as $tvg_id |
           (.tvg_logo // .logo // .icon // "") as $tvg_logo |
-          (.tvg_language // .language // .lang // "") as $tvg_language |
+          (.tvg-language // .language // .lang // "") as $tvg_language |
           (.drmScheme // .drm_scheme // .drm // "") as $drmScheme |
           (.drmLicense // .license // "") as $drmLicense |
           (.link // .url // .stream_url // .hls // .mpd // "") as $link |
