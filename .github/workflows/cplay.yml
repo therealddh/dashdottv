@@ -105,7 +105,7 @@ jobs:
 
           "#EXTINF:-1 " +
             (if ($tvg_id | length > 0) then "tvg-id=\"\($tvg_id)\" " else "" end) +
-            (if ($tvg_language | length > 0) then "group-title=\"\($tvg_language)\" " else "" end) +
+            "group-title=\"\($tvg_language)\" " +
             (if ($tvg_logo | length > 0) then "tvg-logo=\"\($tvg_logo)\" " else "" end) +
             ",\($name | gsub(","; "\\,"))" |
           . as $extinf |
