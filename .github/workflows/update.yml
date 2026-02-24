@@ -26,11 +26,10 @@ jobs:
       - name: Generate jiotv.m3u
         run: |
           echo "📥 Fetching Ziotv.json..."
-          JSON_URL="https://jtv.pfy.workers.dev"
+          JSON_URL="${{ secrets.COOKIE_JSON_URL }}"
           JSON=$(curl -sf \
             -H "User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" \
             -H "Accept: application/json" \
-            -H "Referer: https://playify.pages.dev/" \
             "$JSON_URL") || { echo "❌ Failed to fetch JSON"; exit 1; }
 
           if [ -z "$JSON" ] || [ "${JSON:0:1}" = "<" ]; then
