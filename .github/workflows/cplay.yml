@@ -31,6 +31,18 @@ jobs:
         run: |
           echo "📥 Fetching main JSON..."
           MAIN_JSON_URL="${{ secrets.MAIN_JSON_URL }}"
+          COOKIE_JSON_URL="${{ secrets.COOKIE_JSON_URL }}"
+
+          if [ -z "$MAIN_JSON_URL" ]; then
+            echo "❌ MAIN_JSON_URL secret not set"
+            exit 1
+          fi
+
+          if [ -z "$COOKIE_JSON_URL" ]; then
+            echo "❌ COOKIE_JSON_URL secret not set"
+            exit 1
+          fi
+
           MAIN_JSON=$(curl -sS --fail \
             --connect-timeout 15 \
             --max-time 30 \
@@ -41,7 +53,6 @@ jobs:
             "$MAIN_JSON_URL") || { echo "❌ Failed to fetch main JSON"; exit 1; }
 
           echo "📥 Fetching cookie JSON..."
-          COOKIE_JSON_URL="${{ secrets.COOKIE_JSON_URL }}"
           COOKIE_JSON=$(curl -sS --fail \
             --connect-timeout 15 \
             --max-time 30 \
@@ -49,15 +60,13 @@ jobs:
             --retry-delay 5 \
             -H "User-Agent: Mozilla/5.0" \
             -H "Accept: application/json" \
-            "$MAIN_JSON_URL") || { echo "❌ Failed to fetch main JSON"; exit 1; }
+            "$COOKIE_JSON_URL") || { echo "❌ Failed to fetch cookie JSON"; exit 1; }
 
-          # Validate JSON
           echo "$MAIN_JSON" | jq -e . > /dev/null || { echo "❌ Invalid main JSON"; exit 1; }
           echo "$COOKIE_JSON" | jq -e . > /dev/null || { echo "❌ Invalid cookie JSON"; exit 1; }
 
           echo "#EXTM3U" > cplaytv.m3u
 
-          # Extract global cookie
           GLOBAL_COOKIE=$(echo "$COOKIE_JSON" | jq -r '
             if type=="object" and has("cookie") then .cookie
             elif type=="object" and has("cookies") then .cookies
@@ -86,33 +95,41 @@ jobs:
 
           (.name // .title // .channel_name // "Unknown") as $name |
           (.tvg-id // .tvgId // .id // "") as $tvg_id |
-          # Attempt to find a language field, fallback to empty string if not found
           (.tvg-language // .language // .lang // "") as $tvg_language |
           (.tvg-logo // .logo // .icon // "") as $tvg_logo |
           (.drmScheme // .drm_scheme // .drm // "") as $drmScheme |
           (.drmLicense // .license // "") as $drmLicense |
           (.link // .url // .stream_url // .hls // .mpd // "") as $link |
-          
+
           if ($link | length) == 0 then empty else
-          
-            # Construct the #EXTINF line with tvg-language
+
             "#EXTINF:-1 " +
             (if ($tvg_id | length > 0) then "tvg-id=\"\($tvg_id)\" " else "" end) +
-            (if ($tvg_language | length > 0) then "tvg-language=\"\($tvg_language)\" " else "" end) +
-            "group-title=\"\($tvg_language // "Unknown")\" " +
-            (if ($tvg_logo | length > 0) then "tvg-logo=\"\($tvg_logo)\" " else "" end) +
-            ",\($name | gsub(","; "\\,"))" |
-          . as $extinf |
+            (if ($tvg_language | length > 0)
+              then "tvg-language=\"\($tvg_language)\" "
+              else "" end) +
+            "group-title=\"" +
+              (if ($tvg_language | length > 0)
+                then $tvg_language
+                else "Unknown"
+              end) + "\" " +
+            (if ($tvg_logo | length > 0)
+              then "tvg-logo=\"\($tvg_logo)\" "
+              else "" end) +
+            ",\($name | gsub(","; "\\,"))"
+          as $extinf |
 
-          (if ($drmScheme == "clearkey") and ($drmLicense | test("^[a-zA-Z0-9]+:[a-zA-Z0-9]+")) then
-            "#KODIPROP:inputstream.adaptive.license_type=clearkey\n#KODIPROP:inputstream.adaptive.license_key=" + 
-            ($drmLicense | split(":")[0:2] | join(":"))
+          (if ($drmScheme == "clearkey") and ($drmLicense | test("^[^:]+:[^:]+$")) then
+            "#KODIPROP:inputstream.adaptive.license_type=clearkey\n#KODIPROP:inputstream.adaptive.license_key=" +
+            (($drmLicense | split(":"))[0] + ":" + ($drmLicense | split(":"))[1])
           else "" end) as $drm |
 
           "#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69" as $ua |
 
           (if ($cookie | length > 0) then
-            "#EXTHTTP:{\"cookie\":\"" + ($cookie | gsub("\n"; "") | gsub("\""; "\\\"")) + "\"}"
+            "#EXTHTTP:{\"cookie\":\"" +
+            ($cookie | gsub("\n"; "") | gsub("\""; "\\\"")) +
+            "\"}"
           else "" end) as $cookie_line |
 
           [
@@ -126,7 +143,7 @@ jobs:
           end
           ' >> cplaytv.m3u
 
-          sed -i 's/[[:space:]]*$//' jiotv.m3u
+          sed -i 's/[[:space:]]*$//' cplaytv.m3u
 
           LINE_COUNT=$(wc -l < cplaytv.m3u)
           if [ "$LINE_COUNT" -le 1 ]; then
@@ -140,6 +157,7 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add cplaytv.m3u
 
           if git diff --cached --quiet; then
