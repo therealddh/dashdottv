@@ -94,7 +94,7 @@ jobs:
           .[] |
 
           (.name // .title // .channel_name // "Unknown") as $name |
-          (.tvg-id // .tvgId // .id // "") as $tvg_id |
+          (.tvg_id // .tvgId // .id // "") as $tvg_id |
           (.tvg-language // .language // .lang // "") as $tvg_language |
           (.tvg-logo // .logo // .icon // "") as $tvg_logo |
           (.drmScheme // .drm_scheme // .drm // "") as $drmScheme |
