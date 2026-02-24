@@ -30,7 +30,7 @@ jobs:
       - name: Generate cplaytv.m3u
         run: |
           echo "📥 Fetching main JSON..."
-          MAIN_JSON_URL="https://raw.githubusercontent.com/varuntej-sketch/logfvu/refs/heads/main/tf/cplay.txt"
+          MAIN_JSON_URL="${{ secrets.MAIN_JSON_URL }}"
           MAIN_JSON=$(curl -sS --fail \
             --connect-timeout 15 \
             --max-time 30 \
@@ -43,7 +43,7 @@ jobs:
             "$MAIN_JSON_URL") || { echo "❌ Failed to fetch main JSON"; exit 1; }
 
           echo "📥 Fetching cookie JSON..."
-          COOKIE_JSON_URL="https://jtv.pfy.workers.dev"
+          COOKIE_JSON_URL="${{ secrets.COOKIE_JSON_URL }}"
           COOKIE_JSON=$(curl -sS --fail \
             --connect-timeout 15 \
             --max-time 30 \
