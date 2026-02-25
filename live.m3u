@@ -5,3 +5,15 @@ https://in-mc-plive.fancode.com/mumbai/140358_english_hls_a2c84695d834528_1ta-di
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/139173_CASACARDS_PARTNER_16_9_1920_1080.png" ,New York Vs The Bay
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
 https://dai.google.com/linear/hls/event/ZDNossZgSEO2d_Q5a0fFwg/master.m3u8
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140352_CASACARDS_PARTNER_16_9_1920_1080.png" ,Grandstand
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+https://in-mc-flive.fancode.com/mumbai/140352_english_hls_2903c9f26958186_1ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140835_CASACARDS_PARTNER_16_9_1920_1080.png" ,World Feed
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+https://in-mc-flive.fancode.com/mumbai/140835_english_hls_b8f11cdafd12590_1ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140834_CASACARDS_PARTNER_16_9_1920_1080.png" ,Estadio
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+https://in-mc-flive.fancode.com/mumbai/140834_english_hls_3d1bf1b7eb48326_1ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140833_CASACARDS_PARTNER_16_9_1920_1080.png" ,Cancha 1
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+https://in-mc-flive.fancode.com/mumbai/140833_english_hls_0a5ee2ba7581839_1ta-di_h264/index.m3u8
