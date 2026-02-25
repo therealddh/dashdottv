@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140593_CASACARDS_PARTNER_16_9_1920_1080.png" ,New Zealand Women Vs Zimbabwe Women
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140347_CASACARDS_PARTNER_16_9_1920_1080.png" ,New Court 1
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://dai.google.com/linear/hls/event/23bJc4DCSE2-dhd2cG1Jjw/master.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140879_CASACARDS_PARTNER_16_9_1920_1080.png" ,Hong Kong\, China Vs Kuwait
+https://in-mc-flive.fancode.com/mumbai/140347_english_hls_066a4acf083966_1ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140899_CASACARDS_PARTNER_16_9_1920_1080.png" ,Centre Court
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://in-mc-flive.fancode.com/mumbai/140879_english_hls_ae7eb6df5612467_1ta-di_h264/index.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140670_CASACARDS_PARTNER_16_9_1920_1080.png" ,Bhutan Vs Bahrain
+https://in-mc-flive.fancode.com/mumbai/140899_english_hls_421a52c4be66302_1ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140898_CASACARDS_PARTNER_16_9_1920_1080.png" ,World Feed
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://in-mc-flive.fancode.com/mumbai/140670_english_hls_cd544372d022564_1ta-di_h264/index.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015541/1771920520354652_NZw_vs_ZIMw_live_landscape_thumb.jpg" ,1st T20I - 25 Feb 2026 [ENG]
+https://in-mc-flive.fancode.com/mumbai/140898_english_hls_202857d2b986118_1ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140897_CASACARDS_PARTNER_16_9_1920_1080.png" ,Court 2
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1772053468~acl=/*~id=43955196260676423600966549152617~hmac=f6defaf89f7236559445f842ed8e25ad62d390a81ec702918e9a249151972278
+https://in-mc-flive.fancode.com/mumbai/140897_english_hls_24b0c1bdd696559_1ta-di_h264/index.m3u8
