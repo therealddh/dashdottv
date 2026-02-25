@@ -17,6 +17,15 @@ https://in-mc-flive.fancode.com/mumbai/140898_english_hls_202857d2b986118_1ta-di
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140359_CASACARDS_PARTNER_16_9_1920_1080.png" ,Court Jaime Fillol
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
 https://in-mc-flive.fancode.com/mumbai/140359_english_hls_2abd95dd1c70831_1ta-di_h264/index.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015485/1771689324591794_UEFAYouthLeague26_Roundof16_Real_Madrid_vs_Chelsea_21feb_landscape_thumb.jpg" ,Real Madrid vs Chelsea - 25 Feb 2026 [ENG]
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015510/1771783128117235_UCL26_Playoffs_Leg2_Atalanta_vs_Dortmund_21feb_eng_landscape_thumb.jpg" , Atalanta vs Dortmund - Play-offs Leg 2 - 25 Feb 2026 [ENG]
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772081471~acl=/*~id=98304209140199400066258548499894~hmac=b11f6cd272285e420a8f16b4eca7157baa431b17d7ed9a8eda052542865e572e
+https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772085114~acl=/*~id=39543544622283935735955411436825~hmac=ab4b9714504e4a57e357a09c2e5e960f1cbb4dac88a24839091462f71a5e5ba6
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015510/1771783128117235_UCL26_Playoffs_Leg2_Atalanta_vs_Dortmund_21feb_eng_landscape_thumb.jpg" , Atalanta vs Dortmund - Play-offs Leg 2 - 25 Feb 2026 [HIN]
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772085114~acl=/*~id=39543544622283935735955411436825~hmac=ab4b9714504e4a57e357a09c2e5e960f1cbb4dac88a24839091462f71a5e5ba6
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015510/1771783128117235_UCL26_Playoffs_Leg2_Atalanta_vs_Dortmund_21feb_eng_landscape_thumb.jpg" , Atalanta vs Dortmund - Play-offs Leg 2 - 25 Feb 2026 [TAM]
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772085114~acl=/*~id=39543544622283935735955411436825~hmac=ab4b9714504e4a57e357a09c2e5e960f1cbb4dac88a24839091462f71a5e5ba6
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015510/1771783128117235_UCL26_Playoffs_Leg2_Atalanta_vs_Dortmund_21feb_eng_landscape_thumb.jpg" , Atalanta vs Dortmund - Play-offs Leg 2 - 25 Feb 2026 [TEL]
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772085114~acl=/*~id=39543544622283935735955411436825~hmac=ab4b9714504e4a57e357a09c2e5e960f1cbb4dac88a24839091462f71a5e5ba6
