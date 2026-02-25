@@ -13,7 +13,10 @@ https://in-mc-flive.fancode.com/mumbai/140899_english_hls_421a52c4be66302_1ta-di
 https://in-mc-flive.fancode.com/mumbai/140898_english_hls_202857d2b986118_1ta-di_h264/index.m3u8
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140897_CASACARDS_PARTNER_16_9_1920_1080.png" ,Court 2
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://in-mc-flive.fancode.com/mumbai/140897_english_hls_24b0c1bdd696559_1ta-di_h264/index.m3u8
+https://in-mc-plive.fancode.com/mumbai/140897_english_hls_24b0c1bdd696559_1ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015485/1771689324591794_UEFAYouthLeague26_Roundof16_Real_Madrid_vs_Chelsea_21feb_landscape_thumb.jpg" ,Real Madrid vs Chelsea - 25 Feb 2026 [ENG]
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772072909~acl=/*~id=68642449346568698436976162768896~hmac=848bee95e0ee9812d1e04cec7c39b0ecd331d7e087b5f63a36411a7c4765a5e5
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015485/1771689036229794_UEFAYouthLeague26_Roundof16_PSG_vs_HJK_21feb_landscape_thumb.jpg" ,PSG vs HJK - 25 Feb 2026 [ENG]
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772070473~acl=/*~id=47574432095886743435236537399159~hmac=7bc4d9d8979bafbf30b358430042acd3ea8e5e57206ed4868b9494210681b3c1
+https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772072909~acl=/*~id=68642449346568698436976162768896~hmac=848bee95e0ee9812d1e04cec7c39b0ecd331d7e087b5f63a36411a7c4765a5e5
