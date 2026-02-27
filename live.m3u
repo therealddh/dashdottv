@@ -1,19 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140770_CASACARDS_PARTNER_16_9_1920_1080.png" ,Featured Holes   Day 2
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://in-mc-flive.fancode.com/mumbai/140770_english_hls_ac44dd81619611_1ta-di_h264/index.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140769_CASACARDS_PARTNER_16_9_1920_1080.png" ,Main Feed   Day 2
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://in-mc-flive.fancode.com/mumbai/140769_english_hls_712ed2d8d183733_1ta-di_h264/index.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140771_CASACARDS_PARTNER_16_9_1920_1080.png" ,Featured Groups   Day 2
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://in-mc-flive.fancode.com/mumbai/140771_english_hls_3f25065abb28481_1ta-di_h264/index.m3u8
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140361_CASACARDS_PARTNER_16_9_1920_1080.png" ,Court Jaime Fillol
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
 https://in-mc-flive.fancode.com/mumbai/140361_english_hls_19562be86045847_1ta-di_h264/index.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140768_CASACARDS_PARTNER_16_9_1920_1080.png" ,World Feed   Day 2
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://in-mc-flive.fancode.com/mumbai/140768_english_hls_ba4d34cce520969_1ta-di_h264/index.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/131088_CASACARDS_PARTNER_16_9_1920_1080.png" ,Levante Vs Deportivo Alaves
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://in-mc-flive.fancode.com/mumbai/131088_english_hls_488beb95d165487_1ta-di_h264/index.m3u8
