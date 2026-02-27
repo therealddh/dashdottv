@@ -2,12 +2,27 @@
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140664_CASACARDS_PARTNER_16_9_1920_1080.png" ,England Lions Vs Pakistan Shaheens
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
 https://in-mc-flive.fancode.com/mumbai/140664_english_hls_c6d012446437197_1ta-di_h264/index.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140674_CASACARDS_PARTNER_16_9_1920_1080.png" ,Bahrain Vs Thailand
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140446_CASACARDS_PARTNER_16_9_1920_1080.png" ,East Bengal Fc Vs Jamshedpur Fc
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://in-mc-flive.fancode.com/mumbai/140674_english_hls_542878262328580_1ta-di_h264/index.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/139418_CASACARDS_PARTNER_16_9_1920_1080.png" ,Melbourne Victory Vs Adelaide United
+https://in-mc-flive.fancode.com/mumbai/140446_english_hls_622b4e9fc94478_1ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140446_CASACARDS_PARTNER_16_9_1920_1080.png" ,East Bengal Fc Vs Jamshedpur Fc
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://in-mc-flive.fancode.com/mumbai/139418_english_hls_ee35c9f6d587051_1ta-di_h264/index.m3u8
+https://in-mc-flive.fancode.com/mumbai/140446_hindi_hls_bb6ca17ad669097_1ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140446_CASACARDS_PARTNER_16_9_1920_1080.png" ,East Bengal Fc Vs Jamshedpur Fc
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+https://in-mc-flive.fancode.com/mumbai/140446_malayalam_hls_edbd2e60e779618_1ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140446_CASACARDS_PARTNER_16_9_1920_1080.png" ,East Bengal Fc Vs Jamshedpur Fc
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+https://in-mc-flive.fancode.com/mumbai/140446_bengali_hls_ca902e7b4048329_1ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/141086_CASACARDS_PARTNER_16_9_1920_1080.png" ,East Bengal Fc Vs Jamshedpur Fc
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+https://in-mc-flive.fancode.com/mumbai/141086_bengali_hls_4ecea82e2954892_1ta-di_h264/index.m3u8
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140349_CASACARDS_PARTNER_16_9_1920_1080.png" ,Centre Court
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
 https://in-mc-flive.fancode.com/mumbai/140349_english_hls_a633bbf89a85870_1ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015612/1772091081592940_UCL26_RD16_QF_SF_Draw_25feb1_landscape_thumb.jpg" ,Round of 16\, Quarter-final and Semi-final Draw - 27 Feb 2026 [ENG]
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772232565~acl=/*~id=47393842285628414526845891590329~hmac=b00e6bc2e46a098c99ae9075e13b40219c18a7e192b1a12b0744e8c699446c04
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015524/1771847908906812_DP_World_Day2_Investec-South-African-Open-Championship_landscape_thumb.jpg" ,Investec South African Open Day 2 - 27 Feb 2026 [ENG]
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772232565~acl=/*~id=47393842285628414526845891590329~hmac=b00e6bc2e46a098c99ae9075e13b40219c18a7e192b1a12b0744e8c699446c04
