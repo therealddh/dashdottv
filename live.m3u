@@ -2,18 +2,6 @@
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140141_CASACARDS_PARTNER_16_9_1920_1080.png" ,West Indies Women Vs Sri Lanka Women
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
 https://in-mc-flive.fancode.com/mumbai/140141_english_hls_c7e54df6c689484_1ta-di_h264/index.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140692_CASACARDS_PARTNER_16_9_1920_1080.png" ,Vredenburg/saldanha Cc Vs Paarl Cc
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://in-mc-flive.fancode.com/mumbai/140692_english_hls_4beadff46b45381_1ta-di_h264/index.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/131084_CASACARDS_PARTNER_16_9_1920_1080.png" ,Fc Barcelona Vs Villarreal Cf
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://in-mc-flive.fancode.com/mumbai/131084_english_hls_c2042aefad65938_1ta-di_h264/index.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/131084_CASACARDS_PARTNER_16_9_1920_1080.png" ,Fc Barcelona Vs Villarreal Cf
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://in-mc-flive.fancode.com/mumbai/131084_hindi_hls_29447a4b4179686_1ta-di_h264/index.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/131084_CASACARDS_PARTNER_16_9_1920_1080.png" ,Fc Barcelona Vs Villarreal Cf
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://in-mc-flive.fancode.com/mumbai/131084_bengali_hls_ff4b32271542008_1ta-di_h264/index.m3u8
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/131087_CASACARDS_PARTNER_16_9_1920_1080.png" ,Rcd Mallorca Vs Real Sociedad
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
 https://in-mc-flive.fancode.com/mumbai/131087_english_hls_e9a90d99ac98527_1ta-di_h264/index.m3u8
@@ -34,4 +22,4 @@ https://in-mc-flive.fancode.com/mumbai/140777_english_hls_9609f6d6ce80839_1ta-di
 https://in-mc-flive.fancode.com/mumbai/140773_english_hls_f0d09727f189310_1ta-di_h264/index.m3u8
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015083/1770617250355953_BLIGA_26_Dortmund-vs-Bayern_landscape_thumb.jpg" ,Borussia Dortmund vs Bayern Munich - MD 24 - 28 Feb 2026 [ENG]
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772341674~acl=/*~id=17657185089091890650980272617045~hmac=4a1a3e76f996230c45be5d3a5ad8693fed775a8a1da618bab943300706dff5ef
+https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772345315~acl=/*~id=20673533021066227755247947226638~hmac=20982683ffbb00f175e94c507d3b858b84f2b372ae8e4d2e74f3b89b3793d015
