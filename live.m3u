@@ -1,16 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140451_CASACARDS_PARTNER_16_9_1920_1080.png" ,Mumbai City Fc Vs Northeast United Fc
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140695_CASACARDS_PARTNER_16_9_1920_1080.png" ,Paarl East Cricket Club Vs Van Der Stel Cricket Club
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://in-mc-flive.fancode.com/mumbai/140451_english_hls_dd1e27ec0836523_1ta-di_h264/index.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140451_CASACARDS_PARTNER_16_9_1920_1080.png" ,Mumbai City Fc Vs Northeast United Fc
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://in-mc-flive.fancode.com/mumbai/140451_hindi_hls_36a17ba90e50965_1ta-di_h264/index.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140451_CASACARDS_PARTNER_16_9_1920_1080.png" ,Mumbai City Fc Vs Northeast United Fc
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://in-mc-flive.fancode.com/mumbai/140451_malayalam_hls_8d4392931848726_1ta-di_h264/index.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140451_CASACARDS_PARTNER_16_9_1920_1080.png" ,Mumbai City Fc Vs Northeast United Fc
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://in-mc-flive.fancode.com/mumbai/140451_bengali_hls_4384a4f9dc22175_1ta-di_h264/index.m3u8
+https://in-mc-plive.fancode.com/mumbai/140695_english_hls_befd91410386452_1ta-di_h264/index.m3u8
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/131083_CASACARDS_PARTNER_16_9_1920_1080.png" ,Valencia Cf Vs Ca Osasuna
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
 https://in-mc-flive.fancode.com/mumbai/131083_english_hls_39041d3f9561489_1ta-di_h264/index.m3u8
@@ -28,4 +19,7 @@ https://in-mc-flive.fancode.com/mumbai/140782_english_hls_f4fd2fec2656049_1ta-di
 https://in-mc-flive.fancode.com/mumbai/140780_english_hls_1a4d1e64e556602_1ta-di_h264/index.m3u8
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015686/1772263685247596_BLIGA_26_MD24_VfB-Stuttgart-vs-VfL-Wolfsburg_landscape_thumb.jpg" ,VfB Stuttgart vs VfL Wolfsburg - MD 24 - 1 Mar 2026 [ENG]
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772422857~acl=/*~id=06312952191745452532590151885394~hmac=6b467bfc119f8284e164d5370b0834a5cebd37fcf081d508ecba9418cbd0d9ac
+https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772424680~acl=/*~id=97816324186579140375476315740892~hmac=a03d071854eeb71c2c0ecab56f2f0e302fbf5967158cf50b66b99eb8049b4790
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015686/1772263891150596_BLIGA_26_MD24_Eintracht-Frankfurt-vs-SC-Freiburg_landscape_thumb.jpg" ,Eintracht Frankfurt vs SC Freiburg - MD 24 - 1 Mar 2026 [ENG]
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772424680~acl=/*~id=97816324186579140375476315740892~hmac=a03d071854eeb71c2c0ecab56f2f0e302fbf5967158cf50b66b99eb8049b4790
