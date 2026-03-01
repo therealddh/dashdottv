@@ -1,13 +1,25 @@
 #EXTM3U
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140141_CASACARDS_PARTNER_16_9_1920_1080.png" ,West Indies Women Vs Sri Lanka Women
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140595_CASACARDS_PARTNER_16_9_1920_1080.png" ,Zimbabwe Women Vs New Zealand Women
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://in-mc-flive.fancode.com/mumbai/140141_english_hls_c7e54df6c689484_1ta-di_h264/index.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140703_CASACARDS_PARTNER_16_9_1920_1080.png" ,Al Fayha Fc Vs Al Nassr Fc
+https://dai.google.com/linear/hls/event/23bJc4DCSE2-dhd2cG1Jjw/master.m3u8
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140844_CASACARDS_PARTNER_16_9_1920_1080.png" ,Estadio
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://in-mc-flive.fancode.com/mumbai/140703_english_hls_481589922736134_1ta-di_h264/index.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/131080_CASACARDS_PARTNER_16_9_1920_1080.png" ,Real Oviedo Vs Atletico De Madrid
+https://in-mc-flive.fancode.com/mumbai/140844_english_hls_7178decd1a1626_1ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140784_CASACARDS_PARTNER_16_9_1920_1080.png" ,Day 2
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://in-mc-flive.fancode.com/mumbai/131080_english_hls_8f490769c339284_1ta-di_h264/index.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140822_CASACARDS_PARTNER_16_9_1920_1080.png" ,Castellón Vs Racing Club
+https://in-mc-flive.fancode.com/mumbai/140784_english_hls_a19a349aa625330_1ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015642/1772137732723798_UFC_Fight_Night_Moreno_vs_Kavanagh_27feb_landscape_thumb.jpg" ,UFC Fight Night - Moreno vs Kavanagh - 1 Mar 2026 [ENG]
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://in-mc-flive.fancode.com/mumbai/140822_english_hls_7f47cead1535237_1ta-di_h264/index.m3u8
+https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1772370726~acl=/*~id=65067754353296028726990811513075~hmac=acfe5affcf41f5062fdab6f4b151a260cd0e545128bcf6feee9ed7906628d14d
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015642/1772137732723798_UFC_Fight_Night_Moreno_vs_Kavanagh_27feb_landscape_thumb.jpg" ,UFC Fight Night - Moreno vs Kavanagh - 1 Mar 2026 [HIN]
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1772370726~acl=/*~id=65067754353296028726990811513075~hmac=acfe5affcf41f5062fdab6f4b151a260cd0e545128bcf6feee9ed7906628d14d
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015642/1772137732723798_UFC_Fight_Night_Moreno_vs_Kavanagh_27feb_landscape_thumb.jpg" ,UFC Fight Night - Moreno vs Kavanagh - 1 Mar 2026 [TAM]
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1772370726~acl=/*~id=65067754353296028726990811513075~hmac=acfe5affcf41f5062fdab6f4b151a260cd0e545128bcf6feee9ed7906628d14d
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015642/1772137732723798_UFC_Fight_Night_Moreno_vs_Kavanagh_27feb_landscape_thumb.jpg" ,UFC Fight Night - Moreno vs Kavanagh - 1 Mar 2026 [TEL]
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1772370726~acl=/*~id=65067754353296028726990811513075~hmac=acfe5affcf41f5062fdab6f4b151a260cd0e545128bcf6feee9ed7906628d14d
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015641/1772136236140233_NZw_vs_ZIMw_3T20i_landscape_thumb.jpg" ,3rd T20I - 1 Mar 2026 [ENG]
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1772370726~acl=/*~id=65067754353296028726990811513075~hmac=acfe5affcf41f5062fdab6f4b151a260cd0e545128bcf6feee9ed7906628d14d
