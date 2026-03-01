@@ -5,9 +5,9 @@ https://in-mc-flive.fancode.com/mumbai/140142_english_hls_e8f8ed66a53698_1ta-di_
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140695_CASACARDS_PARTNER_16_9_1920_1080.png" ,Paarl East Cricket Club Vs Van Der Stel Cricket Club
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
 https://in-mc-plive.fancode.com/mumbai/140695_english_hls_befd91410386452_1ta-di_h264/index.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/131083_CASACARDS_PARTNER_16_9_1920_1080.png" ,Valencia Cf Vs Ca Osasuna
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/131085_CASACARDS_PARTNER_16_9_1920_1080.png" ,Real Betis Vs Sevilla Fc
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://in-mc-flive.fancode.com/mumbai/131083_english_hls_39041d3f9561489_1ta-di_h264/index.m3u8
+https://in-mc-flive.fancode.com/mumbai/131085_english_hls_b468dd5cc833761_1ta-di_h264/index.m3u8
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140781_CASACARDS_PARTNER_16_9_1920_1080.png" ,Featured Groups   Day 4
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
 https://in-mc-flive.fancode.com/mumbai/140781_english_hls_a231eb42595351_1ta-di_h264/index.m3u8
@@ -20,6 +20,9 @@ https://in-mc-flive.fancode.com/mumbai/140782_english_hls_f4fd2fec2656049_1ta-di
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140780_CASACARDS_PARTNER_16_9_1920_1080.png" ,Featured Holes   Day 4
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
 https://in-mc-flive.fancode.com/mumbai/140780_english_hls_1a4d1e64e556602_1ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/131083_CASACARDS_PARTNER_16_9_1920_1080.png" ,Valencia Cf Vs Ca Osasuna
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+https://in-mc-flive.fancode.com/mumbai/131083_english_hls_39041d3f9561489_1ta-di_h264/index.m3u8
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015686/1772263891150596_BLIGA_26_MD24_Eintracht-Frankfurt-vs-SC-Freiburg_landscape_thumb.jpg" ,Eintracht Frankfurt vs SC Freiburg - MD 24 - 1 Mar 2026 [ENG]
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772427715~acl=/*~id=84430840660063921212447223328298~hmac=fc8b26385d8978642d37faa2108f4ca6b6ba0a5b4c7d65689617af6a339b9fb7
+https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772429533~acl=/*~id=62340003564646590466179991547352~hmac=d8e8e9415c9deb5b8ef705554ee3cde9a5e196caa04df598f4a0d0acd97b4cc0
