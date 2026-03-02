@@ -1,4 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/139175_CASACARDS_PARTNER_16_9_1920_1080.png" ,Jupiter Vs Boston
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140795_CASACARDS_PARTNER_16_9_1920_1080.png" ,Korea Republic Women Vs Ir Iran Women
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://dai.google.com/linear/hls/event/d9Eshw5zS3uZXzYgQ72wGA/master.m3u8
+https://in-mc-flive.fancode.com/mumbai/140795_english_hls_91876c511118795_1ta-di_h264/index.m3u8
