@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140875_CASACARDS_PARTNER_16_9_1920_1080.png" ,Doncaster Rovers F.c. Vs Stockport County
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/139177_CASACARDS_PARTNER_16_9_1920_1080.png" ,The Bay Vs Jupiter
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://in-mc-flive.fancode.com/mumbai/140875_english_hls_0551b4d96438461_1ta-di_h264/index.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140525_CASACARDS_PARTNER_16_9_1920_1080.png" ,Fc Barcelona Vs Atletico De Madrid
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://in-mc-flive.fancode.com/mumbai/140525_english_hls_a91807268298168_1ta-di_h264/index.m3u8
+https://in-mc-flive.fancode.com/mumbai/139177_english_hls_dff6b28b4382668_1ta-di_h264/index.m3u8
