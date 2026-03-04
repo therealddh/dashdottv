@@ -1,10 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140852_CASACARDS_PARTNER_16_9_1920_1080.png" ,Seoul Vs Vissel Kobe
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140853_CASACARDS_PARTNER_16_9_1920_1080.png" ,Johor Darul Ta'zim Vs Sanfrecce Hiroshima
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://in-mc-flive.fancode.com/mumbai/140852_english_hls_5be2af4ea264800_1ta-di_h264/index.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140863_CASACARDS_PARTNER_16_9_1920_1080.png" ,Gamba Osaka Vs Ratchaburi
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://in-mc-flive.fancode.com/mumbai/140863_english_hls_ab90272ff494813_1ta-di_h264/index.m3u8
+https://in-mc-flive.fancode.com/mumbai/140853_english_hls_bf7eac9c0e12005_1ta-di_h264/index.m3u8
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140799_CASACARDS_PARTNER_16_9_1920_1080.png" ,Vietnam Women Vs India Women
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
 https://in-mc-flive.fancode.com/mumbai/140799_english_hls_28813a1ea72728_1ta-di_h264/index.m3u8
