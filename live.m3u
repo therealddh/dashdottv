@@ -5,6 +5,9 @@ https://in-mc-flive.fancode.com/mumbai/140988_english_hls_65f4a904ef47085_1ta-di
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140989_CASACARDS_PARTNER_16_9_1920_1080.png" ,Featured Group Day 1
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
 https://in-mc-flive.fancode.com/mumbai/140989_english_hls_b8ff07e2aa86981_1ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140990_CASACARDS_PARTNER_16_9_1920_1080.png" ,Marquee Feed Day 1
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+https://in-mc-flive.fancode.com/mumbai/140990_english_hls_c6e6105bca36287_1ta-di_h264/index.m3u8
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015766/177261403814412_DP_World_Day1_Joburg-Open_landscape_thumb.jpg" ,Joburg Open Day 1 - 5 Mar 2026 [ENG]
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://sonydaimenew.akamaized.net/hls/live/2094590/DAI25ME-DPW/std_lrh-800300010.m3u8?hdnea=exp=1772764012~acl=/*~id=47766448237703980508713986060535~hmac=c9fef18ced73c44a987fa3216bfbd240ddcbd568090ef0e245dcb85a49cc5a73
+https://sonydaimenew.akamaized.net/hls/live/2094590/DAI25ME-DPW/std_lrh-800300010.m3u8?hdnea=exp=1772767652~acl=/*~id=39888151889849169485305281848026~hmac=97f041bdc2e87538739a39255887ad25f70062c29cd86f843ad4ff51f5df292a
