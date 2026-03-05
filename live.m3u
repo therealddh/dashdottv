@@ -1,19 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140452_CASACARDS_PARTNER_16_9_1920_1080.png" ,East Bengal Fc Vs Fc Goa
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://in-mc-flive.fancode.com/mumbai/140452_english_hls_b8af32bb7720615_1ta-di_h264/index.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140452_CASACARDS_PARTNER_16_9_1920_1080.png" ,East Bengal Fc Vs Fc Goa
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://in-mc-flive.fancode.com/mumbai/140452_hindi_hls_a3c0f6073581545_1ta-di_h264/index.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140452_CASACARDS_PARTNER_16_9_1920_1080.png" ,East Bengal Fc Vs Fc Goa
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://in-mc-flive.fancode.com/mumbai/140452_malayalam_hls_b74b41c01473291_1ta-di_h264/index.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140452_CASACARDS_PARTNER_16_9_1920_1080.png" ,East Bengal Fc Vs Fc Goa
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://in-mc-flive.fancode.com/mumbai/140452_bengali_hls_1e8d4249e939142_1ta-di_h264/index.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/141090_CASACARDS_PARTNER_16_9_1920_1080.png" ,East Bengal Fc Vs Fc Goa
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://in-mc-flive.fancode.com/mumbai/141090_bengali_hls_4f1e74ec1c94981_1ta-di_h264/index.m3u8
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140865_CASACARDS_PARTNER_16_9_1920_1080.png" ,Bangkok United Vs Tampines Rovers Fc
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
 https://in-mc-flive.fancode.com/mumbai/140865_english_hls_d86ca6002f31985_1ta-di_h264/index.m3u8
@@ -22,4 +7,4 @@ https://in-mc-flive.fancode.com/mumbai/140865_english_hls_d86ca6002f31985_1ta-di
 https://in-mc-flive.fancode.com/mumbai/140988_english_hls_65f4a904ef47085_1ta-di_h264/index.m3u8
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015766/177261403814412_DP_World_Day1_Joburg-Open_landscape_thumb.jpg" ,Joburg Open Day 1 - 5 Mar 2026 [ENG]
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://sonydaimenew.akamaized.net/hls/live/2094590/DAI25ME-DPW/std_lrh-800300010.m3u8?hdnea=exp=1772757346~acl=/*~id=21757877024950948041090899008812~hmac=64bad61441ce94f91b4ba14280ec15d935f0cca5341700e91cc3d868ff7f78b4
+https://sonydaimenew.akamaized.net/hls/live/2094590/DAI25ME-DPW/std_lrh-800300010.m3u8?hdnea=exp=1772760979~acl=/*~id=57354280534230301289054862285585~hmac=f08bd63b5bb84ac58009e01df0abaff2fa9c0a03aa516cd895e71a598ac80a6c
