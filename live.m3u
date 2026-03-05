@@ -1,7 +1,19 @@
 #EXTM3U
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140801_CASACARDS_PARTNER_16_9_1920_1080.png" ,Ir Iran Women Vs Australia Women
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140452_CASACARDS_PARTNER_16_9_1920_1080.png" ,East Bengal Fc Vs Fc Goa
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://in-mc-flive.fancode.com/mumbai/140801_english_hls_0f272eeb4a23489_1ta-di_h264/index.m3u8
+https://in-mc-flive.fancode.com/mumbai/140452_english_hls_b8af32bb7720615_1ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140452_CASACARDS_PARTNER_16_9_1920_1080.png" ,East Bengal Fc Vs Fc Goa
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+https://in-mc-flive.fancode.com/mumbai/140452_hindi_hls_a3c0f6073581545_1ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140452_CASACARDS_PARTNER_16_9_1920_1080.png" ,East Bengal Fc Vs Fc Goa
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+https://in-mc-flive.fancode.com/mumbai/140452_malayalam_hls_b74b41c01473291_1ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140452_CASACARDS_PARTNER_16_9_1920_1080.png" ,East Bengal Fc Vs Fc Goa
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+https://in-mc-flive.fancode.com/mumbai/140452_bengali_hls_1e8d4249e939142_1ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/141090_CASACARDS_PARTNER_16_9_1920_1080.png" ,East Bengal Fc Vs Fc Goa
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+https://in-mc-flive.fancode.com/mumbai/141090_bengali_hls_4f1e74ec1c94981_1ta-di_h264/index.m3u8
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015766/177261403814412_DP_World_Day1_Joburg-Open_landscape_thumb.jpg" ,Joburg Open Day 1 - 5 Mar 2026 [ENG]
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://sonydaimenew.akamaized.net/hls/live/2094590/DAI25ME-DPW/std_lrh-800300010.m3u8?hdnea=exp=1772751293~acl=/*~id=31743572276965008937714900668713~hmac=b0162f20a8528f6c7d10de35ba5fbd63658b1c706b5ae19e24257140cac6570e
+https://sonydaimenew.akamaized.net/hls/live/2094590/DAI25ME-DPW/std_lrh-800300010.m3u8?hdnea=exp=1772754320~acl=/*~id=44486817317927506777944738071732~hmac=c8e1ef992c135b095e4eb62c0e35604324c1d830c20c9d085e61f0c49d1d9f3a
