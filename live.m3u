@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140717_CASACARDS_PARTNER_16_9_1920_1080.png" ,Al Ahli Saudi Fc Vs Al Ittihad
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+https://in-mc-flive.fancode.com/mumbai/140717_english_hls_e5f6edd88566367_1ta-di_h264/index.m3u8
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140992_CASACARDS_PARTNER_16_9_1920_1080.png" ,Main Feed Day 2
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
 https://in-mc-flive.fancode.com/mumbai/140992_english_hls_99ea6ba7a722304_1ta-di_h264/index.m3u8
@@ -8,3 +11,33 @@ https://in-mc-flive.fancode.com/mumbai/140993_english_hls_aef23b5d9a50691_1ta-di
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140994_CASACARDS_PARTNER_16_9_1920_1080.png" ,Marquee Feed Day 2
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
 https://in-mc-flive.fancode.com/mumbai/140994_english_hls_4bf2dcb6a17691_1ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140995_CASACARDS_PARTNER_16_9_1920_1080.png" ,World Feed Day 2
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+https://in-mc-flive.fancode.com/mumbai/140995_english_hls_3d3d682e6746265_1ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/141012_CASACARDS_PARTNER_16_9_1920_1080.png" ,B Court Feed
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+https://in-mc-flive.fancode.com/mumbai/141012_english_hls_12ffc657088644_1ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/141011_CASACARDS_PARTNER_16_9_1920_1080.png" ,A Court Feed
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+https://in-mc-flive.fancode.com/mumbai/141011_english_hls_80cf9edfe229848_1ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/141010_CASACARDS_PARTNER_16_9_1920_1080.png" ,World Feed
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+https://in-mc-flive.fancode.com/mumbai/141010_english_hls_590a93f1f543161_1ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/141239_CASACARDS_PARTNER_16_9_1920_1080.png" ,C Court Feed
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+https://in-mc-flive.fancode.com/mumbai/141239_english_hls_13d6cc5ab668468_1ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/141238_CASACARDS_PARTNER_16_9_1920_1080.png" ,I Court Feed
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+https://in-mc-plive.fancode.com/mumbai/141238_english_hls_14cd43345b71146_1ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/141237_CASACARDS_PARTNER_16_9_1920_1080.png" ,F Court Feed
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+https://in-mc-plive.fancode.com/mumbai/141237_english_hls_be15ad626a83685_1ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/141236_CASACARDS_PARTNER_16_9_1920_1080.png" ,E Court Feed
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+https://in-mc-plive.fancode.com/mumbai/141236_english_hls_21ceeb9c5219828_1ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/141235_CASACARDS_PARTNER_16_9_1920_1080.png" ,D Court Feed
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+https://in-mc-plive.fancode.com/mumbai/141235_english_hls_e633f5b21413798_1ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015685/1772098923421151_BLIGA_26_MD25_Bayern-Munich-vs-Borussia-Mgladbach_landscape_thumb.jpg" ,Bayern Munich vs Borussia M'gladbach - MD 25 - 7 Mar 2026 [ENG]
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772866901~acl=/*~id=46429820737108432416212742898300~hmac=8069d4796810a6fb8a7f8478e9a209ad3d11dfea419fe48cd1ff7dd0978c60f6
