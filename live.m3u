@@ -5,3 +5,6 @@ https://in-mc-flive.fancode.com/mumbai/141255_english_hls_197d05fbd248087_1ta-di
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140803_CASACARDS_PARTNER_16_9_1920_1080.png" ,Uzbekistan Women Vs China Pr Women
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
 https://in-mc-flive.fancode.com/mumbai/140803_english_hls_74e606873292705_1ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1/140907_CASACARDS_PARTNER_16_9_1920_1080.png" ,Adelaide United Vs Wellington Phoenix
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+https://in-mc-flive.fancode.com/mumbai/140907_english_hls_2b1430a58879684_1ta-di_h264/index.m3u8
