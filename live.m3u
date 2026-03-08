@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015900/1772888531861337_FC_Cup_26_RD5_Port-Vale-vs-Sunderland_Landscape_thumb.jpg" ,Port Vale vs Sunderland - Round 5 - 8 Mar 2026 [ENG]
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773025597~acl=/*~id=58324765260428648868847603659339~hmac=f88d62f220fcdd5cac923204fbf5667afc8791e22d86cd20243df50bd090362d
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015704/1772306230761158_bliga26_MD25_St_Pauli_vs_Frankfurt_28feb_landscape_thumb.jpg" ,St. Pauli vs Eintracht Frankfurt - MD 25 - 8 Mar 2026 [ENG]
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773025597~acl=/*~id=58324765260428648868847603659339~hmac=f88d62f220fcdd5cac923204fbf5667afc8791e22d86cd20243df50bd090362d
+https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773028023~acl=/*~id=87570918274810188065976954168720~hmac=b0460ef64839f7aa4994373971db9b059ff828eb59b29f47b9a74ce1318e1360
