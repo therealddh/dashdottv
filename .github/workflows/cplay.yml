@@ -31,9 +31,7 @@ jobs:
         run: |
           echo "📥 Fetching main JSON..."
           MAIN_JSON_URL="${{ secrets.MAIN_JSON_URL }}"
-          
-          # NEW: URL for cookie source
-          COOKIE_SOURCE_URL="https://raw.githubusercontent.com/alex4528x/m3u/refs/heads/main/jtv.m3u"
+          COOKIE_SOURCE_URL="${{ secrets.COOKIE_SOURCE_URL }}"
 
           if [ -z "$MAIN_JSON_URL" ]; then
             echo "❌ MAIN_JSON_URL secret not set"
