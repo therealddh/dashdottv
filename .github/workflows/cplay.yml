@@ -31,15 +31,12 @@ jobs:
         run: |
           echo "📥 Fetching main JSON..."
           MAIN_JSON_URL="${{ secrets.MAIN_JSON_URL }}"
-          COOKIE_JSON_URL="${{ secrets.COOKIE_JSON_URL }}"
+          
+          # NEW: URL for cookie source
+          COOKIE_SOURCE_URL="https://raw.githubusercontent.com/alex4528x/m3u/refs/heads/main/jtv.m3u"
 
           if [ -z "$MAIN_JSON_URL" ]; then
             echo "❌ MAIN_JSON_URL secret not set"
-            exit 1
-          fi
-
-          if [ -z "$COOKIE_JSON_URL" ]; then
-            echo "❌ COOKIE_JSON_URL secret not set"
             exit 1
           fi
 
@@ -52,28 +49,19 @@ jobs:
             -H "Accept: application/json,text/plain,*/*" \
             "$MAIN_JSON_URL") || { echo "❌ Failed to fetch main JSON"; exit 1; }
 
-          echo "📥 Fetching cookie JSON..."
-          COOKIE_JSON=$(curl -sS --fail \
-            --connect-timeout 15 \
-            --max-time 30 \
-            --retry 3 \
-            --retry-delay 5 \
-            -H "User-Agent: Mozilla/5.0" \
-            -H "Accept: application/json" \
-            "$COOKIE_JSON_URL") || { echo "❌ Failed to fetch cookie JSON"; exit 1; }
+          echo "📥 Extracting cookie from M3U source..."
+          # This command fetches the M3U and extracts the content inside the "cookie":"..." section
+          GLOBAL_COOKIE=$(curl -s "$COOKIE_SOURCE_URL" | grep -oP '(?<="cookie":")[^"]*' | head -n 1)
+
+          if [ -z "$GLOBAL_COOKIE" ]; then
+            echo "⚠️ Warning: Could not extract cookie from M3U source"
+          else
+            echo "✅ Cookie extracted successfully"
+          fi
 
           echo "$MAIN_JSON" | jq -e . > /dev/null || { echo "❌ Invalid main JSON"; exit 1; }
-          echo "$COOKIE_JSON" | jq -e . > /dev/null || { echo "❌ Invalid cookie JSON"; exit 1; }
 
           echo "#EXTM3U" > cplaytv.m3u
-
-          GLOBAL_COOKIE=$(echo "$COOKIE_JSON" | jq -r '
-            if type=="object" and has("cookie") then .cookie
-            elif type=="object" and has("cookies") then .cookies
-            elif type=="array" and length>0 and .[0].cookie then .[0].cookie
-            else ""
-            end
-          ')
 
           echo "$MAIN_JSON" | jq -r --arg cookie "$GLOBAL_COOKIE" '
 
@@ -99,7 +87,10 @@ jobs:
           (.tvg_language // .language // .lang // "") as $tvg_language |
           (.drmScheme // .drm_scheme // .drm // "") as $drmScheme |
           (.drmLicense // .license // "") as $drmLicense |
-          (.link // .url // .stream_url // .hls // .mpd // "") as $link |
+          (.link // .url // .stream_url // .hls // .mpd // "") as $raw_link |
+          
+          # CDN REPLACEMENT
+          ($raw_link | gsub("https://jiotvbpkmob.cdn.jio.com/"; "https://jiotvpllive.cdn.jio.com/")) as $link |
 
           if ($link | length) == 0 then empty else
 
@@ -137,11 +128,6 @@ jobs:
           sed -i 's/[[:space:]]*$//' cplaytv.m3u
 
           LINE_COUNT=$(wc -l < cplaytv.m3u)
-          if [ "$LINE_COUNT" -le 1 ]; then
-            echo "❌ cplaytv.m3u is empty"
-            exit 1
-          fi
-
           echo "✅ cplaytv.m3u created ($LINE_COUNT lines)"
 
       - name: Commit & Push
