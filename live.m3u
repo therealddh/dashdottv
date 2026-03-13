@@ -5,9 +5,6 @@ https://fanco.vodep39240327.workers.dev/131103_english.m3u8
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140951_5489_WRX_SWA_fc-web.jpg" ,Wrexham A.f.c. Vs Swansea City A.f.c.
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
 https://fanco.vodep39240327.workers.dev/140951_english.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg" ,Mirandés Vs Cádiz
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://fanco.vodep39240327.workers.dev/141221_english.m3u8
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Players_fc-web.jpg" ,Main Feed   Day 2
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
 https://fanco.vodep39240327.workers.dev/141140_english.m3u8
@@ -23,6 +20,3 @@ https://fanco.vodep39240327.workers.dev/141139_english.m3u8
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg" ,Doubles   Semi Finals
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
 https://fanco.vodep39240327.workers.dev/141031_english.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140719_5655_ALQ_AAS_fc-web.jpg" ,Al Qadsiah Fc Vs Al Ahli Saudi Fc
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://fanco.vodep39240327.workers.dev/140719_english.m3u8
