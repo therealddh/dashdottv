@@ -87,11 +87,6 @@ jobs:
           (.drmLicense // .license // "") as $drmLicense |
           (.link // .url // .stream_url // .hls // .mpd // "") as $raw_link |
           
-          # CDN REPLACEMENT
-          ($raw_link | gsub("https://jiotvbpkmob.cdn.jio.com/"; "https://jiotvpllive.cdn.jio.com/")) as $link |
-
-          if ($link | length) == 0 then empty else
-
           "#EXTINF:-1 " +
             (if ($tvg_id | length > 0) then "tvg-id=\"\($tvg_id)\" " else "" end) +
             "group-title=\"\($tvg_language)\" " +
