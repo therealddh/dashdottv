@@ -2,24 +2,12 @@
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-vs-Pakistan_ODI_WEB_1080_x_810.jpg" ,Bangladesh Vs Pakistan
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
 https://fanco.vodep39240327.workers.dev/141408_english.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141309_6002_KSO_RRP_FC-Web_1773487500736.jpg" ,Konark Suryas Odisha Vs Royal Riders Punjab
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141309_6002_KSO_RRP_FC-Web_1773487500736.jpg" ,Royal Riders Punjab Vs Konark Suryas Odisha
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
 https://fanco.vodep39240327.workers.dev/141309_english.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141309_6002_KSO_RRP_FC-Web_1773487500736.jpg" ,Konark Suryas Odisha Vs Royal Riders Punjab
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141309_6002_KSO_RRP_FC-Web_1773487500736.jpg" ,Royal Riders Punjab Vs Konark Suryas Odisha
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
 https://fanco.vodep39240327.workers.dev/141309_hindi.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140463_5956_NEUFC_JFC_FC-Web_1772451451365.jpg" ,Northeast United Fc Vs Jamshedpur Fc
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://fanco.vodep39240327.workers.dev/140463_english.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140463_5956_NEUFC_JFC_FC-Web_1772451451365.jpg" ,Northeast United Fc Vs Jamshedpur Fc
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://fanco.vodep39240327.workers.dev/140463_hindi.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140463_5956_NEUFC_JFC_FC-Web_1772451451365.jpg" ,Northeast United Fc Vs Jamshedpur Fc
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://fanco.vodep39240327.workers.dev/140463_malayalam.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140463_5956_NEUFC_JFC_FC-Web_1772451451365.jpg" ,Northeast United Fc Vs Jamshedpur Fc
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://fanco.vodep39240327.workers.dev/140463_bengali.m3u8
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141152_5826_LCL_ARS-W_FC-Web.jpg" ,London City Lionesses Vs Arsenal Women
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
 https://fanco.vodep39240327.workers.dev/141152_english.m3u8
@@ -35,6 +23,18 @@ https://fanco.vodep39240327.workers.dev/141153_english.m3u8
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131101_5427_MRC_ESL_FC-Web.png" ,Rcd Mallorca Vs Rcd Espanyol
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
 https://fanco.vodep39240327.workers.dev/131101_english.m3u8
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140464_5956_KSHI_MCFC_FC-Web_1772451528781.jpg" ,Inter Kashi Fc Vs Mumbai City Fc
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+https://fanco.vodep39240327.workers.dev/140464_english.m3u8
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140464_5956_KSHI_MCFC_FC-Web_1772451528781.jpg" ,Inter Kashi Fc Vs Mumbai City Fc
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+https://fanco.vodep39240327.workers.dev/140464_hindi.m3u8
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140464_5956_KSHI_MCFC_FC-Web_1772451528781.jpg" ,Inter Kashi Fc Vs Mumbai City Fc
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+https://fanco.vodep39240327.workers.dev/140464_malayalam.m3u8
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140464_5956_KSHI_MCFC_FC-Web_1772451528781.jpg" ,Inter Kashi Fc Vs Mumbai City Fc
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+https://fanco.vodep39240327.workers.dev/140464_bengali.m3u8
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Players_fc-web.jpg" ,Main Feed   Day 4
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
 https://fanco.vodep39240327.workers.dev/141148_english.m3u8
