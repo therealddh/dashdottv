@@ -1,10 +1,13 @@
 #EXTM3U
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141371_6007_HT_BB_FC-Web.jpg" ,Betwa Blasters Vs Hindon Titans
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Uganda-tour-of-Namibia-2026_Web_1080_x_810.jpg" ,Eagles Xi Vs Uganda
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://fanco.vodep39240327.workers.dev/141371_english.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png" ,Mumbai Mavericks Vs Punjab Lions
+https://fanco.vodep39240327.workers.dev/141447_english.m3u8
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-web.jpg" ,Marquee Feed   Day 1	
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://fanco.vodep39240327.workers.dev/141214_english.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140819_5979_TPE-W_NK-W_fc-Web.jpg" ,Chinese Taipei Women Vs Dpr Korea Women
+https://fanco.vodep39240327.workers.dev/141389_english.m3u8
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-web.jpg" ,Featured Holes   Day 1	
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://fanco.vodep39240327.workers.dev/140819_english.m3u8
+https://fanco.vodep39240327.workers.dev/141387_english.m3u8
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-web.jpg" ,Main Feed   Day 1	
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+https://fanco.vodep39240327.workers.dev/141386_english.m3u8
