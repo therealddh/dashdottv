@@ -49,14 +49,7 @@ jobs:
 
           echo "📥 Extracting cookie from M3U source..."
           # Fetch and extract. Using -a for grep to handle potential binary characters in source
-          COOKIE_JSON=$(curl -sS --fail \
-            --connect-timeout 15 \
-            --max-time 30 \
-            --retry 3 \
-            --retry-delay 5 \
-            -H "User-Agent: Mozilla/5.0" \
-            -H "Accept: application/json" \
-            "$COOKIE_JSON_URL") || { echo "❌ Failed to fetch cookie JSON"; exit 1; }
+          GLOBAL_COOKIE=$(curl -s "$COOKIE_SOURCE_URL" | grep -oaP '(?<="cookie":")[^"]*' | head -n 1 || echo "")
 
           if [ -z "$GLOBAL_COOKIE" ]; then
             echo "⚠️ Warning: Could not extract cookie from M3U source"
