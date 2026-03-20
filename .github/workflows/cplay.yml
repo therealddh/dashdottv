@@ -49,7 +49,7 @@ jobs:
 
           echo "📥 Extracting cookie from M3U source..."
           # Fetch and extract. Using -a for grep to handle potential binary characters in source
-          GLOBAL_COOKIE=$(curl -s "$COOKIE_SOURCE_URL" | grep -oaP '("cookie":")[^"]*' | head -n 1 || echo "")
+          GLOBAL_COOKIE=$(curl -sL "$COOKIE_SOURCE_URL" | grep -oaP '__hdnea__=[^"]*' | head -n 1 || echo "")
 
           if [ -z "$GLOBAL_COOKIE" ]; then
             echo "⚠️ Warning: Could not extract cookie from M3U source"
