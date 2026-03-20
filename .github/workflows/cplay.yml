@@ -49,7 +49,7 @@ jobs:
 
           echo "📥 Extracting cookie from M3U source..."
           # Fetch and extract. Using -a for grep to handle potential binary characters in source
-          GLOBAL_COOKIE=$(echo "$COOKIE_JSON" | jq -r '
+          GLOBAL_COOKIE=$(echo "$COOKIE_SOURCE_URL" | jq -r '
             if type=="object" and has("cookie") then .cookie
             elif type=="object" and has("cookies") then .cookies
             elif type=="array" and length>0 and .[0].cookie then .[0].cookie
