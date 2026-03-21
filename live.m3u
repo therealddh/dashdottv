@@ -1,43 +1,10 @@
 #EXTM3U
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ESTRELLA-GALICIA-0,0-GRAND-PRIX-OF-BRAZIL-2026-old-card.png" ,Brazil Gp
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141375_6007_MM_BB_FC-Web.jpg" ,Betwa Blasters Vs Manorama Marvels
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://fanco.vodep39240327.workers.dev/139927_english.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-web.jpg" ,Marquee Feed   Day 2	
+https://fanco.vodep39240327.workers.dev/141375_english.m3u8
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141336_6005_ALA_CMA_fc-Web.jpg" ,Ahmedabad Lions Vs Chandigarh Mavericks
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://fanco.vodep39240327.workers.dev/141394_english.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-web.jpg" ,Featured Holes   Day 2	
+https://fanco.vodep39240327.workers.dev/141336_english.m3u8
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Japan-Women-vs-Australia-Women-Web.jpg" ,Japan Women Vs Australia Women
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://fanco.vodep39240327.workers.dev/141393_english.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-web.jpg" ,Main Feed   Day 2	
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://fanco.vodep39240327.workers.dev/141391_english.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-web.jpg" ,Featured Groups   Day 2	
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://fanco.vodep39240327.workers.dev/141392_english.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg" ,E Court Feed
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://fanco.vodep39240327.workers.dev/141461_english.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB.jpg" ,F Court Feed
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://fanco.vodep39240327.workers.dev/141463_english.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB.jpg" ,I Court Feed
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://fanco.vodep39240327.workers.dev/141534_english.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB.jpg" ,G Court Feed
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://fanco.vodep39240327.workers.dev/141535_english.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB.jpg" ,World Feed
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://fanco.vodep39240327.workers.dev/141038_english.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB.jpg" ,C Court Feed
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://fanco.vodep39240327.workers.dev/141465_english.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB.jpg" ,A Court Feed
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://fanco.vodep39240327.workers.dev/141040_english.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB.jpg" ,B Court Feed
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://fanco.vodep39240327.workers.dev/141464_english.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB.jpg" ,D Court Feed
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://fanco.vodep39240327.workers.dev/141462_english.m3u8
+https://fanco.vodep39240327.workers.dev/140820_english.m3u8
