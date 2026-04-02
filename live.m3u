@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141616_6021_JP-U20_IND-U20_FC-Web.png" ,Japan U20 Vs India U20
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://fanco.vodep39240327.workers.dev/141616_english.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141615_6021_DPR-U20_JOR-U20_FC-Web.png" ,Dpr Korea U20 Vs Jordan U20
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://fanco.vodep39240327.workers.dev/141615_english.m3u8
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(13).png" ,Bucharest\, Vs Romania
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
 https://fanco.vodep39240327.workers.dev/141298_english.m3u8
