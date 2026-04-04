@@ -2,9 +2,6 @@
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141647_6025_NAM_OMN_fc-Web.jpg" ,Namibia Vs Oman
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
 https://fanco.vodep39240327.workers.dev/141647_english.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1774680543087/141683_CASACARDS_APP.png" ,Cadiz Vs Cordoba
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://fanco.vodep39240327.workers.dev/141683_english.m3u8
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141618_6021_VIE-U20_THA-U20_FC-Web.png" ,Vietnam U20 Vs Thailand U20
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
 https://fanco.vodep39240327.workers.dev/141618_english.m3u8
@@ -17,3 +14,6 @@ https://fanco.vodep39240327.workers.dev/141283_english.m3u8
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png" ,Antonio\, Vs Texas
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
 https://fanco.vodep39240327.workers.dev/141787_english.m3u8
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png" ,Antonio\, Vs Texas
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+https://fanco.vodep39240327.workers.dev/141790_english.m3u8
