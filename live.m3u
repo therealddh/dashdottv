@@ -1,10 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141433_5489_WAT_CHL_fc-web.jpg" ,Watford F C Vs Charlton Athletic F C
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141435_5489_SWA_MIDD_fc-web.jpg" ,Swansea City A F C Vs Middlesbrough F C
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://fanco.vodep39240327.workers.dev/141433_english.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141434_5489_IPT_BIR_fc-web.jpg" ,Ipswich Town F C Vs Birmingham City F C
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://fanco.vodep39240327.workers.dev/141434_english.m3u8
+https://fanco.vodep39240327.workers.dev/141435_english.m3u8
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg" ,Feed Vs Monte-carlo
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
 https://fanco.vodep39240327.workers.dev/141662_english.m3u8
