@@ -26,63 +26,52 @@ jobs:
 
       - name: Generate cplaytv.m3u
         run: |
+          # 1. Fetch Main JSON
           echo "📥 Fetching main JSON..."
-          MAIN_JSON_URL="${{ secrets.MAIN_JSON_URL }}"
-          COOKIE_JSON_URL="${{ secrets.COOKIE_JSON_URL }}"
-
-          if [ -z "$MAIN_JSON_URL" ]; then
-            echo "❌ MAIN_JSON_URL secret not set"
-            exit 1
-          fi
-
-          if [ -z "$COOKIE_JSON_URL" ]; then
-            echo "❌ COOKIE_JSON_URL secret not set"
-            exit 1
-          fi
-
-          # Fetch Main JSON
-          MAIN_JSON=$(curl -sS --fail \
+          curl -sS --fail \
             --connect-timeout 15 \
             --max-time 30 \
             --retry 3 \
-            --retry-delay 5 \
             -H "User-Agent: plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6" \
-            -H "Accept: application/json,text/plain,*/*" \
-            "$MAIN_JSON_URL") || { echo "❌ Failed to fetch main JSON"; exit 1; }
+            -H "Accept: application/json" \
+            "${{ secrets.MAIN_JSON_URL }}" -o main.json || { echo "❌ Failed to fetch main JSON"; exit 1; }
 
-          # Fetch Cookie JSON
+          # 2. Fetch Cookie JSON
           echo "📥 Fetching cookie JSON..."
-          COOKIE_JSON=$(curl -sS --fail \
+          curl -sS --fail \
             --connect-timeout 15 \
             --max-time 30 \
             --retry 3 \
-            --retry-delay 5 \
-            -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" \
+            -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" \
             -H "Accept: application/json" \
-            "$COOKIE_JSON_URL") || { echo "❌ Failed to fetch cookie JSON"; exit 1; }
+            "${{ secrets.COOKIE_JSON_URL }}" -o cookie.json || { echo "❌ Failed to fetch cookie JSON"; exit 1; }
 
-          # Validate JSON structures
-          echo "$MAIN_JSON" | jq -e . > /dev/null || { echo "❌ Invalid main JSON structure"; exit 1; }
-          
-          if ! echo "$COOKIE_JSON" | jq -e . > /dev/null; then
-            echo "❌ Invalid cookie JSON. The server returned:"
-            echo "------------------------------------------"
-            echo "$COOKIE_JSON" | head -n 20
-            echo "------------------------------------------"
+          # 3. Validate JSON Files
+          if ! jq -e . main.json > /dev/null 2>&1; then
+            echo "❌ MAIN_JSON is invalid. Content:"
+            cat main.json | head -n 10
             exit 1
           fi
 
-          echo "#EXTM3U" > cplaytv.m3u
+          if ! jq -e . cookie.json > /dev/null 2>&1; then
+            echo "❌ COOKIE_JSON is invalid. The server actually sent:"
+            echo "------------------------------------------"
+            cat cookie.json
+            echo -e "\n------------------------------------------"
+            exit 1
+          fi
 
-          GLOBAL_COOKIE=$(echo "$COOKIE_JSON" | jq -r '
+          # 4. Extract Cookie and Generate M3U
+          echo "#EXTM3U" > cplaytv.m3u
+          GLOBAL_COOKIE=$(jq -r '
             if type=="object" and has("cookie") then .cookie
             elif type=="object" and has("cookies") then .cookies
             elif type=="array" and length>0 and ..cookie then ..cookie
             else ""
             end
-          ')
+          ' cookie.json)
 
-          echo "$MAIN_JSON" | jq -r --arg cookie "$GLOBAL_COOKIE" '
+          jq -r --arg cookie "$GLOBAL_COOKIE" '
           def normalize:
             if type == "array" then .
             elif type == "object" then
@@ -138,18 +127,21 @@ jobs:
           ] | join("\n")
 
           end
-          ' >> cplaytv.m3u
+          ' main.json >> cplaytv.m3u
 
+          # 5. Cleanup and Push
           sed -i 's/[[:space:]]*$//' cplaytv.m3u
-
           LINE_COUNT=$(wc -l < cplaytv.m3u)
-          if [ "$LINE_COUNT" -le 1 ]; then
-            echo "❌ cplaytv.m3u is empty"
-            exit 1
-          fi
-
           echo "✅ cplaytv.m3u created ($LINE_COUNT lines)"
 
       - name: Commit & Push
         run: |
-          git config --global user.name "
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add cplaytv.m3u
+          if git diff --cached --quiet; then
+            echo "➡️ No changes — skipping commit"
+            exit 0
+          fi
+          git commit -m "CPLAY Auto-update M3U: $(date -u '+%Y-%m-%d %H:%M')"
+          git push origin main
