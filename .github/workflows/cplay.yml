@@ -31,31 +31,33 @@ jobs:
         run: |
           echo "📥 Fetching source files..."
           
-          UA="plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6"
+          # User-Agent strictly as requested
+          UA="plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"
 
-          # 1. Fetch Main JSON
+          # 1. Fetch Main JSON from secret
           MAIN_JSON=$(curl -sSL --fail \
             --connect-timeout 15 \
             --max-time 30 \
             -H "User-Agent: $UA" \
-            "${{ secrets.MAIN_JSON_URL }}") || exit 1
+            "${{ secrets.MAIN_JSON_URL }}") || { echo "❌ Failed to fetch Main JSON"; exit 1; }
 
-          # 2. Fetch Cookie from the M3U source
-          # We extract the content inside the first "cookie":"..." block found in the file
-          COOKIE_RAW=$(curl -sSL --fail "${{ secrets.COOKIE_JSON_URL }}")
+          # 2. Fetch Cookie Source M3U from secret
+          COOKIE_RAW=$(curl -sSL --fail \
+            --connect-timeout 15 \
+            "${{ secrets.COOKIE_SOURCE_URL }}") || { echo "❌ Failed to fetch Cookie Source"; exit 1; }
           
-          # Extracting cookie from #EXTHTTP:{"cookie":"..."} or similar patterns
+          # Extract the cookie string from the "cookie":"..." pattern
           GLOBAL_COOKIE=$(echo "$COOKIE_RAW" | grep -oP '(?<="cookie":")[^"]*' | head -1)
 
           if [ -z "$GLOBAL_COOKIE" ]; then
-            echo "⚠️ Warning: No cookie found in M3U source. Proceeding without one."
+            echo "⚠️ No cookie found in source. Proceeding with empty cookie."
           else
-            echo "✅ Cookie successfully extracted."
+            echo "✅ Cookie extracted successfully."
           fi
 
+          # 3. Build the M3U
           echo "#EXTM3U" > cplaytv.m3u
 
-          # 3. Generate the Kodi-compatible M3U
           echo "$MAIN_JSON" | jq -r --arg cookie "$GLOBAL_COOKIE" --arg ua "$UA" '
           def normalize:
             if type == "array" then .
@@ -70,7 +72,7 @@ jobs:
           (.name // .title // .channel_name // "Unknown") as $name |
           (.tvg_id // .tvgId // .id // "") as $tvg_id |
           (.tvg_logo // .logo // .icon // "") as $tvg_logo |
-          (.tvg_language // .language // .lang // "") as $tvg_lang |
+          (.tvg_language // .language // .lang // "Sports") as $tvg_lang |
           (.drmScheme // .drm_scheme // "") as $drmScheme |
           (.drmLicense // .license // "") as $drmLicense |
           (.link // .url // .stream_url // .hls // .mpd // "") as $link |
@@ -81,14 +83,23 @@ jobs:
             "group-title=\"\($tvg_lang)\" " +
             (if ($tvg_logo != "") then "tvg-logo=\"\($tvg_logo)\" " else "" end) +
             ",\($name)\n" +
-            (if ($drmScheme == "clearkey") then 
+            
+            # DRM Tags (if available)
+            (if ($drmScheme == "clearkey" or ($drmLicense | contains(":"))) then 
               "#KODIPROP:inputstream.adaptive.license_type=clearkey\n#KODIPROP:inputstream.adaptive.license_key=\($drmLicense)\n" 
             else "" end) +
-            "#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=\($ua|@uri)\(if $cookie != "" then "&Cookie=\($cookie|@uri)" else "" end)\n" +
-            "#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=\($ua|@uri)\(if $cookie != "" then "&Cookie=\($cookie|@uri)" else "" end)\n" +
-            $link + (if $cookie != "" then "|Cookie=\($cookie)&User-Agent=\($ua)" else "|User-Agent=\($ua)" end)
+            
+            # User-Agent Tag (Requirement 1)
+            "#EXTVLCOPT:http-user-agent=\($ua)\n" +
+            
+            # Cookie Tag in JSON format (Requirement 2)
+            (if ($cookie != "") then "#EXTHTTP:{\"cookie\":\"\($cookie)\"}\n" else "" end) +
+            
+            # Final Stream Link
+            $link
           end' >> cplaytv.m3u
 
+          # Cleanup trailing spaces/empty lines
           sed -i '/^[[:space:]]*$/d' cplaytv.m3u
           echo "✅ Finished: $(wc -l < cplaytv.m3u) lines created."
 
@@ -97,10 +108,11 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add cplaytv.m3u
+          
           if git diff --cached --quiet; then
             echo "➡️ No changes to commit."
           else
-            git commit -m "Kodi M3U Sync: $(date -u '+%Y-%m-%d %H:%M')"
+            git commit -m "CPLAY Sync: $(date -u '+%Y-%m-%d %H:%M')"
             git pull --rebase origin main
             git push origin main
           fi
