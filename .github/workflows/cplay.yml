@@ -1,4 +1,4 @@
-name: CPLAY COSTOM TV
+name: CPLAY CUSTOM TV
 
 on:
   schedule:
@@ -24,9 +24,6 @@ jobs:
           ref: main
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Install jq
-        run: sudo apt-get update && sudo apt-get install -y jq
-
       - name: Generate cplaytv.m3u
         run: |
           echo "📥 Fetching main JSON..."
@@ -43,6 +40,7 @@ jobs:
             exit 1
           fi
 
+          # Fetch Main JSON
           MAIN_JSON=$(curl -sS --fail \
             --connect-timeout 15 \
             --max-time 30 \
@@ -52,31 +50,39 @@ jobs:
             -H "Accept: application/json,text/plain,*/*" \
             "$MAIN_JSON_URL") || { echo "❌ Failed to fetch main JSON"; exit 1; }
 
+          # Fetch Cookie JSON
           echo "📥 Fetching cookie JSON..."
           COOKIE_JSON=$(curl -sS --fail \
             --connect-timeout 15 \
             --max-time 30 \
             --retry 3 \
             --retry-delay 5 \
-            -H "User-Agent: Mozilla/5.0" \
+            -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" \
             -H "Accept: application/json" \
             "$COOKIE_JSON_URL") || { echo "❌ Failed to fetch cookie JSON"; exit 1; }
 
-          echo "$MAIN_JSON" | jq -e . > /dev/null || { echo "❌ Invalid main JSON"; exit 1; }
-          echo "$COOKIE_JSON" | jq -e . > /dev/null || { echo "❌ Invalid cookie JSON"; exit 1; }
+          # Validate JSON structures
+          echo "$MAIN_JSON" | jq -e . > /dev/null || { echo "❌ Invalid main JSON structure"; exit 1; }
+          
+          if ! echo "$COOKIE_JSON" | jq -e . > /dev/null; then
+            echo "❌ Invalid cookie JSON. The server returned:"
+            echo "------------------------------------------"
+            echo "$COOKIE_JSON" | head -n 20
+            echo "------------------------------------------"
+            exit 1
+          fi
 
           echo "#EXTM3U" > cplaytv.m3u
 
           GLOBAL_COOKIE=$(echo "$COOKIE_JSON" | jq -r '
             if type=="object" and has("cookie") then .cookie
             elif type=="object" and has("cookies") then .cookies
-            elif type=="array" and length>0 and .[0].cookie then .[0].cookie
+            elif type=="array" and length>0 and ..cookie then ..cookie
             else ""
             end
           ')
 
           echo "$MAIN_JSON" | jq -r --arg cookie "$GLOBAL_COOKIE" '
-
           def normalize:
             if type == "array" then .
             elif type == "object" then
@@ -112,7 +118,7 @@ jobs:
 
           (if ($drmScheme == "clearkey") and ($drmLicense | test("^[^:]+:[^:]+$")) then
             "#KODIPROP:inputstream.adaptive.license_type=clearkey\n#KODIPROP:inputstream.adaptive.license_key=" +
-            (($drmLicense | split(":"))[0] + ":" + ($drmLicense | split(":"))[1])
+            (($drmLicense | split(":")) + ":" + ($drmLicense | split(":")))
           else "" end) as $drm |
 
           "#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69" as $ua |
@@ -146,15 +152,4 @@ jobs:
 
       - name: Commit & Push
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-          git add cplaytv.m3u
-
-          if git diff --cached --quiet; then
-            echo "➡️ No changes — skipping commit"
-            exit 0
-          fi
-
-          git commit -m "CPLAY Auto-update M3U: $(date -u '+%Y-%m-%d %H:%M')"
-          git push origin main
+          git config --global user.name "
