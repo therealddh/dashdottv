@@ -44,7 +44,7 @@ jobs:
           # 2. Fetch Cookie Source M3U from secret
           COOKIE_RAW=$(curl -sSL --fail \
             --connect-timeout 15 \
-            "${{ secrets.COOKIE_SOURCE_URL }}") || { echo "❌ Failed to fetch Cookie Source"; exit 1; }
+            "${{ secrets.COOKIE }}") || { echo "❌ Failed to fetch Cookie Source"; exit 1; }
           
           # Extract the cookie string from the "cookie":"..." pattern
           GLOBAL_COOKIE=$(echo "$COOKIE_RAW" | grep -oP '(?<="cookie":")[^"]*' | head -1)
