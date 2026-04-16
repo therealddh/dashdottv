@@ -32,7 +32,7 @@ jobs:
           set -e
 
           MAIN_URL="${{ secrets.JIO_JSON_URL }}"
-          COOKIE_URL="${{ secrets.COOKIE_SOURSE_URL }}"
+          COOKIE_URL="${{ secrets.COOKIE_SOURCE_URL }}"
 
           echo "📥 Fetching MAIN source..."
           MAIN_DATA=$(curl -sS --fail "$MAIN_URL")
