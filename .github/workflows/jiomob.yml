@@ -33,7 +33,7 @@ jobs:
 
           echo "📥 Fetching main source..."
           MAIN_URL="${{ secrets.JIO_JSON_URL }}"
-          COOKIE_JSON_URL="${{ secrets.COOKIE_JSON_URL }}"
+          COOKIE_JSON_URL="${{ secrets.COOKIE_SOURCE_URL }}"
 
           if [ -z "$MAIN_URL" ]; then
             echo "❌ MAIN_URL not set"
