@@ -132,24 +132,24 @@ jobs:
           ] | join("\n")
 
           end
-          ' >> cplaytv.m3u
+          ' >> jiomob.m3u
 
-          sed -i 's/[[:space:]]*$//' cplaytv.m3u
+          sed -i 's/[[:space:]]*$//' jiomob.m3u
 
           LINE_COUNT=$(wc -l < cplaytv.m3u)
           if [ "$LINE_COUNT" -le 1 ]; then
-            echo "❌ cplaytv.m3u is empty"
+            echo "❌ jiomob.m3u is empty"
             exit 1
           fi
 
-          echo "✅ cplaytv.m3u created ($LINE_COUNT lines)"
+          echo "✅ jiomob.m3u created ($LINE_COUNT lines)"
 
       - name: Commit & Push
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add cplaytv.m3u
+          git add jiomob.m3u
 
           if git diff --cached --quiet; then
             echo "➡️ No changes — skipping commit"
