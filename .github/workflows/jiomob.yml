@@ -20,9 +20,6 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-        with:
-          ref: main
-          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Install tools
         run: sudo apt-get update && sudo apt-get install -y jq
@@ -34,24 +31,19 @@ jobs:
           MAIN_URL="${{ secrets.JIO_JSON_URL }}"
           COOKIE_URL="${{ secrets.COOKIE_SOURCE_URL }}"
 
-          echo "📥 Fetching MAIN source..."
-          MAIN_DATA=$(curl -sS --fail "$MAIN_URL")
-
-          echo "📥 Fetching COOKIE source..."
-          COOKIE_DATA=$(curl -sS --fail "$COOKIE_URL")
+          MAIN_DATA=$(curl -sS "$MAIN_URL")
+          COOKIE_DATA=$(curl -sS "$COOKIE_URL")
 
           echo "#EXTM3U" > jiomob.m3u
 
-          ############################################
-          # 🍪 ONLY USE COOKIE_SOURSE_URL (NO MAIN COOKIE)
-          ############################################
-
+          ######################################
+          # COOKIE ONLY
+          ######################################
           GLOBAL_COOKIE=""
 
           if echo "$COOKIE_DATA" | jq -e . >/dev/null 2>&1; then
             GLOBAL_COOKIE=$(echo "$COOKIE_DATA" | jq -r '
               if type=="object" and has("cookie") then .cookie
-              elif type=="object" and has("cookies") then .cookies
               elif type=="array" and length>0 and .[0].cookie then .[0].cookie
               else ""
               end
@@ -60,50 +52,33 @@ jobs:
             GLOBAL_COOKIE=$(echo "$COOKIE_DATA" | grep -oP '#EXTHTTP:\K.*' | head -n1 | jq -r '.cookie // empty')
           fi
 
-          echo "🍪 COOKIE ONLY FROM COOKIE SOURCE"
-          echo "Length: ${#GLOBAL_COOKIE}"
-
-          ############################################
-          # 📺 MAIN PROCESSING (IGNORE ANY COOKIE INSIDE MAIN)
-          ############################################
+          ######################################
+          # MAIN PROCESSING
+          ######################################
 
           if echo "$MAIN_DATA" | jq -e . >/dev/null 2>&1; then
-
-            echo "Main = JSON"
 
             echo "$MAIN_DATA" | jq -r --arg cookie "$GLOBAL_COOKIE" '
 
             def normalize:
-              if type == "array" then .
-              elif type == "object" then
-                if has("channels") then .channels
-                elif has("data") then .data
-                elif has("list") then .list
-                else []
-                end
+              if type=="array" then .
+              elif type=="object" then (.channels // .data // .list // [])
               else []
               end;
 
-            normalize |
-            map(select(type=="object"))[] |
+            normalize[] |
 
             (.name // .title // "Unknown") as $name |
-            (.tvg_logo // .logo // "") as $logo |
-            (.tvg_id // "") as $id |
-            (.tvg_language // "") as $lang |
-            (.drmScheme // "") as $drm |
-            (.drmLicense // "") as $lic |
             (.link // .url // .stream_url // "") as $link |
+
+            (.drmScheme // .drm_scheme // "") as $drm |
+            (.drmLicense // .license // "") as $lic |
 
             if ($link|length)==0 then empty else
 
-            "#EXTINF:-1 " +
-              (if $id != "" then "tvg-id=\"\($id)\" " else "" end) +
-              (if $logo != "" then "tvg-logo=\"\($logo)\" " else "" end) +
-              "group-title=\"\($lang)\"," +
-              ($name | gsub(",";"\\,")) ,
+            "#EXTINF:-1," + $name,
 
-            # DRM ONLY FROM MAIN (optional keep)
+            # ✔ PASS THROUGH CLEARKEY ONLY IF PROVIDED
             (if ($drm=="clearkey" and ($lic|test("^[^:]+:[^:]+$"))) then
               "#KODIPROP:inputstream.adaptive.license_type=clearkey\n" +
               "#KODIPROP:inputstream.adaptive.license_key=" + $lic
@@ -111,7 +86,6 @@ jobs:
 
             "#EXTVLCOPT:http-user-agent=plaYtv",
 
-            # 🔐 ALWAYS USE COOKIE FROM COOKIE SOURCE ONLY
             (if ($cookie|length>0) then
               "#EXTHTTP:" + ({cookie:$cookie}|@json)
             else empty end),
@@ -123,53 +97,28 @@ jobs:
 
           else
 
-            echo "Main = M3U (IGNORE ALL EXTHTTP INSIDE MAIN)"
-
             while IFS= read -r line; do
-
-              if [[ "$line" == \#EXTINF* ]]; then
-                echo "$line" >> jiomob.m3u
-
-              elif [[ "$line" == \#EXTVLCOPT* ]]; then
+              if [[ "$line" == \#EXTINF* || "$line" == \#KODIPROP* || "$line" == \#EXTVLCOPT* ]]; then
                 echo "$line" >> jiomob.m3u
 
               elif [[ "$line" == http* ]]; then
-
-                # ALWAYS inject cookie from COOKIE SOURCE
                 if [ -n "$GLOBAL_COOKIE" ]; then
                   echo "#EXTHTTP:$(jq -nc --arg c "$GLOBAL_COOKIE" '{cookie:$c}')" >> jiomob.m3u
                 fi
-
                 echo "$line" >> jiomob.m3u
               fi
-
             done <<< "$MAIN_DATA"
 
           fi
 
-          ############################################
-          # ✅ VALIDATION
-          ############################################
+          echo "DONE"
 
-          COUNT=$(wc -l < jiomob.m3u)
-          if [ "$COUNT" -le 1 ]; then
-            echo "❌ Empty output"
-            exit 1
-          fi
-
-          echo "✅ DONE ($COUNT lines)"
-
-      - name: Commit & Push
+      - name: Commit
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
+          git config user.name github-actions
+          git config user.email github-actions@github.com
           git add jiomob.m3u
 
-          if git diff --cached --quiet; then
-            echo "No changes"
-            exit 0
-          fi
-
-          git commit -m "Auto update M3U $(date -u '+%Y-%m-%d %H:%M')"
-          git push origin main
+          git diff --cached --quiet && exit 0
+          git commit -m "auto update"
+          git push
