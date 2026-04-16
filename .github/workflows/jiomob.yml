@@ -27,7 +27,7 @@ jobs:
       - name: Install jq
         run: sudo apt-get update && sudo apt-get install -y jq
 
-      - name: Generate cplaytv.m3u
+      - name: Generate jiomob.m3u
         run: |
           echo "📥 Fetching main JSON..."
           MAIN_JSON_URL="${{ secrets.JIO_JSON_URL }}"
@@ -65,7 +65,7 @@ jobs:
           echo "$MAIN_JSON" | jq -e . > /dev/null || { echo "❌ Invalid main JSON"; exit 1; }
           echo "$COOKIE_JSON" | jq -e . > /dev/null || { echo "❌ Invalid cookie JSON"; exit 1; }
 
-          echo "#EXTM3U" > cplaytv.m3u
+          echo "#EXTM3U" > jiomob.m3u
 
           GLOBAL_COOKIE=$(echo "$COOKIE_JSON" | jq -r '
             if type=="object" and has("cookie") then .cookie
@@ -117,10 +117,9 @@ jobs:
 
           "#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69" as $ua |
 
+          # ✅ FIXED COOKIE LINE (SAFE JSON)
           (if ($cookie | length > 0) then
-            "#EXTHTTP:{\"cookie\":\"" +
-            ($cookie | gsub("\n"; "") | gsub("\""; "\\\"")) +
-            "\"}"
+            "#EXTHTTP:" + ({cookie: $cookie} | @json)
           else "" end) as $cookie_line |
 
           [
@@ -136,7 +135,7 @@ jobs:
 
           sed -i 's/[[:space:]]*$//' jiomob.m3u
 
-          LINE_COUNT=$(wc -l < cplaytv.m3u)
+          LINE_COUNT=$(wc -l < jiomob.m3u)
           if [ "$LINE_COUNT" -le 1 ]; then
             echo "❌ jiomob.m3u is empty"
             exit 1
@@ -156,5 +155,5 @@ jobs:
             exit 0
           fi
 
-          git commit -m "CPLAY Auto-update M3U: $(date -u '+%Y-%m-%d %H:%M')"
+          git commit -m "JIOMOB Auto-update M3U: $(date -u '+%Y-%m-%d %H:%M')"
           git push origin main
