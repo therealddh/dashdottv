@@ -31,7 +31,7 @@ jobs:
         run: |
           echo "📥 Fetching main JSON..."
           MAIN_JSON_URL="${{ secrets.JIO_JSON_URL }}"
-          COOKIE_JSON_URL="${{ secrets.COOKIE_JSON_URL }}"
+          COOKIE_JSON_URL="${{ secrets.COOKIE_SOURCE_URL }}"
 
           if [ -z "$MAIN_JSON_URL" ]; then
             echo "❌ MAIN_JSON_URL secret not set"
