@@ -43,8 +43,9 @@ jobs:
           echo "#EXTM3U" > jiomob.m3u
 
           ############################################
-          # 🍪 COOKIE EXTRACT (JSON or M3U)
+          # 🍪 ONLY USE COOKIE_SOURSE_URL (NO MAIN COOKIE)
           ############################################
+
           GLOBAL_COOKIE=""
 
           if echo "$COOKIE_DATA" | jq -e . >/dev/null 2>&1; then
@@ -59,10 +60,11 @@ jobs:
             GLOBAL_COOKIE=$(echo "$COOKIE_DATA" | grep -oP '#EXTHTTP:\K.*' | head -n1 | jq -r '.cookie // empty')
           fi
 
-          echo "🍪 Cookie length: ${#GLOBAL_COOKIE}"
+          echo "🍪 COOKIE ONLY FROM COOKIE SOURCE"
+          echo "Length: ${#GLOBAL_COOKIE}"
 
           ############################################
-          # 📺 MAIN PROCESSING
+          # 📺 MAIN PROCESSING (IGNORE ANY COOKIE INSIDE MAIN)
           ############################################
 
           if echo "$MAIN_DATA" | jq -e . >/dev/null 2>&1; then
@@ -85,15 +87,13 @@ jobs:
             normalize |
             map(select(type=="object"))[] |
 
-            (.name // .title // .channel_name // "Unknown") as $name |
+            (.name // .title // "Unknown") as $name |
             (.tvg_logo // .logo // "") as $logo |
             (.tvg_id // "") as $id |
             (.tvg_language // "") as $lang |
-
             (.drmScheme // "") as $drm |
             (.drmLicense // "") as $lic |
-
-            (.link // .url // .stream_url // .mpd // .hls // "") as $link |
+            (.link // .url // .stream_url // "") as $link |
 
             if ($link|length)==0 then empty else
 
@@ -103,7 +103,7 @@ jobs:
               "group-title=\"\($lang)\"," +
               ($name | gsub(",";"\\,")) ,
 
-            # 🔐 DRM FROM MAIN JSON
+            # DRM ONLY FROM MAIN (optional keep)
             (if ($drm=="clearkey" and ($lic|test("^[^:]+:[^:]+$"))) then
               "#KODIPROP:inputstream.adaptive.license_type=clearkey\n" +
               "#KODIPROP:inputstream.adaptive.license_key=" + $lic
@@ -111,7 +111,7 @@ jobs:
 
             "#EXTVLCOPT:http-user-agent=plaYtv",
 
-            # 🍪 COOKIE
+            # 🔐 ALWAYS USE COOKIE FROM COOKIE SOURCE ONLY
             (if ($cookie|length>0) then
               "#EXTHTTP:" + ({cookie:$cookie}|@json)
             else empty end),
@@ -123,38 +123,24 @@ jobs:
 
           else
 
-            echo "Main = M3U (SMART MODE)"
-
-            HAS_COOKIE=0
-            HAS_DRM=0
+            echo "Main = M3U (IGNORE ALL EXTHTTP INSIDE MAIN)"
 
             while IFS= read -r line; do
 
               if [[ "$line" == \#EXTINF* ]]; then
                 echo "$line" >> jiomob.m3u
 
-              elif [[ "$line" == \#KODIPROP* ]]; then
-                echo "$line" >> jiomob.m3u
-                HAS_DRM=1
-
               elif [[ "$line" == \#EXTVLCOPT* ]]; then
                 echo "$line" >> jiomob.m3u
 
-              elif [[ "$line" == \#EXTHTTP* ]]; then
-                echo "$line" >> jiomob.m3u
-                HAS_COOKIE=1
-
               elif [[ "$line" == http* ]]; then
 
-                # Inject cookie if missing
-                if [ "$HAS_COOKIE" -eq 0 ] && [ -n "$GLOBAL_COOKIE" ]; then
+                # ALWAYS inject cookie from COOKIE SOURCE
+                if [ -n "$GLOBAL_COOKIE" ]; then
                   echo "#EXTHTTP:$(jq -nc --arg c "$GLOBAL_COOKIE" '{cookie:$c}')" >> jiomob.m3u
                 fi
 
                 echo "$line" >> jiomob.m3u
-
-                HAS_COOKIE=0
-                HAS_DRM=0
               fi
 
             done <<< "$MAIN_DATA"
@@ -165,15 +151,13 @@ jobs:
           # ✅ VALIDATION
           ############################################
 
-          sed -i 's/[[:space:]]*$//' jiomob.m3u
-
           COUNT=$(wc -l < jiomob.m3u)
           if [ "$COUNT" -le 1 ]; then
             echo "❌ Empty output"
             exit 1
           fi
 
-          echo "✅ SUCCESS ($COUNT lines created)"
+          echo "✅ DONE ($COUNT lines)"
 
       - name: Commit & Push
         run: |
