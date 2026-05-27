@@ -24,14 +24,14 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Sync Cookies
+      - name: Create jiotvplus.m3u8
         run: |
           python << 'PY'
           import re
           from pathlib import Path
 
           # --------------------------------------------------
-          # FIND PLAYLIST FILES
+          # FIND INPUT FILES
           # --------------------------------------------------
 
           playlist_files = (
@@ -46,7 +46,7 @@ jobs:
 
               name = f.name.lower()
 
-              if 'jiotv' in name:
+              if 'jiotv' in name and 'plus' not in name:
                   jiotv_file = f
 
               elif 'cplay' in name:
@@ -58,8 +58,11 @@ jobs:
           if not cplay_file:
               raise Exception('CPlay playlist not found')
 
+          output_file = Path('jiotvplus.m3u8')
+
           print(f'JioTV File : {jiotv_file}')
           print(f'CPlay File : {cplay_file}')
+          print(f'Output File : {output_file}')
 
           # --------------------------------------------------
           # READ FILES
@@ -92,7 +95,7 @@ jobs:
 
                   channel_name = match.group(1).strip().lower()
 
-                  # Search next lines
+                  # SEARCH NEXT LINES
                   for j in range(i + 1, min(i + 10, len(jiotv_lines))):
 
                       stream_line = jiotv_lines[j]
@@ -118,7 +121,7 @@ jobs:
           print(f'Total Cookies Found: {len(jio_cookies)}')
 
           # --------------------------------------------------
-          # UPDATE CPLAY PLAYLIST
+          # CREATE OUTPUT PLAYLIST
           # --------------------------------------------------
 
           updated_lines = []
@@ -153,7 +156,7 @@ jobs:
                           if current.startswith('#EXTINF'):
                               break
 
-                          # Remove old cookie
+                          # REMOVE OLD COOKIE
                           if current.startswith('#EXTHTTP:'):
                               i += 1
                               continue
@@ -199,25 +202,26 @@ jobs:
               i += 1
 
           # --------------------------------------------------
-          # SAVE UPDATED FILE
+          # SAVE OUTPUT FILE
           # --------------------------------------------------
 
-          cplay_file.write_text(
+          output_file.write_text(
               '\n'.join(updated_lines),
               encoding='utf-8'
           )
 
           print(f'Updated Channels: {updated_channels}')
+          print('Created: jiotvplus.m3u8')
 
           PY
 
-      - name: Commit Changes
+      - name: Commit Output
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add *.m3u *.m3u8
+          git add .
 
-          git diff --cached --quiet || git commit -m "Updated JioTV cookies"
+          git diff --cached --quiet || git commit -m "Updated jiotvplus.m3u8"
 
           git push
