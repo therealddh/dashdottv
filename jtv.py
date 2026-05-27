@@ -108,13 +108,13 @@ def generate_m3u_from_url(jio_url, meta_file, output_file):
                 '#KODIPROP:inputstream.adaptive.license_type=clearkey\n'
                 if "Asianet HD" in name:
                    f'#KODIPROP:inputstream.adaptive.license_key=438370e98be35e618650b4fde6f7bcee:8af903db53e7b69e6e1c9a04711ebd62\n'
-                if "Asianet Movies" in name:
+                elif "Asianet Movies" in name:
                    f'#KODIPROP:inputstream.adaptive.license_key=ca83419dfa1b56f794032b271b8f2c84:d592520eea361507a63c94bff799dfb6\n'
-                if "Asianet Movies HD" in name:
+                elif "Asianet Movies HD" in name:
                    f'#KODIPROP:inputstream.adaptive.license_key=318d6d7df2c155b3b15247f320bad160:c06652ae93c16814dad7008e84c7171d\n'
-                if "Asianet Plus" in name:
+                elif "Asianet Plus" in name:
                    f'#KODIPROP:inputstream.adaptive.license_key=90ffee26840f5b329f5f9c978d30bb41:4cbb95492e7b342a772883f221243127\n'
-                if "Vijay Super HD" in name:
+                elif "Vijay Super HD" in name:
                    f'#KODIPROP:inputstream.adaptive.license_key=4058ba890768578093e4d30bc957b85c:42d335cfebf7292487522ac572d706a8\n'
                 else:
                     f'#KODIPROP:inputstream.adaptive.license_key=https://temp.webplay.fun/jtv/key.php?id={channel_id}\n'
