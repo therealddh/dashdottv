@@ -16,7 +16,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout Repository
         uses: actions/checkout@v5
 
       - name: Setup Python
@@ -24,72 +24,136 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Update Cookies
+      - name: Sync Cookies
         run: |
           python << 'PY'
           import re
           from pathlib import Path
 
-          jiotv_file = Path('jiotv.m3u')
-          cplay_file = Path('cplaytv.m3u')
+          # --------------------------------------------------
+          # FIND PLAYLIST FILES
+          # --------------------------------------------------
 
-          jiotv = jiotv_file.read_text(encoding='utf-8', errors='ignore').splitlines()
-          cplay = cplay_file.read_text(encoding='utf-8', errors='ignore').splitlines()
+          playlist_files = (
+              list(Path('.').glob('*.m3u')) +
+              list(Path('.').glob('*.m3u8'))
+          )
+
+          jiotv_file = None
+          cplay_file = None
+
+          for f in playlist_files:
+
+              name = f.name.lower()
+
+              if 'jiotv' in name:
+                  jiotv_file = f
+
+              elif 'cplay' in name:
+                  cplay_file = f
+
+          if not jiotv_file:
+              raise Exception('JioTV playlist not found')
+
+          if not cplay_file:
+              raise Exception('CPlay playlist not found')
+
+          print(f'JioTV File : {jiotv_file}')
+          print(f'CPlay File : {cplay_file}')
 
           # --------------------------------------------------
-          # Extract channel -> cookie from JioTV playlist
+          # READ FILES
           # --------------------------------------------------
+
+          jiotv_lines = jiotv_file.read_text(
+              encoding='utf-8',
+              errors='ignore'
+          ).splitlines()
+
+          cplay_lines = cplay_file.read_text(
+              encoding='utf-8',
+              errors='ignore'
+          ).splitlines()
+
+          # --------------------------------------------------
+          # EXTRACT COOKIES FROM JIOTV
+          # --------------------------------------------------
+
           jio_cookies = {}
 
-          for i, line in enumerate(jiotv):
+          for i, line in enumerate(jiotv_lines):
+
               if line.startswith('#EXTINF'):
+
                   match = re.search(r',(.+)$', line)
+
                   if not match:
                       continue
 
                   channel_name = match.group(1).strip().lower()
 
-                  for j in range(i + 1, min(i + 10, len(jiotv))):
-                      stream_line = jiotv[j]
+                  # Search next lines
+                  for j in range(i + 1, min(i + 10, len(jiotv_lines))):
 
-                      if 'cookie=' in stream_line:
-                          cookie_match = re.search(r'cookie=([^|]+.*)$', stream_line)
+                      stream_line = jiotv_lines[j]
+
+                      if 'cookie=' in stream_line.lower():
+
+                          cookie_match = re.search(
+                              r'cookie=([^|]+.*)$',
+                              stream_line,
+                              re.IGNORECASE
+                          )
 
                           if cookie_match:
+
                               cookie = cookie_match.group(1).strip()
+
                               jio_cookies[channel_name] = cookie
+
+                              print(f'COOKIE FOUND: {channel_name}')
+
                           break
 
-          print(f'Found {len(jio_cookies)} cookies')
+          print(f'Total Cookies Found: {len(jio_cookies)}')
 
           # --------------------------------------------------
-          # Update cplay.m3u
+          # UPDATE CPLAY PLAYLIST
           # --------------------------------------------------
-          updated = []
+
+          updated_lines = []
+
           i = 0
           updated_channels = 0
 
-          while i < len(cplay):
-              line = cplay[i]
+          while i < len(cplay_lines):
+
+              line = cplay_lines[i]
 
               if line.startswith('#EXTINF'):
+
                   match = re.search(r',(.+)$', line)
 
                   if match:
+
                       channel_name = match.group(1).strip().lower()
+
                       cookie = jio_cookies.get(channel_name)
 
-                      updated.append(line)
+                      updated_lines.append(line)
+
                       i += 1
 
                       block = []
 
-                      while i < len(cplay):
-                          current = cplay[i]
+                      while i < len(cplay_lines):
+
+                          current = cplay_lines[i]
 
                           if current.startswith('#EXTINF'):
                               break
 
+                          # Remove old cookie
                           if current.startswith('#EXTHTTP:'):
                               i += 1
                               continue
@@ -102,32 +166,49 @@ jobs:
                           i += 1
 
                       new_block = []
+
                       inserted = False
 
                       for item in block:
-                          if not inserted and item.startswith('http'):
+
+                          if (
+                              not inserted and
+                              item.startswith('http')
+                          ):
+
                               if cookie:
+
                                   new_block.append(
                                       f'#EXTHTTP:{{"cookie":"{cookie}"}}'
                                   )
+
                                   updated_channels += 1
+
+                                  print(f'UPDATED: {channel_name}')
 
                               inserted = True
 
                           new_block.append(item)
 
-                      updated.extend(new_block)
+                      updated_lines.extend(new_block)
+
                       continue
 
-              updated.append(line)
+              updated_lines.append(line)
+
               i += 1
 
+          # --------------------------------------------------
+          # SAVE UPDATED FILE
+          # --------------------------------------------------
+
           cplay_file.write_text(
-              '\n'.join(updated),
+              '\n'.join(updated_lines),
               encoding='utf-8'
           )
 
-          print(f'Updated {updated_channels} channels')
+          print(f'Updated Channels: {updated_channels}')
+
           PY
 
       - name: Commit Changes
@@ -135,7 +216,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add cplay.m3u
+          git add *.m3u *.m3u8
 
           git diff --cached --quiet || git commit -m "Updated JioTV cookies"
 
