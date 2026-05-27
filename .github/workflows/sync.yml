@@ -31,7 +31,7 @@ jobs:
           from pathlib import Path
 
           jiotv_file = Path('jiotv.m3u')
-          cplay_file = Path('cplay.m3u')
+          cplay_file = Path('cplaytv.m3u')
 
           jiotv = jiotv_file.read_text(encoding='utf-8', errors='ignore').splitlines()
           cplay = cplay_file.read_text(encoding='utf-8', errors='ignore').splitlines()
