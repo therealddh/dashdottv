@@ -8,8 +8,12 @@ on:
     branches:
       - main
     paths:
-      - 'jtv.py'
+      - 'jtv+.py' # Updated to match the script name in your run step
       - 'meta.txt'
+
+# Opt into Node 24 to suppress deprecation warnings
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 jobs:
   update-playlist:
