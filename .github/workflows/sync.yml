@@ -1,0 +1,230 @@
+# GitHub Actions Workflow — Copy JioTV Cookies to CPlay Playlist
+
+This workflow:
+
+* Reads `jiotv.m3u`
+* Extracts channel name + cookie
+* Matches the same channel name inside `cplay.m3u`
+* Replaces/adds the `#EXTHTTP:{"cookie":"..."}` line in `cplay.m3u`
+* Commits the updated playlist back to GitHub automatically
+
+---
+
+## Folder Structure
+
+```text
+repo/
+├── .github/
+│   └── workflows/
+│       └── sync.yml
+├── jiotv.m3u
+└── cplay.m3u
+```
+
+---
+
+## `.github/workflows/sync.yml`
+
+```yaml
+name: Sync JioTV Cookies
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '*/30 * * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Update Cookies
+        run: |
+          python << 'PY'
+          import re
+          from pathlib import Path
+
+          jiotv_file = Path('jiotv.m3u')
+          cplay_file = Path('cplay.m3u')
+
+          jiotv = jiotv_file.read_text(encoding='utf-8', errors='ignore').splitlines()
+          cplay = cplay_file.read_text(encoding='utf-8', errors='ignore').splitlines()
+
+          # --------------------------------------------------
+          # Extract channel -> cookie from JioTV playlist
+          # --------------------------------------------------
+          jio_cookies = {}
+
+          for i, line in enumerate(jiotv):
+              if line.startswith('#EXTINF'):
+                  match = re.search(r',(.+)$', line)
+                  if not match:
+                      continue
+
+                  channel_name = match.group(1).strip().lower()
+
+                  # Find stream url with cookie
+                  for j in range(i + 1, min(i + 10, len(jiotv))):
+                      stream_line = jiotv[j]
+
+                      if 'cookie=' in stream_line:
+                          cookie_match = re.search(r'cookie=([^|]+.*)$', stream_line)
+
+                          if cookie_match:
+                              cookie = cookie_match.group(1).strip()
+                              jio_cookies[channel_name] = cookie
+                          break
+
+          print(f'Found {len(jio_cookies)} cookies from JioTV')
+
+          # --------------------------------------------------
+          # Update CPlay playlist cookies
+          # --------------------------------------------------
+          updated = []
+          i = 0
+          updated_channels = 0
+
+          while i < len(cplay):
+              line = cplay[i]
+
+              if line.startswith('#EXTINF'):
+                  match = re.search(r',(.+)$', line)
+
+                  if match:
+                      channel_name = match.group(1).strip().lower()
+                      cookie = jio_cookies.get(channel_name)
+
+                      updated.append(line)
+                      i += 1
+
+                      # Copy remaining lines until URL
+                      temp_block = []
+
+                      while i < len(cplay):
+                          current = cplay[i]
+
+                          # Stop at next channel
+                          if current.startswith('#EXTINF'):
+                              break
+
+                          # Remove old EXTHTTP cookie line
+                          if current.startswith('#EXTHTTP:'):
+                              i += 1
+                              continue
+
+                          temp_block.append(current)
+
+                          # URL line
+                          if current.startswith('http'):
+                              break
+
+                          i += 1
+
+                      # Add new cookie before URL
+                      inserted = False
+                      new_block = []
+
+                      for item in temp_block:
+                          if not inserted and item.startswith('http'):
+                              if cookie:
+                                  new_block.append(f'#EXTHTTP:{{"cookie":"{cookie}"}}')
+                                  updated_channels += 1
+                              inserted = True
+
+                          new_block.append(item)
+
+                      updated.extend(new_block)
+                      continue
+
+              updated.append(line)
+              i += 1
+
+          cplay_file.write_text('\n'.join(updated), encoding='utf-8')
+
+          print(f'Updated {updated_channels} channels')
+          PY
+
+      - name: Commit Changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add cplay.m3u
+
+          git diff --cached --quiet || git commit -m "Updated JioTV cookies"
+
+          git push
+```
+
+---
+
+## How Matching Works
+
+Example:
+
+### JioTV
+
+```text
+#EXTINF:-1,10 TV
+https://example.mpd|cookie=abc123
+```
+
+### CPlay
+
+```text
+#EXTINF:-1,10 TV
+#EXTHTTP:{"cookie":"oldcookie"}
+https://example.mpd
+```
+
+After workflow:
+
+```text
+#EXTINF:-1,10 TV
+#EXTHTTP:{"cookie":"abc123"}
+https://example.mpd
+```
+
+---
+
+## Important
+
+* Channel names must match exactly
+* Matching is case-insensitive
+* Old cookie lines are automatically replaced
+* If a channel exists in CPlay but not in JioTV, it is skipped
+* Runs every 30 minutes automatically
+
+---
+
+## Upload to GitHub
+
+1. Create a GitHub repo
+2. Upload:
+
+   * `jiotv.m3u`
+   * `cplay.m3u`
+3. Create:
+
+```text
+.github/workflows/sync.yml
+```
+
+4. Paste workflow
+5. Commit
+6. Go to:
+
+```text
+GitHub → Actions → Sync JioTV Cookies → Run workflow
+```
