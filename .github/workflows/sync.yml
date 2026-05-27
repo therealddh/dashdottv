@@ -8,9 +8,6 @@ on:
 permissions:
   contents: write
 
-env:
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
-
 jobs:
   sync:
     runs-on: ubuntu-latest
@@ -24,41 +21,32 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Sync Cookies
+      - name: Build JioTV Plus Playlist
         run: |
           python << 'PY'
           import re
           from pathlib import Path
 
-          def normalize(name):
-              return re.sub(r'\s+', ' ', name).strip().lower()
-
-          # --------------------------------------------------
-          # FIND FILE
-          # --------------------------------------------------
+          def norm(s):
+              return re.sub(r'[^a-z0-9]+', '', s.lower())
 
           file = next(Path('.').glob('jiotv*.m3u*'), None)
-
           if not file:
               raise Exception("JioTV file not found")
 
           lines = file.read_text(errors='ignore').splitlines()
 
-          # --------------------------------------------------
-          # EXTRACT COOKIES (IF ANY)
-          # --------------------------------------------------
-
-          channel_data = {}
+          cookie_map = {}
 
           for i, line in enumerate(lines):
 
               if line.startswith('#EXTINF'):
 
-                  match = re.search(r',(.+)$', line)
-                  if not match:
+                  m = re.search(r',(.+)$', line)
+                  if not m:
                       continue
 
-                  channel = normalize(match.group(1))
+                  name = norm(m.group(1))
 
                   cookie = None
 
@@ -67,26 +55,22 @@ jobs:
                       l = lines[j].strip()
 
                       if 'cookie=' in l.lower():
-                          m = re.search(r'cookie=([^&|\s]+)', l, re.IGNORECASE)
-                          if m:
-                              cookie = m.group(1)
+                          m2 = re.search(r'cookie=([^&|\s]+)', l, re.IGNORECASE)
+                          if m2:
+                              cookie = m2.group(1)
                               break
 
                       if l.lower().startswith('#exthttp:'):
-                          m = re.search(r'"cookie"\s*:\s*"([^"]+)"', l)
-                          if m:
-                              cookie = m.group(1)
+                          m2 = re.search(r'"cookie"\s*:\s*"([^"]+)"', l)
+                          if m2:
+                              cookie = m2.group(1)
                               break
 
                   if cookie:
-                      channel_data[channel] = cookie
-                      print("[COOKIE FOUND]", channel)
+                      cookie_map[name] = cookie
+                      print("[COOKIE]", name)
 
-          print("Total cookies:", len(channel_data))
-
-          # --------------------------------------------------
-          # BUILD OUTPUT
-          # --------------------------------------------------
+          print("Cookies found:", len(cookie_map))
 
           output = []
           i = 0
@@ -97,10 +81,10 @@ jobs:
 
               if line.startswith('#EXTINF'):
 
-                  match = re.search(r',(.+)$', line)
-                  channel = normalize(match.group(1)) if match else None
+                  m = re.search(r',(.+)$', line)
+                  name = norm(m.group(1)) if m else None
 
-                  cookie = channel_data.get(channel)
+                  cookie = cookie_map.get(name)
 
                   output.append(line)
                   i += 1
@@ -113,14 +97,12 @@ jobs:
                       if s.startswith('#EXTINF'):
                           break
 
-                      # remove old EXTHTTP
                       if s.lower().startswith('#exthttp:'):
                           i += 1
                           continue
 
                       output.append(cur)
 
-                      # inject cookie after URL
                       if s.startswith('http') and cookie:
                           output.append(f'#EXTHTTP:{{"cookie":"{cookie}"}}')
 
@@ -131,16 +113,9 @@ jobs:
               output.append(line)
               i += 1
 
-          # --------------------------------------------------
-          # SAVE OUTPUT
-          # --------------------------------------------------
+          Path("jiotvplus.m3u8").write_text('\n'.join(output), encoding='utf-8')
 
-          Path("jiotvplus.m3u8").write_text(
-              '\n'.join(output),
-              encoding='utf-8'
-          )
-
-          print("OUTPUT GENERATED: jiotvplus.m3u8")
+          print("DONE -> jiotvplus.m3u8")
 
           PY
 
