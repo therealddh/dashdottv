@@ -102,23 +102,27 @@ def generate_m3u_from_url(jio_url, meta_file, output_file):
             extinf = f'#EXTINF:-1 tvg-id="{channel_id}" tvg-logo="{logo}" group-title="{group}",{name}\n'
             
             # B. Add DRM properties for player compatibility
-            drm_props = (
+            base_drm_props = (
                 '#KODIPROP:inputstream=inputstream.adaptive\n'
                 '#KODIPROP:inputstream.adaptive.manifest_type=mpd\n'
                 '#KODIPROP:inputstream.adaptive.license_type=clearkey\n'
-                if "Asianet HD" in name:
-                   f'#KODIPROP:inputstream.adaptive.license_key=438370e98be35e618650b4fde6f7bcee:8af903db53e7b69e6e1c9a04711ebd62\n'
-                elif "Asianet Movies" in name:
-                   f'#KODIPROP:inputstream.adaptive.license_key=ca83419dfa1b56f794032b271b8f2c84:d592520eea361507a63c94bff799dfb6\n'
-                elif "Asianet Movies HD" in name:
-                   f'#KODIPROP:inputstream.adaptive.license_key=318d6d7df2c155b3b15247f320bad160:c06652ae93c16814dad7008e84c7171d\n'
-                elif "Asianet Plus" in name:
-                   f'#KODIPROP:inputstream.adaptive.license_key=90ffee26840f5b329f5f9c978d30bb41:4cbb95492e7b342a772883f221243127\n'
-                elif "Vijay Super HD" in name:
-                   f'#KODIPROP:inputstream.adaptive.license_key=4058ba890768578093e4d30bc957b85c:42d335cfebf7292487522ac572d706a8\n'
-                else:
-                    f'#KODIPROP:inputstream.adaptive.license_key=https://temp.webplay.fun/jtv/key.php?id={channel_id}\n'
             )
+            
+            # Determine the correct license key based on channel name
+            if "Asianet HD" in name:
+                license_key = '438370e98be35e618650b4fde6f7bcee:8af903db53e7b69e6e1c9a04711ebd62'
+            elif "Asianet Movies HD" in name:
+                license_key = '318d6d7df2c155b3b15247f320bad160:c06652ae93c16814dad7008e84c7171d'
+            elif "Asianet Movies" in name:
+                license_key = 'ca83419dfa1b56f794032b271b8f2c84:d592520eea361507a63c94bff799dfb6'
+            elif "Asianet Plus" in name:
+                license_key = '90ffee26840f5b329f5f9c978d30bb41:4cbb95492e7b342a772883f221243127'
+            elif "Vijay Super HD" in name:
+                license_key = '4058ba890768578093e4d30bc957b85c:42d335cfebf7292487522ac572d706a8'
+            else:
+                license_key = f'https://temp.webplay.fun/jtv/key.php?id={channel_id}'
+                
+            drm_props = base_drm_props + f'#KODIPROP:inputstream.adaptive.license_key={license_key}\n'
             
             # C. Write the compiled data block to the file
             out.write(extinf)
