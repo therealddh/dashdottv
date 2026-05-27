@@ -8,7 +8,7 @@ on:
     branches:
       - main
     paths:
-      - 'jtv+.py' # Updated to match the script name in your run step
+      - 'jtv.py'   # Fixed: removed the +
       - 'meta.txt'
 
 # Opt into Node 24 to suppress deprecation warnings
@@ -31,12 +31,12 @@ jobs:
           python-version: '3.x'
 
       - name: Run Playlist Generator
-        run: python jtv+.py
+        run: python jtv.py   # Fixed: removed the +
 
       - name: Commit and Push Changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add jiotv+.m3u
+          git add jiotv.m3u   # Fixed: removed the +
           git commit -m "Auto-update playlist: $(date)" || echo "No changes to commit"
           git push
