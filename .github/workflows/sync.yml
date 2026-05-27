@@ -24,110 +24,88 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Create jiotvplus.m3u8
+      - name: Sync Cookies
         run: |
           python << 'PY'
           import re
           from pathlib import Path
 
+          def normalize(name):
+              return re.sub(r'\s+', ' ', name).strip().lower()
+
           # --------------------------------------------------
-          # FIND INPUT FILES
+          # FIND FILES
           # --------------------------------------------------
 
-          playlist_files = (
-              list(Path('.').glob('*.m3u')) +
-              list(Path('.').glob('*.m3u8'))
-          )
+          files = list(Path('.').glob('*.m3u')) + list(Path('.').glob('*.m3u8'))
 
-          jiotv_file = None
-          cplay_file = None
-
-          for f in playlist_files:
-
-              name = f.name.lower()
-
-              if 'jiotv' in name and 'plus' not in name:
-                  jiotv_file = f
-
-              elif 'cplay' in name:
-                  cplay_file = f
+          jiotv_file = next((f for f in files if 'jiotv' in f.name.lower()), None)
+          cplay_file = next((f for f in files if 'cplay' in f.name.lower()), None)
 
           if not jiotv_file:
-              raise Exception('JioTV playlist not found')
+              raise Exception("JioTV playlist not found")
 
           if not cplay_file:
-              raise Exception('CPlay playlist not found')
+              raise Exception("CPlay playlist not found")
 
-          output_file = Path('jiotvplus.m3u8')
-
-          print(f'JioTV File : {jiotv_file}')
-          print(f'CPlay File : {cplay_file}')
-          print(f'Output File : {output_file}')
+          print("JioTV:", jiotv_file)
+          print("CPlay:", cplay_file)
 
           # --------------------------------------------------
           # READ FILES
           # --------------------------------------------------
 
-          jiotv_lines = jiotv_file.read_text(
-              encoding='utf-8',
-              errors='ignore'
-          ).splitlines()
-
-          cplay_lines = cplay_file.read_text(
-              encoding='utf-8',
-              errors='ignore'
-          ).splitlines()
+          jiotv_lines = jiotv_file.read_text(errors='ignore').splitlines()
+          cplay_lines = cplay_file.read_text(errors='ignore').splitlines()
 
           # --------------------------------------------------
-          # EXTRACT COOKIES FROM JIOTV
+          # EXTRACT COOKIES
           # --------------------------------------------------
 
-          jio_cookies = {}
+          cookies = {}
 
           for i, line in enumerate(jiotv_lines):
 
-              if line.startswith('#EXTINF'):
+              if not line.startswith('#EXTINF'):
+                  continue
 
-                  match = re.search(r',(.+)$', line)
+              match = re.search(r',(.+)$', line)
+              if not match:
+                  continue
 
-                  if not match:
-                      continue
+              channel = normalize(match.group(1))
 
-                  channel_name = match.group(1).strip().lower()
+              cookie = None
 
-                  # SEARCH NEXT LINES
-                  for j in range(i + 1, min(i + 10, len(jiotv_lines))):
+              for j in range(i + 1, min(i + 10, len(jiotv_lines))):
 
-                      stream_line = jiotv_lines[j]
+                  l = jiotv_lines[j].strip()
 
-                      if 'cookie=' in stream_line.lower():
-
-                          cookie_match = re.search(
-                              r'cookie=([^|]+.*)$',
-                              stream_line,
-                              re.IGNORECASE
-                          )
-
-                          if cookie_match:
-
-                              cookie = cookie_match.group(1).strip()
-
-                              jio_cookies[channel_name] = cookie
-
-                              print(f'COOKIE FOUND: {channel_name}')
-
+                  if 'cookie=' in l.lower():
+                      m = re.search(r'cookie=([^&|\s]+)', l, re.IGNORECASE)
+                      if m:
+                          cookie = m.group(1)
                           break
 
-          print(f'Total Cookies Found: {len(jio_cookies)}')
+                  if l.lower().startswith('#exthttp:'):
+                      m = re.search(r'"cookie"\s*:\s*"([^"]+)"', l)
+                      if m:
+                          cookie = m.group(1)
+                          break
+
+              if cookie:
+                  cookies[channel] = cookie
+                  print("[COOKIE]", channel)
+
+          print("Total cookies:", len(cookies))
 
           # --------------------------------------------------
-          # CREATE OUTPUT PLAYLIST
+          # UPDATE CPLAY
           # --------------------------------------------------
 
-          updated_lines = []
-
+          output = []
           i = 0
-          updated_channels = 0
+          updated = 0
 
           while i < len(cplay_lines):
 
@@ -136,92 +114,77 @@ jobs:
               if line.startswith('#EXTINF'):
 
                   match = re.search(r',(.+)$', line)
+                  channel = normalize(match.group(1)) if match else None
 
-                  if match:
+                  cookie = cookies.get(channel)
 
-                      channel_name = match.group(1).strip().lower()
+                  output.append(line)
+                  i += 1
 
-                      cookie = jio_cookies.get(channel_name)
+                  block = []
+                  inserted = False
 
-                      updated_lines.append(line)
+                  while i < len(cplay_lines):
+
+                      cur = cplay_lines[i]
+                      s = cur.strip()
+
+                      if s.startswith('#EXTINF'):
+                          break
+
+                      if s.lower().startswith('#exthttp:'):
+                          i += 1
+                          continue
+
+                      block.append(cur)
+
+                      if s.startswith('http'):
+                          break
 
                       i += 1
 
-                      block = []
+                  new_block = []
 
-                      while i < len(cplay_lines):
+                  for item in block:
 
-                          current = cplay_lines[i]
+                      if not inserted and item.strip().startswith('http'):
 
-                          if current.startswith('#EXTINF'):
-                              break
+                          if cookie:
+                              new_block.append(f'#EXTHTTP:{{"cookie":"{cookie}"}}')
+                              updated += 1
+                              print("[UPDATED]", channel)
 
-                          # REMOVE OLD COOKIE
-                          if current.startswith('#EXTHTTP:'):
-                              i += 1
-                              continue
+                          inserted = True
 
-                          block.append(current)
+                      new_block.append(item)
 
-                          if current.startswith('http'):
-                              break
+                  output.extend(new_block)
+                  continue
 
-                          i += 1
-
-                      new_block = []
-
-                      inserted = False
-
-                      for item in block:
-
-                          if (
-                              not inserted and
-                              item.startswith('http')
-                          ):
-
-                              if cookie:
-
-                                  new_block.append(
-                                      f'#EXTHTTP:{{"cookie":"{cookie}"}}'
-                                  )
-
-                                  updated_channels += 1
-
-                                  print(f'UPDATED: {channel_name}')
-
-                              inserted = True
-
-                          new_block.append(item)
-
-                      updated_lines.extend(new_block)
-
-                      continue
-
-              updated_lines.append(line)
-
+              output.append(line)
               i += 1
 
           # --------------------------------------------------
-          # SAVE OUTPUT FILE
+          # SAVE OUTPUT FILE (FIXED)
           # --------------------------------------------------
 
-          output_file.write_text(
-              '\n'.join(updated_lines),
+          Path("jiotvplus.m3u8").write_text(
+              '\n'.join(output),
               encoding='utf-8'
           )
 
-          print(f'Updated Channels: {updated_channels}')
-          print('Created: jiotvplus.m3u8')
+          print("OUTPUT GENERATED: jiotvplus.m3u8")
+          print("Updated channels:", updated)
 
           PY
 
-      - name: Commit Output
+      - name: Commit Changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add .
+          git add jiotvplus.m3u8
 
-          git diff --cached --quiet || git commit -m "Updated jiotvplus.m3u8"
+          git diff --cached --quiet || git commit -m "Updated JioTV cookies"
 
           git push
