@@ -2,10 +2,10 @@ name: Auto Update JioTV Playlist
 
 on:
   schedule:
-    # This cron syntax means: "At every 30th minute"
+    # Runs every 30 minutes
     - cron: '*/30 * * * *'
   
-  # This allows you to also trigger the script manually from the "Actions" tab in GitHub
+  # Allows manual triggering from the Actions tab
   workflow_dispatch:
 
 jobs:
@@ -22,17 +22,17 @@ jobs:
           python-version: '3.10'
 
       - name: Run the Generator Script
-        # IMPORTANT: Change 'main.py' to the actual name of your Python script
-        run: python jtv.py 
+        run: python main.py 
 
       - name: Commit and Push the Updated Playlist
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
+          
+          # This now perfectly matches the output of the fixed Python script
           git add jiotvpl.m3u
           
-          # The '|| exit 0' prevents the action from throwing an error if the script runs 
-          # but the output file hasn't actually changed since the last run.
+          # The '|| exit 0' prevents failure if the API data hasn't changed since the last run
           git commit -m "Auto-update: Refreshed JioTV M3U playlist" || exit 0
           
           git push
