@@ -1,8 +1,38 @@
 import json
 import os
+import re
 import urllib.request
 from urllib.parse import urlparse
 
+def get_channel_data(file_path):
+    channel_data = {}
+    current_id = None  # We use this to remember which channel we are currently looking at
+    
+    with open(file_path, 'r', encoding='utf-8') as file:
+        for line in file:
+            line = line.strip()
+            
+            # 1. Grab the ID and Logo
+            if line.startswith("#EXTINF"):
+                id_match = re.search(r'tvg-id="([^"]+)"', line)
+                logo_match = re.search(r'tvg-logo="([^"]+)"', line)
+                
+                if id_match:
+                    current_id = id_match.group(1)
+                    # Create a new dictionary for this specific channel
+                    channel_data[current_id] = {}
+                    
+                    if logo_match:
+                        channel_data[current_id]['logo'] = logo_match.group(1)
+                        
+            # 2. Grab the License Key and attach it to the current ID
+            elif line.startswith("#KODIPROP:inputstream.adaptive.license_key=") and current_id:
+                # Split the line at the first '=' and take the second part
+                key = line.split("=", 1)
+                channel_data[current_id]['license_key'] = key
+                
+    return channel_data
+    
 def extract_name_from_url(url):
     """Extracts, cleans, and formats the channel name from the stream URL."""
     def clean_name(raw_name):
@@ -97,7 +127,10 @@ def generate_m3u_from_url(jio_url, meta_file, output_file):
                     
                 logo = meta_info.get("tvg-logo", "")
                 group = meta_info.get("group-title", "Unknown")
-                
+
+            channels = get_channel_data('cplaytv.m3u8')
+            logo = channels[name]['logo']
+            license_key = channels[name]['license_key']
             # A. Format the standard EXTINF line with metadata
             extinf = f'#EXTINF:-1 tvg-id="{channel_id}" tvg-logo="{logo}" group-title="{group}",{name}\n'
             
