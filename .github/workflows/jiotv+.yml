@@ -2,7 +2,7 @@ name: Update JioTVPlus Playlist
 
 on:
   schedule:
-    - cron: '0 */2 * * *' # Runs every 2 hours
+    - cron: '*/30 * * * *' # Runs every 2 hours
   workflow_dispatch: # Allows manual triggering
   push:
     branches:
