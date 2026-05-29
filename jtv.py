@@ -5,9 +5,14 @@ import urllib.request
 from urllib.parse import urlparse
 
 def get_channel_data(file_path):
+    """Parses local M3U8 file to extract channel logos and license keys by channel ID."""
     channel_data = {}
-    current_id = None  # We use this to remember which channel we are currently looking at
+    current_id = None
     
+    if not os.path.exists(file_path):
+        print(f"Warning: '{file_path}' not found. Missing logos and DRM keys.")
+        return channel_data
+
     with open(file_path, 'r', encoding='utf-8') as file:
         for line in file:
             line = line.strip()
@@ -19,7 +24,6 @@ def get_channel_data(file_path):
                 
                 if id_match:
                     current_id = id_match.group(1)
-                    # Create a new dictionary for this specific channel
                     channel_data[current_id] = {}
                     
                     if logo_match:
@@ -27,41 +31,35 @@ def get_channel_data(file_path):
                         
             # 2. Grab the License Key and attach it to the current ID
             elif line.startswith("#KODIPROP:inputstream.adaptive.license_key=") and current_id:
-                # Split the line at the first '=' and take the second part
-                key = line.split("=", 1)
-                channel_data[current_id]['license_key'] = key
+                # Split the line and take the second part to avoid list assignment errors
+                key_parts = line.split("=", 1)
+                if len(key_parts) > 1:
+                    channel_data[current_id]['license_key'] = key_parts
                 
     return channel_data
     
 def extract_name_from_url(url):
-    """Extracts, cleans, and formats the channel name from the stream URL."""
+    """Extracts, cleans, and formats the channel name from the stream URL as a fallback."""
     def clean_name(raw_name):
-        # Remove the "_MOB" suffix first, then replace underscores with spaces
         name = raw_name.replace("_MOB", "").replace("_", " ")
-        # Catch any lingering " MOB" at the end just in case
         if name.endswith(" MOB"):
             name = name[:-4]
         return name.strip()
 
     try:
-        # Parse the path from the URL
         path = urlparse(url).path
-        # Split by '/' and remove empty strings
         parts = [p for p in path.split('/') if p] 
         
-        # Most Jio URLs structure is: /bpk-tv/Channel_Name_Here/WDVLive/index.mpd
         if 'WDVLive' in parts:
             idx = parts.index('WDVLive')
             if idx > 0:
                 return clean_name(parts[idx - 1])
                 
-        # Fallback: look for 'bpk-tv' and grab the folder right after it
         if 'bpk-tv' in parts:
             idx = parts.index('bpk-tv')
             if idx + 1 < len(parts):
                 return clean_name(parts[idx + 1])
                 
-        # Final fallback if those specific folders aren't found
         if len(parts) >= 2:
             return clean_name(parts[-2])
             
@@ -70,7 +68,7 @@ def extract_name_from_url(url):
         
     return "Unknown Channel"
 
-def generate_m3u_from_url(jio_url, meta_file, output_file):
+def generate_m3u_from_url(jio_url, meta_file, cplay_file, output_file):
     print(f"Fetching stream data from {jio_url}...")
     try:
         req = urllib.request.Request(jio_url, headers={'User-Agent': 'Mozilla/5.0'})
@@ -84,80 +82,64 @@ def generate_m3u_from_url(jio_url, meta_file, output_file):
         print(f"Error fetching or parsing the URL data: {e}")
         return
 
+    # Load Metadata from meta.txt
     meta_data = []
     if not os.path.exists(meta_file):
         print(f"Warning: {meta_file} not found. Proceeding without metadata.")
     else:
         with open(meta_file, 'r', encoding='utf-8') as f:
             content = f.read().strip()
-            if not content:
-                print(f"Warning: {meta_file} is empty on disk. Save your file in the editor!")
-            else:
+            if content:
                 try:
                     meta_data = json.loads(content)
                 except json.JSONDecodeError:
                     print(f"Error parsing {meta_file}. Ensure it is valid JSON.")
             
-    # Create a dictionary for quick metadata lookup by "tvg-id"
     meta_dict = {str(item.get("tvg-id")): item for item in meta_data}
+    
+    # Load cplaytv data ONCE outside the loop to get logos and keys efficiently
+    print(f"Extracting logos and DRM keys from {cplay_file}...")
+    cplay_channels = get_channel_data(cplay_file)
     
     with open(output_file, 'w', encoding='utf-8') as out:
         out.write("#EXTM3U\n")
         
         for channel_id, stream_info in jio_data.items():
             url = stream_info.get("url", "")
-            
-            # Skip if there's no stream URL
             if not url:
                 continue
                 
             meta_info = meta_dict.get(str(channel_id), {})
+            cplay_info = cplay_channels.get(str(channel_id), {})
             
-            # Check if it's an unknown channel (not in meta.txt)
+            # 1. Determine Name and Group (from meta.txt or URL fallback)
             if not meta_info:
-                # Extract and format the name from the URL
                 name = extract_name_from_url(url).replace(" BTS", "")
-                logo = ""
                 group = "Unknown"
             else:
-                # Known channel, but fallback to URL extraction if name is missing
-                name = meta_info.get("channel-name").replace(" BTS", "")
+                name = meta_info.get("channel-name", "").replace(" BTS", "")
                 if not name:
                     name = extract_name_from_url(url).replace(" BTS", "")
-                    
-                logo = meta_info.get("tvg-logo", "")
                 group = meta_info.get("group-title", "Unknown")
 
-            channels = get_channel_data('cplaytv.m3u8')
-            logo = channels[name]['logo']
-            license_key = channels[name]['license_key']
-            # A. Format the standard EXTINF line with metadata
+            # 2. Determine Logo (Strictly from cplaytv.m3u8, fallback to empty)
+            logo = cplay_info.get("logo", "")
+            
+            # Form the EXTINF line
             extinf = f'#EXTINF:-1 tvg-id="{channel_id}" tvg-logo="{logo}" group-title="{group}",{name}\n'
             
-            # B. Add DRM properties for player compatibility
+            # Base DRM properties required for inputstream.adaptive
             base_drm_props = (
                 '#KODIPROP:inputstream=inputstream.adaptive\n'
                 '#KODIPROP:inputstream.adaptive.manifest_type=mpd\n'
                 '#KODIPROP:inputstream.adaptive.license_type=clearkey\n'
             )
             
-            # Determine the correct license key based on channel name
-            if "Asianet HD" in name:
-                license_key = '438370e98be35e618650b4fde6f7bcee:8af903db53e7b69e6e1c9a04711ebd62'
-            elif "Asianet Movies HD" in name:
-                license_key = '318d6d7df2c155b3b15247f320bad160:c06652ae93c16814dad7008e84c7171d'
-            elif "Asianet Movies" in name:
-                license_key = 'ca83419dfa1b56f794032b271b8f2c84:d592520eea361507a63c94bff799dfb6'
-            elif "Asianet Plus" in name:
-                license_key = '90ffee26840f5b329f5f9c978d30bb41:4cbb95492e7b342a772883f221243127'
-            elif "Vijay Super HD" in name:
-                license_key = '4058ba890768578093e4d30bc957b85c:42d335cfebf7292487522ac572d706a8'
-            else:
-                license_key = f'https://temp.webplay.fun/jtv/key.php?id={channel_id}'
-                
+            # 3. Determine License Key (Strictly from cplaytv.m3u8, fallback to webplay API if missing)
+            license_key = cplay_info.get('license_key', f'https://temp.webplay.fun/jtv/key.php?id={channel_id}')
             drm_props = base_drm_props + f'#KODIPROP:inputstream.adaptive.license_key={license_key}\n'
             
-            # C. Write the compiled data block to the file
+            # Write all parts to the final M3U file
             out.write(extinf)
             out.write(drm_props)
             out.write(url + "\n\n")
@@ -165,12 +147,12 @@ def generate_m3u_from_url(jio_url, meta_file, output_file):
     print(f"Success! M3U playlist generated as '{output_file}'.")
 
 if __name__ == "__main__":
-    # Use absolute paths relative to the script directory
+    # Absolute paths ensure this runs perfectly in GitHub Actions environments
     BASE_DIR = os.path.dirname(os.path.abspath(__file__))
     
     JIO_URL = "https://jo-json.vodep39240327.workers.dev/"
     META_FILENAME = os.path.join(BASE_DIR, "meta.txt")
-    # Output file will also be in the same folder
+    CPLAY_FILENAME = os.path.join(BASE_DIR, "cplaytv.m3u8")
     OUTPUT_FILENAME = os.path.join(BASE_DIR, "jiotv.m3u")
     
-    generate_m3u_from_url(JIO_URL, META_FILENAME, OUTPUT_FILENAME)
+    generate_m3u_from_url(JIO_URL, META_FILENAME, CPLAY_FILENAME, OUTPUT_FILENAME)
