@@ -1,42 +1,38 @@
-name: Update JioTVPlus Playlist
+name: Auto Update JioTV Playlist
 
 on:
   schedule:
-    - cron: '*/30 * * * *' # Runs every 2 hours
-  workflow_dispatch: # Allows manual triggering
-  push:
-    branches:
-      - main
-    paths:
-      - 'jtv.py'   # Fixed: removed the +
-      - 'meta.txt'
-
-# Opt into Node 24 to suppress deprecation warnings
-env:
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+    # This cron syntax means: "At every 30th minute"
+    - cron: '*/30 * * * *'
+  
+  # This allows you to also trigger the script manually from the "Actions" tab in GitHub
+  workflow_dispatch:
 
 jobs:
   update-playlist:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
 
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v3
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v4
         with:
-          python-version: '3.x'
+          python-version: '3.10'
 
-      - name: Run Playlist Generator
-        run: python jtv.py   # Fixed: removed the +
+      - name: Run the Generator Script
+        # IMPORTANT: Change 'main.py' to the actual name of your Python script
+        run: python main.py 
 
-      - name: Commit and Push Changes
+      - name: Commit and Push the Updated Playlist
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add jiotv.m3u   # Fixed: removed the +
-          git commit -m "Auto-update playlist: $(date)" || echo "No changes to commit"
+          git add jiotvpl.m3u
+          
+          # The '|| exit 0' prevents the action from throwing an error if the script runs 
+          # but the output file hasn't actually changed since the last run.
+          git commit -m "Auto-update: Refreshed JioTV M3U playlist" || exit 0
+          
           git push
