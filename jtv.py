@@ -1,6 +1,7 @@
 import json
 import os
 import re
+import sys
 import urllib.request
 from urllib.parse import urlparse
 
@@ -17,7 +18,7 @@ def get_channel_data(file_path):
         for line in file:
             line = line.strip()
             
-            # 1. Grab the ID and Logo
+            # Grab the ID and Logo
             if line.startswith("#EXTINF"):
                 id_match = re.search(r'tvg-id="([^"]+)"', line)
                 logo_match = re.search(r'tvg-logo="([^"]+)"', line)
@@ -29,9 +30,8 @@ def get_channel_data(file_path):
                     if logo_match:
                         channel_data[current_id]['logo'] = logo_match.group(1)
                         
-            # 2. Grab the License Key and attach it to the current ID
+            # Grab the License Key and attach it to the current ID
             elif line.startswith("#KODIPROP:inputstream.adaptive.license_key=") and current_id:
-                # Split the line and take the second part to avoid list assignment errors
                 key_parts = line.split("=", 1)
                 if len(key_parts) > 1:
                     channel_data[current_id]['license_key'] = key_parts
@@ -72,15 +72,15 @@ def generate_m3u_from_url(jio_url, meta_file, cplay_file, output_file):
     print(f"Fetching stream data from {jio_url}...")
     try:
         req = urllib.request.Request(jio_url, headers={'User-Agent': 'Mozilla/5.0'})
-        with urllib.request.urlopen(req) as response:
+        with urllib.request.urlopen(req, timeout=15) as response:
             if response.status != 200:
                 print(f"Error fetching URL: HTTP Status {response.status}")
-                return
+                sys.exit(1) # <--- THIS TELLS GITHUB ACTIONS TO STOP IF IT FAILS
             raw_data = response.read().decode('utf-8')
             jio_data = json.loads(raw_data)
     except Exception as e:
-        print(f"Error fetching or parsing the URL data: {e}")
-        return
+        print(f"CRITICAL ERROR: Failed to fetch or parse the URL data: {e}")
+        sys.exit(1) # <--- THIS TELLS GITHUB ACTIONS TO STOP IF IT FAILS
 
     # Load Metadata from meta.txt
     meta_data = []
@@ -97,10 +97,11 @@ def generate_m3u_from_url(jio_url, meta_file, cplay_file, output_file):
             
     meta_dict = {str(item.get("tvg-id")): item for item in meta_data}
     
-    # Load cplaytv data ONCE outside the loop to get logos and keys efficiently
+    # Load cplaytv data to get logos and keys efficiently
     print(f"Extracting logos and DRM keys from {cplay_file}...")
     cplay_channels = get_channel_data(cplay_file)
     
+    print("Writing new playlist...")
     with open(output_file, 'w', encoding='utf-8') as out:
         out.write("#EXTM3U\n")
         
@@ -112,7 +113,7 @@ def generate_m3u_from_url(jio_url, meta_file, cplay_file, output_file):
             meta_info = meta_dict.get(str(channel_id), {})
             cplay_info = cplay_channels.get(str(channel_id), {})
             
-            # 1. Determine Name and Group (from meta.txt or URL fallback)
+            # Determine Name and Group (from meta.txt or URL fallback)
             if not meta_info:
                 name = extract_name_from_url(url).replace(" BTS", "")
                 group = "Unknown"
@@ -122,7 +123,7 @@ def generate_m3u_from_url(jio_url, meta_file, cplay_file, output_file):
                     name = extract_name_from_url(url).replace(" BTS", "")
                 group = meta_info.get("group-title", "Unknown")
 
-            # 2. Determine Logo (Strictly from cplaytv.m3u8, fallback to empty)
+            # Determine Logo (Strictly from cplaytv.m3u8)
             logo = cplay_info.get("logo", "")
             
             # Form the EXTINF line
@@ -135,7 +136,7 @@ def generate_m3u_from_url(jio_url, meta_file, cplay_file, output_file):
                 '#KODIPROP:inputstream.adaptive.license_type=clearkey\n'
             )
             
-            # 3. Determine License Key (Strictly from cplaytv.m3u8, fallback to webplay API if missing)
+            # Determine License Key (Strictly from cplaytv.m3u8, fallback to webplay API if missing)
             license_key = cplay_info.get('license_key', f'https://temp.webplay.fun/jtv/key.php?id={channel_id}')
             drm_props = base_drm_props + f'#KODIPROP:inputstream.adaptive.license_key={license_key}\n'
             
@@ -153,6 +154,8 @@ if __name__ == "__main__":
     JIO_URL = "https://jo-json.vodep39240327.workers.dev/"
     META_FILENAME = os.path.join(BASE_DIR, "meta.txt")
     CPLAY_FILENAME = os.path.join(BASE_DIR, "cplaytv.m3u8")
+    
+    # FIXED: Perfectly matches your YAML file
     OUTPUT_FILENAME = os.path.join(BASE_DIR, "jiotvpl.m3u")
     
     generate_m3u_from_url(JIO_URL, META_FILENAME, CPLAY_FILENAME, OUTPUT_FILENAME)
