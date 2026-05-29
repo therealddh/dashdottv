@@ -23,7 +23,7 @@ jobs:
 
       - name: Run the Generator Script
         # IMPORTANT: Change 'main.py' to the actual name of your Python script
-        run: python main.py 
+        run: python jtv.py 
 
       - name: Commit and Push the Updated Playlist
         run: |
