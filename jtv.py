@@ -144,7 +144,7 @@ def generate_m3u_from_url(jio_url, meta_file, output_file):
             # Determine the correct license key based on channel name
             if "Asianet HD" in name:
                 license_key = '438370e98be35e618650b4fde6f7bcee:8af903db53e7b69e6e1c9a04711ebd62'
-            elif "Asianet Movies H" in name:
+            elif "Asianet Movies HD" in name:
                 license_key = '318d6d7df2c155b3b15247f320bad160:c06652ae93c16814dad7008e84c7171d'
             elif "Asianet Movies" in name:
                 license_key = 'ca83419dfa1b56f794032b271b8f2c84:d592520eea361507a63c94bff799dfb6'
