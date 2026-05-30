@@ -1,38 +1,42 @@
-name: Auto Update JioTV Playlist
+name: Build JioTV Playlist
 
 on:
   schedule:
-    # Runs every 30 minutes
-    - cron: '*/30 * * * *'
-  
-  # Allows manual triggering from the Actions tab
+    - cron: "*/30 * * * *"   # every 30 minutes
   workflow_dispatch:
+  push:
 
 jobs:
-  run:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repo
+        uses: actions/checkout@v4
 
-      - uses: actions/setup-python@v5
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
           python-version: "3.10"
 
       - name: Run script
         env:
           JIO_URL: ${{ secrets.JIO_URL }}
-        run: python jtv.py 
-
-      - name: Commit and Push the Updated Playlist
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          
-          # This now perfectly matches the output of the fixed Python script
-          git add jiotvpl.m3u
-          
-          # The '|| exit 0' prevents failure if the API data hasn't changed since the last run
-          git commit -m "Auto-update: Refreshed JioTV M3U playlist" || exit 0
-          
+          python jtv.py
+
+      - name: Debug files
+        run: |
+          ls -R
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add *.m3u *.m3u8 || true
+
+          git diff --cached --quiet && echo "No changes" && exit 0
+
+          git commit -m "Auto update playlist"
           git push
