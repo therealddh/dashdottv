@@ -157,6 +157,6 @@ if __name__ == "__main__":
     JIO_URL = os.environ["JIO_URL"]
     META_FILENAME = os.path.join(BASE_DIR, "meta.txt")
     CPLAY_FILENAME = os.path.join(BASE_DIR, "cplaytv.m3u")
-    OUTPUT_FILENAME = os.path.join(BASE_DIR, "jiotv.m3u")
+    OUTPUT_FILENAME = os.path.join(BASE_DIR, "jiotvpl.m3u")
 
     generate_m3u_from_url(JIO_URL, META_FILENAME, CPLAY_FILENAME, OUTPUT_FILENAME)
