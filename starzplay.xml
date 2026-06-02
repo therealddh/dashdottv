@@ -68,6 +68,10 @@
     <display-name>Asianet ME</display-name>
     <icon src="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/asianethd/active/f213450f4aecda4601852a574faf67a7.svg"/>
   </channel>
+  <channel id="asianetcinema">
+    <display-name>Asianet Cinema</display-name>
+    <icon src="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/asianetcinema-active.svg"/>
+  </channel>
   <channel id="asianetmovieshd">
     <display-name>Asianet Movies</display-name>
     <icon src="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/asianetmovieshd/active/c2ac38747a7b11975063dd963518e81a.svg"/>
@@ -2777,6 +2781,56 @@
     <title lang="en">Adikkurippu</title>
     <desc lang="en">Basheer, a castaway with no memory, is found in the sea by a ship's captain. Later, when Basheer faces several murder attempts, Advocate Bhaskara Pillai unravels a sinister world of crime.</desc>
     <icon src="https://stap.tmsimg.com/assets/p15046142_v_h8_ab.jpg"/>
+  </programme>
+  <programme start="20260602000000 +0000" stop="20260602000000 +0000" channel="asianetcinema">
+    <title lang="en">Movie</title>
+    <desc lang="en">Dive into Malayalam cinema with hit blockbusters and classic gems!</desc>
+    <icon src="https://evisioneand.com/image/catalog/1920x1080-B.jpg"/>
+  </programme>
+  <programme start="20260602000000 +0000" stop="20260602030000 +0000" channel="asianetcinema">
+    <title lang="en">Movie</title>
+    <desc lang="en">Dive into Malayalam cinema with hit blockbusters and classic gems!</desc>
+    <icon src="https://evisioneand.com/image/catalog/1920x1080-B.jpg"/>
+  </programme>
+  <programme start="20260602030000 +0000" stop="20260602060000 +0000" channel="asianetcinema">
+    <title lang="en">Movie</title>
+    <desc lang="en">Dive into Malayalam cinema with hit blockbusters and classic gems!</desc>
+    <icon src="https://evisioneand.com/image/catalog/1920x1080-B.jpg"/>
+  </programme>
+  <programme start="20260602060000 +0000" stop="20260602090000 +0000" channel="asianetcinema">
+    <title lang="en">Movie</title>
+    <desc lang="en">Dive into Malayalam cinema with hit blockbusters and classic gems!</desc>
+    <icon src="https://evisioneand.com/image/catalog/1920x1080-B.jpg"/>
+  </programme>
+  <programme start="20260602090000 +0000" stop="20260602120000 +0000" channel="asianetcinema">
+    <title lang="en">Movie</title>
+    <desc lang="en">Dive into Malayalam cinema with hit blockbusters and classic gems!</desc>
+    <icon src="https://evisioneand.com/image/catalog/1920x1080-B.jpg"/>
+  </programme>
+  <programme start="20260602120000 +0000" stop="20260602150000 +0000" channel="asianetcinema">
+    <title lang="en">Movie</title>
+    <desc lang="en">Dive into Malayalam cinema with hit blockbusters and classic gems!</desc>
+    <icon src="https://evisioneand.com/image/catalog/1920x1080-B.jpg"/>
+  </programme>
+  <programme start="20260602150000 +0000" stop="20260602180000 +0000" channel="asianetcinema">
+    <title lang="en">Movie</title>
+    <desc lang="en">Dive into Malayalam cinema with hit blockbusters and classic gems!</desc>
+    <icon src="https://evisioneand.com/image/catalog/1920x1080-B.jpg"/>
+  </programme>
+  <programme start="20260602180000 +0000" stop="20260602210000 +0000" channel="asianetcinema">
+    <title lang="en">Movie</title>
+    <desc lang="en">Dive into Malayalam cinema with hit blockbusters and classic gems!</desc>
+    <icon src="https://evisioneand.com/image/catalog/1920x1080-B.jpg"/>
+  </programme>
+  <programme start="20260602210000 +0000" stop="20260603000000 +0000" channel="asianetcinema">
+    <title lang="en">Movie</title>
+    <desc lang="en">Dive into Malayalam cinema with hit blockbusters and classic gems!</desc>
+    <icon src="https://evisioneand.com/image/catalog/1920x1080-B.jpg"/>
+  </programme>
+  <programme start="20260603000000 +0000" stop="20260603030000 +0000" channel="asianetcinema">
+    <title lang="en">Movie</title>
+    <desc lang="en">Dive into Malayalam cinema with hit blockbusters and classic gems!</desc>
+    <icon src="https://evisioneand.com/image/catalog/1920x1080-B.jpg"/>
   </programme>
   <programme start="20260602000000 +0000" stop="20260602013000 +0000" channel="asianetmovieshd">
     <title lang="en">Thobama</title>
