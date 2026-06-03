@@ -23,7 +23,7 @@ jobs:
         run: |
           echo "📥 Fetching JSON..."
 
-          JSON=$(curl -sL "${{ secrets.JSON_URL }}")
+          JSON=$(curl -sL "${{ secrets.JIO_JSON_URL }}")
 
           if [ -z "$JSON" ]; then
             echo "❌ Empty response"
