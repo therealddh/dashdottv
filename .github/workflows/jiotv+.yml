@@ -1,48 +1,134 @@
-name: Build JioTV Playlist
+name: Auto-Update M3U
+
+permissions:
+  contents: write
 
 on:
-  schedule:
-    - cron: "*/25 * * * *"
   workflow_dispatch:
-  push:
+  schedule:
+    - cron: '0 6 * * *'
 
 jobs:
-  build:
+  update:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout main branch
         uses: actions/checkout@v4
 
-      - name: Setup Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.10"
+      - name: Install jq
+        run: sudo apt-get update && sudo apt-get install -y jq
 
-      - name: Run script
-        env:
-          JIO_URL: ${{ secrets.JIO_URL }}
+      - name: Generate jiotv.m3u
         run: |
-          python jtv.py
+          echo "📥 Fetching JSON..."
 
-      - name: Ensure correct output file exists
-        run: |
-          echo "Checking output..."
-          ls -R
+          JSON_URL="https://noisy-truth-6766.streamstar18.workers.dev"
+          JSON=$(curl -sL "$JSON_URL") || { echo "❌ Fetch failed"; exit 1; }
 
-          if [ ! -f jiotvpl.m3u ]; then
-            echo "ERROR: jiotvpl.m3u not created by script"
+          if [ -z "$JSON" ]; then
+            echo "❌ Empty response"
             exit 1
           fi
 
-      - name: Commit and push
+          echo "#EXTM3U" > jiotv.m3u
+
+          echo "$JSON" | jq -r '
+            # Normalize input to array
+            def normalize:
+              if type == "array" then .
+              elif type == "object" then
+                if has("channels") then .channels
+                elif has("data") then .data
+                elif has("list") then .list
+                else [.[]]
+                end
+              else []
+              end;
+
+            normalize[] |
+
+            # -------- COMMON FIELDS --------
+            (.name // .title // .channel_name // "Unknown") as $name |
+            (.id // .tvg_id // .tvgId // "") as $id |
+            (.logo // .tvg_logo // .icon // "") as $logo |
+
+            # -------- URL DETECTION --------
+            (
+              .mpd_url // .link // .url // .stream_url // .hls // .mpd // ""
+            ) as $raw_url |
+
+            # -------- LICENSE DETECTION --------
+            (
+              .license_url // .drmLicense // .license // ""
+            ) as $license |
+
+            # -------- COOKIE DETECTION --------
+            (
+              .headers.cookie // .cookie // .cookies // ""
+            ) as $cookie |
+
+            # -------- DRM DETECTION --------
+            (
+              .drmScheme // .drm_scheme // .drm // ""
+            ) as $drmScheme |
+
+            # Split URL (for new format with |drmScheme)
+            ($raw_url | split("|")) as $parts |
+            ($parts[0]) as $url |
+            ($parts[1] // "") as $drmPart |
+
+            # Extract drmScheme if embedded
+            (if ($drmPart | test("drmScheme="))
+              then ($drmPart | capture("drmScheme=(?<d>[^&]+)") | .d)
+              else $drmScheme
+             end) as $scheme |
+
+            # -------- BUILD OUTPUT --------
+            if ($url | length) == 0 then empty else
+
+            "#EXTINF:-1 " +
+              (if ($id|length)>0 then "tvg-id=\"\($id)\" " else "" end) +
+              "group-title=\"JioStar\" " +
+              (if ($logo|length)>0 then "tvg-logo=\"\($logo)\" " else "" end) +
+              ",\($name | gsub(","; "\\,"))",
+
+            # DRM support (both formats)
+            (if $scheme == "clearkey" and ($license|length)>0 then
+              "#KODIPROP:inputstreamaddon=inputstream.adaptive\n#KODIPROP:inputstream.adaptive.manifest_type=mpd\n#KODIPROP:inputstream.adaptive.license_type=clearkey\n#KODIPROP:inputstream.adaptive.license_key=\($license)"
+            else empty end),
+
+            "#EXTVLCOPT:http-user-agent=plaYtv/7.1.5",
+
+            (if ($cookie|length)>0 then
+              "#EXTHTTP:{\"cookie\":\"\($cookie | gsub("\""; "\\\""))\"}"
+            else empty end),
+
+            $url,
+            ""
+            end
+          ' >> jiotv.m3u
+
+          COUNT=$(wc -l < jiotv.m3u)
+
+          if [ "$COUNT" -le 1 ]; then
+            echo "❌ M3U generation failed"
+            exit 1
+          fi
+
+          echo "✅ Generated $COUNT lines"
+
+      - name: Commit & Push
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add jiotvpl.m3u || true
+          git add jiotv.m3u
 
-          git diff --cached --quiet && echo "No changes" && exit 0
+          if git diff --cached --quiet; then
+            echo "➡️ No changes"
+            exit 0
+          fi
 
-          git commit -m "Auto update jiotvpl.m3u"
-          git push
+          git commit -m "Auto-update M3U: $(date -u '+%Y-%m-%d %H:%M')"
+          git push origin main
