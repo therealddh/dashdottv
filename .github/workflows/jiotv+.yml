@@ -23,7 +23,7 @@ jobs:
         run: |
           echo "📥 Fetching JSON..."
 
-          JSON=$(curl -sL "${{ secrets.JIO_JSON_URL }}")
+          JSON=$(curl -sL "${{ secrets.JSON_URL }}")
 
           if [ -z "$JSON" ]; then
             echo "❌ Empty response"
@@ -52,20 +52,10 @@ jobs:
 
             (.mpd_url // .link // .url // .stream_url // .hls // .mpd // "") as $raw_url |
 
-            (.license_url // .drmLicense // .license // "") as $license |
-
             (.headers.cookie // .cookie // .cookies // "") as $cookie |
-
-            (.drmScheme // .drm_scheme // .drm // "") as $drmScheme |
 
             ($raw_url | split("|")) as $parts |
             ($parts[0]) as $url |
-            ($parts[1] // "") as $drmPart |
-
-            (if ($drmPart | test("drmScheme="))
-              then ($drmPart | capture("drmScheme=(?<d>[^&]+)") | .d)
-              else $drmScheme
-             end) as $scheme |
 
             if ($url | length) == 0 then empty else
 
@@ -74,10 +64,6 @@ jobs:
               "group-title=\"JioStar\" " +
               (if ($logo|length)>0 then "tvg-logo=\"\($logo)\" " else "" end) +
               ",\($name | gsub(","; "\\,"))",
-
-            (if $scheme == "clearkey" and ($license|length)>0 then
-              "#KODIPROP:inputstreamaddon=inputstream.adaptive\n#KODIPROP:inputstream.adaptive.manifest_type=mpd\n#KODIPROP:inputstream.adaptive.license_type=clearkey\n#KODIPROP:inputstream.adaptive.license_key=\($license)"
-            else empty end),
 
             "#EXTVLCOPT:http-user-agent=plaYtv/7.1.5",
 
@@ -166,9 +152,7 @@ jobs:
                       output.append("#KODIPROP:inputstreamaddon=inputstream.adaptive")
                       output.append("#KODIPROP:inputstream.adaptive.manifest_type=mpd")
                       output.append("#KODIPROP:inputstream.adaptive.license_type=clearkey")
-                      output.append(
-                          "#KODIPROP:inputstream.adaptive.license_key=" + data["license"]
-                      )
+                      output.append("#KODIPROP:inputstream.adaptive.license_key=" + data["license"])
 
               elif "license_key=" in line:
                   continue
@@ -180,7 +164,7 @@ jobs:
           with open("jiotvpl.m3u", "w", encoding="utf-8") as f:
               f.write("\n".join(output) + "\n")
 
-          print("Merged metadata successfully")
+          print("✅ Clean merge completed")
           PY
 
       - name: Commit & Push
