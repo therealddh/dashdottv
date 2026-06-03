@@ -6,7 +6,7 @@ permissions:
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 6 * * *'
+    - cron: '0 */2 * * *'
 
 jobs:
   update:
@@ -19,22 +19,20 @@ jobs:
       - name: Install jq
         run: sudo apt-get update && sudo apt-get install -y jq
 
-      - name: Generate jiotv.m3u
+      - name: Generate jiotvpl.m3u
         run: |
           echo "📥 Fetching JSON..."
 
-          JSON_URL="https://noisy-truth-6766.streamstar18.workers.dev"
-          JSON=$(curl -sL "$JSON_URL") || { echo "❌ Fetch failed"; exit 1; }
+          JSON=$(curl -sL "${{ secrets.JIO_JSON_URL }}")
 
           if [ -z "$JSON" ]; then
             echo "❌ Empty response"
             exit 1
           fi
 
-          echo "#EXTM3U" > jiotv.m3u
+          echo "#EXTM3U" > jiotvpl.m3u
 
           echo "$JSON" | jq -r '
-            # Normalize input to array
             def normalize:
               if type == "array" then .
               elif type == "object" then
@@ -48,43 +46,27 @@ jobs:
 
             normalize[] |
 
-            # -------- COMMON FIELDS --------
             (.name // .title // .channel_name // "Unknown") as $name |
             (.id // .tvg_id // .tvgId // "") as $id |
             (.logo // .tvg_logo // .icon // "") as $logo |
 
-            # -------- URL DETECTION --------
-            (
-              .mpd_url // .link // .url // .stream_url // .hls // .mpd // ""
-            ) as $raw_url |
+            (.mpd_url // .link // .url // .stream_url // .hls // .mpd // "") as $raw_url |
 
-            # -------- LICENSE DETECTION --------
-            (
-              .license_url // .drmLicense // .license // ""
-            ) as $license |
+            (.license_url // .drmLicense // .license // "") as $license |
 
-            # -------- COOKIE DETECTION --------
-            (
-              .headers.cookie // .cookie // .cookies // ""
-            ) as $cookie |
+            (.headers.cookie // .cookie // .cookies // "") as $cookie |
 
-            # -------- DRM DETECTION --------
-            (
-              .drmScheme // .drm_scheme // .drm // ""
-            ) as $drmScheme |
+            (.drmScheme // .drm_scheme // .drm // "") as $drmScheme |
 
-            # Split URL (for new format with |drmScheme)
             ($raw_url | split("|")) as $parts |
             ($parts[0]) as $url |
             ($parts[1] // "") as $drmPart |
 
-            # Extract drmScheme if embedded
             (if ($drmPart | test("drmScheme="))
               then ($drmPart | capture("drmScheme=(?<d>[^&]+)") | .d)
               else $drmScheme
              end) as $scheme |
 
-            # -------- BUILD OUTPUT --------
             if ($url | length) == 0 then empty else
 
             "#EXTINF:-1 " +
@@ -93,7 +75,6 @@ jobs:
               (if ($logo|length)>0 then "tvg-logo=\"\($logo)\" " else "" end) +
               ",\($name | gsub(","; "\\,"))",
 
-            # DRM support (both formats)
             (if $scheme == "clearkey" and ($license|length)>0 then
               "#KODIPROP:inputstreamaddon=inputstream.adaptive\n#KODIPROP:inputstream.adaptive.manifest_type=mpd\n#KODIPROP:inputstream.adaptive.license_type=clearkey\n#KODIPROP:inputstream.adaptive.license_key=\($license)"
             else empty end),
@@ -107,9 +88,9 @@ jobs:
             $url,
             ""
             end
-          ' >> jiotv.m3u
+          ' >> jiotvpl.m3u
 
-          COUNT=$(wc -l < jiotv.m3u)
+          COUNT=$(wc -l < jiotvpl.m3u)
 
           if [ "$COUNT" -le 1 ]; then
             echo "❌ M3U generation failed"
@@ -118,12 +99,96 @@ jobs:
 
           echo "✅ Generated $COUNT lines"
 
+      - name: Merge group-title and license keys from cplaytv.m3u
+        run: |
+          python3 << 'PY'
+          import re
+
+          with open("cplaytv.m3u", "r", encoding="utf-8", errors="ignore") as f:
+              cplay = f.read().splitlines()
+
+          lookup = {}
+
+          for i, line in enumerate(cplay):
+              if not line.startswith("#EXTINF"):
+                  continue
+
+              try:
+                  name = line.split(",", 1)[1].strip()
+              except:
+                  continue
+
+              group = "JioStar"
+
+              m = re.search(r'group-title="([^"]+)"', line)
+              if m:
+                  group = m.group(1)
+
+              license_key = ""
+
+              j = i + 1
+              while j < len(cplay):
+                  cur = cplay[j]
+
+                  if cur.startswith("#EXTINF"):
+                      break
+
+                  if cur.startswith("#KODIPROP:inputstream.adaptive.license_key="):
+                      license_key = cur.split("=", 1)[1].strip()
+
+                  j += 1
+
+              lookup[name.lower()] = {
+                  "group": group,
+                  "license": license_key
+              }
+
+          with open("jiotvpl.m3u", "r", encoding="utf-8", errors="ignore") as f:
+              lines = f.read().splitlines()
+
+          output = []
+
+          for line in lines:
+              if line.startswith("#EXTINF"):
+                  name = line.split(",", 1)[1].strip()
+                  data = lookup.get(name.lower())
+
+                  if data:
+                      line = re.sub(
+                          r'group-title="[^"]*"',
+                          f'group-title="{data["group"]}"',
+                          line
+                      )
+
+                  output.append(line)
+
+                  if data and data["license"]:
+                      output.append("#KODIPROP:inputstreamaddon=inputstream.adaptive")
+                      output.append("#KODIPROP:inputstream.adaptive.manifest_type=mpd")
+                      output.append("#KODIPROP:inputstream.adaptive.license_type=clearkey")
+                      output.append(
+                          "#KODIPROP:inputstream.adaptive.license_key=" + data["license"]
+                      )
+
+              elif "license_key=" in line:
+                  continue
+              elif "license_type=" in line:
+                  continue
+              else:
+                  output.append(line)
+
+          with open("jiotvpl.m3u", "w", encoding="utf-8") as f:
+              f.write("\n".join(output) + "\n")
+
+          print("Merged metadata successfully")
+          PY
+
       - name: Commit & Push
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add jiotv.m3u
+          git add jiotvpl.m3u
 
           if git diff --cached --quiet; then
             echo "➡️ No changes"
