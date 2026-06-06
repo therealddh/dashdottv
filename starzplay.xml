@@ -1714,7 +1714,7 @@
   </programme>
   <programme start="20260606163000 +0000" stop="20260606170000 +0000" channel="starplushd">
     <title lang="en">Anupamaa</title>
-    <desc lang="en">S1 , E2041 : Anupamaa sacrifices her personal ambitions to dedicate her life to her family. However, she eventually decides to live on her own terms after failing to receive credit for her many trials.</desc>
+    <desc lang="en">S1 , E2041 : Prem stands up for Rahi against Vasundhara's questions and reassures her. Later, he avoids telling Rahi that he took Anupama's cafe off the form list.</desc>
     <icon src="https://stap.tmsimg.com/assets/p18094069_b_h8_ae.jpg"/>
   </programme>
   <programme start="20260606170000 +0000" stop="20260606180000 +0000" channel="starplushd">
@@ -1759,7 +1759,7 @@
   </programme>
   <programme start="20260606223000 +0000" stop="20260606230000 +0000" channel="starplushd">
     <title lang="en">Anupamaa</title>
-    <desc lang="en">S1 , E2041 : Anupamaa sacrifices her personal ambitions to dedicate her life to her family. However, she eventually decides to live on her own terms after failing to receive credit for her many trials.</desc>
+    <desc lang="en">S1 , E2041 : Prem stands up for Rahi against Vasundhara's questions and reassures her. Later, he avoids telling Rahi that he took Anupama's cafe off the form list.</desc>
     <icon src="https://stap.tmsimg.com/assets/p18094069_b_h8_ae.jpg"/>
   </programme>
   <programme start="20260606230000 +0000" stop="20260607000000 +0000" channel="starplushd">
@@ -2707,65 +2707,115 @@
     <desc lang="en">Anirudhan, a villager, marries Sukumaran's sister, who lives in the city, while Sukumaran marries Anirudhan's sister. The couples soon face problems due to their contrasting lifestyles.</desc>
     <icon src="https://stap.tmsimg.com/assets/p11207329_b_h10_ag.jpg"/>
   </programme>
-  <programme start="20260606003000 +0000" stop="20260606033000 +0000" channel="asianethd">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
+  <programme start="20260606003000 +0000" stop="20260606010000 +0000" channel="asianethd">
+    <title lang="en">Santhwanam 2</title>
+    <desc lang="en">S2 , E634 : Shackled by generations of hatred, two rival families see their destinies entwine as their children are drawn into the ancestral feud.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p28776124_b_h10_af.jpg"/>
+  </programme>
+  <programme start="20260606010000 +0000" stop="20260606013000 +0000" channel="asianethd">
+    <title lang="en">Mazha Thorum Munpe</title>
+    <desc lang="en">S1 , E315 : Faced with bitter accusations from Sherin's relatives, Tony retaliates by demanding to see the child. Elsewhere, an enraged Vyjayanthi clashes with her unruly children.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p30645322_b_h8_ad.jpg"/>
+  </programme>
+  <programme start="20260606013000 +0000" stop="20260606020000 +0000" channel="asianethd">
+    <title lang="en">Chempaneer Poovu</title>
+    <desc lang="en">S1 , E786 : Sachi and Revathy are commended by Ravindran for gaining the families' approval. Later, an emotional reunion unfolds as Malu returns home to her parents.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p26607297_b_h10_ad.jpg"/>
+  </programme>
+  <programme start="20260606020000 +0000" stop="20260606023000 +0000" channel="asianethd">
+    <title lang="en">Patharamattu</title>
+    <desc lang="en">S1 , E996 : David and Abhi watch their chances slip away when Anirudh and Nayana suddenly appear at the venue. The competition officials immediately commence the rigorous design verification process.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p25472032_b_h10_ab.jpg"/>
+  </programme>
+  <programme start="20260606023000 +0000" stop="20260606030000 +0000" channel="asianethd">
+    <title lang="en">Ivar Vivahitharayal</title>
+    <desc lang="en">S1 , E5 : </desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/9ipHx6hC.jpg"/>
   </programme>
-  <programme start="20260606033000 +0000" stop="20260606063000 +0000" channel="asianethd">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/9ipHx6hC.jpg"/>
+  <programme start="20260606030000 +0000" stop="20260606033000 +0000" channel="asianethd">
+    <title lang="en">Ee Puzhayum Kadannu</title>
+    <desc lang="en">S1 , E98 : A middle-class family's happiness is shattered by the sudden death of the father, Aravindan. Now, his daughters must navigate life's conflicts to find a path to hope.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p32308078_b_h10_ab.jpg"/>
   </programme>
-  <programme start="20260606063000 +0000" stop="20260606093000 +0000" channel="asianethd">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/9ipHx6hC.jpg"/>
+  <programme start="20260606033000 +0000" stop="20260606060000 +0000" channel="asianethd">
+    <title lang="en">Aarkkariyam</title>
+    <desc lang="en">Shirley and Roy, a married couple, move to her hometown in Kerala ahead of a nationwide lockdown. They face several challenges and try to overcome their personal issues.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p20025703_v_h8_ab.jpg"/>
   </programme>
-  <programme start="20260606093000 +0000" stop="20260606123000 +0000" channel="asianethd">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/9ipHx6hC.jpg"/>
+  <programme start="20260606060000 +0000" stop="20260606063000 +0000" channel="asianethd">
+    <title lang="en">Kattathe Kilikoodu</title>
+    <desc lang="en">S1 , E189 : Bhaskaran is confronted by Nidhi and his family for being caught by the police while drinking in public. Meanwhile, Sudheesh challenges Nidhi's riding skills but later enjoys sitting behind her.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p31653307_b_h10_ac.jpg"/>
   </programme>
-  <programme start="20260606123000 +0000" stop="20260606153000 +0000" channel="asianethd">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/9ipHx6hC.jpg"/>
+  <programme start="20260606063000 +0000" stop="20260606070000 +0000" channel="asianethd">
+    <title lang="en">Advocate Anjali</title>
+    <desc lang="en">S1 , E158 : The relentlessly courageous Anjali takes on a threatening case, with justice on her mind. As the case unravels, so do hidden truths and family betrayals.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p31653667_b_h10_ac.jpg"/>
   </programme>
-  <programme start="20260606153000 +0000" stop="20260606183000 +0000" channel="asianethd">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/9ipHx6hC.jpg"/>
+  <programme start="20260606070000 +0000" stop="20260606073000 +0000" channel="asianethd">
+    <title lang="en">Chempaneer Poovu</title>
+    <desc lang="en">S1 , E786 : Sachi and Revathy are commended by Ravindran for gaining the families' approval. Later, an emotional reunion unfolds as Malu returns home to her parents.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p26607297_b_h10_ad.jpg"/>
   </programme>
-  <programme start="20260606183000 +0000" stop="20260606193000 +0000" channel="asianethd">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/9ipHx6hC.jpg"/>
+  <programme start="20260606073000 +0000" stop="20260606080000 +0000" channel="asianethd">
+    <title lang="en">Chirikkum Thalika</title>
+    <desc lang="en">S2 , E135 : A comprehensive compilation of some of the best rib-tickling comedy scenes from various Malayalam movies featuring renowned actors and actresses.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p621682_b_h10_ab.jpg"/>
   </programme>
-  <programme start="20260606193000 +0000" stop="20260606203000 +0000" channel="asianethd">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/9ipHx6hC.jpg"/>
+  <programme start="20260606080000 +0000" stop="20260606110000 +0000" channel="asianethd">
+    <title lang="en">Narivetta</title>
+    <desc lang="en">Upon arriving in a tribal region, Varghese Peter, a police constable, encounters complications as he discovers the distressing hardships endured by the local communities.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p30221331_v_h8_aa.jpg"/>
   </programme>
-  <programme start="20260606203000 +0000" stop="20260606213000 +0000" channel="asianethd">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/9ipHx6hC.jpg"/>
+  <programme start="20260606110000 +0000" stop="20260606123000 +0000" channel="asianethd">
+    <title lang="en">Comedy Cooks</title>
+    <desc lang="en">S1 , E13 : </desc>
+    <icon src="https://stap.tmsimg.com/assets/p32910754_b_h8_ab.jpg"/>
   </programme>
-  <programme start="20260606213000 +0000" stop="20260606223000 +0000" channel="asianethd">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/9ipHx6hC.jpg"/>
+  <programme start="20260606123000 +0000" stop="20260606130000 +0000" channel="asianethd">
+    <title lang="en">Chirikkum Thalika</title>
+    <desc lang="en">S2 , E129 : A comprehensive compilation of some of the best rib-tickling comedy scenes from various Malayalam movies featuring renowned actors and actresses.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p621682_b_h10_ab.jpg"/>
   </programme>
-  <programme start="20260606223000 +0000" stop="20260606233000 +0000" channel="asianethd">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/9ipHx6hC.jpg"/>
+  <programme start="20260606130000 +0000" stop="20260606133000 +0000" channel="asianethd">
+    <title lang="en">Santhwanam</title>
+    <desc lang="en">S2 , E635 : Sridevi leads a peaceful and happy life with her husband, Balakrishnan, and his siblings. However, the family faces various adversities that challenge their bonding.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p21612639_b_h10_ab.jpg"/>
   </programme>
-  <programme start="20260606233000 +0000" stop="20260607003000 +0000" channel="asianethd">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/9ipHx6hC.jpg"/>
+  <programme start="20260606133000 +0000" stop="20260606140000 +0000" channel="asianethd">
+    <title lang="en">Mazha Thorum Munpe</title>
+    <desc lang="en">S1 , E316 : Abandoned as a child, Aleena embarks on a relentless search for the parents who left her. Her journey is filled with pain, but she must find the truth and the only happiness that can heal her.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p30645322_b_h8_ad.jpg"/>
+  </programme>
+  <programme start="20260606140000 +0000" stop="20260606153000 +0000" channel="asianethd">
+    <title lang="en">Star Singer</title>
+    <desc lang="en">S10 , E88 : Talented singers perform different songs on stage in a series of rounds and compete against each other to win the prestigious title.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p29870345_b_h8_aa.jpg"/>
+  </programme>
+  <programme start="20260606153000 +0000" stop="20260606170000 +0000" channel="asianethd">
+    <title lang="en">Comedy Cooks</title>
+    <desc lang="en">S1 , E15 : </desc>
+    <icon src="https://stap.tmsimg.com/assets/p32910754_b_h8_ab.jpg"/>
+  </programme>
+  <programme start="20260606170000 +0000" stop="20260606200000 +0000" channel="asianethd">
+    <title lang="en">Aattam</title>
+    <desc lang="en">After a party, the theatre group's sole actress Anjali falls victim to a crime committed by one of the men from the group. As a meeting is held, suspicions surface and truths come to light, leading to a resolution.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p26437539_v_h8_aa.jpg"/>
+  </programme>
+  <programme start="20260606200000 +0000" stop="20260606213000 +0000" channel="asianethd">
+    <title lang="en">Star Singer</title>
+    <desc lang="en">S10 , E88 : Talented singers perform different songs on stage in a series of rounds and compete against each other to win the prestigious title.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p29870345_b_h8_aa.jpg"/>
+  </programme>
+  <programme start="20260606213000 +0000" stop="20260606220000 +0000" channel="asianethd">
+    <title lang="en">Chirikkum Thalika</title>
+    <desc lang="en">S2 , E133 : A comprehensive compilation of some of the best rib-tickling comedy scenes from various Malayalam movies featuring renowned actors and actresses.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p621682_b_h10_ab.jpg"/>
+  </programme>
+  <programme start="20260606220000 +0000" stop="20260607003000 +0000" channel="asianethd">
+    <title lang="en">Ambili</title>
+    <desc lang="en">Ambili, a naive and wide-eyed young man, is adored by everyone for his quirky traits. He hopes to marry his childhood love, Tina, and restore the lost bond with his friend and Tina's brother, Bobby.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p17264224_v_h10_ac.jpg"/>
   </programme>
   <programme start="20260606000000 +0000" stop="20260606000000 +0000" channel="asianetcinema">
     <title lang="en">Movie</title>
