@@ -122,45 +122,245 @@
     <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
     <icon src="https://stap.tmsimg.com/assets/p29697111_b_h10_ab.jpg"/>
   </programme>
-  <programme start="20260606003000 +0000" stop="20260606033000 +0000" channel="indiatoday">
+  <programme start="20260606003000 +0000" stop="20260606010000 +0000" channel="indiatoday">
     <title lang="en">The Cyber Boys Of India</title>
     <desc lang="en">The Cyber Boys Of India</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/qARVxF9Y.jpg"/>
   </programme>
-  <programme start="20260606033000 +0000" stop="20260606063000 +0000" channel="indiatoday">
+  <programme start="20260606010000 +0000" stop="20260606013000 +0000" channel="indiatoday">
+    <title lang="en">Battle Cry</title>
+    <desc lang="en">The host talks about the unsung heroes from the Indian forces while focussing on weapons they use and strategies they follow at the front line.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p22906634_b_h8_aa.jpg"/>
+  </programme>
+  <programme start="20260606013000 +0000" stop="20260606020000 +0000" channel="indiatoday">
     <title lang="en">News</title>
     <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
     <icon src="https://stap.tmsimg.com/assets/p29697111_b_h10_ab.jpg"/>
   </programme>
-  <programme start="20260606063000 +0000" stop="20260606093000 +0000" channel="indiatoday">
-    <title lang="en">Spief 2026 World Exclusive</title>
-    <desc lang="en">Spief 2026 World Exclusive</desc>
+  <programme start="20260606020000 +0000" stop="20260606023000 +0000" channel="indiatoday">
+    <title lang="en">It's Gone Viral</title>
+    <desc lang="en">The host presents a compilation of some of the most engaging videos that have gone viral in different parts of the world.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p20620538_b_h10_aa.jpg"/>
+  </programme>
+  <programme start="20260606023000 +0000" stop="20260606030000 +0000" channel="indiatoday">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p29697111_b_h10_ab.jpg"/>
+  </programme>
+  <programme start="20260606030000 +0000" stop="20260606033000 +0000" channel="indiatoday">
+    <title lang="en">Lights Camera Pride</title>
+    <desc lang="en">The host presents the latest news updates regarding Pride activities organised to raise awareness towards the LGBTQ community.</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/qARVxF9Y.jpg"/>
   </programme>
-  <programme start="20260606093000 +0000" stop="20260606123000 +0000" channel="indiatoday">
+  <programme start="20260606033000 +0000" stop="20260606040000 +0000" channel="indiatoday">
     <title lang="en">News</title>
     <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
     <icon src="https://stap.tmsimg.com/assets/p29697111_b_h10_ab.jpg"/>
   </programme>
-  <programme start="20260606123000 +0000" stop="20260606153000 +0000" channel="indiatoday">
-    <title lang="en">News</title>
-    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29697111_b_h10_ab.jpg"/>
+  <programme start="20260606040000 +0000" stop="20260606043000 +0000" channel="indiatoday">
+    <title lang="en">The Cyber Boys Of India</title>
+    <desc lang="en">The Cyber Boys Of India</desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/qARVxF9Y.jpg"/>
   </programme>
-  <programme start="20260606153000 +0000" stop="20260606183000 +0000" channel="indiatoday">
+  <programme start="20260606043000 +0000" stop="20260606050000 +0000" channel="indiatoday">
     <title lang="en">Gen Z Roundtable With Rajdeep Sardesai</title>
     <desc lang="en">Gen Z Roundtable With Rajdeep Sardesai</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/qARVxF9Y.jpg"/>
   </programme>
-  <programme start="20260606183000 +0000" stop="20260606213000 +0000" channel="indiatoday">
+  <programme start="20260606050000 +0000" stop="20260606053000 +0000" channel="indiatoday">
+    <title lang="en">Gen Z Roundtable With Rajdeep Sardesai</title>
+    <desc lang="en">Gen Z Roundtable With Rajdeep Sardesai</desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/qARVxF9Y.jpg"/>
+  </programme>
+  <programme start="20260606053000 +0000" stop="20260606060000 +0000" channel="indiatoday">
     <title lang="en">News</title>
     <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
     <icon src="https://stap.tmsimg.com/assets/p29697111_b_h10_ab.jpg"/>
   </programme>
-  <programme start="20260606213000 +0000" stop="20260607003000 +0000" channel="indiatoday">
+  <programme start="20260606060000 +0000" stop="20260606063000 +0000" channel="indiatoday">
+    <title lang="en">100 Days Of War &amp; Peace</title>
+    <desc lang="en">100 Days Of War &amp; Peace</desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/qARVxF9Y.jpg"/>
+  </programme>
+  <programme start="20260606063000 +0000" stop="20260606070000 +0000" channel="indiatoday">
+    <title lang="en">Spief 2026 World Exclusive</title>
+    <desc lang="en">Spief 2026 World Exclusive</desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/qARVxF9Y.jpg"/>
+  </programme>
+  <programme start="20260606070000 +0000" stop="20260606073000 +0000" channel="indiatoday">
+    <title lang="en">Spief 2026 World Exclusive</title>
+    <desc lang="en">Spief 2026 World Exclusive</desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/qARVxF9Y.jpg"/>
+  </programme>
+  <programme start="20260606073000 +0000" stop="20260606080000 +0000" channel="indiatoday">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p29697111_b_h10_ab.jpg"/>
+  </programme>
+  <programme start="20260606080000 +0000" stop="20260606083000 +0000" channel="indiatoday">
+    <title lang="en">The Last Check In</title>
+    <desc lang="en">The Last Check In</desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/qARVxF9Y.jpg"/>
+  </programme>
+  <programme start="20260606083000 +0000" stop="20260606090000 +0000" channel="indiatoday">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p29697111_b_h10_ab.jpg"/>
+  </programme>
+  <programme start="20260606090000 +0000" stop="20260606093000 +0000" channel="indiatoday">
+    <title lang="en">In Da Club: Weekend Edition</title>
+    <desc lang="en">In Da Club: Weekend Edition</desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/qARVxF9Y.jpg"/>
+  </programme>
+  <programme start="20260606093000 +0000" stop="20260606100000 +0000" channel="indiatoday">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p29697111_b_h10_ab.jpg"/>
+  </programme>
+  <programme start="20260606100000 +0000" stop="20260606103000 +0000" channel="indiatoday">
+    <title lang="en">Tech Today</title>
+    <desc lang="en">The host collates and presents some of the most important news, updates and developments related to the world of technology.</desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/qARVxF9Y.jpg"/>
+  </programme>
+  <programme start="20260606103000 +0000" stop="20260606110000 +0000" channel="indiatoday">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p29697111_b_h10_ab.jpg"/>
+  </programme>
+  <programme start="20260606110000 +0000" stop="20260606113000 +0000" channel="indiatoday">
+    <title lang="en">Health Wealth</title>
+    <desc lang="en">Health Wealth</desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/qARVxF9Y.jpg"/>
+  </programme>
+  <programme start="20260606113000 +0000" stop="20260606120000 +0000" channel="indiatoday">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p29697111_b_h10_ab.jpg"/>
+  </programme>
+  <programme start="20260606120000 +0000" stop="20260606123000 +0000" channel="indiatoday">
+    <title lang="en">Namo Namo</title>
+    <desc lang="en">Namo Namo</desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/qARVxF9Y.jpg"/>
+  </programme>
+  <programme start="20260606123000 +0000" stop="20260606130000 +0000" channel="indiatoday">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p29697111_b_h10_ab.jpg"/>
+  </programme>
+  <programme start="20260606130000 +0000" stop="20260606133000 +0000" channel="indiatoday">
+    <title lang="en">Battle Cry</title>
+    <desc lang="en">The host talks about the unsung heroes from the Indian forces while focussing on weapons they use and strategies they follow at the front line.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p22906634_b_h8_aa.jpg"/>
+  </programme>
+  <programme start="20260606133000 +0000" stop="20260606140000 +0000" channel="indiatoday">
+    <title lang="en">Spief 2026 World Exclusive</title>
+    <desc lang="en">Spief 2026 World Exclusive</desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/qARVxF9Y.jpg"/>
+  </programme>
+  <programme start="20260606140000 +0000" stop="20260606143000 +0000" channel="indiatoday">
+    <title lang="en">Spief 2026 World Exclusive</title>
+    <desc lang="en">Spief 2026 World Exclusive</desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/qARVxF9Y.jpg"/>
+  </programme>
+  <programme start="20260606143000 +0000" stop="20260606150000 +0000" channel="indiatoday">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p29697111_b_h10_ab.jpg"/>
+  </programme>
+  <programme start="20260606150000 +0000" stop="20260606153000 +0000" channel="indiatoday">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p29697111_b_h10_ab.jpg"/>
+  </programme>
+  <programme start="20260606153000 +0000" stop="20260606160000 +0000" channel="indiatoday">
+    <title lang="en">Gen Z Roundtable With Rajdeep Sardesai</title>
+    <desc lang="en">Gen Z Roundtable With Rajdeep Sardesai</desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/qARVxF9Y.jpg"/>
+  </programme>
+  <programme start="20260606160000 +0000" stop="20260606163000 +0000" channel="indiatoday">
+    <title lang="en">Gen Z Roundtable With Rajdeep Sardesai</title>
+    <desc lang="en">Gen Z Roundtable With Rajdeep Sardesai</desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/qARVxF9Y.jpg"/>
+  </programme>
+  <programme start="20260606163000 +0000" stop="20260606170000 +0000" channel="indiatoday">
+    <title lang="en">Modi's Twelve-Year Run</title>
+    <desc lang="en">Modi's Twelve-Year Run</desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/qARVxF9Y.jpg"/>
+  </programme>
+  <programme start="20260606170000 +0000" stop="20260606173000 +0000" channel="indiatoday">
+    <title lang="en">Modi's Twelve-Year Run</title>
+    <desc lang="en">Modi's Twelve-Year Run</desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/qARVxF9Y.jpg"/>
+  </programme>
+  <programme start="20260606173000 +0000" stop="20260606180000 +0000" channel="indiatoday">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p29697111_b_h10_ab.jpg"/>
+  </programme>
+  <programme start="20260606180000 +0000" stop="20260606183000 +0000" channel="indiatoday">
+    <title lang="en">Hollywood Special - In Da Club</title>
+    <desc lang="en">The host interacts with prominent celebrities and learns more about their professional and personal life and upcoming projects.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p23392792_b_h10_ab.jpg"/>
+  </programme>
+  <programme start="20260606183000 +0000" stop="20260606190000 +0000" channel="indiatoday">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p29697111_b_h10_ab.jpg"/>
+  </programme>
+  <programme start="20260606190000 +0000" stop="20260606193000 +0000" channel="indiatoday">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p29697111_b_h10_ab.jpg"/>
+  </programme>
+  <programme start="20260606193000 +0000" stop="20260606200000 +0000" channel="indiatoday">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p29697111_b_h10_ab.jpg"/>
+  </programme>
+  <programme start="20260606200000 +0000" stop="20260606203000 +0000" channel="indiatoday">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p29697111_b_h10_ab.jpg"/>
+  </programme>
+  <programme start="20260606203000 +0000" stop="20260606210000 +0000" channel="indiatoday">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p29697111_b_h10_ab.jpg"/>
+  </programme>
+  <programme start="20260606210000 +0000" stop="20260606213000 +0000" channel="indiatoday">
     <title lang="en">News</title>
     <desc lang="en">The hosts shed light on the latest and most important news, developments and current affairs taking place all around the world.</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/qARVxF9Y.jpg"/>
+  </programme>
+  <programme start="20260606213000 +0000" stop="20260606220000 +0000" channel="indiatoday">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts shed light on the latest and most important news, developments and current affairs taking place all around the world.</desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/qARVxF9Y.jpg"/>
+  </programme>
+  <programme start="20260606220000 +0000" stop="20260606223000 +0000" channel="indiatoday">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts shed light on the latest and most important news, developments and current affairs taking place all around the world.</desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/qARVxF9Y.jpg"/>
+  </programme>
+  <programme start="20260606223000 +0000" stop="20260606230000 +0000" channel="indiatoday">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts shed light on the latest and most important news, developments and current affairs taking place all around the world.</desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/qARVxF9Y.jpg"/>
+  </programme>
+  <programme start="20260606230000 +0000" stop="20260606233000 +0000" channel="indiatoday">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts shed light on the latest and most important news, developments and current affairs taking place all around the world.</desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/qARVxF9Y.jpg"/>
+  </programme>
+  <programme start="20260606233000 +0000" stop="20260607000000 +0000" channel="indiatoday">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p29697111_b_h10_ab.jpg"/>
+  </programme>
+  <programme start="20260607000000 +0000" stop="20260607003000 +0000" channel="indiatoday">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p29697111_b_h10_ab.jpg"/>
   </programme>
   <programme start="20260606000000 +0000" stop="20260606000000 +0000" channel="republictv">
     <title lang="en">R News</title>
@@ -1189,7 +1389,7 @@
   </programme>
   <programme start="20260606053000 +0000" stop="20260606060000 +0000" channel="zeetvhd">
     <title lang="en">Vasudha</title>
-    <desc lang="en">S1 , E582 : Though they have different perspectives, the amiable and endearing Vasudha works as a housekeeper in Chandrika, a business tycoon's house.</desc>
+    <desc lang="en">S1 , E582 : As Devansh's funny pickle-selling memes go viral, an annoyed Chandrika steps in to put an end to it. However, he stubbornly refuses to back down.</desc>
     <icon src="https://stap.tmsimg.com/assets/p28225153_b_h8_ac.jpg"/>
   </programme>
   <programme start="20260606060000 +0000" stop="20260606063000 +0000" channel="zeetvhd">
@@ -1229,7 +1429,7 @@
   </programme>
   <programme start="20260606093000 +0000" stop="20260606100000 +0000" channel="zeetvhd">
     <title lang="en">Vasudha</title>
-    <desc lang="en">S1 , E582 : Though they have different perspectives, the amiable and endearing Vasudha works as a housekeeper in Chandrika, a business tycoon's house.</desc>
+    <desc lang="en">S1 , E582 : As Devansh's funny pickle-selling memes go viral, an annoyed Chandrika steps in to put an end to it. However, he stubbornly refuses to back down.</desc>
     <icon src="https://stap.tmsimg.com/assets/p28225153_b_h8_ac.jpg"/>
   </programme>
   <programme start="20260606100000 +0000" stop="20260606103000 +0000" channel="zeetvhd">
@@ -2622,47 +2822,47 @@
     <desc lang="en">An advocate disappears after his journalist-wife uncovers a shocking trail of corruption involving a powerful politician. When all hope seems lost, a stranger offers to help the couple secure justice.</desc>
     <icon src="https://stap.tmsimg.com/assets/p10692824_b_h10_ad.jpg"/>
   </programme>
-  <programme start="20260606013000 +0000" stop="20260606043000 +0000" channel="asianetmovieshd">
+  <programme start="20260606013000 +0000" stop="20260606042500 +0000" channel="asianetmovieshd">
     <title lang="en">Action Hero Biju</title>
     <desc lang="en">Biju Poulose leaves his teaching job to pursue his dream of serving in the police force. Posted as the sub-inspector in Cochin, he has to handle notorious criminals who indulge in unlawful activities.</desc>
     <icon src="https://stap.tmsimg.com/assets/p12576839_v_h10_aa.jpg"/>
   </programme>
-  <programme start="20260606043000 +0000" stop="20260606073000 +0000" channel="asianetmovieshd">
+  <programme start="20260606042500 +0000" stop="20260606072000 +0000" channel="asianetmovieshd">
     <title lang="en">Avatharam</title>
     <desc lang="en">When Karkotakudu, a monster, attempts to destroy Earth to take control of the planet, Rajeshwari, a devotee of Goddess Akkamma, decides to fight the behemoth.</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/k3V7Ffzi.jpg"/>
   </programme>
-  <programme start="20260606073000 +0000" stop="20260606103000 +0000" channel="asianetmovieshd">
+  <programme start="20260606072000 +0000" stop="20260606102000 +0000" channel="asianetmovieshd">
     <title lang="en">RDX</title>
     <desc lang="en">Robert, Dony and Xavier grow up together while honing their fighting skills. However, after an incident separates them for several years, an attack on their family reunites the three friends.</desc>
     <icon src="https://stap.tmsimg.com/assets/p25481267_v_h10_ac.jpg"/>
   </programme>
-  <programme start="20260606103000 +0000" stop="20260606133000 +0000" channel="asianetmovieshd">
+  <programme start="20260606102000 +0000" stop="20260606133000 +0000" channel="asianetmovieshd">
     <title lang="en">Sthanarthi Sreekuttan</title>
     <desc lang="en">Sreekuttan and Ambadi present an intense rivalry concerning a school election. Soon, the contest fundamentally affects the classroom and involves pride and friendship.</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/k3V7Ffzi.jpg"/>
   </programme>
-  <programme start="20260606133000 +0000" stop="20260606170000 +0000" channel="asianetmovieshd">
+  <programme start="20260606133000 +0000" stop="20260606165500 +0000" channel="asianetmovieshd">
     <title lang="en">Aaraam Thampuran</title>
     <desc lang="en">Jagannadhan moves to Kanimangalam and wins over the locals but falls into trouble with Appan Thamburan, a feudal lord. It starts after he organises a festival that has been banned by Appan himself.</desc>
     <icon src="https://stap.tmsimg.com/assets/p11755347_v_h8_aa.jpg"/>
   </programme>
-  <programme start="20260606170000 +0000" stop="20260606193000 +0000" channel="asianetmovieshd">
+  <programme start="20260606165500 +0000" stop="20260606193000 +0000" channel="asianetmovieshd">
     <title lang="en">Romancham</title>
     <desc lang="en">A group of seven men attempt to conduct a seance, only to find themselves in a predicament when a spirit begins to answer their queries.</desc>
     <icon src="https://stap.tmsimg.com/assets/p23961937_v_h8_aa.jpg"/>
   </programme>
-  <programme start="20260606193000 +0000" stop="20260606213000 +0000" channel="asianetmovieshd">
+  <programme start="20260606193000 +0000" stop="20260606214500 +0000" channel="asianetmovieshd">
     <title lang="en">Aarkkariyam</title>
     <desc lang="en">Shirley and Roy, a married couple, move to her hometown in Kerala ahead of a nationwide lockdown. They face several challenges and try to overcome their personal issues.</desc>
     <icon src="https://stap.tmsimg.com/assets/p20025703_v_h8_ab.jpg"/>
   </programme>
-  <programme start="20260606213000 +0000" stop="20260606233000 +0000" channel="asianetmovieshd">
+  <programme start="20260606214500 +0000" stop="20260606234000 +0000" channel="asianetmovieshd">
     <title lang="en">Panthaya Kozhi</title>
     <desc lang="en">Nandagopal discovers that his late father owned a bungalow in Tamil Nadu and tries to sell the property due to financial issues. However, Nachiappa, who is already staying there, refuses to vacate it.</desc>
     <icon src="https://stap.tmsimg.com/assets/p10612848_v_h10_aa.jpg"/>
   </programme>
-  <programme start="20260606233000 +0000" stop="20260607013000 +0000" channel="asianetmovieshd">
+  <programme start="20260606234000 +0000" stop="20260607013000 +0000" channel="asianetmovieshd">
     <title lang="en">Tsunami</title>
     <desc lang="en">Bobby, a young man, decides to become a priest and joins a seminary in Goa despite his family's opposition. However, his experiences during the journey compel him to return home.</desc>
     <icon src="https://stap.tmsimg.com/assets/p25340080_b_h10_ad.jpg"/>
@@ -3227,22 +3427,17 @@
     <desc lang="en">S1 , E1575 : A comprehensive compilation of songs and snippets from some of the most popular and trending Tamil movies is played to entertain the audience.</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/klN7lrpJ.jpg"/>
   </programme>
-  <programme start="20260606003000 +0000" stop="20260606010000 +0000" channel="zeetamil">
-    <title lang="en">Prophet Jerome Fernando</title>
-    <desc lang="en">S1 , E3 : Prophet Jerome Fernando delivers a religious discourse on the philosophies of Christianity and explains the teachings of the Holy Bible.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29920322_b_h10_aa.jpg"/>
-  </programme>
-  <programme start="20260606010000 +0000" stop="20260606013000 +0000" channel="zeetamil">
+  <programme start="20260606003000 +0000" stop="20260606013000 +0000" channel="zeetamil">
     <title lang="en">TeleShopping</title>
     <desc lang="en">The host presents a collection of varied items for the audience, showcasing exclusive products with unique features and enticing deals.</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/klN7lrpJ.jpg"/>
   </programme>
-  <programme start="20260606013000 +0000" stop="20260606023000 +0000" channel="zeetamil">
+  <programme start="20260606013000 +0000" stop="20260606023300 +0000" channel="zeetamil">
     <title lang="en">Olimayamana Ethirkaalam</title>
     <desc lang="en">S1 , E5782 : Various subject-matter experts provide a comprehensive and detailed insight into future predictions and offer guidance to lead a healthy life.</desc>
     <icon src="https://stap.tmsimg.com/assets/p11071709_b_h8_ab.jpg"/>
   </programme>
-  <programme start="20260606023000 +0000" stop="20260606040000 +0000" channel="zeetamil">
+  <programme start="20260606023300 +0000" stop="20260606040000 +0000" channel="zeetamil">
     <title lang="en">Mahanadigai</title>
     <desc lang="en">S1 , E3 : Amateur artists showcase their acting prowess by delivering enthralling performances to impress esteemed judges and win the title.</desc>
     <icon src="https://stap.tmsimg.com/assets/p29139616_b_h10_aa.jpg"/>
@@ -3269,7 +3464,7 @@
   </programme>
   <programme start="20260606060000 +0000" stop="20260606063000 +0000" channel="zeetamil">
     <title lang="en">Sandhya Raagam</title>
-    <desc lang="en">S1 , E894 : Separated sisters face new challenges. Sandhya's daughter, Maya, arrives at Janaki's home. Maya's modern ways influence Janaki's daughter, causing concern and tension in the household.</desc>
+    <desc lang="en">S1 , E892 : Separated sisters face new challenges. Sandhya's daughter, Maya, arrives at Janaki's home. Maya's modern ways influence Janaki's daughter, causing concern and tension in the household.</desc>
     <icon src="https://stap.tmsimg.com/assets/p26168585_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260606063000 +0000" stop="20260606070000 +0000" channel="zeetamil">
@@ -3453,9 +3648,9 @@
     <icon src="https://stap.tmsimg.com/assets/p29492543_b_h10_ad.jpg"/>
   </programme>
   <programme start="20260606003000 +0000" stop="20260606010000 +0000" channel="zeemarathi">
-    <title lang="en">Deep Jyoti</title>
-    <desc lang="en">S1 , E40 : Swaraj offers Priti a ride on Sujay's bike, resulting in an injury for Swaraj. Meanwhile, Deep speaks with Jyoti after she becomes upset.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p32865339_b_h8_ac.jpg"/>
+    <title lang="en">Kamali</title>
+    <desc lang="en">S1 , E3 : A courageous kabaddi champion hailing from the countryside of Maharashtra challenges her family's expectations by venturing to Mumbai in pursuit of her aspirations.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p30594191_b_h8_ad.jpg"/>
   </programme>
   <programme start="20260606010000 +0000" stop="20260606013000 +0000" channel="zeemarathi">
     <title lang="en">Calvary Swar</title>
@@ -3473,16 +3668,21 @@
     <icon src="https://stap.tmsimg.com/assets/p30905426_b_h10_ac.jpg"/>
   </programme>
   <programme start="20260606030000 +0000" stop="20260606033000 +0000" channel="zeemarathi">
-    <title lang="en">Shubh Shravani</title>
-    <desc lang="en">S1 , E122 : Growing up wealthy, Shravanii craves her father's love. Her clash with modest Shubh sparks a bond that transcends status and riches.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p32194488_b_h10_ab.jpg"/>
+    <title lang="en">Kamali</title>
+    <desc lang="en">S1 , E3 : A courageous kabaddi champion hailing from the countryside of Maharashtra challenges her family's expectations by venturing to Mumbai in pursuit of her aspirations.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p30594191_b_h8_ad.jpg"/>
   </programme>
   <programme start="20260606033000 +0000" stop="20260606040000 +0000" channel="zeemarathi">
     <title lang="en">RJR Hospital</title>
     <desc lang="en">S1 , E317 : Doctors of a wellness center suggest remedies for various chronic diseases and provide a few tips and suggestions on staying safe.</desc>
     <icon src="https://stap.tmsimg.com/assets/p25355634_b_h10_aa.jpg"/>
   </programme>
-  <programme start="20260606040000 +0000" stop="20260606050000 +0000" channel="zeemarathi">
+  <programme start="20260606040000 +0000" stop="20260606043000 +0000" channel="zeemarathi">
+    <title lang="en">Sanai Chaughade</title>
+    <desc lang="en">S1 , E5 : Jay presents Sakshi with a unique present. Later, Samaira, Uma's daughter, who has an aversion to Pramila's family, forces them to take a bus to Akash's wedding venue.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p32659244_b_h10_ad.jpg"/>
+  </programme>
+  <programme start="20260606043000 +0000" stop="20260606050000 +0000" channel="zeemarathi">
     <title lang="en">Deep Jyoti</title>
     <desc lang="en">S1 , E40 : Swaraj offers Priti a ride on Sujay's bike, resulting in an injury for Swaraj. Meanwhile, Deep speaks with Jyoti after she becomes upset.</desc>
     <icon src="https://stap.tmsimg.com/assets/p32865339_b_h8_ac.jpg"/>
@@ -3493,19 +3693,24 @@
     <icon src="https://stap.tmsimg.com/assets/p30905426_b_h10_ac.jpg"/>
   </programme>
   <programme start="20260606053000 +0000" stop="20260606060000 +0000" channel="zeemarathi">
-    <title lang="en">Devmanus Madhla Adhyay</title>
-    <desc lang="en">S1 , E326 : While Gopal panics when Jamkar interrogates an unresponsive Saket, Jamkar grows increasingly frustrated. Meanwhile, Gopal avoids being seen by Saket and later attempts to silence him for good.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p30349871_b_h8_ac.jpg"/>
+    <title lang="en">Kamali</title>
+    <desc lang="en">S1 , E3 : A courageous kabaddi champion hailing from the countryside of Maharashtra challenges her family's expectations by venturing to Mumbai in pursuit of her aspirations.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p30594191_b_h8_ad.jpg"/>
   </programme>
   <programme start="20260606060000 +0000" stop="20260606063000 +0000" channel="zeemarathi">
     <title lang="en">Veen Doghantali Hi Tutena</title>
     <desc lang="en">S1 , E279 : Chingi leaves the entire family shocked by stepping forward and confessing to stealing the missing chain. Meanwhile, Mallika plans a meeting with a prospective match for Anshuman.</desc>
     <icon src="https://stap.tmsimg.com/assets/p30905430_b_h10_ac.jpg"/>
   </programme>
-  <programme start="20260606063000 +0000" stop="20260606073000 +0000" channel="zeemarathi">
-    <title lang="en">Kamali</title>
-    <desc lang="en">S1 , E317 : Gautam successfully convinces a reluctant Asavari to proceed with their marriage. However, drama unfolds at the ceremony when the groom mysteriously vanishes and Asavari walks out.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p30594191_b_h8_ad.jpg"/>
+  <programme start="20260606063000 +0000" stop="20260606070000 +0000" channel="zeemarathi">
+    <title lang="en">Deep Jyoti</title>
+    <desc lang="en">S1 , E1 : Honest rickshaw puller Abhijeet enjoys a birthday celebration with his three sisters. Meanwhile, Purushottam holds Deep responsible for Geetanjali's death.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p32865339_b_h8_ac.jpg"/>
+  </programme>
+  <programme start="20260606070000 +0000" stop="20260606073000 +0000" channel="zeemarathi">
+    <title lang="en">Sanai Chaughade</title>
+    <desc lang="en">S1 , E5 : Jay presents Sakshi with a unique present. Later, Samaira, Uma's daughter, who has an aversion to Pramila's family, forces them to take a bus to Akash's wedding venue.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p32659244_b_h10_ad.jpg"/>
   </programme>
   <programme start="20260606073000 +0000" stop="20260606080000 +0000" channel="zeemarathi">
     <title lang="en">Savlayachi Janu Savali</title>
@@ -3582,12 +3787,12 @@
     <desc lang="en">S1 , E318 : Kamali urges Annapurna to forgive Rajan, but it takes a moment of crisis to shatter the ice between them. Meanwhile, Kamini attempts to physically assault Rajan, prompting Annapurna to intervene.</desc>
     <icon src="https://stap.tmsimg.com/assets/p30594191_b_h8_ad.jpg"/>
   </programme>
-  <programme start="20260606160000 +0000" stop="20260606164500 +0000" channel="zeemarathi">
+  <programme start="20260606160000 +0000" stop="20260606164600 +0000" channel="zeemarathi">
     <title lang="en">Taarini</title>
     <desc lang="en">S1 , E268 : Shekhar uncovers an important clue about the lost children and prompts Taarini to summon her team. Sumi warns Reva during the bedroom search before Taarini explains a marriage secret.</desc>
     <icon src="https://stap.tmsimg.com/assets/p30905426_b_h10_ac.jpg"/>
   </programme>
-  <programme start="20260606164500 +0000" stop="20260606173000 +0000" channel="zeemarathi">
+  <programme start="20260606164600 +0000" stop="20260606173000 +0000" channel="zeemarathi">
     <title lang="en">Devmanus Madhla Adhyay</title>
     <desc lang="en">S1 , E327 : Gopal and Lali encounter obstacles, while trying to discard Saket's corpse. They attempt a stealthy relocation, but Naru Aaji suddenly intercepts them.</desc>
     <icon src="https://stap.tmsimg.com/assets/p30349871_b_h8_ac.jpg"/>
@@ -3597,12 +3802,12 @@
     <desc lang="en">S1 , E415 : Meera confides in Ambika after experiencing an unsettling dream about Shivnath. Later, Manjiri uses his poor health to manipulate Meera into surrendering the sacred cowries.</desc>
     <icon src="https://stap.tmsimg.com/assets/p29492543_b_h10_ad.jpg"/>
   </programme>
-  <programme start="20260606180000 +0000" stop="20260606182800 +0000" channel="zeemarathi">
+  <programme start="20260606180000 +0000" stop="20260606183000 +0000" channel="zeemarathi">
     <title lang="en">Sanai Chaughade</title>
     <desc lang="en">S1 , E70 : Jayraj locks his heart away to escape a painful past. But everything changes when he meets Sharvari. Can these two opposites overcome family drama and fear to find healing?</desc>
     <icon src="https://stap.tmsimg.com/assets/p32659244_b_h10_ad.jpg"/>
   </programme>
-  <programme start="20260606182800 +0000" stop="20260606190000 +0000" channel="zeemarathi">
+  <programme start="20260606183000 +0000" stop="20260606190000 +0000" channel="zeemarathi">
     <title lang="en">Kamali</title>
     <desc lang="en">S1 , E318 : Kamali urges Annapurna to forgive Rajan, but it takes a moment of crisis to shatter the ice between them. Meanwhile, Kamini attempts to physically assault Rajan, prompting Annapurna to intervene.</desc>
     <icon src="https://stap.tmsimg.com/assets/p30594191_b_h8_ad.jpg"/>
@@ -3687,12 +3892,12 @@
     <desc lang="en">Nabin, Nagen and Naren, three retired men, are the best of friends. Soon, they decide to revive an old tea shop and make some profits.</desc>
     <icon src="https://stap.tmsimg.com/assets/p29852241_v_h10_aa.jpg"/>
   </programme>
-  <programme start="20260606090000 +0000" stop="20260606113000 +0000" channel="zeebangla">
+  <programme start="20260606090000 +0000" stop="20260606120000 +0000" channel="zeebangla">
     <title lang="en">Rakhal Raja</title>
     <desc lang="en">Princess Radha is captivated by Ajay's music and falls in love with him. However, Ajay's devoted childhood friend, Phul, selflessly decides to sacrifice her own feelings to unite the pair.</desc>
     <icon src="https://stap.tmsimg.com/assets/p31411471_b_h8_aa.jpg"/>
   </programme>
-  <programme start="20260606113000 +0000" stop="20260606143000 +0000" channel="zeebangla">
+  <programme start="20260606120000 +0000" stop="20260606143000 +0000" channel="zeebangla">
     <title lang="en">Anjali</title>
     <desc lang="en">A devout father arranges his daughter's marriage with a renowned businessman. However, the daughter secretly resents the union as she is madly in love with her boyfriend.</desc>
     <icon src="https://stap.tmsimg.com/assets/p15110726_b_h10_ac.jpg"/>
@@ -3702,17 +3907,17 @@
     <desc lang="en">A newlywed Kajal gets widowed when her husband, Ravi, is killed by his enemies. She moves to another city and gets married to Raja, but her life takes a turn when Ravi returns from the dead.</desc>
     <icon src="https://stap.tmsimg.com/assets/p76401_v_h10_ab.jpg"/>
   </programme>
-  <programme start="20260606173000 +0000" stop="20260606200000 +0000" channel="zeebangla">
+  <programme start="20260606173000 +0000" stop="20260606193600 +0000" channel="zeebangla">
     <title lang="en">Jwar Bhata</title>
     <desc lang="en">Bijay, a rich tea estate owner's son, angers his father when he marries a poor girl. Ranjan, his cousin, tries to make the most of the situation by usurping his property.</desc>
     <icon src="https://stap.tmsimg.com/assets/p10944107_v_h8_aa.jpg"/>
   </programme>
-  <programme start="20260606200000 +0000" stop="20260606220000 +0000" channel="zeebangla">
+  <programme start="20260606193600 +0000" stop="20260606215600 +0000" channel="zeebangla">
     <title lang="en">Ananya</title>
     <desc lang="en">Ananya</desc>
     <icon src="https://stap.tmsimg.com/assets/p30902560_b_h8_aa.jpg"/>
   </programme>
-  <programme start="20260606220000 +0000" stop="20260606233000 +0000" channel="zeebangla">
+  <programme start="20260606215600 +0000" stop="20260606233000 +0000" channel="zeebangla">
     <title lang="en">8/12 Binoy Badal Dinesh</title>
     <desc lang="en">A heroic trio of freedom fighters plans to break into the British India Secretariat of Bengal in order to assassinate the tyrannical Inspector General N S Simpson.</desc>
     <icon src="https://stap.tmsimg.com/assets/p32428922_b_h8_aa.jpg"/>
