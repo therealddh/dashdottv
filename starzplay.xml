@@ -1639,7 +1639,7 @@
   </programme>
   <programme start="20260611000000 +0000" stop="20260611003000 +0000" channel="colorshd">
     <title lang="en">Bareilly Ke Bachchan</title>
-    <desc lang="en">S1 , E1 : Cheerful taxi driver Krishna spends his days searching for the perfect romantic partner. Meanwhile, the ambitious Sangam focuses entirely on her academic goals as a brilliant college topper.</desc>
+    <desc lang="en">S1 , E1 : The driven Sangam opts to wed the easygoing Krishna Bacchan. Meanwhile, she steps into an all-male home entirely unfamiliar with having a woman around.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33257755_b_h10_ab.jpg"/>
   </programme>
   <programme start="20260611003000 +0000" stop="20260611010000 +0000" channel="colorshd">
@@ -2348,39 +2348,29 @@
     <icon src="https://stap.tmsimg.com/assets/p29379941_b_h8_ab.jpg"/>
   </programme>
   <programme start="20260611200000 +0000" stop="20260611210000 +0000" channel="flowersinternational">
-    <title lang="en">Flowers Comedy Ith Item Vere</title>
-    <desc lang="en">Comedians take the stage and perform hilarious skits, showcasing their talent and attempting to impress the judges, in order to win the competition.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29170189_b_h8_ab.jpg"/>
+    <title lang="en">Flowers Comedy - Ithu Item Vere</title>
+    <desc lang="en">S1 , E581 : Contestants showcase their comic prowess through entertaining and hilarious performances and skits in front of a panel of esteemed judges as they compete for a grand prize.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p31653490_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260611210000 +0000" stop="20260611213000 +0000" channel="flowersinternational">
-    <title lang="en">Panchagni</title>
-    <desc lang="en">A restaurant named Pancharatnam is run by five sisters, while their stepmother tries different tactics to close their business.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29170753_b_h8_ab.jpg"/>
+    <title lang="en">Sukhamo Devi</title>
+    <desc lang="en">S1 , E980 : Devika is in love with Nandagopan, but Karthikeyan forces her to marry him. She elopes with Nandagopan only to get abandoned by him at the temple, which leads her to marry his friend.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p29170986_b_h8_ab.jpg"/>
   </programme>
-  <programme start="20260611213000 +0000" stop="20260611220000 +0000" channel="flowersinternational">
-    <title lang="en">Veettile Vilakku</title>
-    <desc lang="en">A mother goes through various struggles and hardships as she battles for her child and motherhood amidst a complex family relationship.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29496588_b_h10_ac.jpg"/>
+  <programme start="20260611213000 +0000" stop="20260611230000 +0000" channel="flowersinternational">
+    <title lang="en">Top Singer 6</title>
+    <desc lang="en">S1 , E203 : </desc>
+    <icon src="https://stap.tmsimg.com/assets/p31383823_b_h10_aa.jpg"/>
   </programme>
-  <programme start="20260611220000 +0000" stop="20260611223000 +0000" channel="flowersinternational">
-    <title lang="en">Uppum Mulakum</title>
-    <desc lang="en">Balachandran and Neelima, who face many challenges to earn a living, aim to successfully fulfil their wish of going to a foreign country.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29171156_b_h8_ad.jpg"/>
-  </programme>
-  <programme start="20260611223000 +0000" stop="20260611233000 +0000" channel="flowersinternational">
-    <title lang="en">Flowers Top Singer 5</title>
-    <desc lang="en">Talented young singers compete against each other as they perform on stage in front of a panel of judges to emerge victorious and win the title.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29495896_b_h10_ac.jpg"/>
-  </programme>
-  <programme start="20260611233000 +0000" stop="20260612000000 +0000" channel="flowersinternational">
-    <title lang="en">Veettile Vilakku</title>
-    <desc lang="en">A mother goes through various struggles and hardships as she battles for her child and motherhood amidst a complex family relationship.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29496588_b_h10_ac.jpg"/>
+  <programme start="20260611230000 +0000" stop="20260612000000 +0000" channel="flowersinternational">
+    <title lang="en">Flowers Comedy - Ithu Item Vere</title>
+    <desc lang="en">S1 , E581 : Contestants showcase their comic prowess through entertaining and hilarious performances and skits in front of a panel of esteemed judges as they compete for a grand prize.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p31653490_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260612000000 +0000" stop="20260612003000 +0000" channel="flowersinternational">
-    <title lang="en">Sukhamo Devi</title>
-    <desc lang="en">Devika is in love with Nandagopan, but Karthikeyan forces her to marry him. She elopes with Nandagopan only to get abandoned by him at the temple, which leads her to marry his friend.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29170986_b_h8_ab.jpg"/>
+    <title lang="en">Flowers Comedy Golden Moments</title>
+    <desc lang="en">S1 , E175 : Revisit the best moments of the show 'Flowers Comedy,' where comedians put on their greatest skits and performances for the audience.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p29170069_b_h10_ab.jpg"/>
   </programme>
   <programme start="20260611000000 +0000" stop="20260611010000 +0000" channel="arydigital">
     <title lang="en">Good Morning Pakistan</title>
@@ -3869,7 +3859,7 @@
   </programme>
   <programme start="20260611093000 +0000" stop="20260611100000 +0000" channel="zeemarathi">
     <title lang="en">Mazhi Tuzhi Reshimgaath</title>
-    <desc lang="en">S1 , E314 : Yash, a rich businessman, seeks true love. When he falls in love with Neha, a beautiful woman, he faces trouble winning her over.</desc>
+    <desc lang="en">S1 , E314 : Sameer expresses his wish to have Neha tie rakhis from the last thirty years. Meanwhile, Neha decides to reveal the truth about Avinash to Sameer, as Avinash makes a request to Kaku.</desc>
     <icon src="https://stap.tmsimg.com/assets/p21119374_b_h8_ad.jpg"/>
   </programme>
   <programme start="20260611100000 +0000" stop="20260611103000 +0000" channel="zeemarathi">
@@ -3884,7 +3874,7 @@
   </programme>
   <programme start="20260611110000 +0000" stop="20260611113000 +0000" channel="zeemarathi">
     <title lang="en">Lagira Jhala Ji</title>
-    <desc lang="en">S1 , E266 : Ajinkya, an aspiring soldier, finds his life complicated by his romantic feelings for a free-spirited woman named Sheetal.</desc>
+    <desc lang="en">S1 , E266 : Jiji cleverly avoids telling Ajya the truth about his missing trophy container. Ajya later discovers that Jaydi destroyed it and confronts her at home.</desc>
     <icon src="https://stap.tmsimg.com/assets/p18246175_b_h10_ab.jpg"/>
   </programme>
   <programme start="20260611113000 +0000" stop="20260611120000 +0000" channel="zeemarathi">
@@ -3899,7 +3889,7 @@
   </programme>
   <programme start="20260611122900 +0000" stop="20260611125800 +0000" channel="zeemarathi">
     <title lang="en">Swarajya Rakshak Sambhaji</title>
-    <desc lang="en">S1 , E4 : Sambhaji Maharaj confronts numerous obstacles as heir to the Maratha throne. Soon, he fights valiantly against Mughal invasions while managing internal conflicts and resource constraints.</desc>
+    <desc lang="en">S1 , E4 : Soyrabai and her companions bring young Sambhaji to Jijabai, who instructs him to remain inside Rajgad fort. Later, Jijabai learns of Shivaji's plan to escape Mughal captivity and return home.</desc>
     <icon src="https://stap.tmsimg.com/assets/p14575316_b_h8_ab.jpg"/>
   </programme>
   <programme start="20260611125800 +0000" stop="20260611134400 +0000" channel="zeemarathi">
@@ -4034,8 +4024,8 @@
   </programme>
   <programme start="20260611170000 +0000" stop="20260611174800 +0000" channel="zeebangla">
     <title lang="en">Unite8 Thrillz FIFA World Cup 2026 Opening Ceremony - LIVE</title>
-    <desc lang="en">Unite8 Thrillz FIFA World Cup 2026 Opening Ceremony - LIVE</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/f3kpHdtF.jpg"/>
+    <desc lang="en">Professional football players participate in the various programmes of the opening ceremony of the 2026 edition of the FIFA World Cup.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p33348850_b_h8_aa.jpg"/>
   </programme>
   <programme start="20260611174800 +0000" stop="20260611183500 +0000" channel="zeebangla">
     <title lang="en">FIFA World Cup 2026 - Unite8 Thrillz Pre Show - LIVE</title>
