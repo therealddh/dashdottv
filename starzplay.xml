@@ -1724,7 +1724,7 @@
   </programme>
   <programme start="20260614003000 +0000" stop="20260614010000 +0000" channel="colorshd">
     <title lang="en">Tuu Juliet Jatt Di</title>
-    <desc lang="en">S1 , E209 : Focused Heer encounters privileged Nawab, sparking an unexpected romance. Their journey unfolds amidst challenges, revealing a tale of love intertwined with deception and emotional turmoil.</desc>
+    <desc lang="en">S1 , E209 : Nawab retorts when Tina and Arjun make fun of his job and Heer confronts Nawab for hosting a party amid financial struggles. Later, she secretly accepts the job offered earlier.</desc>
     <icon src="https://stap.tmsimg.com/assets/p31644915_b_h10_ad.jpg"/>
   </programme>
   <programme start="20260614010000 +0000" stop="20260614013000 +0000" channel="colorshd">
@@ -1739,7 +1739,7 @@
   </programme>
   <programme start="20260614020000 +0000" stop="20260614023000 +0000" channel="colorshd">
     <title lang="en">Tuu Juliet Jatt Di</title>
-    <desc lang="en">S1 , E209 : Focused Heer encounters privileged Nawab, sparking an unexpected romance. Their journey unfolds amidst challenges, revealing a tale of love intertwined with deception and emotional turmoil.</desc>
+    <desc lang="en">S1 , E209 : Nawab retorts when Tina and Arjun make fun of his job and Heer confronts Nawab for hosting a party amid financial struggles. Later, she secretly accepts the job offered earlier.</desc>
     <icon src="https://stap.tmsimg.com/assets/p31644915_b_h10_ad.jpg"/>
   </programme>
   <programme start="20260614023000 +0000" stop="20260614030000 +0000" channel="colorshd">
@@ -1769,7 +1769,7 @@
   </programme>
   <programme start="20260614060000 +0000" stop="20260614063000 +0000" channel="colorshd">
     <title lang="en">Tuu Juliet Jatt Di</title>
-    <desc lang="en">S1 , E209 : Focused Heer encounters privileged Nawab, sparking an unexpected romance. Their journey unfolds amidst challenges, revealing a tale of love intertwined with deception and emotional turmoil.</desc>
+    <desc lang="en">S1 , E209 : Nawab retorts when Tina and Arjun make fun of his job and Heer confronts Nawab for hosting a party amid financial struggles. Later, she secretly accepts the job offered earlier.</desc>
     <icon src="https://stap.tmsimg.com/assets/p31644915_b_h10_ad.jpg"/>
   </programme>
   <programme start="20260614063000 +0000" stop="20260614073000 +0000" channel="colorshd">
@@ -2637,20 +2637,20 @@
     <desc lang="en">S1 , E13 : Mahesh loves his daughter but does not know how to relay his affection for her, while Ishita showers her with love, which drives him to envy. It is up to her to bring them closer to each other.</desc>
     <icon src="https://stap.tmsimg.com/assets/p28132873_b_h10_ab.jpg"/>
   </programme>
-  <programme start="20260614163000 +0000" stop="20260614193000 +0000" channel="asianetplushd">
+  <programme start="20260614163000 +0000" stop="20260614190000 +0000" channel="asianetplushd">
     <title lang="en">Nokketha Doorathu Kannum Nattu</title>
     <desc lang="en">Kunjoonjamma is an elderly woman who lives alone in a village. Her life changes when a girl named Girly claims that she is her granddaughter and comes to live with her.</desc>
     <icon src="https://stap.tmsimg.com/assets/p10865619_b_h10_aa.jpg"/>
   </programme>
-  <programme start="20260614193000 +0000" stop="20260614220000 +0000" channel="asianetplushd">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/HpJY5F1N.jpg"/>
+  <programme start="20260614190000 +0000" stop="20260614213000 +0000" channel="asianetplushd">
+    <title lang="en">Baak</title>
+    <desc lang="en">Suspicious about his sister's death, Saravanan, a lawyer, tries to solve the mystery behind it, only to discover a mysteriously dark force at play.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p27307030_b_h10_af.jpg"/>
   </programme>
-  <programme start="20260614220000 +0000" stop="20260615003000 +0000" channel="asianetplushd">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/HpJY5F1N.jpg"/>
+  <programme start="20260614213000 +0000" stop="20260615003000 +0000" channel="asianetplushd">
+    <title lang="en">Kinar</title>
+    <desc lang="en">Indira moves to her husband's ancestral village, which is situated on the border between Kerala and Tamil Nadu. Soon, she decides to address the severe scarcity of water in her community.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p26816557_b_h11_aa.jpg"/>
   </programme>
   <programme start="20260614000000 +0000" stop="20260614020000 +0000" channel="asianethd">
     <title lang="en">Happy Husbands</title>
@@ -2717,35 +2717,25 @@
     <desc lang="en">S1 , E18 : Talented home cooks compete in fun culinary challenges, showcasing creativity, humor and teamwork as they battle to impress judges with unique dishes.</desc>
     <icon src="https://stap.tmsimg.com/assets/p32910754_b_h8_ab.jpg"/>
   </programme>
-  <programme start="20260614183000 +0000" stop="20260614193000 +0000" channel="asianethd">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/9ipHx6hC.jpg"/>
+  <programme start="20260614183000 +0000" stop="20260614213000 +0000" channel="asianethd">
+    <title lang="en">Anand Sreebala</title>
+    <desc lang="en">Anand, a part-time investigator, embarks on a quest to unravel the mysterious death of a law student. However, his investigation leads him to confront his own demons.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p30192158_v_h10_ab.jpg"/>
   </programme>
-  <programme start="20260614193000 +0000" stop="20260614203000 +0000" channel="asianethd">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/9ipHx6hC.jpg"/>
+  <programme start="20260614213000 +0000" stop="20260614230000 +0000" channel="asianethd">
+    <title lang="en">Star Singer</title>
+    <desc lang="en">S10 , E91 : Talented singers perform different songs on stage in a series of rounds and compete against each other to win the prestigious title.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p29870345_b_h8_aa.jpg"/>
   </programme>
-  <programme start="20260614203000 +0000" stop="20260614213000 +0000" channel="asianethd">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/9ipHx6hC.jpg"/>
+  <programme start="20260614230000 +0000" stop="20260614233000 +0000" channel="asianethd">
+    <title lang="en">Chirikkum Thalika</title>
+    <desc lang="en">S2 , E136 : A comprehensive compilation of some of the best rib-tickling comedy scenes from various Malayalam movies featuring renowned actors and actresses.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p621682_b_h10_ab.jpg"/>
   </programme>
-  <programme start="20260614213000 +0000" stop="20260614223000 +0000" channel="asianethd">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/9ipHx6hC.jpg"/>
-  </programme>
-  <programme start="20260614223000 +0000" stop="20260614233000 +0000" channel="asianethd">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/9ipHx6hC.jpg"/>
-  </programme>
-  <programme start="20260614233000 +0000" stop="20260615003000 +0000" channel="asianethd">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/9ipHx6hC.jpg"/>
+  <programme start="20260614233000 +0000" stop="20260615020000 +0000" channel="asianethd">
+    <title lang="en">Bus Conductor</title>
+    <desc lang="en">As a bus conductor, Kunjakka's livelihood is threatened by Anil, a rival conductor who runs a corrupt bus service and delights in causing chaos.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p9036064_v_h10_aa.jpg"/>
   </programme>
   <programme start="20260614000000 +0000" stop="20260614000000 +0000" channel="asianetcinema">
     <title lang="en">Movie</title>
@@ -3482,117 +3472,62 @@
     <desc lang="en">S1 , E2198 : An astrologer predicts futures based on zodiac signs and planetary motions, and narrates tales from ancient Hindu scriptures.</desc>
     <icon src="https://stap.tmsimg.com/assets/p29121663_b_h8_ab.jpg"/>
   </programme>
-  <programme start="20260614023000 +0000" stop="20260614030000 +0000" channel="zeemarathi">
-    <title lang="en">Taarini</title>
-    <desc lang="en">S1 , E289 : Dayanand arrives while Yuvraj speaks to Gulab on the phone. Meanwhile, Taarini successfully finds a clever way to infiltrate Yuvraj's exclusive party.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p30905426_b_h10_ac.jpg"/>
-  </programme>
-  <programme start="20260614030000 +0000" stop="20260614033000 +0000" channel="zeemarathi">
+  <programme start="20260614023000 +0000" stop="20260614032900 +0000" channel="zeemarathi">
     <title lang="en">Kamali</title>
     <desc lang="en">S1 , E339 : A courageous kabaddi champion hailing from the countryside of Maharashtra challenges her family's expectations by venturing to Mumbai in pursuit of her aspirations.</desc>
     <icon src="https://stap.tmsimg.com/assets/p30594191_b_h8_ad.jpg"/>
   </programme>
-  <programme start="20260614033000 +0000" stop="20260614040000 +0000" channel="zeemarathi">
-    <title lang="en">Shubh Shravani</title>
-    <desc lang="en">S1 , E142 : Growing up wealthy, Shravanii craves her father's love. Her clash with modest Shubh sparks a bond that transcends status and riches.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p32194488_b_h10_ab.jpg"/>
+  <programme start="20260614032900 +0000" stop="20260614035900 +0000" channel="zeemarathi">
+    <title lang="en">RJR Hospital</title>
+    <desc lang="en">S1 , E142 : Doctors of a wellness center suggest remedies for various chronic diseases and provide a few tips and suggestions on staying safe.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p25355634_b_h10_aa.jpg"/>
   </programme>
-  <programme start="20260614040000 +0000" stop="20260614043000 +0000" channel="zeemarathi">
+  <programme start="20260614035900 +0000" stop="20260614043000 +0000" channel="zeemarathi">
     <title lang="en">Zee Marathi Playlist</title>
     <desc lang="en">S1 , E2 : </desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/UuTeziyy.jpg"/>
   </programme>
   <programme start="20260614043000 +0000" stop="20260614050000 +0000" channel="zeemarathi">
-    <title lang="en">Deep Jyoti</title>
-    <desc lang="en">S1 , E62 : The lives of three sisters take a dramatic turn when they marry into a prestigious, wealthy family. Jyoti must navigate family tensions to solve the mystery of her brother's death.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p32865339_b_h8_ac.jpg"/>
-  </programme>
-  <programme start="20260614050000 +0000" stop="20260614053000 +0000" channel="zeemarathi">
-    <title lang="en">Taarini</title>
-    <desc lang="en">S1 , E289 : Dayanand arrives while Yuvraj speaks to Gulab on the phone. Meanwhile, Taarini successfully finds a clever way to infiltrate Yuvraj's exclusive party.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p30905426_b_h10_ac.jpg"/>
-  </programme>
-  <programme start="20260614053000 +0000" stop="20260614060000 +0000" channel="zeemarathi">
     <title lang="en">Kamali</title>
     <desc lang="en">S1 , E339 : A courageous kabaddi champion hailing from the countryside of Maharashtra challenges her family's expectations by venturing to Mumbai in pursuit of her aspirations.</desc>
     <icon src="https://stap.tmsimg.com/assets/p30594191_b_h8_ad.jpg"/>
   </programme>
-  <programme start="20260614060000 +0000" stop="20260614063000 +0000" channel="zeemarathi">
+  <programme start="20260614050000 +0000" stop="20260614073000 +0000" channel="zeemarathi">
     <title lang="en">Veen Doghantali Hi Tutena</title>
     <desc lang="en">S1 , E299 : Samar, a wealthy tycoon, and Swanandi, a young middle-class professional, enter a marriage of convenience. However, their contractual nuptials gradually evolve into a profound connection.</desc>
     <icon src="https://stap.tmsimg.com/assets/p30905430_b_h10_ac.jpg"/>
   </programme>
-  <programme start="20260614063000 +0000" stop="20260614070000 +0000" channel="zeemarathi">
-    <title lang="en">Deep Jyoti</title>
-    <desc lang="en">S1 , E62 : The lives of three sisters take a dramatic turn when they marry into a prestigious, wealthy family. Jyoti must navigate family tensions to solve the mystery of her brother's death.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p32865339_b_h8_ac.jpg"/>
+  <programme start="20260614073000 +0000" stop="20260614080000 +0000" channel="zeemarathi">
+    <title lang="en">Savlayachi Janu Savali</title>
+    <desc lang="en">S1 , E14 : A woman with a dusky complexion and a melodious voice faces various obstacles. Her life gets entangled with a man whose mother wants a beautiful bride for him.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p29097156_b_h10_ae.jpg"/>
   </programme>
-  <programme start="20260614070000 +0000" stop="20260614073000 +0000" channel="zeemarathi">
+  <programme start="20260614080000 +0000" stop="20260614090000 +0000" channel="zeemarathi">
+    <title lang="en">Lakshmi Nivas</title>
+    <desc lang="en">S1 , E6 : Lakshmi abandons her affluent roots to build a selfless life with Shriniwas. Decades on, the couple work tirelessly to secure their own house and fund a grand wedding for their daughter.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p32205894_b_h10_aa.jpg"/>
+  </programme>
+  <programme start="20260614090000 +0000" stop="20260614093000 +0000" channel="zeemarathi">
     <title lang="en">Sanai Chaughade</title>
     <desc lang="en">S1 , E81 : Gautam Bandekar is cornered by Archana for much-needed answers. Meanwhile, an unexpected arrival at the house is made by Jay, Sharvari and Mac, changing the dynamic.</desc>
     <icon src="https://stap.tmsimg.com/assets/p32659244_b_h10_ad.jpg"/>
   </programme>
-  <programme start="20260614073000 +0000" stop="20260614080000 +0000" channel="zeemarathi">
-    <title lang="en">Sanai Chaughade</title>
-    <desc lang="en">S1 , E82 : Subhash is troubled by Gautam Bandekar's request, as Gautam asks for Jay's assistance in attending Asavari's 'Haldi' ceremony.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p32659244_b_h10_ad.jpg"/>
-  </programme>
-  <programme start="20260614080000 +0000" stop="20260614083000 +0000" channel="zeemarathi">
-    <title lang="en">Sanai Chaughade</title>
-    <desc lang="en">S1 , E83 : Jay assists Gautam in applying haldi to Asavari during the ceremony. The situation takes a stressful turn when Mayuri suddenly exposes their hidden disguises.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p32659244_b_h10_ad.jpg"/>
-  </programme>
-  <programme start="20260614083000 +0000" stop="20260614090000 +0000" channel="zeemarathi">
-    <title lang="en">Sanai Chaughade</title>
-    <desc lang="en">S1 , E84 : Jay gets his hands on some incriminating proof against Gautam Bandekar. Later, Pramila requests Sharvari to make a promise to her.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p32659244_b_h10_ad.jpg"/>
-  </programme>
-  <programme start="20260614090000 +0000" stop="20260614093000 +0000" channel="zeemarathi">
-    <title lang="en">Sanai Chaughade</title>
-    <desc lang="en">S1 , E85 : After orchestrating the kidnapping of Gautam Bandekar, Jay unexpectedly witnesses a deeply emotional and private moment shared between Pramila and Subhash.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p32659244_b_h10_ad.jpg"/>
-  </programme>
-  <programme start="20260614093000 +0000" stop="20260614100000 +0000" channel="zeemarathi">
+  <programme start="20260614093000 +0000" stop="20260614110000 +0000" channel="zeemarathi">
     <title lang="en">Sanai Chaughade</title>
     <desc lang="en">S1 , E86 : With the wedding ceremony already beginning, Jay discovers exactly where Archana is hiding and races to the scene alongside Sharvari.</desc>
     <icon src="https://stap.tmsimg.com/assets/p32659244_b_h10_ad.jpg"/>
   </programme>
-  <programme start="20260614100000 +0000" stop="20260614103000 +0000" channel="zeemarathi">
+  <programme start="20260614110000 +0000" stop="20260614130000 +0000" channel="zeemarathi">
     <title lang="en">Deep Jyoti</title>
     <desc lang="en">S1 , E56 : Deep Jyoti follows a resilient woman who brings light into her family's life, overcoming hardships while uniting loved ones through compassion and strength.</desc>
     <icon src="https://stap.tmsimg.com/assets/p32865339_b_h8_ac.jpg"/>
   </programme>
-  <programme start="20260614103000 +0000" stop="20260614110000 +0000" channel="zeemarathi">
-    <title lang="en">Deep Jyoti</title>
-    <desc lang="en">S1 , E57 : Jyoti's bold defense of Priti irks Sulu. Meanwhile, Jyoti reflects on her completely transformed view of Deep during the Haldi ceremony.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p32865339_b_h8_ac.jpg"/>
+  <programme start="20260614130000 +0000" stop="20260614133100 +0000" channel="zeemarathi">
+    <title lang="en">Shubh Shravani</title>
+    <desc lang="en">S1 , E2 : Growing up wealthy, Shravanii craves her father's love. Her clash with modest Shubh sparks a bond that transcends status and riches.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p32194488_b_h10_ab.jpg"/>
   </programme>
-  <programme start="20260614110000 +0000" stop="20260614113000 +0000" channel="zeemarathi">
-    <title lang="en">Deep Jyoti</title>
-    <desc lang="en">S1 , E58 : As Deep and Jyoti share a tender pre-wedding ritual, Priti quietly swears to destroy his life. Meanwhile, hidden resentments threaten to shatter the family's joy.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p32865339_b_h8_ac.jpg"/>
-  </programme>
-  <programme start="20260614113000 +0000" stop="20260614120000 +0000" channel="zeemarathi">
-    <title lang="en">Veen Doghantali Hi Tutena</title>
-    <desc lang="en">S1 , E299 : Samar, a wealthy tycoon, and Swanandi, a young middle-class professional, enter a marriage of convenience. However, their contractual nuptials gradually evolve into a profound connection.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p30905430_b_h10_ac.jpg"/>
-  </programme>
-  <programme start="20260614120000 +0000" stop="20260614123000 +0000" channel="zeemarathi">
-    <title lang="en">Deep Jyoti</title>
-    <desc lang="en">S1 , E62 : The lives of three sisters take a dramatic turn when they marry into a prestigious, wealthy family. Jyoti must navigate family tensions to solve the mystery of her brother's death.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p32865339_b_h8_ac.jpg"/>
-  </programme>
-  <programme start="20260614123000 +0000" stop="20260614130000 +0000" channel="zeemarathi">
-    <title lang="en">Taarini</title>
-    <desc lang="en">S1 , E289 : Dayanand arrives while Yuvraj speaks to Gulab on the phone. Meanwhile, Taarini successfully finds a clever way to infiltrate Yuvraj's exclusive party.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p30905426_b_h10_ac.jpg"/>
-  </programme>
-  <programme start="20260614130000 +0000" stop="20260614134500 +0000" channel="zeemarathi">
-    <title lang="en">Deep Jyoti</title>
-    <desc lang="en">S1 , E62 : The lives of three sisters take a dramatic turn when they marry into a prestigious, wealthy family. Jyoti must navigate family tensions to solve the mystery of her brother's death.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p32865339_b_h8_ac.jpg"/>
-  </programme>
-  <programme start="20260614134500 +0000" stop="20260614143000 +0000" channel="zeemarathi">
+  <programme start="20260614133100 +0000" stop="20260614143000 +0000" channel="zeemarathi">
     <title lang="en">Veen Doghantali Hi Tutena</title>
     <desc lang="en">S1 , E300 : Samar, a wealthy tycoon, and Swanandi, a young middle-class professional, enter a marriage of convenience. However, their contractual nuptials gradually evolve into a profound connection.</desc>
     <icon src="https://stap.tmsimg.com/assets/p30905430_b_h10_ac.jpg"/>
@@ -3622,115 +3557,175 @@
     <desc lang="en">S1 , E349 : The notorious serial killer, Dr Ajitkumar Dev, relocates to Varanasi where he assumes the identity of Gopal, a tailor who disappeared years ago, and continues his reign of terror.</desc>
     <icon src="https://stap.tmsimg.com/assets/p30349871_b_h8_ac.jpg"/>
   </programme>
-  <programme start="20260614173000 +0000" stop="20260614180000 +0000" channel="zeemarathi">
+  <programme start="20260614173000 +0000" stop="20260614175900 +0000" channel="zeemarathi">
     <title lang="en">Sanai Chaughade</title>
     <desc lang="en">S1 , E86 : With the wedding ceremony already beginning, Jay discovers exactly where Archana is hiding and races to the scene alongside Sharvari.</desc>
     <icon src="https://stap.tmsimg.com/assets/p32659244_b_h10_ad.jpg"/>
   </programme>
-  <programme start="20260614180000 +0000" stop="20260614183000 +0000" channel="zeemarathi">
-    <title lang="en">Sanai Chaughade</title>
-    <desc lang="en">S1 , E87 : Weighed down by his past, Jay rejects the idea of love. But Sharvari comes into his life and destiny ignites a conflict of beliefs, compelling them to explore if they can mend past scars with love.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p32659244_b_h10_ad.jpg"/>
+  <programme start="20260614175900 +0000" stop="20260614183000 +0000" channel="zeemarathi">
+    <title lang="en">Deep Jyoti</title>
+    <desc lang="en">S1 , E1 : Honest rickshaw puller Abhijeet enjoys a birthday celebration with his three sisters. Meanwhile, Purushottam holds Deep responsible for Geetanjali's death.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p32865339_b_h8_ac.jpg"/>
   </programme>
   <programme start="20260614183000 +0000" stop="20260614190000 +0000" channel="zeemarathi">
     <title lang="en">Kamali</title>
     <desc lang="en">S1 , E340 : A courageous kabaddi champion hailing from the countryside of Maharashtra challenges her family's expectations by venturing to Mumbai in pursuit of her aspirations.</desc>
     <icon src="https://stap.tmsimg.com/assets/p30594191_b_h8_ad.jpg"/>
   </programme>
-  <programme start="20260614190000 +0000" stop="20260614194500 +0000" channel="zeemarathi">
-    <title lang="en">Veen Doghantali Hi Tutena</title>
-    <desc lang="en">S1 , E300 : Samar, a wealthy tycoon, and Swanandi, a young middle-class professional, enter a marriage of convenience. However, their contractual nuptials gradually evolve into a profound connection.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p30905430_b_h10_ac.jpg"/>
+  <programme start="20260614190000 +0000" stop="20260614193000 +0000" channel="zeemarathi">
+    <title lang="en">Deep Jyoti</title>
+    <desc lang="en">S1 , E1 : Honest rickshaw puller Abhijeet enjoys a birthday celebration with his three sisters. Meanwhile, Purushottam holds Deep responsible for Geetanjali's death.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p32865339_b_h8_ac.jpg"/>
   </programme>
-  <programme start="20260614194500 +0000" stop="20260614201500 +0000" channel="zeemarathi">
-    <title lang="en">Tula Japnar Aahe</title>
-    <desc lang="en">S1 , E435 : After Ambika's tragic death, her husband Atharva and daughter Veda are heartbroken. However, her spirit returns to watch over and protect Veda in unseen yet powerful ways.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29492543_b_h10_ad.jpg"/>
+  <programme start="20260614193000 +0000" stop="20260614200000 +0000" channel="zeemarathi">
+    <title lang="en">Sanai Chaughade</title>
+    <desc lang="en">S1 , E5 : Jay presents Sakshi with a unique present. Later, Samaira, Uma's daughter, who has an aversion to Pramila's family, forces them to take a bus to Akash's wedding venue.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p32659244_b_h10_ad.jpg"/>
   </programme>
-  <programme start="20260614201500 +0000" stop="20260614204500 +0000" channel="zeemarathi">
+  <programme start="20260614200000 +0000" stop="20260614202800 +0000" channel="zeemarathi">
     <title lang="en">Kamali</title>
     <desc lang="en">S1 , E340 : A courageous kabaddi champion hailing from the countryside of Maharashtra challenges her family's expectations by venturing to Mumbai in pursuit of her aspirations.</desc>
     <icon src="https://stap.tmsimg.com/assets/p30594191_b_h8_ad.jpg"/>
   </programme>
-  <programme start="20260614204500 +0000" stop="20260614213000 +0000" channel="zeemarathi">
+  <programme start="20260614202800 +0000" stop="20260614212700 +0000" channel="zeemarathi">
     <title lang="en">Veen Doghantali Hi Tutena</title>
     <desc lang="en">S1 , E300 : Samar, a wealthy tycoon, and Swanandi, a young middle-class professional, enter a marriage of convenience. However, their contractual nuptials gradually evolve into a profound connection.</desc>
     <icon src="https://stap.tmsimg.com/assets/p30905430_b_h10_ac.jpg"/>
   </programme>
-  <programme start="20260614213000 +0000" stop="20260614223000 +0000" channel="zeemarathi">
+  <programme start="20260614212700 +0000" stop="20260614222700 +0000" channel="zeemarathi">
     <title lang="en">Lakshmi Nivas</title>
     <desc lang="en">S1 , E500 : Lakshmi is married to Shriniwas Dalvi, who belongs to a traditional joint family. While she strives to navigate challenges, she supports her husband's dreams.</desc>
     <icon src="https://stap.tmsimg.com/assets/p29094815_b_h10_ab.jpg"/>
   </programme>
-  <programme start="20260614223000 +0000" stop="20260614231500 +0000" channel="zeemarathi">
-    <title lang="en">Devmanus Madhla Adhyay</title>
-    <desc lang="en">S1 , E349 : The notorious serial killer, Dr Ajitkumar Dev, relocates to Varanasi where he assumes the identity of Gopal, a tailor who disappeared years ago, and continues his reign of terror.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p30349871_b_h8_ac.jpg"/>
+  <programme start="20260614222700 +0000" stop="20260614225900 +0000" channel="zeemarathi">
+    <title lang="en">Deep Jyoti</title>
+    <desc lang="en">S1 , E1 : Honest rickshaw puller Abhijeet enjoys a birthday celebration with his three sisters. Meanwhile, Purushottam holds Deep responsible for Geetanjali's death.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p32865339_b_h8_ac.jpg"/>
   </programme>
-  <programme start="20260614231500 +0000" stop="20260615000000 +0000" channel="zeemarathi">
+  <programme start="20260614225900 +0000" stop="20260614235800 +0000" channel="zeemarathi">
     <title lang="en">Veen Doghantali Hi Tutena</title>
     <desc lang="en">S1 , E300 : Samar, a wealthy tycoon, and Swanandi, a young middle-class professional, enter a marriage of convenience. However, their contractual nuptials gradually evolve into a profound connection.</desc>
     <icon src="https://stap.tmsimg.com/assets/p30905430_b_h10_ac.jpg"/>
   </programme>
-  <programme start="20260615000000 +0000" stop="20260615003000 +0000" channel="zeemarathi">
+  <programme start="20260614235800 +0000" stop="20260615003000 +0000" channel="zeemarathi">
     <title lang="en">Tula Japnar Aahe</title>
     <desc lang="en">S1 , E435 : After Ambika's tragic death, her husband Atharva and daughter Veda are heartbroken. However, her spirit returns to watch over and protect Veda in unseen yet powerful ways.</desc>
     <icon src="https://stap.tmsimg.com/assets/p29492543_b_h10_ad.jpg"/>
   </programme>
-  <programme start="20260614000000 +0000" stop="20260614002700 +0000" channel="zeebangla">
+  <programme start="20260614000000 +0000" stop="20260614003000 +0000" channel="zeebangla">
     <title lang="en">FIFA Worid Cup 2026 - Unite8 Thrillz Post Show</title>
     <desc lang="en">Sports analysts and experts review and analyse the strategies and performances of the teams competing in prestigious tournaments.</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/f3kpHdtF.jpg"/>
   </programme>
-  <programme start="20260614002700 +0000" stop="20260614023000 +0000" channel="zeebangla">
-    <title lang="en">Joy Baba Lokenath</title>
-    <desc lang="en">S1 , E95 : Lokenath Brahmachari, also known as Baba Lokenath, was a Hindu saint and mystic who lived in Bengal in the 18th and 19th centuries and worked towards the betterment of society.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29905904_b_h8_aa.jpg"/>
-  </programme>
-  <programme start="20260614023000 +0000" stop="20260614032800 +0000" channel="zeebangla">
-    <title lang="en">Sakaler Sure</title>
-    <desc lang="en">S1 , E177 : </desc>
-    <icon src="https://stap.tmsimg.com/assets/p29905543_b_h10_aa.jpg"/>
-  </programme>
-  <programme start="20260614032800 +0000" stop="20260614055600 +0000" channel="zeebangla">
-    <title lang="en">Rupban</title>
-    <desc lang="en">A 12-year-old Rupban is married to Rahim when he is just 12 days old. However, their lives take a turn when Rahim grows older, only to refuse to accept Rupban as his wife and fall in love with Tajel.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p28968771_b_h11_ad.jpg"/>
-  </programme>
-  <programme start="20260614055600 +0000" stop="20260614085500 +0000" channel="zeebangla">
-    <title lang="en">Badnam</title>
-    <desc lang="en">Mathur Ghosh's cruelty drives Haranath to suicide. Years later, Haranath's son Shankar grows up determined to avenge his father's death by seeking justice against the evil Mathur Ghosh.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p17124351_v_h10_aa.jpg"/>
-  </programme>
-  <programme start="20260614085500 +0000" stop="20260614113000 +0000" channel="zeebangla">
-    <title lang="en">Sundar Bou</title>
-    <desc lang="en">Sabitri, who is married to Nanda, is exploited daily by her mother-in-law. Seeing this, her uncle decides to help her overcome her problems.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p26260682_b_h10_ac.jpg"/>
-  </programme>
-  <programme start="20260614113000 +0000" stop="20260614135900 +0000" channel="zeebangla">
-    <title lang="en">Praner Cheye Priyo</title>
-    <desc lang="en">A couple's life falls to ruin when Chaiti, a sinister woman, marries into their family and wreaks havoc among them.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p157486_b_h10_ab.jpg"/>
-  </programme>
-  <programme start="20260614135900 +0000" stop="20260614165100 +0000" channel="zeebangla">
-    <title lang="en">Sangharsha</title>
-    <desc lang="en">In a village divided by corruption and power struggles between a politician and a doctor, honest newcomer Shubhankar challenges the status quo.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p26857473_v_h10_aa.jpg"/>
-  </programme>
-  <programme start="20260614165100 +0000" stop="20260614191300 +0000" channel="zeebangla">
-    <title lang="en">Bhalobasar Rajprasade</title>
-    <desc lang="en">Bikas, a rich boy falls in love and gets married to Krishna. However, Krishna is constantly tortured by Bikas' family members.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p30150763_v_h10_aa.jpg"/>
-  </programme>
-  <programme start="20260614191300 +0000" stop="20260614213400 +0000" channel="zeebangla">
-    <title lang="en">Bandie</title>
-    <desc lang="en">Unable to conceive an heir, Maharaja Brajbhan and his wife are forced to abdicate the throne for his cousin, Vikram. Chaos ensues when Vikram learns that the queen is pregnant and decides to kill her.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p133331_v_h10_aa.jpg"/>
-  </programme>
-  <programme start="20260614213400 +0000" stop="20260614233000 +0000" channel="zeebangla">
-    <title lang="en">Amar Prem - Never Ending Love</title>
-    <desc lang="en">Amar Prem - Never Ending Love</desc>
+  <programme start="20260614003000 +0000" stop="20260614010000 +0000" channel="zeebangla">
+    <title lang="en">FIFA World Cup 2026 - Unite8 Thrillz Pre Show</title>
+    <desc lang="en">Sports experts analyse and preview the strategies and performances of the professional teams competing in prestigious tournaments.</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/f3kpHdtF.jpg"/>
+  </programme>
+  <programme start="20260614010000 +0000" stop="20260614020000 +0000" channel="zeebangla">
+    <title lang="en">Group C: Haiti vs. Scotland - FIFA World Cup 2026 - LIVE</title>
+    <desc lang="en">Group C: Haiti vs. Scotland - FIFA World Cup 2026 - LIVE</desc>
+    <icon src="https://stap.tmsimg.com/assets/p32572427_b_h8_aa.jpg"/>
+  </programme>
+  <programme start="20260614020000 +0000" stop="20260614030100 +0000" channel="zeebangla">
+    <title lang="en">Group C: Haiti vs. Scotland - FIFA World Cup 2026 - LIVE</title>
+    <desc lang="en">Group C: Haiti vs. Scotland - FIFA World Cup 2026 - LIVE</desc>
+    <icon src="https://stap.tmsimg.com/assets/p32572427_b_h8_aa.jpg"/>
+  </programme>
+  <programme start="20260614030100 +0000" stop="20260614033600 +0000" channel="zeebangla">
+    <title lang="en">FIFA Worid Cup 2026 - Unite8 Thrillz Post Show</title>
+    <desc lang="en">Sports analysts and experts review and analyse the strategies and performances of the teams competing in prestigious tournaments.</desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/f3kpHdtF.jpg"/>
+  </programme>
+  <programme start="20260614033600 +0000" stop="20260614040000 +0000" channel="zeebangla">
+    <title lang="en">FIFA World Cup 2026 - Unite8 Thrillz Pre Show</title>
+    <desc lang="en">Sports experts analyse and preview the strategies and performances of the professional teams competing in prestigious tournaments.</desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/f3kpHdtF.jpg"/>
+  </programme>
+  <programme start="20260614040000 +0000" stop="20260614050000 +0000" channel="zeebangla">
+    <title lang="en">Group D: Australia vs. Türkiye - FIFA World Cup 2026 - LIVE</title>
+    <desc lang="en">Group D: Australia vs. Türkiye - FIFA World Cup 2026 - LIVE</desc>
+    <icon src="https://stap.tmsimg.com/assets/p32572427_b_h8_aa.jpg"/>
+  </programme>
+  <programme start="20260614050000 +0000" stop="20260614060000 +0000" channel="zeebangla">
+    <title lang="en">Group D: Australia vs. Türkiye - FIFA World Cup 2026 - LIVE</title>
+    <desc lang="en">Group D: Australia vs. Türkiye - FIFA World Cup 2026 - LIVE</desc>
+    <icon src="https://stap.tmsimg.com/assets/p32572427_b_h8_aa.jpg"/>
+  </programme>
+  <programme start="20260614060000 +0000" stop="20260614070000 +0000" channel="zeebangla">
+    <title lang="en">The Goalpost! - LIVE</title>
+    <desc lang="en">The Goalpost! - LIVE</desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/f3kpHdtF.jpg"/>
+  </programme>
+  <programme start="20260614070000 +0000" stop="20260614102300 +0000" channel="zeebangla">
+    <title lang="en">Pradhan</title>
+    <desc lang="en">When an honest policeman is transferred to Dharmapur, he encounters widespread corruption and fights to stay true to his principles.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p28301947_b_h10_ab.jpg"/>
+  </programme>
+  <programme start="20260614102300 +0000" stop="20260614131600 +0000" channel="zeebangla">
+    <title lang="en">Matir Manush</title>
+    <desc lang="en">After Meeting With An Accident, Payel Falls In Love With A Man. Things Turn When Her Father Disapproves Of Their Relationship.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p29785833_v_h10_ab.jpg"/>
+  </programme>
+  <programme start="20260614131600 +0000" stop="20260614160000 +0000" channel="zeebangla">
+    <title lang="en">Mejo Bou</title>
+    <desc lang="en">Barun's father forces him to marry Sampa, a colleague from a middle-class background. After the marriage, Barun creates problems for his new wife and damages her reputation.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p22038726_v_h10_aa.jpg"/>
+  </programme>
+  <programme start="20260614160000 +0000" stop="20260614164800 +0000" channel="zeebangla">
+    <title lang="en">FIFA World Cup 2026 - Unite8 Thrillz Pre Show</title>
+    <desc lang="en">Sports experts analyse and preview the strategies and performances of the professional teams competing in prestigious tournaments.</desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/f3kpHdtF.jpg"/>
+  </programme>
+  <programme start="20260614164800 +0000" stop="20260614174400 +0000" channel="zeebangla">
+    <title lang="en">Group E: Germany vs. Curaçao - FIFA World Cup 2026 - LIVE</title>
+    <desc lang="en">Group E: Germany vs. Curaçao - FIFA World Cup 2026 - LIVE</desc>
+    <icon src="https://stap.tmsimg.com/assets/p32572427_b_h8_aa.jpg"/>
+  </programme>
+  <programme start="20260614174400 +0000" stop="20260614184000 +0000" channel="zeebangla">
+    <title lang="en">Group E: Germany vs. Curaçao - FIFA World Cup 2026 - LIVE</title>
+    <desc lang="en">Group E: Germany vs. Curaçao - FIFA World Cup 2026 - LIVE</desc>
+    <icon src="https://stap.tmsimg.com/assets/p32572427_b_h8_aa.jpg"/>
+  </programme>
+  <programme start="20260614184000 +0000" stop="20260614185800 +0000" channel="zeebangla">
+    <title lang="en">FIFA Worid Cup 2026 - Unite8 Thrillz Post Show</title>
+    <desc lang="en">Sports analysts and experts review and analyse the strategies and performances of the teams competing in prestigious tournaments.</desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/f3kpHdtF.jpg"/>
+  </programme>
+  <programme start="20260614185800 +0000" stop="20260614191700 +0000" channel="zeebangla">
+    <title lang="en">FIFA World Cup 2026 - Unite8 Thrillz Pre Show</title>
+    <desc lang="en">Sports experts analyse and preview the strategies and performances of the professional teams competing in prestigious tournaments.</desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/f3kpHdtF.jpg"/>
+  </programme>
+  <programme start="20260614191700 +0000" stop="20260614201200 +0000" channel="zeebangla">
+    <title lang="en">Group F: Netherlands vs. Japan - FIFA World Cup 2026 - LIVE</title>
+    <desc lang="en">Group F: Netherlands vs. Japan - FIFA World Cup 2026 - LIVE</desc>
+    <icon src="https://stap.tmsimg.com/assets/p32572427_b_h8_aa.jpg"/>
+  </programme>
+  <programme start="20260614201200 +0000" stop="20260614210100 +0000" channel="zeebangla">
+    <title lang="en">Group F: Netherlands vs. Japan - FIFA World Cup 2026 - LIVE</title>
+    <desc lang="en">Group F: Netherlands vs. Japan - FIFA World Cup 2026 - LIVE</desc>
+    <icon src="https://stap.tmsimg.com/assets/p32572427_b_h8_aa.jpg"/>
+  </programme>
+  <programme start="20260614210100 +0000" stop="20260614212000 +0000" channel="zeebangla">
+    <title lang="en">FIFA Worid Cup 2026 - Unite8 Thrillz Post Show</title>
+    <desc lang="en">Sports analysts and experts review and analyse the strategies and performances of the teams competing in prestigious tournaments.</desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/f3kpHdtF.jpg"/>
+  </programme>
+  <programme start="20260614212000 +0000" stop="20260614213800 +0000" channel="zeebangla">
+    <title lang="en">FIFA World Cup 2026 - Unite8 Thrillz Pre Show</title>
+    <desc lang="en">Sports experts analyse and preview the strategies and performances of the professional teams competing in prestigious tournaments.</desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/f3kpHdtF.jpg"/>
+  </programme>
+  <programme start="20260614213800 +0000" stop="20260614223400 +0000" channel="zeebangla">
+    <title lang="en">Group E: Côte d'Ivoire vs. Ecuador - FIFA World Cup 2026 - LIVE</title>
+    <desc lang="en">Group E: Côte d'Ivoire vs. Ecuador - FIFA World Cup 2026 - LIVE</desc>
+    <icon src="https://stap.tmsimg.com/assets/p32572427_b_h8_aa.jpg"/>
+  </programme>
+  <programme start="20260614223400 +0000" stop="20260614233000 +0000" channel="zeebangla">
+    <title lang="en">Group E: Côte d'Ivoire vs. Ecuador - FIFA World Cup 2026 - LIVE</title>
+    <desc lang="en">Group E: Côte d'Ivoire vs. Ecuador - FIFA World Cup 2026 - LIVE</desc>
+    <icon src="https://stap.tmsimg.com/assets/p32572427_b_h8_aa.jpg"/>
   </programme>
   <programme start="20260614233000 +0000" stop="20260615003000 +0000" channel="zeebangla">
     <title lang="en">Patanjali Yog - By Yogrishi Swami Ramdev</title>
