@@ -1,16 +1,16 @@
 #EXTM3U
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Aus-vs-Ban_Web-match-card_1780908762762.png" ,Bangladesh Vs Australia
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143154_6108_AA_GG_FC-Web.png" ,Antwerp Anchors Vs Ghent Gladiators
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://fanco.vodep39240327.workers.dev/142967_english.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1780469022377/143084_CASACARDS_SPORTY_APP.png" ,Royal Nimar Eagles Vs Ujjain Falcons
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://fanco.vodep39240327.workers.dev/143084_english.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143032_6095_PPA_BBU_fc-app.jpg" ,Patiala Panthers Vs Bathinda Bulls
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://fanco.vodep39240327.workers.dev/143032_english.m3u8
+https://fanco.vodep39240327.workers.dev/143166_english.m3u8
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Boss_Web-match-card.png" ,Final   Center Court
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
 https://fanco.vodep39240327.workers.dev/143124_english.m3u8
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Libema-Open,-ATP-250,-Grass-old.png" ,Final   Center Court
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
 https://fanco.vodep39240327.workers.dev/143131_english.m3u8
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png" ,Day 4   Featured Groups
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+https://fanco.vodep39240327.workers.dev/143220_english.m3u8
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png" ,Day 4   Main Feed
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+https://fanco.vodep39240327.workers.dev/143217_english.m3u8
