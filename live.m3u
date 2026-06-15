@@ -1,16 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143176_6109_UPP_HMU_FC-WEB.jpg" ,Uppsala Tigers Vs Stockholm United
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1780469022419/143086_CASACARDS_SPORTY_APP.png" ,Bhopal Leopards Vs Jabalpur Royal Lions
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://fanco.vodep39240327.workers.dev/143176_english.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png" ,Day 1   World Feed
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://fanco.vodep39240327.workers.dev/143254_english.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png" ,Day 1   Schauinsland Reisen Court
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://fanco.vodep39240327.workers.dev/143253_english.m3u8
+https://fanco.vodep39240327.workers.dev/143086_english.m3u8
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/HSBC-Championships,-ATP-500,-Grass_fc-web.jpg" ,Day 1   World Feed
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
 https://fanco.vodep39240327.workers.dev/143132_english.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/HSBC-Championships,-ATP-500,-Grass_fc-web.jpg" ,Day 1   Court 1
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://fanco.vodep39240327.workers.dev/143135_english.m3u8
