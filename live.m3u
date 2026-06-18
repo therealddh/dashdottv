@@ -1,16 +1,10 @@
 #EXTM3U
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1780469022395/143091_CASACARDS_SPORTY_APP.png" ,Ujjain Falcons Vs Indore Pink Panthers
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1780469022386/143092_CASACARDS_SPORTY_APP.png" ,Jabalpur Royal Lions Vs Royal Nimar Eagles
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://fanco.vodep39240327.workers.dev/143091_english.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143040_6095_JJ_MMO_fc-app.jpg" ,Moga Mongoose Vs Jalandhar Jaguars
+https://fanco.vodep39240327.workers.dev/143092_english.m3u8
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143186_6109_MLM_HMU_FC-WEB.jpg" ,Malmo Mavericks Vs Stockholm United
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://fanco.vodep39240327.workers.dev/143040_english.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143185_6109_UPP_VTU_FC-WEB.jpg" ,Uppsala Tigers Vs Vasteras United
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://fanco.vodep39240327.workers.dev/143185_english.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://images.fancode.com/aig/match/v1780575318029/143314_CASACARDS_SPORTY_APP.png" ,Nigeria Vs Hong Kong\, China
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://fanco.vodep39240327.workers.dev/143314_english.m3u8
+https://fanco.vodep39240327.workers.dev/143186_english.m3u8
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png" ,Day 4   World Feed
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
 https://fanco.vodep39240327.workers.dev/143259_english.m3u8
@@ -23,3 +17,6 @@ https://fanco.vodep39240327.workers.dev/143142_english.m3u8
 #EXTINF:-1 group-title="Live Matchs" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png" ,Day 4   Schauinsland Reisen Court
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
 https://fanco.vodep39240327.workers.dev/143260_english.m3u8
+#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143293_6121_PGA_LOC_FC-WEB.png" ,Day 1
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
+https://fanco.vodep39240327.workers.dev/143293_english.m3u8
