@@ -3171,10 +3171,15 @@
     <desc lang="en">An NRI medical student falls in love with a vivacious woman. However, they face challenges in their relationship due to their differences in personalities.</desc>
     <icon src="https://stap.tmsimg.com/assets/p20326681_v_h10_aa.jpg"/>
   </programme>
-  <programme start="20260620142900 +0000" stop="20260620190000 +0000" channel="emsimplysouth">
+  <programme start="20260620142900 +0000" stop="20260620170000 +0000" channel="emsimplysouth">
     <title lang="en">Vishwaroopam</title>
     <desc lang="en">Nirupama hires a private investigator to keep a watch on her husband, Vishwanath. However, she is shocked to discover that there is more to him than meets the eye.</desc>
     <icon src="https://stap.tmsimg.com/assets/p9680682_v_h10_ac.jpg"/>
+  </programme>
+  <programme start="20260620170000 +0000" stop="20260620190000 +0000" channel="emsimplysouth">
+    <title lang="en">Pyali</title>
+    <desc lang="en">Orphaned Kashmiri-origin siblings, Ziyah and Barbiee, live in a Kerala slum. Despite great difficulty, Ziyah cares for his sister, and the two overcome hurdles to fulfill their simple desires.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p23899239_v_h10_aa.jpg"/>
   </programme>
   <programme start="20260620190000 +0000" stop="20260620211100 +0000" channel="emsimplysouth">
     <title lang="en">Dada</title>
@@ -3763,7 +3768,7 @@
   </programme>
   <programme start="20260620053000 +0000" stop="20260620060000 +0000" channel="zeemarathi">
     <title lang="en">Krushnaichya Leki</title>
-    <desc lang="en">S1 , E5 : Facing abandonment and pain, a resilient single mother and her three daughters stand united and strong, weathering life's various challenges with perseverance and grace.</desc>
+    <desc lang="en">S1 , E5 : Gauri approaches Bhaga, a helper working in the mess, and offers him some firm guidance. Later, she strongly encourages him to officially file a police complaint against Matoshree.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33371774_b_h8_aa.jpg"/>
   </programme>
   <programme start="20260620060000 +0000" stop="20260620063000 +0000" channel="zeemarathi">
@@ -3803,7 +3808,7 @@
   </programme>
   <programme start="20260620100000 +0000" stop="20260620103000 +0000" channel="zeemarathi">
     <title lang="en">Krushnaichya Leki</title>
-    <desc lang="en">S1 , E5 : Facing abandonment and pain, a resilient single mother and her three daughters stand united and strong, weathering life's various challenges with perseverance and grace.</desc>
+    <desc lang="en">S1 , E5 : Gauri approaches Bhaga, a helper working in the mess, and offers him some firm guidance. Later, she strongly encourages him to officially file a police complaint against Matoshree.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33371774_b_h8_aa.jpg"/>
   </programme>
   <programme start="20260620103000 +0000" stop="20260620110000 +0000" channel="zeemarathi">
@@ -4286,10 +4291,20 @@
     <desc lang="en">Four lazy friends want to make easy money and aim to marry a rich girl. Their plan backfires after they meet Ritu and get embroiled with a dangerous criminal.</desc>
     <icon src="https://stap.tmsimg.com/assets/p173601_v_h10_ab.jpg"/>
   </programme>
-  <programme start="20260620145400 +0000" stop="20260620215000 +0000" channel="embollywoodunlimited">
+  <programme start="20260620145400 +0000" stop="20260620170000 +0000" channel="embollywoodunlimited">
     <title lang="en">Golmaal Returns</title>
     <desc lang="en">Gopal gets stuck in a yacht for a night after he saves an attractive young woman. However, his wife, Ekta, suspects him of having an affair and decides to uncover the truth.</desc>
     <icon src="https://stap.tmsimg.com/assets/p190560_v_h10_ab.jpg"/>
+  </programme>
+  <programme start="20260620170000 +0000" stop="20260620195200 +0000" channel="embollywoodunlimited">
+    <title lang="en">Rocky Aur Rani Kii Prem Kahaani</title>
+    <desc lang="en">After facing the differences and family opposition, Rocky and Rani decide to live with each other's families for three months before getting married.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p25177471_v_h10_ac.jpg"/>
+  </programme>
+  <programme start="20260620195200 +0000" stop="20260620215000 +0000" channel="embollywoodunlimited">
+    <title lang="en">Ki &amp; Ka</title>
+    <desc lang="en">Kia, an ambitious woman, marries Kabir, a man who prefers the role of a house husband. They enjoy their unconventional relationship until challenges such as ego clashes and jealousy set in.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p12690585_v_h10_ab.jpg"/>
   </programme>
   <programme start="20260620215000 +0000" stop="20260620235400 +0000" channel="embollywoodunlimited">
     <title lang="en">Veerappan</title>
