@@ -131,6 +131,20 @@ https://ucdn.starhubgo.com/bpk-tv/SunMusic/output/manifest.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9e695f8c65d74c6a9827a2e35367c086:decde9976ea76d1a91f91d9bf068f413
+#EXTINF:-1 tvg-id="251" tvg-chno="251" ch-number="251" tvg-logo="https://poster.starhubgo.com/Linear_channels2/251_1920x1080_HTV.png",FIFA World Cup 1
+https://ucdn.starhubgo.com/bpk-tv/FIFAWCCh1/output/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9e695f8c65d74c6a9827a2e35367c086:decde9976ea76d1a91f91d9bf068f413
+#EXTINF:-1 tvg-id="252" tvg-chno="252" ch-number="252" tvg-logo="https://poster.starhubgo.com/Linear_channels2/252_1920x1080_HTV.png",FIFA World Cup 2
+https://ucdn.starhubgo.com/bpk-tv/FIFAWCCh2/output/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c496a02d46f544579384af6834469cd7:c32bb1120a1e9acc6ffbbca374f0a899
 #EXTINF:-1 tvg-id="135" tvg-chno="135" ch-number="135" tvg-logo="https://poster.starhubgo.com/Linear_channels2/135_1920x1080_HTV.png",Vijay TV HD
 https://ucdn.starhubgo.com/bpk-tv/VijayTV/output/manifest.mpd
