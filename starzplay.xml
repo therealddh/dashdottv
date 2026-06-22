@@ -419,7 +419,7 @@
   <programme start="20260622005500 +0000" stop="20260622010000 +0000" channel="asianetnews">
     <title lang="en">Body Guard</title>
     <desc lang="en">Sudhi tackles serious issues with humor, entertaining and sparking thought while highlighting important topics. His unique approach makes complex subjects accessible.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29742414_b_h10_ab.jpg"/>
+    <icon src="https://stap.tmsimg.com/assets/p29742414_b_h8_af.jpg"/>
   </programme>
   <programme start="20260622010000 +0000" stop="20260622013000 +0000" channel="asianetnews">
     <title lang="en">Asianet Varthakal</title>
@@ -464,7 +464,7 @@
   <programme start="20260622042500 +0000" stop="20260622043000 +0000" channel="asianetnews">
     <title lang="en">Body Guard</title>
     <desc lang="en">Sudhi tackles serious issues with humor, entertaining and sparking thought while highlighting important topics. His unique approach makes complex subjects accessible.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29742414_b_h10_ab.jpg"/>
+    <icon src="https://stap.tmsimg.com/assets/p29742414_b_h8_af.jpg"/>
   </programme>
   <programme start="20260622043000 +0000" stop="20260622050000 +0000" channel="asianetnews">
     <title lang="en">Ippol Sambhavikkunnathu</title>
@@ -529,7 +529,7 @@
   <programme start="20260622102500 +0000" stop="20260622103000 +0000" channel="asianetnews">
     <title lang="en">Body Guard</title>
     <desc lang="en">Sudhi tackles serious issues with humor, entertaining and sparking thought while highlighting important topics. His unique approach makes complex subjects accessible.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29742414_b_h10_ab.jpg"/>
+    <icon src="https://stap.tmsimg.com/assets/p29742414_b_h8_af.jpg"/>
   </programme>
   <programme start="20260622103000 +0000" stop="20260622110000 +0000" channel="asianetnews">
     <title lang="en">Evening News</title>
@@ -574,7 +574,7 @@
   <programme start="20260622142500 +0000" stop="20260622143000 +0000" channel="asianetnews">
     <title lang="en">Body Guard</title>
     <desc lang="en">Sudhi tackles serious issues with humor, entertaining and sparking thought while highlighting important topics. His unique approach makes complex subjects accessible.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29742414_b_h10_ab.jpg"/>
+    <icon src="https://stap.tmsimg.com/assets/p29742414_b_h8_af.jpg"/>
   </programme>
   <programme start="20260622143000 +0000" stop="20260622150000 +0000" channel="asianetnews">
     <title lang="en">News Hour - Debate</title>
@@ -609,7 +609,7 @@
   <programme start="20260622172500 +0000" stop="20260622173000 +0000" channel="asianetnews">
     <title lang="en">Body Guard</title>
     <desc lang="en">Sudhi tackles serious issues with humor, entertaining and sparking thought while highlighting important topics. His unique approach makes complex subjects accessible.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29742414_b_h10_ab.jpg"/>
+    <icon src="https://stap.tmsimg.com/assets/p29742414_b_h8_af.jpg"/>
   </programme>
   <programme start="20260622173000 +0000" stop="20260622180000 +0000" channel="asianetnews">
     <title lang="en">Good Night News</title>
@@ -1313,7 +1313,7 @@
   </programme>
   <programme start="20260622153000 +0000" stop="20260622160000 +0000" channel="zeetvhd">
     <title lang="en">Gharwali Pedwali</title>
-    <desc lang="en">S1 , E67 : Jeetu Pandey finds himself caught living a life of duality. He juggles his time with two mothers, two contrasting belief systems, and two spouses while hiding one from another.</desc>
+    <desc lang="en">S1 , E67 : Jeetu's parents convey their hopes for Saavi to bless the household with a grandchild. Later, a miscommunication convinces the family that she is expecting a baby.</desc>
     <icon src="https://stap.tmsimg.com/assets/p31876409_b_h8_ad.jpg"/>
   </programme>
   <programme start="20260622160000 +0000" stop="20260622163000 +0000" channel="zeetvhd">
@@ -1363,7 +1363,7 @@
   </programme>
   <programme start="20260622210000 +0000" stop="20260622213000 +0000" channel="zeetvhd">
     <title lang="en">Gharwali Pedwali</title>
-    <desc lang="en">S1 , E67 : Jeetu Pandey finds himself caught living a life of duality. He juggles his time with two mothers, two contrasting belief systems, and two spouses while hiding one from another.</desc>
+    <desc lang="en">S1 , E67 : Jeetu's parents convey their hopes for Saavi to bless the household with a grandchild. Later, a miscommunication convinces the family that she is expecting a baby.</desc>
     <icon src="https://stap.tmsimg.com/assets/p31876409_b_h8_ad.jpg"/>
   </programme>
   <programme start="20260622213000 +0000" stop="20260622220000 +0000" channel="zeetvhd">
@@ -2334,7 +2334,7 @@
   <programme start="20260622140000 +0000" stop="20260622143000 +0000" channel="flowersinternational">
     <title lang="en">Yes Your Owner</title>
     <desc lang="en">S1 , E37 : Sethu is eager to run a successful wedding planning company. However, he faces conflict with his wife when every marriage he plans ends in divorce within six months.</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/UcNLhTLh.jpg"/>
+    <icon src="https://stap.tmsimg.com/assets/p33056489_b_h8_ac.jpg"/>
   </programme>
   <programme start="20260622143000 +0000" stop="20260622150000 +0000" channel="flowersinternational">
     <title lang="en">Uppum Mulakum</title>
@@ -2377,39 +2377,29 @@
     <icon src="https://stap.tmsimg.com/assets/p29379941_b_h8_ab.jpg"/>
   </programme>
   <programme start="20260622200000 +0000" stop="20260622210000 +0000" channel="flowersinternational">
-    <title lang="en">Flowers Comedy Ith Item Vere</title>
-    <desc lang="en">Comedians take the stage and perform hilarious skits, showcasing their talent and attempting to impress the judges, in order to win the competition.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29170189_b_h8_ab.jpg"/>
+    <title lang="en">Flowers Comedy - Ithu Item Vere</title>
+    <desc lang="en">S1 , E592 : Contestants showcase their comic prowess through entertaining and hilarious performances and skits in front of a panel of esteemed judges as they compete for a grand prize.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p31653490_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260622210000 +0000" stop="20260622213000 +0000" channel="flowersinternational">
-    <title lang="en">Panchagni</title>
-    <desc lang="en">A restaurant named Pancharatnam is run by five sisters, while their stepmother tries different tactics to close their business.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29170753_b_h8_ab.jpg"/>
+    <title lang="en">Sukhamo Devi</title>
+    <desc lang="en">S1 , E990 : Devika is in love with Nandagopan, but Karthikeyan forces her to marry him. She elopes with Nandagopan only to get abandoned by him at the temple, which leads her to marry his friend.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p29170986_b_h8_ab.jpg"/>
   </programme>
-  <programme start="20260622213000 +0000" stop="20260622220000 +0000" channel="flowersinternational">
-    <title lang="en">Veettile Vilakku</title>
-    <desc lang="en">A mother goes through various struggles and hardships as she battles for her child and motherhood amidst a complex family relationship.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29496588_b_h10_ac.jpg"/>
+  <programme start="20260622213000 +0000" stop="20260622230000 +0000" channel="flowersinternational">
+    <title lang="en">Top Singer 6</title>
+    <desc lang="en">S1 , E214 : </desc>
+    <icon src="https://stap.tmsimg.com/assets/p31383823_b_h10_aa.jpg"/>
   </programme>
-  <programme start="20260622220000 +0000" stop="20260622223000 +0000" channel="flowersinternational">
-    <title lang="en">Uppum Mulakum</title>
-    <desc lang="en">Balachandran and Neelima, who face many challenges to earn a living, aim to successfully fulfil their wish of going to a foreign country.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29171156_b_h8_ad.jpg"/>
-  </programme>
-  <programme start="20260622223000 +0000" stop="20260622233000 +0000" channel="flowersinternational">
-    <title lang="en">Flowers Top Singer 5</title>
-    <desc lang="en">Talented young singers compete against each other as they perform on stage in front of a panel of judges to emerge victorious and win the title.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29495896_b_h10_ac.jpg"/>
-  </programme>
-  <programme start="20260622233000 +0000" stop="20260623000000 +0000" channel="flowersinternational">
-    <title lang="en">Veettile Vilakku</title>
-    <desc lang="en">A mother goes through various struggles and hardships as she battles for her child and motherhood amidst a complex family relationship.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29496588_b_h10_ac.jpg"/>
+  <programme start="20260622230000 +0000" stop="20260623000000 +0000" channel="flowersinternational">
+    <title lang="en">Flowers Comedy - Ithu Item Vere</title>
+    <desc lang="en">S1 , E592 : Contestants showcase their comic prowess through entertaining and hilarious performances and skits in front of a panel of esteemed judges as they compete for a grand prize.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p31653490_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260623000000 +0000" stop="20260623003000 +0000" channel="flowersinternational">
-    <title lang="en">Sukhamo Devi</title>
-    <desc lang="en">Devika is in love with Nandagopan, but Karthikeyan forces her to marry him. She elopes with Nandagopan only to get abandoned by him at the temple, which leads her to marry his friend.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29170986_b_h8_ab.jpg"/>
+    <title lang="en">Flowers Comedy Golden Moments</title>
+    <desc lang="en">S1 , E182 : Revisit the best moments of the show 'Flowers Comedy,' where comedians put on their greatest skits and performances for the audience.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p29170069_b_h10_ab.jpg"/>
   </programme>
   <programme start="20260622000000 +0000" stop="20260622010000 +0000" channel="arydigital">
     <title lang="en">Mirza Ki Heer</title>
@@ -2698,7 +2688,7 @@
   </programme>
   <programme start="20260622140000 +0000" stop="20260622143000 +0000" channel="asianetplushd">
     <title lang="en">Teacheramma</title>
-    <desc lang="en">S1 , E38 : While juggling her roles of being a great teacher and a devoted mother, a woman remains desperate for the affection she has always yearned for but never received.</desc>
+    <desc lang="en">S1 , E38 : Veena becomes deeply moved when Vinod and Madanan visit to check on her. Later, Shivaraman confronts Kamalakshi for her comment about the sudden vanishing.</desc>
     <icon src="https://stap.tmsimg.com/assets/p29934565_b_h8_af.jpg"/>
   </programme>
   <programme start="20260622143000 +0000" stop="20260622150000 +0000" channel="asianetplushd">
@@ -3018,7 +3008,7 @@
   </programme>
   <programme start="20260622030900 +0000" stop="20260622035500 +0000" channel="mazhavilmanorama">
     <title lang="en">The Great Family Challenge</title>
-    <desc lang="en">S1 , E4 : </desc>
+    <desc lang="en">S1 , E4 : Families compete against one another in an attempt to claim the title by successfully navigating a series of entertaining quizzes and challenging tasks.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33361258_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260622035500 +0000" stop="20260622041800 +0000" channel="mazhavilmanorama">
@@ -3053,7 +3043,7 @@
   </programme>
   <programme start="20260622070200 +0000" stop="20260622074900 +0000" channel="mazhavilmanorama">
     <title lang="en">The Great Family Challenge</title>
-    <desc lang="en">S1 , E5 : </desc>
+    <desc lang="en">S1 , E5 : Families compete against one another in an attempt to claim the title by successfully navigating a series of entertaining quizzes and challenging tasks.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33361258_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260622074900 +0000" stop="20260622081300 +0000" channel="mazhavilmanorama">
@@ -3083,7 +3073,7 @@
   </programme>
   <programme start="20260622143000 +0000" stop="20260622153000 +0000" channel="mazhavilmanorama">
     <title lang="en">The Great Family Challenge</title>
-    <desc lang="en">S1 , E6 : </desc>
+    <desc lang="en">S1 , E6 : Families compete against one another in an attempt to claim the title by successfully navigating a series of entertaining quizzes and challenging tasks.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33361258_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260622153000 +0000" stop="20260622160000 +0000" channel="mazhavilmanorama">
@@ -3133,7 +3123,7 @@
   </programme>
   <programme start="20260622215600 +0000" stop="20260622224000 +0000" channel="mazhavilmanorama">
     <title lang="en">The Great Family Challenge</title>
-    <desc lang="en">S1 , E6 : </desc>
+    <desc lang="en">S1 , E6 : Families compete against one another in an attempt to claim the title by successfully navigating a series of entertaining quizzes and challenging tasks.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33361258_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260622224000 +0000" stop="20260622234600 +0000" channel="mazhavilmanorama">
