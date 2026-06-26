@@ -966,15 +966,10 @@
     <desc lang="en">The host provides a comprehensive and detailed coverage, elucidating on the latest news and developments from the across the region.</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/bpAyXkX4.jpg"/>
   </programme>
-  <programme start="20260626183000 +0000" stop="20260626190000 +0000" channel="reportertv">
+  <programme start="20260626183000 +0000" stop="20260626193000 +0000" channel="reportertv">
     <title lang="en">Gulf Reporter</title>
     <desc lang="en">The reporter presents the latest social, political and economic news updates and developments from the Middle Eastern nations.</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/bpAyXkX4.jpg"/>
-  </programme>
-  <programme start="20260626190000 +0000" stop="20260626193000 +0000" channel="reportertv">
-    <title lang="en">Meet The Editors</title>
-    <desc lang="en">The host engages editors and experts in thought-provoking debates, exploring the implications of political decisions and key issues shaping the world.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29740809_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260626193000 +0000" stop="20260626203000 +0000" channel="reportertv">
     <title lang="en">News Night With Arun/Madhu/Smruthy</title>
@@ -987,9 +982,9 @@
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/bpAyXkX4.jpg"/>
   </programme>
   <programme start="20260626213000 +0000" stop="20260626230000 +0000" channel="reportertv">
-    <title lang="en">The Good Evening Show</title>
-    <desc lang="en">Felix and Fiona, unhappy with their tumultuous lives as news presenters, frantically seek to enhance dwindling ratings by creating on-screen conflict.</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/bpAyXkX4.jpg"/>
+    <title lang="en">Meet The Editors</title>
+    <desc lang="en">The host engages editors and experts in thought-provoking debates, exploring the implications of political decisions and key issues shaping the world.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p29740809_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260626230000 +0000" stop="20260626233000 +0000" channel="reportertv">
     <title lang="en">Top 30 News</title>
@@ -1193,7 +1188,7 @@
   </programme>
   <programme start="20260626003000 +0000" stop="20260626010000 +0000" channel="zeetvhd">
     <title lang="en">Jagadhatri</title>
-    <desc lang="en">S1 , E226 : Unbeknownst to her family, a young woman leads a double life as an undercover intelligence officer, determined to clear her mother's name.</desc>
+    <desc lang="en">S1 , E226 : After Rudra leaves his family stunned by a choice involving Jagadhatri, she launches a fierce attack against Musa's powerful empire.</desc>
     <icon src="https://stap.tmsimg.com/assets/p31685189_b_h10_ac.jpg"/>
   </programme>
   <programme start="20260626010000 +0000" stop="20260626013000 +0000" channel="zeetvhd">
@@ -1228,7 +1223,7 @@
   </programme>
   <programme start="20260626040000 +0000" stop="20260626050000 +0000" channel="zeetvhd">
     <title lang="en">Lakshmi Nivas</title>
-    <desc lang="en">S1 , E163 : Lakshmi abandons her affluent roots to build a selfless life with Shriniwas. Decades on, the couple work tirelessly to secure their own house and fund a grand wedding for their daughter.</desc>
+    <desc lang="en">S1 , E163 : Lakshmi and Shriniwas get extremely overwhelmed with Veer's heartfelt promises. Meanwhile, Radhika's mehendi ceremony begins.</desc>
     <icon src="https://stap.tmsimg.com/assets/p32205894_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260626050000 +0000" stop="20260626053000 +0000" channel="zeetvhd">
@@ -1248,7 +1243,7 @@
   </programme>
   <programme start="20260626063000 +0000" stop="20260626070000 +0000" channel="zeetvhd">
     <title lang="en">Jagadhatri</title>
-    <desc lang="en">S1 , E226 : Unbeknownst to her family, a young woman leads a double life as an undercover intelligence officer, determined to clear her mother's name.</desc>
+    <desc lang="en">S1 , E226 : After Rudra leaves his family stunned by a choice involving Jagadhatri, she launches a fierce attack against Musa's powerful empire.</desc>
     <icon src="https://stap.tmsimg.com/assets/p31685189_b_h10_ac.jpg"/>
   </programme>
   <programme start="20260626070000 +0000" stop="20260626073000 +0000" channel="zeetvhd">
@@ -1263,7 +1258,7 @@
   </programme>
   <programme start="20260626080000 +0000" stop="20260626090000 +0000" channel="zeetvhd">
     <title lang="en">Lakshmi Nivas</title>
-    <desc lang="en">S1 , E163 : Lakshmi abandons her affluent roots to build a selfless life with Shriniwas. Decades on, the couple work tirelessly to secure their own house and fund a grand wedding for their daughter.</desc>
+    <desc lang="en">S1 , E163 : Lakshmi and Shriniwas get extremely overwhelmed with Veer's heartfelt promises. Meanwhile, Radhika's mehendi ceremony begins.</desc>
     <icon src="https://stap.tmsimg.com/assets/p32205894_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260626090000 +0000" stop="20260626093000 +0000" channel="zeetvhd">
@@ -1288,7 +1283,7 @@
   </programme>
   <programme start="20260626110000 +0000" stop="20260626120000 +0000" channel="zeetvhd">
     <title lang="en">Lakshmi Nivas</title>
-    <desc lang="en">S1 , E163 : Lakshmi abandons her affluent roots to build a selfless life with Shriniwas. Decades on, the couple work tirelessly to secure their own house and fund a grand wedding for their daughter.</desc>
+    <desc lang="en">S1 , E163 : Lakshmi and Shriniwas get extremely overwhelmed with Veer's heartfelt promises. Meanwhile, Radhika's mehendi ceremony begins.</desc>
     <icon src="https://stap.tmsimg.com/assets/p32205894_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260626120000 +0000" stop="20260626123000 +0000" channel="zeetvhd">
@@ -1308,7 +1303,7 @@
   </programme>
   <programme start="20260626133000 +0000" stop="20260626140000 +0000" channel="zeetvhd">
     <title lang="en">Jagadhatri</title>
-    <desc lang="en">S1 , E226 : Unbeknownst to her family, a young woman leads a double life as an undercover intelligence officer, determined to clear her mother's name.</desc>
+    <desc lang="en">S1 , E226 : After Rudra leaves his family stunned by a choice involving Jagadhatri, she launches a fierce attack against Musa's powerful empire.</desc>
     <icon src="https://stap.tmsimg.com/assets/p31685189_b_h10_ac.jpg"/>
   </programme>
   <programme start="20260626140000 +0000" stop="20260626143000 +0000" channel="zeetvhd">
@@ -1463,7 +1458,7 @@
   </programme>
   <programme start="20260626000000 +0000" stop="20260626000000 +0000" channel="starplushd">
     <title lang="en">Udne Ki Aasha</title>
-    <desc lang="en">S1 , E834 : Though they get off to a bad start, an aspirational Saili and an unmotivated Sachin end up getting married. Saili then tries to turn her husband into a competent person.</desc>
+    <desc lang="en">S1 , E834 : Rakshit and Aparajita visit Mumbai to seal a deal with Sailee. However, just as Rakshit supports her during the voting process, Mandira's goons attack Sailee with a knife.</desc>
     <icon src="https://stap.tmsimg.com/assets/p26841298_b_h8_ac.jpg"/>
   </programme>
   <programme start="20260626000000 +0000" stop="20260626003000 +0000" channel="starplushd">
@@ -1488,23 +1483,18 @@
   </programme>
   <programme start="20260626020000 +0000" stop="20260626023000 +0000" channel="starplushd">
     <title lang="en">Kyunki Saas Bhi Kabhi Bahu Thi</title>
-    <desc lang="en">S2 , E332 : Tulsi and Mihir Virani navigate the ensuing challenges that emerge in their family which has endured a lengthy passage of time.</desc>
+    <desc lang="en">S2 , E332 : After Vaishnavi burns the agreement papers, an enraged Parth loses control and lashes out at her. Hearing the commotion, Tulsi rushes in and is forced to fight back to protect Vaishnavi.</desc>
     <icon src="https://stap.tmsimg.com/assets/p30798579_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260626023000 +0000" stop="20260626030000 +0000" channel="starplushd">
     <title lang="en">Kyunki Rishton Ke Bhi Roop Badalte Hain</title>
-    <desc lang="en">S1 , E98 : After leaving Akshay and Madhavi at the boarding school, an emotional Vrinda takes over as the new boss of the Jamshedpur plant.</desc>
+    <desc lang="en">S1 , E98 : Angad informs his lawyer about his decision to cancel his divorce with Vrinda. Meanwhile, as Dev panics about his factory theft being exposed, Vikrant steps in to hide the truth from the family.</desc>
     <icon src="https://stap.tmsimg.com/assets/p32915623_b_h10_ab.jpg"/>
   </programme>
-  <programme start="20260626030000 +0000" stop="20260626040000 +0000" channel="starplushd">
+  <programme start="20260626030000 +0000" stop="20260626043000 +0000" channel="starplushd">
     <title lang="en">Udne Ki Aasha</title>
-    <desc lang="en">S1 , E834 : Though they get off to a bad start, an aspirational Saili and an unmotivated Sachin end up getting married. Saili then tries to turn her husband into a competent person.</desc>
+    <desc lang="en">S1 , E834 : Rakshit and Aparajita visit Mumbai to seal a deal with Sailee. However, just as Rakshit supports her during the voting process, Mandira's goons attack Sailee with a knife.</desc>
     <icon src="https://stap.tmsimg.com/assets/p26841298_b_h8_ac.jpg"/>
-  </programme>
-  <programme start="20260626040000 +0000" stop="20260626043000 +0000" channel="starplushd">
-    <title lang="en">Yeh Rishta Kya Kehlata Hai</title>
-    <desc lang="en">S1 , E5204 : Dr Abhimanyu, a misogamist, finds himself getting attracted to Akshara, Kartik and Naira's daughter. Things take a tricky turn when Akshara's half-sister, Arohi, falls in love with him.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p1002730_b_h8_ad.jpg"/>
   </programme>
   <programme start="20260626043000 +0000" stop="20260626050000 +0000" channel="starplushd">
     <title lang="en">Sairaab</title>
@@ -1523,15 +1513,15 @@
   </programme>
   <programme start="20260626060000 +0000" stop="20260626063000 +0000" channel="starplushd">
     <title lang="en">Kyunki Saas Bhi Kabhi Bahu Thi</title>
-    <desc lang="en">S2 , E332 : Tulsi and Mihir Virani navigate the ensuing challenges that emerge in their family which has endured a lengthy passage of time.</desc>
+    <desc lang="en">S2 , E332 : After Vaishnavi burns the agreement papers, an enraged Parth loses control and lashes out at her. Hearing the commotion, Tulsi rushes in and is forced to fight back to protect Vaishnavi.</desc>
     <icon src="https://stap.tmsimg.com/assets/p30798579_b_h10_aa.jpg"/>
   </programme>
-  <programme start="20260626063000 +0000" stop="20260626070000 +0000" channel="starplushd">
+  <programme start="20260626063000 +0000" stop="20260626065900 +0000" channel="starplushd">
     <title lang="en">Kyunki Rishton Ke Bhi Roop Badalte Hain</title>
-    <desc lang="en">S1 , E98 : After leaving Akshay and Madhavi at the boarding school, an emotional Vrinda takes over as the new boss of the Jamshedpur plant.</desc>
+    <desc lang="en">S1 , E98 : Angad informs his lawyer about his decision to cancel his divorce with Vrinda. Meanwhile, as Dev panics about his factory theft being exposed, Vikrant steps in to hide the truth from the family.</desc>
     <icon src="https://stap.tmsimg.com/assets/p32915623_b_h10_ab.jpg"/>
   </programme>
-  <programme start="20260626070000 +0000" stop="20260626073000 +0000" channel="starplushd">
+  <programme start="20260626065900 +0000" stop="20260626073000 +0000" channel="starplushd">
     <title lang="en">Mr &amp; Mrs Parshuram</title>
     <desc lang="en">S1 , E141 : Shivprasad and Shalini, an ordinary married couple, embrace love, laughter, and everyday joys, weaving a simple yet fulfilling life that celebrates togetherness and quiet contentment.</desc>
     <icon src="https://stap.tmsimg.com/assets/p32291184_b_h8_ab.jpg"/>
@@ -1553,12 +1543,12 @@
   </programme>
   <programme start="20260626090000 +0000" stop="20260626093000 +0000" channel="starplushd">
     <title lang="en">Kyunki Saas Bhi Kabhi Bahu Thi</title>
-    <desc lang="en">S2 , E332 : Tulsi and Mihir Virani navigate the ensuing challenges that emerge in their family which has endured a lengthy passage of time.</desc>
+    <desc lang="en">S2 , E332 : After Vaishnavi burns the agreement papers, an enraged Parth loses control and lashes out at her. Hearing the commotion, Tulsi rushes in and is forced to fight back to protect Vaishnavi.</desc>
     <icon src="https://stap.tmsimg.com/assets/p30798579_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260626093000 +0000" stop="20260626100000 +0000" channel="starplushd">
     <title lang="en">Kyunki Rishton Ke Bhi Roop Badalte Hain</title>
-    <desc lang="en">S1 , E98 : After leaving Akshay and Madhavi at the boarding school, an emotional Vrinda takes over as the new boss of the Jamshedpur plant.</desc>
+    <desc lang="en">S1 , E98 : Angad informs his lawyer about his decision to cancel his divorce with Vrinda. Meanwhile, as Dev panics about his factory theft being exposed, Vikrant steps in to hide the truth from the family.</desc>
     <icon src="https://stap.tmsimg.com/assets/p32915623_b_h10_ab.jpg"/>
   </programme>
   <programme start="20260626100000 +0000" stop="20260626103000 +0000" channel="starplushd">
@@ -1573,7 +1563,7 @@
   </programme>
   <programme start="20260626110000 +0000" stop="20260626113000 +0000" channel="starplushd">
     <title lang="en">Oh Humnava Tum Dena Saath Mera</title>
-    <desc lang="en">S1 , E67 : A reserved businessman who avoids romance crosses paths with an artist haunted by a bitter past, leaving the prospect of a budding romance hanging in the balance.</desc>
+    <desc lang="en">S1 , E66 : When Rakshit does not come to office, Aparajita gets worried. However, she remains determined to meet him and visits his home.</desc>
     <icon src="https://stap.tmsimg.com/assets/p32904885_b_h8_ad.jpg"/>
   </programme>
   <programme start="20260626113000 +0000" stop="20260626120000 +0000" channel="starplushd">
@@ -1593,17 +1583,12 @@
   </programme>
   <programme start="20260626130000 +0000" stop="20260626133000 +0000" channel="starplushd">
     <title lang="en">Kyunki Saas Bhi Kabhi Bahu Thi</title>
-    <desc lang="en">S2 , E332 : Tulsi and Mihir Virani navigate the ensuing challenges that emerge in their family which has endured a lengthy passage of time.</desc>
+    <desc lang="en">S2 , E332 : After Vaishnavi burns the agreement papers, an enraged Parth loses control and lashes out at her. Hearing the commotion, Tulsi rushes in and is forced to fight back to protect Vaishnavi.</desc>
     <icon src="https://stap.tmsimg.com/assets/p30798579_b_h10_aa.jpg"/>
   </programme>
-  <programme start="20260626133000 +0000" stop="20260626140000 +0000" channel="starplushd">
-    <title lang="en">Kyunki Rishton Ke Bhi Roop Badalte Hain</title>
-    <desc lang="en">S1 , E98 : After leaving Akshay and Madhavi at the boarding school, an emotional Vrinda takes over as the new boss of the Jamshedpur plant.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p32915623_b_h10_ab.jpg"/>
-  </programme>
-  <programme start="20260626140000 +0000" stop="20260626150000 +0000" channel="starplushd">
+  <programme start="20260626133000 +0000" stop="20260626150000 +0000" channel="starplushd">
     <title lang="en">Udne Ki Aasha</title>
-    <desc lang="en">S1 , E834 : Though they get off to a bad start, an aspirational Saili and an unmotivated Sachin end up getting married. Saili then tries to turn her husband into a competent person.</desc>
+    <desc lang="en">S1 , E834 : Rakshit and Aparajita visit Mumbai to seal a deal with Sailee. However, just as Rakshit supports her during the voting process, Mandira's goons attack Sailee with a knife.</desc>
     <icon src="https://stap.tmsimg.com/assets/p26841298_b_h8_ac.jpg"/>
   </programme>
   <programme start="20260626150000 +0000" stop="20260626153000 +0000" channel="starplushd">
@@ -1618,17 +1603,17 @@
   </programme>
   <programme start="20260626160000 +0000" stop="20260626163000 +0000" channel="starplushd">
     <title lang="en">Oh Humnava Tum Dena Saath Mera</title>
-    <desc lang="en">S1 , E68 : A reserved businessman who avoids romance crosses paths with an artist haunted by a bitter past, leaving the prospect of a budding romance hanging in the balance.</desc>
+    <desc lang="en">S1 , E67 : A reserved businessman who avoids romance crosses paths with an artist haunted by a bitter past, leaving the prospect of a budding romance hanging in the balance.</desc>
     <icon src="https://stap.tmsimg.com/assets/p32904885_b_h8_ad.jpg"/>
   </programme>
-  <programme start="20260626163000 +0000" stop="20260626170000 +0000" channel="starplushd">
+  <programme start="20260626163000 +0000" stop="20260626170100 +0000" channel="starplushd">
     <title lang="en">Anupamaa</title>
     <desc lang="en">S1 , E2061 : Gautam believes that no one can separate him from his daughter, Pranshi. Later, things take an unexpected turn at the bachelor party.</desc>
     <icon src="https://stap.tmsimg.com/assets/p18094069_b_h8_ae.jpg"/>
   </programme>
-  <programme start="20260626170000 +0000" stop="20260626173000 +0000" channel="starplushd">
+  <programme start="20260626170100 +0000" stop="20260626173000 +0000" channel="starplushd">
     <title lang="en">Kyunki Saas Bhi Kabhi Bahu Thi</title>
-    <desc lang="en">S2 , E283 : Time flew by, yet Tulsi Virani stood strong as the Sarvagunn matriarch! Can she navigate the challenges of modern-day parenting and relationships?</desc>
+    <desc lang="en">S2 , E333 : Tulsi and Mihir Virani navigate the ensuing challenges that emerge in their family which has endured a lengthy passage of time.</desc>
     <icon src="https://stap.tmsimg.com/assets/p30798579_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260626173000 +0000" stop="20260626180000 +0000" channel="starplushd">
@@ -1653,7 +1638,7 @@
   </programme>
   <programme start="20260626200000 +0000" stop="20260626203000 +0000" channel="starplushd">
     <title lang="en">Oh Humnava Tum Dena Saath Mera</title>
-    <desc lang="en">S1 , E68 : A reserved businessman who avoids romance crosses paths with an artist haunted by a bitter past, leaving the prospect of a budding romance hanging in the balance.</desc>
+    <desc lang="en">S1 , E67 : A reserved businessman who avoids romance crosses paths with an artist haunted by a bitter past, leaving the prospect of a budding romance hanging in the balance.</desc>
     <icon src="https://stap.tmsimg.com/assets/p32904885_b_h8_ad.jpg"/>
   </programme>
   <programme start="20260626203000 +0000" stop="20260626210000 +0000" channel="starplushd">
@@ -1663,7 +1648,7 @@
   </programme>
   <programme start="20260626210000 +0000" stop="20260626213000 +0000" channel="starplushd">
     <title lang="en">Kyunki Saas Bhi Kabhi Bahu Thi</title>
-    <desc lang="en">S2 , E283 : Time flew by, yet Tulsi Virani stood strong as the Sarvagunn matriarch! Can she navigate the challenges of modern-day parenting and relationships?</desc>
+    <desc lang="en">S2 , E333 : Tulsi and Mihir Virani navigate the ensuing challenges that emerge in their family which has endured a lengthy passage of time.</desc>
     <icon src="https://stap.tmsimg.com/assets/p30798579_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260626213000 +0000" stop="20260626220000 +0000" channel="starplushd">
@@ -1863,7 +1848,7 @@
   </programme>
   <programme start="20260626163000 +0000" stop="20260626170000 +0000" channel="colorshd">
     <title lang="en">Seher Hone Ko Hai</title>
-    <desc lang="en">S1 , E149 : Seher is a young woman with big dreams, and her mother, Kausar, is determined to overcome societal barriers in her daughter's way.</desc>
+    <desc lang="en">S1 , E149 : Mahid advises Seher to proceed with the interview to honour Kausar's aspirations. Meanwhile, Amaal and Tahir work to buy time for Seher, allowing her to finalise her college admission.</desc>
     <icon src="https://stap.tmsimg.com/assets/p31812237_b_h10_ab.jpg"/>
   </programme>
   <programme start="20260626170000 +0000" stop="20260626173000 +0000" channel="colorshd">
@@ -1878,7 +1863,7 @@
   </programme>
   <programme start="20260626180000 +0000" stop="20260626183000 +0000" channel="colorshd">
     <title lang="en">Mahadev &amp; Sons</title>
-    <desc lang="en">S1 , E125 : Mahadev's principled approach to guiding his family with a firm hand unintentionally sows the seeds of rebellion, ushering in an era of generational discord.</desc>
+    <desc lang="en">S1 , E125 : A huge sum of money is discovered to be missing from Ashish's locker. Later, Mogra suspects Rajji of stealing and conducts a search of her room, while Dheeraj defends Rajji's innocence.</desc>
     <icon src="https://stap.tmsimg.com/assets/p32050463_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260626183000 +0000" stop="20260626190000 +0000" channel="colorshd">
@@ -1903,7 +1888,7 @@
   </programme>
   <programme start="20260626203000 +0000" stop="20260626210000 +0000" channel="colorshd">
     <title lang="en">Seher Hone Ko Hai</title>
-    <desc lang="en">S1 , E149 : Seher is a young woman with big dreams, and her mother, Kausar, is determined to overcome societal barriers in her daughter's way.</desc>
+    <desc lang="en">S1 , E149 : Mahid advises Seher to proceed with the interview to honour Kausar's aspirations. Meanwhile, Amaal and Tahir work to buy time for Seher, allowing her to finalise her college admission.</desc>
     <icon src="https://stap.tmsimg.com/assets/p31812237_b_h10_ab.jpg"/>
   </programme>
   <programme start="20260626210000 +0000" stop="20260626213000 +0000" channel="colorshd">
@@ -1928,7 +1913,7 @@
   </programme>
   <programme start="20260626230000 +0000" stop="20260626233000 +0000" channel="colorshd">
     <title lang="en">Seher Hone Ko Hai</title>
-    <desc lang="en">S1 , E149 : Seher is a young woman with big dreams, and her mother, Kausar, is determined to overcome societal barriers in her daughter's way.</desc>
+    <desc lang="en">S1 , E149 : Mahid advises Seher to proceed with the interview to honour Kausar's aspirations. Meanwhile, Amaal and Tahir work to buy time for Seher, allowing her to finalise her college admission.</desc>
     <icon src="https://stap.tmsimg.com/assets/p31812237_b_h10_ab.jpg"/>
   </programme>
   <programme start="20260626233000 +0000" stop="20260627000000 +0000" channel="colorshd">
@@ -1938,7 +1923,7 @@
   </programme>
   <programme start="20260627000000 +0000" stop="20260627003000 +0000" channel="colorshd">
     <title lang="en">Mahadev &amp; Sons</title>
-    <desc lang="en">S1 , E125 : Mahadev's principled approach to guiding his family with a firm hand unintentionally sows the seeds of rebellion, ushering in an era of generational discord.</desc>
+    <desc lang="en">S1 , E125 : A huge sum of money is discovered to be missing from Ashish's locker. Later, Mogra suspects Rajji of stealing and conducts a search of her room, while Dheeraj defends Rajji's innocence.</desc>
     <icon src="https://stap.tmsimg.com/assets/p32050463_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260626000000 +0000" stop="20260626013700 +0000" channel="setmax">
@@ -2168,7 +2153,7 @@
   </programme>
   <programme start="20260626123000 +0000" stop="20260626130000 +0000" channel="sabtv">
     <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">S1 , E4746 : The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
+    <desc lang="en">S1 , E4746 : Bawri reaches Gokuldham Society and tells the Mahila Mandali about Bagha trying to stop the wedding. Will they support her?</desc>
     <icon src="https://stap.tmsimg.com/assets/p12557899_b_h11_ad.jpg"/>
   </programme>
   <programme start="20260626130000 +0000" stop="20260626132900 +0000" channel="sabtv">
@@ -2188,7 +2173,7 @@
   </programme>
   <programme start="20260626143000 +0000" stop="20260626150000 +0000" channel="sabtv">
     <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">S1 , E4746 : The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
+    <desc lang="en">S1 , E4746 : Bawri reaches Gokuldham Society and tells the Mahila Mandali about Bagha trying to stop the wedding. Will they support her?</desc>
     <icon src="https://stap.tmsimg.com/assets/p12557899_b_h11_ad.jpg"/>
   </programme>
   <programme start="20260626150000 +0000" stop="20260626153000 +0000" channel="sabtv">
@@ -2208,7 +2193,7 @@
   </programme>
   <programme start="20260626163000 +0000" stop="20260626170000 +0000" channel="sabtv">
     <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">S1 , E4746 : The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
+    <desc lang="en">S1 , E4746 : Bawri reaches Gokuldham Society and tells the Mahila Mandali about Bagha trying to stop the wedding. Will they support her?</desc>
     <icon src="https://stap.tmsimg.com/assets/p12557899_b_h11_ad.jpg"/>
   </programme>
   <programme start="20260626170000 +0000" stop="20260626172500 +0000" channel="sabtv">
@@ -2238,7 +2223,7 @@
   </programme>
   <programme start="20260626190900 +0000" stop="20260626193500 +0000" channel="sabtv">
     <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">S1 , E4746 : The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
+    <desc lang="en">S1 , E4746 : Bawri reaches Gokuldham Society and tells the Mahila Mandali about Bagha trying to stop the wedding. Will they support her?</desc>
     <icon src="https://stap.tmsimg.com/assets/p12557899_b_h11_ad.jpg"/>
   </programme>
   <programme start="20260626193500 +0000" stop="20260626200100 +0000" channel="sabtv">
@@ -2258,7 +2243,7 @@
   </programme>
   <programme start="20260626205300 +0000" stop="20260626211900 +0000" channel="sabtv">
     <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">S1 , E4746 : The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
+    <desc lang="en">S1 , E4746 : Bawri reaches Gokuldham Society and tells the Mahila Mandali about Bagha trying to stop the wedding. Will they support her?</desc>
     <icon src="https://stap.tmsimg.com/assets/p12557899_b_h11_ad.jpg"/>
   </programme>
   <programme start="20260626211900 +0000" stop="20260626214500 +0000" channel="sabtv">
@@ -2417,39 +2402,29 @@
     <icon src="https://stap.tmsimg.com/assets/p29379941_b_h8_ab.jpg"/>
   </programme>
   <programme start="20260626200000 +0000" stop="20260626210000 +0000" channel="flowersinternational">
-    <title lang="en">Flowers Comedy Ith Item Vere</title>
-    <desc lang="en">Comedians take the stage and perform hilarious skits, showcasing their talent and attempting to impress the judges, in order to win the competition.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29170189_b_h8_ab.jpg"/>
+    <title lang="en">Flowers Comedy - Ithu Item Vere</title>
+    <desc lang="en">S1 , E596 : Contestants showcase their comic prowess through entertaining and hilarious performances and skits in front of a panel of esteemed judges as they compete for a grand prize.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p31653490_b_h10_aa.jpg"/>
   </programme>
-  <programme start="20260626210000 +0000" stop="20260626213000 +0000" channel="flowersinternational">
-    <title lang="en">Panchagni</title>
-    <desc lang="en">A restaurant named Pancharatnam is run by five sisters, while their stepmother tries different tactics to close their business.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29170753_b_h8_ab.jpg"/>
-  </programme>
-  <programme start="20260626213000 +0000" stop="20260626220000 +0000" channel="flowersinternational">
-    <title lang="en">Veettile Vilakku</title>
-    <desc lang="en">A mother goes through various struggles and hardships as she battles for her child and motherhood amidst a complex family relationship.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29496588_b_h10_ac.jpg"/>
+  <programme start="20260626210000 +0000" stop="20260626220000 +0000" channel="flowersinternational">
+    <title lang="en">Mahalakshmi</title>
+    <desc lang="en">S1 , E495 : Mahalakshmi faces the consequences of her stepfather's actions with strength, while Kannan, who survives an unexpected tragedy, becomes her unexpected support in a journey of survival.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p29379941_b_h8_ab.jpg"/>
   </programme>
   <programme start="20260626220000 +0000" stop="20260626223000 +0000" channel="flowersinternational">
     <title lang="en">Uppum Mulakum</title>
-    <desc lang="en">Balachandran and Neelima, who face many challenges to earn a living, aim to successfully fulfil their wish of going to a foreign country.</desc>
+    <desc lang="en">S1 , E638 : Balachandran and Neelima, who face many challenges to earn a living, aim to successfully fulfil their wish of going to a foreign country.</desc>
     <icon src="https://stap.tmsimg.com/assets/p29171156_b_h8_ad.jpg"/>
   </programme>
-  <programme start="20260626223000 +0000" stop="20260626230000 +0000" channel="flowersinternational">
-    <title lang="en">Panchagni</title>
-    <desc lang="en">A restaurant named Pancharatnam is run by five sisters, while their stepmother tries different tactics to close their business.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29170753_b_h8_ab.jpg"/>
-  </programme>
-  <programme start="20260626230000 +0000" stop="20260627000000 +0000" channel="flowersinternational">
-    <title lang="en">Flowers Comedy Ith Item Vere</title>
-    <desc lang="en">Comedians take the stage and perform hilarious skits, showcasing their talent and attempting to impress the judges, in order to win the competition.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29170189_b_h8_ab.jpg"/>
+  <programme start="20260626223000 +0000" stop="20260627000000 +0000" channel="flowersinternational">
+    <title lang="en">Top Singer 6</title>
+    <desc lang="en">S1 , E218 : </desc>
+    <icon src="https://stap.tmsimg.com/assets/p31383823_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260627000000 +0000" stop="20260627003000 +0000" channel="flowersinternational">
-    <title lang="en">Veettile Vilakku</title>
-    <desc lang="en">A mother goes through various struggles and hardships as she battles for her child and motherhood amidst a complex family relationship.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29496588_b_h10_ac.jpg"/>
+    <title lang="en">Flowers Comedy Golden Moments</title>
+    <desc lang="en">S1 , E186 : Revisit the best moments of the show 'Flowers Comedy,' where comedians put on their greatest skits and performances for the audience.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p29170069_b_h10_ab.jpg"/>
   </programme>
   <programme start="20260626000000 +0000" stop="20260626000000 +0000" channel="arydigital">
     <title lang="en">Mahnoor</title>
@@ -2908,7 +2883,7 @@
   </programme>
   <programme start="20260626163000 +0000" stop="20260626170000 +0000" channel="asianethd">
     <title lang="en">Patharamattu</title>
-    <desc lang="en">S1 , E1009 : With the obligation of marrying off her three daughters, a brave mother does her best to find a responsible partner for them.</desc>
+    <desc lang="en">S1 , E1009 : Anirudh seeks Nanadana's help to stop his engagement to Avanthika. Later, Abhi reveals the reason for Avanthika's good behaviour, leaving Navya shocked.</desc>
     <icon src="https://stap.tmsimg.com/assets/p25472032_b_h10_ab.jpg"/>
   </programme>
   <programme start="20260626170000 +0000" stop="20260626173000 +0000" channel="asianethd">
@@ -2918,7 +2893,7 @@
   </programme>
   <programme start="20260626173000 +0000" stop="20260626180000 +0000" channel="asianethd">
     <title lang="en">Ee Puzhayum Kadannu</title>
-    <desc lang="en">S1 , E113 : A middle-class family's happiness is shattered by the sudden death of the father, Aravindan. Now, his daughters must navigate life's conflicts to find a path to hope.</desc>
+    <desc lang="en">S1 , E113 : Kaveri fiercely confronts CI Vipin when he declines the bail for Vineeth. Later, while consoling a devastated Yamuna, Kaveri is horrified to find the wounds on her body.</desc>
     <icon src="https://stap.tmsimg.com/assets/p32308078_b_h10_ab.jpg"/>
   </programme>
   <programme start="20260626180000 +0000" stop="20260626183000 +0000" channel="asianethd">
@@ -2938,7 +2913,7 @@
   </programme>
   <programme start="20260626220000 +0000" stop="20260626223000 +0000" channel="asianethd">
     <title lang="en">Ee Puzhayum Kadannu</title>
-    <desc lang="en">S1 , E113 : A middle-class family's happiness is shattered by the sudden death of the father, Aravindan. Now, his daughters must navigate life's conflicts to find a path to hope.</desc>
+    <desc lang="en">S1 , E113 : Kaveri fiercely confronts CI Vipin when he declines the bail for Vineeth. Later, while consoling a devastated Yamuna, Kaveri is horrified to find the wounds on her body.</desc>
     <icon src="https://stap.tmsimg.com/assets/p32308078_b_h10_ab.jpg"/>
   </programme>
   <programme start="20260626223000 +0000" stop="20260626230000 +0000" channel="asianethd">
@@ -3883,7 +3858,7 @@
   </programme>
   <programme start="20260626033000 +0000" stop="20260626040000 +0000" channel="zeemarathi">
     <title lang="en">Krushnaichya Leki</title>
-    <desc lang="en">S1 , E10 : Facing abandonment and pain, a resilient single mother and her three daughters stand united and strong, weathering life's various challenges with perseverance and grace.</desc>
+    <desc lang="en">S1 , E10 : Shankar crafts a strategic scheme to resolve Gauri's severe misconception. Furthermore, Mini's achievements vastly delight both Sharda and Gauri.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33371774_b_h8_aa.jpg"/>
   </programme>
   <programme start="20260626040000 +0000" stop="20260626043000 +0000" channel="zeemarathi">
@@ -3903,7 +3878,7 @@
   </programme>
   <programme start="20260626053000 +0000" stop="20260626060000 +0000" channel="zeemarathi">
     <title lang="en">Krushnaichya Leki</title>
-    <desc lang="en">S1 , E10 : Facing abandonment and pain, a resilient single mother and her three daughters stand united and strong, weathering life's various challenges with perseverance and grace.</desc>
+    <desc lang="en">S1 , E10 : Shankar crafts a strategic scheme to resolve Gauri's severe misconception. Furthermore, Mini's achievements vastly delight both Sharda and Gauri.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33371774_b_h8_aa.jpg"/>
   </programme>
   <programme start="20260626060000 +0000" stop="20260626063000 +0000" channel="zeemarathi">
@@ -3943,12 +3918,12 @@
   </programme>
   <programme start="20260626100000 +0000" stop="20260626103000 +0000" channel="zeemarathi">
     <title lang="en">Krushnaichya Leki</title>
-    <desc lang="en">S1 , E10 : Facing abandonment and pain, a resilient single mother and her three daughters stand united and strong, weathering life's various challenges with perseverance and grace.</desc>
+    <desc lang="en">S1 , E10 : Shankar crafts a strategic scheme to resolve Gauri's severe misconception. Furthermore, Mini's achievements vastly delight both Sharda and Gauri.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33371774_b_h8_aa.jpg"/>
   </programme>
   <programme start="20260626103000 +0000" stop="20260626110000 +0000" channel="zeemarathi">
     <title lang="en">Devmanus Madhla Adhyay</title>
-    <desc lang="en">S1 , E359 : The notorious serial killer, Dr Ajitkumar Dev, relocates to Varanasi where he assumes the identity of Gopal, a tailor who disappeared years ago, and continues his reign of terror.</desc>
+    <desc lang="en">S1 , E359 : A distressed couple seeks Gopal's guidance regarding their inability to start a family. However, he deceptively tricks them in order to fulfil his own selfish motives.</desc>
     <icon src="https://stap.tmsimg.com/assets/p30349871_b_h8_ac.jpg"/>
   </programme>
   <programme start="20260626110000 +0000" stop="20260626113000 +0000" channel="zeemarathi">
