@@ -68,6 +68,10 @@
     <display-name>Asianet ME</display-name>
     <icon src="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/asianethd/active/f213450f4aecda4601852a574faf67a7.svg"/>
   </channel>
+  <channel id="asianetcinema">
+    <display-name>Asianet Cinema</display-name>
+    <icon src="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/asianetcinema-active.svg"/>
+  </channel>
   <channel id="asianetmovieshd">
     <display-name>Asianet Movies</display-name>
     <icon src="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/asianetmovieshd/active/c2ac38747a7b11975063dd963518e81a.svg"/>
@@ -2139,7 +2143,7 @@
   </programme>
   <programme start="20260701123000 +0000" stop="20260701130000 +0000" channel="sabtv">
     <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">S1 , E4750 : The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
+    <desc lang="en">S1 , E4750 : The women of Gokuldham Society sternly warn Bagha to keep his distance from Bawri after catching him red-handed with another woman in the park.</desc>
     <icon src="https://stap.tmsimg.com/assets/p12557899_b_h11_ad.jpg"/>
   </programme>
   <programme start="20260701130000 +0000" stop="20260701133000 +0000" channel="sabtv">
@@ -2159,7 +2163,7 @@
   </programme>
   <programme start="20260701143000 +0000" stop="20260701150000 +0000" channel="sabtv">
     <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">S1 , E4750 : The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
+    <desc lang="en">S1 , E4750 : The women of Gokuldham Society sternly warn Bagha to keep his distance from Bawri after catching him red-handed with another woman in the park.</desc>
     <icon src="https://stap.tmsimg.com/assets/p12557899_b_h11_ad.jpg"/>
   </programme>
   <programme start="20260701150000 +0000" stop="20260701153000 +0000" channel="sabtv">
@@ -2179,7 +2183,7 @@
   </programme>
   <programme start="20260701163000 +0000" stop="20260701170000 +0000" channel="sabtv">
     <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">S1 , E4750 : The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
+    <desc lang="en">S1 , E4750 : The women of Gokuldham Society sternly warn Bagha to keep his distance from Bawri after catching him red-handed with another woman in the park.</desc>
     <icon src="https://stap.tmsimg.com/assets/p12557899_b_h11_ad.jpg"/>
   </programme>
   <programme start="20260701170000 +0000" stop="20260701172500 +0000" channel="sabtv">
@@ -2209,7 +2213,7 @@
   </programme>
   <programme start="20260701190900 +0000" stop="20260701193500 +0000" channel="sabtv">
     <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">S1 , E4750 : The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
+    <desc lang="en">S1 , E4750 : The women of Gokuldham Society sternly warn Bagha to keep his distance from Bawri after catching him red-handed with another woman in the park.</desc>
     <icon src="https://stap.tmsimg.com/assets/p12557899_b_h11_ad.jpg"/>
   </programme>
   <programme start="20260701193500 +0000" stop="20260701200100 +0000" channel="sabtv">
@@ -2229,7 +2233,7 @@
   </programme>
   <programme start="20260701205300 +0000" stop="20260701211900 +0000" channel="sabtv">
     <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">S1 , E4750 : The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
+    <desc lang="en">S1 , E4750 : The women of Gokuldham Society sternly warn Bagha to keep his distance from Bawri after catching him red-handed with another woman in the park.</desc>
     <icon src="https://stap.tmsimg.com/assets/p12557899_b_h11_ad.jpg"/>
   </programme>
   <programme start="20260701211900 +0000" stop="20260701214500 +0000" channel="sabtv">
@@ -2912,6 +2916,51 @@
     <desc lang="en">Irshad and Haseeb, two teenage boys from Mattanchery, share a passion for pigeon flying, a local game. Later, Irshad opens up about a tragic incident that ruined many friendships in the neighbourhood.</desc>
     <icon src="https://stap.tmsimg.com/assets/p14681303_b_h10_aa.jpg"/>
   </programme>
+  <programme start="20260701000000 +0000" stop="20260701030000 +0000" channel="asianetcinema">
+    <title lang="en">Movie</title>
+    <desc lang="en">Dive into Malayalam cinema with hit blockbusters and classic gems!</desc>
+    <icon src="https://evisioneand.com/image/catalog/1920x1080-B.jpg"/>
+  </programme>
+  <programme start="20260701030000 +0000" stop="20260701060000 +0000" channel="asianetcinema">
+    <title lang="en">Movie</title>
+    <desc lang="en">Dive into Malayalam cinema with hit blockbusters and classic gems!</desc>
+    <icon src="https://evisioneand.com/image/catalog/1920x1080-B.jpg"/>
+  </programme>
+  <programme start="20260701060000 +0000" stop="20260701090000 +0000" channel="asianetcinema">
+    <title lang="en">Movie</title>
+    <desc lang="en">Dive into Malayalam cinema with hit blockbusters and classic gems!</desc>
+    <icon src="https://evisioneand.com/image/catalog/1920x1080-B.jpg"/>
+  </programme>
+  <programme start="20260701090000 +0000" stop="20260701120000 +0000" channel="asianetcinema">
+    <title lang="en">Movie</title>
+    <desc lang="en">Dive into Malayalam cinema with hit blockbusters and classic gems!</desc>
+    <icon src="https://evisioneand.com/image/catalog/1920x1080-B.jpg"/>
+  </programme>
+  <programme start="20260701120000 +0000" stop="20260701150000 +0000" channel="asianetcinema">
+    <title lang="en">Movie</title>
+    <desc lang="en">Dive into Malayalam cinema with hit blockbusters and classic gems!</desc>
+    <icon src="https://evisioneand.com/image/catalog/1920x1080-B.jpg"/>
+  </programme>
+  <programme start="20260701150000 +0000" stop="20260701180000 +0000" channel="asianetcinema">
+    <title lang="en">Movie</title>
+    <desc lang="en">Dive into Malayalam cinema with hit blockbusters and classic gems!</desc>
+    <icon src="https://evisioneand.com/image/catalog/1920x1080-B.jpg"/>
+  </programme>
+  <programme start="20260701180000 +0000" stop="20260701210000 +0000" channel="asianetcinema">
+    <title lang="en">Movie</title>
+    <desc lang="en">Dive into Malayalam cinema with hit blockbusters and classic gems!</desc>
+    <icon src="https://evisioneand.com/image/catalog/1920x1080-B.jpg"/>
+  </programme>
+  <programme start="20260701210000 +0000" stop="20260702000000 +0000" channel="asianetcinema">
+    <title lang="en">Movie</title>
+    <desc lang="en">Dive into Malayalam cinema with hit blockbusters and classic gems!</desc>
+    <icon src="https://evisioneand.com/image/catalog/1920x1080-B.jpg"/>
+  </programme>
+  <programme start="20260702000000 +0000" stop="20260702030000 +0000" channel="asianetcinema">
+    <title lang="en">Movie</title>
+    <desc lang="en">Dive into Malayalam cinema with hit blockbusters and classic gems!</desc>
+    <icon src="https://evisioneand.com/image/catalog/1920x1080-B.jpg"/>
+  </programme>
   <programme start="20260701000000 +0000" stop="20260701013000 +0000" channel="asianetmovieshd">
     <title lang="en">Varnatheru</title>
     <desc lang="en">Two friends, Asha and Urmila, work for the welfare of an orphanage. Things take a turn when Asha uses the orphanage's funds for the medical treatment of Urmila's father.</desc>
@@ -3122,50 +3171,60 @@
     <desc lang="en">S1 , E200 : Varsha, an ambitious young woman, strives to overcome personal struggles and societal stigma while Shivananda, a fearless journalist, fights against corruption and deep family secrets.</desc>
     <icon src="https://stap.tmsimg.com/assets/p31588429_b_h10_aa.jpg"/>
   </programme>
-  <programme start="20260701000000 +0000" stop="20260701020000 +0000" channel="emsimplysouth">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
+  <programme start="20260701000000 +0000" stop="20260701003700 +0000" channel="emsimplysouth">
+    <title lang="en">Mazhayethum Munpe</title>
+    <desc lang="en">After their forced wedding, Shruthi confesses to Nandkumar of meeting his fiancée, Uma and insulting her. Nandkumar leaves the house and is rescued by his friend who brings him back to Uma.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p10772569_b_h8_aa.jpg"/>
+  </programme>
+  <programme start="20260701003700 +0000" stop="20260701032900 +0000" channel="emsimplysouth">
+    <title lang="en">Kadhalan</title>
+    <desc lang="en">A college student falls in love with the daughter of a powerful governor. When the latter gets a whiff of the affair, he tries to put a stop to it.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p10949983_b_h8_ac.jpg"/>
+  </programme>
+  <programme start="20260701032900 +0000" stop="20260701060000 +0000" channel="emsimplysouth">
+    <title lang="en">Thozha</title>
+    <desc lang="en">A millionaire who is a quadriplegic hires an ex-convict as his caretaker. As they spend time together, they begin to empathise with each other and learn valuable life lessons.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p12714700_b_h8_ab.jpg"/>
+  </programme>
+  <programme start="20260701060000 +0000" stop="20260701084200 +0000" channel="emsimplysouth">
+    <title lang="en">Laila O Laila</title>
+    <desc lang="en">After his post-graduate studies, Karthik takes a holiday in Europe. On his return journey, he falls in love at first sight with Nandana, and goes to great lengths to win her heart.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p11153772_b_h10_ac.jpg"/>
+  </programme>
+  <programme start="20260701084200 +0000" stop="20260701104200 +0000" channel="emsimplysouth">
+    <title lang="en">Finals</title>
+    <desc lang="en">Supported by a devoted father, an ambitious coach and her best friend, cycling prodigy Alice Varghese struggles to maintain a handle on life as she journeys towards an Olympic medal.</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/GLmMTbx9.jpg"/>
   </programme>
-  <programme start="20260701020000 +0000" stop="20260701050000 +0000" channel="emsimplysouth">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
+  <programme start="20260701104200 +0000" stop="20260701125400 +0000" channel="emsimplysouth">
+    <title lang="en">Raatchasi</title>
+    <desc lang="en">Lieutenant Colonel Geetha Rani implements different plans to reform an undisciplined government school. However, she faces numerous challenges in her way, including a corrupt MLA.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p17113662_v_h10_aa.jpg"/>
+  </programme>
+  <programme start="20260701125400 +0000" stop="20260701145100 +0000" channel="emsimplysouth">
+    <title lang="en">Aramm</title>
+    <desc lang="en">Madhivadhani, an IAS officer, leads a dangerous operation to rescue a young girl trapped in a well in the midst of intense media attention.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p14790872_v_h10_ac.jpg"/>
+  </programme>
+  <programme start="20260701145100 +0000" stop="20260701170000 +0000" channel="emsimplysouth">
+    <title lang="en">Duet</title>
+    <desc lang="en">Two musician brothers, Guna and Siva, end up falling in love with Anjali, a choreographer. However, the brothers have a rift when Siva becomes possessive of Anjali.</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/GLmMTbx9.jpg"/>
   </programme>
-  <programme start="20260701050000 +0000" stop="20260701080000 +0000" channel="emsimplysouth">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/GLmMTbx9.jpg"/>
+  <programme start="20260701170000 +0000" stop="20260701190200 +0000" channel="emsimplysouth">
+    <title lang="en">Sara's</title>
+    <desc lang="en">Sara is an associate director who dreams of becoming an independent filmmaker. She finds a resonating partner in Jeevan, and the couple tries to defy the societal norm of having children.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p29410406_v_h8_aa.jpg"/>
   </programme>
-  <programme start="20260701080000 +0000" stop="20260701110000 +0000" channel="emsimplysouth">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/GLmMTbx9.jpg"/>
+  <programme start="20260701190200 +0000" stop="20260701213900 +0000" channel="emsimplysouth">
+    <title lang="en">Chithha</title>
+    <desc lang="en">Living a quiet life with his niece, Eeswaran manages to provide for her and nurtures her like a parent. However, his journey takes an insidious turn when she goes missing.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p25697227_v_h10_aa.jpg"/>
   </programme>
-  <programme start="20260701110000 +0000" stop="20260701140000 +0000" channel="emsimplysouth">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/GLmMTbx9.jpg"/>
-  </programme>
-  <programme start="20260701140000 +0000" stop="20260701170000 +0000" channel="emsimplysouth">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/GLmMTbx9.jpg"/>
-  </programme>
-  <programme start="20260701170000 +0000" stop="20260701200000 +0000" channel="emsimplysouth">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/GLmMTbx9.jpg"/>
-  </programme>
-  <programme start="20260701200000 +0000" stop="20260701230000 +0000" channel="emsimplysouth">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/GLmMTbx9.jpg"/>
-  </programme>
-  <programme start="20260701230000 +0000" stop="20260702020000 +0000" channel="emsimplysouth">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/GLmMTbx9.jpg"/>
+  <programme start="20260701213900 +0000" stop="20260702003700 +0000" channel="emsimplysouth">
+    <title lang="en">Azhakiya Ravanan</title>
+    <desc lang="en">Shankar Das, a successful but boastful businessman, returns to his village after many years to win over Anuradha, his childhood love. However, Anuradha starts developing feelings for another man.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p10624393_b_h8_aa.jpg"/>
   </programme>
   <programme start="20260701000000 +0000" stop="20260701000000 +0000" channel="ntvhd">
     <title lang="en">Movie</title>
