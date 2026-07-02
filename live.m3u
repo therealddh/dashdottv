@@ -1,10 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg" ,Day 4   Doubles Semifinal 2
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://fanco.vodep39240327.workers.dev/143542_english.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143295_6121_PGA_LOC_FC-WEB.png" ,Day 3
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://fanco.vodep39240327.workers.dev/143295_english.m3u8
-#EXTINF:-1 group-title="Live Matchs" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png" ,Day 4   Doubles Semifinal 2
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
-https://fanco.vodep39240327.workers.dev/143541_english.m3u8
+
+#EXTINF:-1 tvg-id="10 TV" group-title="Telugu" tvg-logo="https://img.media.jio.com/imagespublic/81/29/10TV_1574690944807_tv.jpg",10 TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1b901dae22e133eea42eb972c773347d:2b1ea91a1d8bd8149ddfcf2485a61647
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://todtv-vod-prod-a-01.akamaized.net/Content/DASH_DT/LLCU/62f20421-19fa-42d8-9210-62b069db310c/hdntl=exp=1783095873~acl=*%2fContent%2fDASH_DT%2fLLCU%2f62f20421-19fa-42d8-9210-62b069db310c%2f*~id=e97602de-a94d-4d1a-adf3-de671555e305~data=hdntl,aXA9ODYuOTguMTUyLjg4~hmac=de4265e06506fc694753fea0a97d9565fdb8ade6182f92b8e8f7855ba7249917/manifest.mpd
