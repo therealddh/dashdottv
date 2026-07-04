@@ -434,7 +434,7 @@
   <programme start="20260704060000 +0000" stop="20260704063000 +0000" channel="republictv">
     <title lang="en">Acko Drive</title>
     <desc lang="en">S1 , E2 : </desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/i5nHMbdU.jpg"/>
+    <icon src="https://stap.tmsimg.com/assets/p33419212_b_h8_aa.jpg"/>
   </programme>
   <programme start="20260704063000 +0000" stop="20260704070000 +0000" channel="republictv">
     <title lang="en">Live Report - LIVE</title>
@@ -554,7 +554,7 @@
   <programme start="20260704180000 +0000" stop="20260704183000 +0000" channel="republictv">
     <title lang="en">Acko Drive</title>
     <desc lang="en">S1 , E2 : </desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/i5nHMbdU.jpg"/>
+    <icon src="https://stap.tmsimg.com/assets/p33419212_b_h8_aa.jpg"/>
   </programme>
   <programme start="20260704183000 +0000" stop="20260704190000 +0000" channel="republictv">
     <title lang="en">R News</title>
@@ -1733,12 +1733,12 @@
   </programme>
   <programme start="20260704153000 +0000" stop="20260704160000 +0000" channel="starplushd">
     <title lang="en">Mr &amp; Mrs Parshuram</title>
-    <desc lang="en">S1 , E150 : Shivprasad lives a quiet life as a devoted husband and father, but he harbors a massive secret. Unknown to his family, he is also Parshuram, a highly skilled spy on dangerous missions.</desc>
+    <desc lang="en">S1 , E150 : Vicky shocks the Dixit family by inviting them to his betrothal. However, Shalini rejects the union despite Kabir guaranteeing her attendance.</desc>
     <icon src="https://stap.tmsimg.com/assets/p32291184_b_h8_ab.jpg"/>
   </programme>
   <programme start="20260704160000 +0000" stop="20260704163000 +0000" channel="starplushd">
     <title lang="en">Oh Humnava Tum Dena Saath Mera</title>
-    <desc lang="en">S1 , E75 : A reserved businessman who avoids romance crosses paths with an artist haunted by a bitter past, leaving the prospect of a budding romance hanging in the balance.</desc>
+    <desc lang="en">S1 , E75 : Ira struggles to arrange Rakshit's bail, while he realises where Aparajita is. Soon, Rakshit escapes police custody with help from Mohit and rushes to rescue her.</desc>
     <icon src="https://stap.tmsimg.com/assets/p32904885_b_h8_ad.jpg"/>
   </programme>
   <programme start="20260704163000 +0000" stop="20260704170000 +0000" channel="starplushd">
@@ -1773,12 +1773,12 @@
   </programme>
   <programme start="20260704200000 +0000" stop="20260704203000 +0000" channel="starplushd">
     <title lang="en">Oh Humnava Tum Dena Saath Mera</title>
-    <desc lang="en">S1 , E75 : A reserved businessman who avoids romance crosses paths with an artist haunted by a bitter past, leaving the prospect of a budding romance hanging in the balance.</desc>
+    <desc lang="en">S1 , E75 : Ira struggles to arrange Rakshit's bail, while he realises where Aparajita is. Soon, Rakshit escapes police custody with help from Mohit and rushes to rescue her.</desc>
     <icon src="https://stap.tmsimg.com/assets/p32904885_b_h8_ad.jpg"/>
   </programme>
   <programme start="20260704203000 +0000" stop="20260704210000 +0000" channel="starplushd">
     <title lang="en">Mr &amp; Mrs Parshuram</title>
-    <desc lang="en">S1 , E150 : Shivprasad lives a quiet life as a devoted husband and father, but he harbors a massive secret. Unknown to his family, he is also Parshuram, a highly skilled spy on dangerous missions.</desc>
+    <desc lang="en">S1 , E150 : Vicky shocks the Dixit family by inviting them to his betrothal. However, Shalini rejects the union despite Kabir guaranteeing her attendance.</desc>
     <icon src="https://stap.tmsimg.com/assets/p32291184_b_h8_ab.jpg"/>
   </programme>
   <programme start="20260704210000 +0000" stop="20260704213000 +0000" channel="starplushd">
@@ -4396,19 +4396,19 @@
     <desc lang="en">Mahavir Singh Phogat, a former wrestling champion, dedicates himself to transforming his daughters, Geeta and Babita, into elite wrestlers.</desc>
     <icon src="https://stap.tmsimg.com/assets/p13537054_v_h10_aa.jpg"/>
   </programme>
-  <programme start="20260704192800 +0000" stop="20260704200000 +0000" channel="embollywoodunlimited">
+  <programme start="20260704192800 +0000" stop="20260704214200 +0000" channel="embollywoodunlimited">
     <title lang="en">The Dirty Picture</title>
     <desc lang="en">Reshma, a village girl, achieves immense success in the male-dominated film industry. However, as her career rises, she pays a heavy price for it.</desc>
     <icon src="https://stap.tmsimg.com/assets/p8965553_v_h10_ae.jpg"/>
   </programme>
-  <programme start="20260704200000 +0000" stop="20260704230000 +0000" channel="embollywoodunlimited">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/2KIOKvF9.jpg"/>
+  <programme start="20260704214200 +0000" stop="20260704234200 +0000" channel="embollywoodunlimited">
+    <title lang="en">Force 2</title>
+    <desc lang="en">ACP Yashwardhan, a dutiful and honest police officer, teams up with RAW agent Kamaljit Kaur to expose an inside informer who leaks sensitive information to a foreign agency targeting the RAW agents.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p13507522_v_h10_ab.jpg"/>
   </programme>
-  <programme start="20260704230000 +0000" stop="20260705020000 +0000" channel="embollywoodunlimited">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/2KIOKvF9.jpg"/>
+  <programme start="20260704234200 +0000" stop="20260705011200 +0000" channel="embollywoodunlimited">
+    <title lang="en">Bollywood Calling</title>
+    <desc lang="en">Patrick Stormaire, an ill, alcoholic American film director sets out to make a Bollywood movie. However, when he arrives in India, he learns that the script is yet to be written.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p74984_v_h8_ab.jpg"/>
   </programme>
 </tv>
