@@ -3482,13 +3482,13 @@
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/klN7lrpJ.jpg"/>
   </programme>
   <programme start="20260711003000 +0000" stop="20260711010000 +0000" channel="zeetamil">
-    <title lang="en">Prophet Jerome Fernando</title>
-    <desc lang="en">S1 , E3 : Prophet Jerome Fernando delivers a religious discourse on the philosophies of Christianity and explains the teachings of the Holy Bible.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29920322_b_h10_aa.jpg"/>
-  </programme>
-  <programme start="20260711010000 +0000" stop="20260711013000 +0000" channel="zeetamil">
     <title lang="en">TeleShopping</title>
     <desc lang="en">The host presents a collection of varied items for the audience, showcasing exclusive products with unique features and enticing deals.</desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/klN7lrpJ.jpg"/>
+  </programme>
+  <programme start="20260711010000 +0000" stop="20260711013000 +0000" channel="zeetamil">
+    <title lang="en">Free Ticket</title>
+    <desc lang="en">S1 , E1580 : A comprehensive compilation of songs and snippets from some of the most popular and trending Tamil movies is played to entertain the audience.</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/klN7lrpJ.jpg"/>
   </programme>
   <programme start="20260711013000 +0000" stop="20260711020000 +0000" channel="zeetamil">
@@ -3511,12 +3511,12 @@
     <desc lang="en">S1 , E7 : Talented dancers selected through an audition join forces with female celebrities to showcase their dancing skills and win the coveted title.</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/klN7lrpJ.jpg"/>
   </programme>
-  <programme start="20260711033000 +0000" stop="20260711040000 +0000" channel="zeetamil">
+  <programme start="20260711033000 +0000" stop="20260711035800 +0000" channel="zeetamil">
     <title lang="en">Dance Jodi Dance</title>
     <desc lang="en">S1 , E7 : Talented dancers selected through an audition join forces with female celebrities to showcase their dancing skills and win the coveted title.</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/klN7lrpJ.jpg"/>
   </programme>
-  <programme start="20260711040000 +0000" stop="20260711043000 +0000" channel="zeetamil">
+  <programme start="20260711035800 +0000" stop="20260711043000 +0000" channel="zeetamil">
     <title lang="en">Mahanadigai</title>
     <desc lang="en">S1 , E7 : Amateur artists showcase their acting prowess by delivering enthralling performances to impress esteemed judges and win the title.</desc>
     <icon src="https://stap.tmsimg.com/assets/p29139616_b_h10_aa.jpg"/>
@@ -3558,12 +3558,12 @@
   </programme>
   <programme start="20260711080000 +0000" stop="20260711083000 +0000" channel="zeetamil">
     <title lang="en">Varisu</title>
-    <desc lang="en">S1 , E164 : Janakambal wants her carefree grandson Cibi to take over her business. She brings in Tamil to guide him, but it's unclear if Cibi is ready to change his ways.</desc>
+    <desc lang="en">S1 , E324 : Savvy businesswoman Janakambal enlists Tamil to reform her wayward grandson Cibi, hoping he'll prove worthy of inheriting her empire.</desc>
     <icon src="https://stap.tmsimg.com/assets/p30590230_b_h10_ac.jpg"/>
   </programme>
   <programme start="20260711083000 +0000" stop="20260711090000 +0000" channel="zeetamil">
     <title lang="en">Idhayam</title>
-    <desc lang="en">S1 , E881 : Bharathi donates his heart to Aadhi. Aadhi seeks out Bharathi to express gratitude. They feel an immediate connection. Could this be the beginning of a meaningful relationship?</desc>
+    <desc lang="en">S1 , E1047 : A shy woman from a small town falls for a wealthy tycoon but struggles to express her feelings. Subsequently, she tries to overcome her insecurities.</desc>
     <icon src="https://stap.tmsimg.com/assets/p29123848_b_h8_ab.jpg"/>
   </programme>
   <programme start="20260711090000 +0000" stop="20260711093000 +0000" channel="zeetamil">
@@ -3598,7 +3598,7 @@
   </programme>
   <programme start="20260711120000 +0000" stop="20260711123000 +0000" channel="zeetamil">
     <title lang="en">Varisu</title>
-    <desc lang="en">S1 , E164 : Janakambal wants her carefree grandson Cibi to take over her business. She brings in Tamil to guide him, but it's unclear if Cibi is ready to change his ways.</desc>
+    <desc lang="en">S1 , E324 : Savvy businesswoman Janakambal enlists Tamil to reform her wayward grandson Cibi, hoping he'll prove worthy of inheriting her empire.</desc>
     <icon src="https://stap.tmsimg.com/assets/p30590230_b_h10_ac.jpg"/>
   </programme>
   <programme start="20260711123000 +0000" stop="20260711130000 +0000" channel="zeetamil">
@@ -3638,7 +3638,7 @@
   </programme>
   <programme start="20260711160000 +0000" stop="20260711163000 +0000" channel="zeetamil">
     <title lang="en">Vaagai Sooda Vaa</title>
-    <desc lang="en">S1 , E116 : Sumathi raises Thenmozhi and Meenakshi with values; Thenmozhi marries into a debt-ridden family, while Meenakshi marries Jeeva to protect Thenmozhi and restore the family's dignity.</desc>
+    <desc lang="en">S1 , E147 : Sumathi raises her daughters Thenmozhi and Meenakshi with care and diligence. Subsequently, Thenmozhi weds into Mano's financially troubled household.</desc>
     <icon src="https://stap.tmsimg.com/assets/p32267862_b_h8_ab.jpg"/>
   </programme>
   <programme start="20260711163000 +0000" stop="20260711170000 +0000" channel="zeetamil">
@@ -3648,7 +3648,7 @@
   </programme>
   <programme start="20260711170000 +0000" stop="20260711173000 +0000" channel="zeetamil">
     <title lang="en">Varisu</title>
-    <desc lang="en">S1 , E164 : Janakambal wants her carefree grandson Cibi to take over her business. She brings in Tamil to guide him, but it's unclear if Cibi is ready to change his ways.</desc>
+    <desc lang="en">S1 , E324 : Savvy businesswoman Janakambal enlists Tamil to reform her wayward grandson Cibi, hoping he'll prove worthy of inheriting her empire.</desc>
     <icon src="https://stap.tmsimg.com/assets/p30590230_b_h10_ac.jpg"/>
   </programme>
   <programme start="20260711173000 +0000" stop="20260711180000 +0000" channel="zeetamil">
@@ -3658,12 +3658,12 @@
   </programme>
   <programme start="20260711180000 +0000" stop="20260711183000 +0000" channel="zeetamil">
     <title lang="en">Idhayam</title>
-    <desc lang="en">S1 , E881 : Bharathi donates his heart to Aadhi. Aadhi seeks out Bharathi to express gratitude. They feel an immediate connection. Could this be the beginning of a meaningful relationship?</desc>
+    <desc lang="en">S1 , E1047 : A shy woman from a small town falls for a wealthy tycoon but struggles to express her feelings. Subsequently, she tries to overcome her insecurities.</desc>
     <icon src="https://stap.tmsimg.com/assets/p29123848_b_h8_ab.jpg"/>
   </programme>
   <programme start="20260711183000 +0000" stop="20260711190000 +0000" channel="zeetamil">
     <title lang="en">Vaagai Sooda Vaa</title>
-    <desc lang="en">S1 , E116 : Sumathi raises Thenmozhi and Meenakshi with values; Thenmozhi marries into a debt-ridden family, while Meenakshi marries Jeeva to protect Thenmozhi and restore the family's dignity.</desc>
+    <desc lang="en">S1 , E147 : Sumathi raises her daughters Thenmozhi and Meenakshi with care and diligence. Subsequently, Thenmozhi weds into Mano's financially troubled household.</desc>
     <icon src="https://stap.tmsimg.com/assets/p32267862_b_h8_ab.jpg"/>
   </programme>
   <programme start="20260711190000 +0000" stop="20260711193000 +0000" channel="zeetamil">
@@ -3757,9 +3757,9 @@
     <icon src="https://stap.tmsimg.com/assets/p30594191_b_h8_ad.jpg"/>
   </programme>
   <programme start="20260711033000 +0000" stop="20260711040000 +0000" channel="zeemarathi">
-    <title lang="en">Krushnaichya Leki</title>
-    <desc lang="en">S1 , E17 : Facing abandonment and pain, a resilient single mother and her three daughters stand united and strong, weathering life's various challenges with perseverance and grace.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p33371774_b_h8_aa.jpg"/>
+    <title lang="en">RJR Hospital</title>
+    <desc lang="en">S1 , E17 : A medical professional sheds light on a range of treatments provided by a reputed hospital whilst sharing a few tips and suggestions on staying safe.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p25355634_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260711040000 +0000" stop="20260711043000 +0000" channel="zeemarathi">
     <title lang="en">Sanai Chaughade</title>
@@ -3916,12 +3916,12 @@
     <desc lang="en">S1 , E453 : After Ambika's tragic death, her husband Atharva and daughter Veda are heartbroken. However, her spirit returns to watch over and protect Veda in unseen yet powerful ways.</desc>
     <icon src="https://stap.tmsimg.com/assets/p29492543_b_h10_ad.jpg"/>
   </programme>
-  <programme start="20260711200000 +0000" stop="20260711203000 +0000" channel="zeemarathi">
+  <programme start="20260711200000 +0000" stop="20260711202900 +0000" channel="zeemarathi">
     <title lang="en">Kamali</title>
     <desc lang="en">S1 , E359 : Kamali uncovers an important clue regarding Gauri's history. In the meantime, Nayantara reprimands Rohit for his audacity.</desc>
     <icon src="https://stap.tmsimg.com/assets/p30594191_b_h8_ad.jpg"/>
   </programme>
-  <programme start="20260711203000 +0000" stop="20260711210000 +0000" channel="zeemarathi">
+  <programme start="20260711202900 +0000" stop="20260711210000 +0000" channel="zeemarathi">
     <title lang="en">Veen Doghantali Hi Tutena</title>
     <desc lang="en">S1 , E322 : Concerned for her well-being, Swanandi checks on Sushmita. Meanwhile, Mallika frets over the growing closeness between Samar and Swanandi.</desc>
     <icon src="https://stap.tmsimg.com/assets/p30905430_b_h10_ac.jpg"/>
