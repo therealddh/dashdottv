@@ -1,0 +1,46 @@
+name: Update JioTV Plus Playlist
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */2 * * *"
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Download playlist
+        run: |
+          curl -L \
+            -A "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0" \
+            -o jiotvplus.m3u \
+            "${{ secrets.PLAYLIST_URL }}"
+
+      - name: Replace User-Agent
+        run: |
+          sed -i 's|^#EXTVLCOPT:http-user-agent=.*|#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0|g' jiotvplus.m3u
+
+      - name: Add User-Agent if missing
+        run: |
+          awk '
+          /^https?:\/\// {
+            if (prev !~ /^#EXTVLCOPT:http-user-agent=/)
+              print "#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0";
+          }
+          { print; prev=$0 }
+          ' jiotvplus.m3u > tmp.m3u
+
+          mv tmp.m3u jiotvplus.m3u
+
+      - name: Commit updated playlist
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add jiotvplus.m3u
+          git commit -m "Update jiotvplus.m3u" || echo "No changes"
+
+          git push
