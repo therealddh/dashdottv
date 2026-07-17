@@ -29,21 +29,28 @@ jobs:
             /x-tvg-url=/! s|$| x-tvg-url="https://avkb.short.gy/epg.xml.gz"|
           }' jiotvplus.m3u
 
-      - name: Replace existing User-Agent
+      - name: Add Kodi InputStream Properties
         run: |
-          sed -i 's|^#EXTVLCOPT:http-user-agent=.*|#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0|g' jiotvplus.m3u
+          awk '
+          /^https?:\/\// {
+            print "#KODIPROP:inputstream=inputstream.adaptive"
+            print "#KODIPROP:inputstream.adaptive.manifest_type=mpd"
+            print "#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey"
+          }
+          {print}
+          ' jiotvplus.m3u > tmp.m3u
 
-      - name: Add User-Agent if missing
+          mv tmp.m3u jiotvplus.m3u
+
+      - name: Add User-Agent
         run: |
           awk '
           {
             print
             if ($0 ~ /^#EXTINF:/) {
-              getline nextline
-              if (nextline !~ /^#EXTVLCOPT:http-user-agent=/) {
-                print "#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"
-              }
-              print nextline
+              getline url
+              print "#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"
+              print url
             }
           }' jiotvplus.m3u > tmp.m3u
 
@@ -58,5 +65,5 @@ jobs:
 
           git diff --cached --quiet && exit 0
 
-          git commit -m "Auto-update jiotvplus.m3u"
+          git commit -m "Update jiotvplus.m3u"
           git push
