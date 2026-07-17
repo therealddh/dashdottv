@@ -23,40 +23,70 @@ jobs:
             -o jiotvplus.m3u \
             "${{ secrets.PLAYLIST_URL }}"
 
-      - name: Add EPG
+      - name: Update playlist format
         run: |
-          sed -i '/^#EXTM3U/ {
-            /x-tvg-url=/! s|$| x-tvg-url="https://avkb.short.gy/epg.xml.gz"|
-          }' jiotvplus.m3u
+          python3 <<'EOF'
+          import re
 
-      - name: Add Kodi InputStream Properties
+          file = "jiotvplus.m3u"
+
+          ua = "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"
+          epg = "https://avkb.short.gy/epg.xml.gz"
+
+          with open(file, "r", encoding="utf-8") as f:
+              lines = f.readlines()
+
+          output = []
+
+          # Add EPG
+          first = True
+          for line in lines:
+              if first and line.startswith("#EXTM3U"):
+                  line = '#EXTM3U x-tvg-url="' + epg + '"\n'
+                  first = False
+
+              # Remove old user agents
+              if line.startswith("#EXTVLCOPT:http-user-agent="):
+                  continue
+
+              output.append(line.rstrip("\n"))
+
+          final = []
+
+          i = 0
+          while i < len(output):
+              line = output[i]
+
+              final.append(line)
+
+              # After EXTINF add Kodi properties
+              if line.startswith("#EXTINF"):
+                  pass
+
+              # Before stream URL add properties
+              if line.startswith("http"):
+                  final.insert(len(final)-1,
+                      "#KODIPROP:inputstream=inputstream.adaptive")
+                  final.insert(len(final)-1,
+                      "#KODIPROP:inputstream.adaptive.manifest_type=mpd")
+                  final.insert(len(final)-1,
+                      "#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey")
+                  final.insert(len(final)-1,
+                      "#EXTVLCOPT:http-user-agent=" + ua)
+
+              i += 1
+
+          with open(file, "w", encoding="utf-8") as f:
+              f.write("\n".join(final) + "\n")
+
+          EOF
+
+      - name: Remove duplicate Kodi properties
         run: |
-          awk '
-          /^https?:\/\// {
-            print "#KODIPROP:inputstream=inputstream.adaptive"
-            print "#KODIPROP:inputstream.adaptive.manifest_type=mpd"
-            print "#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey"
-          }
-          {print}
-          ' jiotvplus.m3u > tmp.m3u
+          awk '!seen[$0]++' jiotvplus.m3u > clean.m3u
+          mv clean.m3u jiotvplus.m3u
 
-          mv tmp.m3u jiotvplus.m3u
-
-      - name: Add User-Agent
-        run: |
-          awk '
-          {
-            print
-            if ($0 ~ /^#EXTINF:/) {
-              getline url
-              print "#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"
-              print url
-            }
-          }' jiotvplus.m3u > tmp.m3u
-
-          mv tmp.m3u jiotvplus.m3u
-
-      - name: Commit and Push
+      - name: Commit playlist
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
