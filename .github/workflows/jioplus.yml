@@ -26,7 +26,7 @@ jobs:
       - name: Add EPG
         run: |
           sed -i '/^#EXTM3U/ {
-            /x-tvg-url=/! s|$| x-tvg-url="https://avkb.short.gy/epg.xml.gz"|
+            /x-tvg-url=/! s|$| x-tvg-url="https://raw.githubusercontent.com/therealddh/dashdottv/refs/heads/main/epg.xml"|
           }' jiotvplus.m3u
 
       - name: Add Kodi InputStream Properties
