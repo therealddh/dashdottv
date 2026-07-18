@@ -4,7 +4,7 @@ import gzip
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta
 from concurrent.futures import ThreadPoolExecutor, as_completed
-sets = 'https': 'http://dash:dash@159.89.161.161:3128'}
+sets = {'https': 'http://dash:dash@159.89.161.161:3128'}
 CHANNEL_API = "https://jiotvapi.cdn.jio.com/apis/v3.1/getMobileChannelList/get/?langId=6&os=android&devicetype=phone&usertype=jio&version=384&langId=6"
 
 EPG_API = "https://jiotvapi.cdn.jio.com/apis/v1.3/getepg/get?offset=0&channel_id={}&langId=6"
