@@ -1,0 +1,11 @@
+    - name: Connect to VPN Gate Server
+      run: |
+        # Write configuration and standard VPN Gate credentials to temporary files
+        echo "${{ secrets.MY_OPENVPN_CONFIG }}" > client.ovpn
+        echo "${{ secrets.VPN_CREDENTIALS }}" > credentials.txt
+        
+        # Start OpenVPN via background daemon using the credentials file
+        sudo openvpn --config client.ovpn --auth-user-pass credentials.txt --daemon
+        
+        # Give the community server 20 seconds to establish the route handshake
+        sleep 20
