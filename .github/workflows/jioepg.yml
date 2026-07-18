@@ -1,0 +1,47 @@
+name: JioTV EPG Update
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # every 6 hours
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate-epg:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - name: Checkout repository
+        uses: actions/checkout@v5
+
+
+      - name: Setup Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.11"
+
+
+      - name: Install dependencies
+        run: |
+          pip install requests
+
+
+      - name: Generate JioTV EPG
+        run: |
+          python epgjio.py
+
+
+      - name: Commit EPG files
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+
+          git add epg.xml epg.xml.gz
+
+          git commit -m "Update JioTV EPG" || echo "No changes"
+
+          git push
