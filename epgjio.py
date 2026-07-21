@@ -13,7 +13,6 @@ EPG_API = "https://jiotvapi.cdn.jio.com/apis/v1.3/getepg/get?offset=0&channel_id
 HEADERS = {
     "User-Agent": "plaYtv/7.1",
     "Accept": "application/json",
-    "X-Forwarded-For": "103.48.199.0"
 }
 
 LOGO_URL = "https://jiotvimages.cdn.jio.com/dare_images/images/"
