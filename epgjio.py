@@ -4,8 +4,8 @@ import gzip
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta
 from concurrent.futures import ThreadPoolExecutor, as_completed
-Address = 'https://8WjUngqqHnpcjdkNbeCYcm5T:WaTCSLbVezb4MXXyUEzZm24h@in-del.prod.surfshark.com:443'
-setz = {'https': Address}
+Address = 'https://8WjUngqqHnpcjdkNbeCYcm5T:qzWrJ3uHQVp2yZqKrKHpscV6@in-mum.prod.surfshark.com:443'
+proxy = {'https': Address}
 CHANNEL_API = "https://jiotvapi.cdn.jio.com/apis/v3.1/getMobileChannelList/get/?langId=6&os=android&devicetype=phone&usertype=jio&version=384&langId=6"
 
 EPG_API = "https://jiotvapi.cdn.jio.com/apis/v1.3/getepg/get?offset=0&channel_id={}&langId=6"
