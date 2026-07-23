@@ -1603,7 +1603,7 @@
   </programme>
   <programme start="20260723160000 +0000" stop="20260723163000 +0000" channel="starplushd">
     <title lang="en">Oh Humnava Tum Dena Saath Mera</title>
-    <desc lang="en">S1 , E94 : A reserved businessman who avoids romance crosses paths with an artist haunted by a bitter past, leaving the prospect of a budding romance hanging in the balance.</desc>
+    <desc lang="en">S1 , E94 : Aradhya slips away to avoid being seen with Vivaan after spotting Avinash and Rohan. Meanwhile, Rakshit observes a Sawan Somvar fast for Aparajita.</desc>
     <icon src="https://stap.tmsimg.com/assets/p32904885_b_h8_ad.jpg"/>
   </programme>
   <programme start="20260723163000 +0000" stop="20260723170000 +0000" channel="starplushd">
@@ -1638,7 +1638,7 @@
   </programme>
   <programme start="20260723200000 +0000" stop="20260723203000 +0000" channel="starplushd">
     <title lang="en">Oh Humnava Tum Dena Saath Mera</title>
-    <desc lang="en">S1 , E94 : A reserved businessman who avoids romance crosses paths with an artist haunted by a bitter past, leaving the prospect of a budding romance hanging in the balance.</desc>
+    <desc lang="en">S1 , E94 : Aradhya slips away to avoid being seen with Vivaan after spotting Avinash and Rohan. Meanwhile, Rakshit observes a Sawan Somvar fast for Aparajita.</desc>
     <icon src="https://stap.tmsimg.com/assets/p32904885_b_h8_ad.jpg"/>
   </programme>
   <programme start="20260723203000 +0000" stop="20260723210000 +0000" channel="starplushd">
@@ -1813,7 +1813,7 @@
   </programme>
   <programme start="20260723170000 +0000" stop="20260723173000 +0000" channel="colorshd">
     <title lang="en">Bareilly Ke Bachchan</title>
-    <desc lang="en">S1 , E36 : The ambitious Sangam faces a series of challenges when she marries the carefree Krishna Bacchan and enters a household of men unaccustomed to living with a woman.</desc>
+    <desc lang="en">S1 , E36 : Upon realising their marriage holds legal validity, Krishna is confronted by Sangam. Elsewhere, Aarti declares her love to Ganga, hoping to become his wife.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33257755_b_h10_ab.jpg"/>
   </programme>
   <programme start="20260723173000 +0000" stop="20260723180000 +0000" channel="colorshd">
@@ -1823,7 +1823,7 @@
   </programme>
   <programme start="20260723180000 +0000" stop="20260723183000 +0000" channel="colorshd">
     <title lang="en">Mahadev &amp; Sons</title>
-    <desc lang="en">S1 , E145 : Mahadev's principled approach to guiding his family with a firm hand unintentionally sows the seeds of rebellion, ushering in an era of generational discord.</desc>
+    <desc lang="en">S1 , E145 : Vidya finds herself in a fix when the police arrive to arrest her. Later, Rajji and Dheeraj believe Yash tampered with their order to frame Vidya.</desc>
     <icon src="https://stap.tmsimg.com/assets/p32050463_b_h8_ac.jpg"/>
   </programme>
   <programme start="20260723183000 +0000" stop="20260723193000 +0000" channel="colorshd">
@@ -1843,7 +1843,7 @@
   </programme>
   <programme start="20260723203000 +0000" stop="20260723210000 +0000" channel="colorshd">
     <title lang="en">Bareilly Ke Bachchan</title>
-    <desc lang="en">S1 , E36 : The ambitious Sangam faces a series of challenges when she marries the carefree Krishna Bacchan and enters a household of men unaccustomed to living with a woman.</desc>
+    <desc lang="en">S1 , E36 : Upon realising their marriage holds legal validity, Krishna is confronted by Sangam. Elsewhere, Aarti declares her love to Ganga, hoping to become his wife.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33257755_b_h10_ab.jpg"/>
   </programme>
   <programme start="20260723210000 +0000" stop="20260723213000 +0000" channel="colorshd">
@@ -1873,12 +1873,12 @@
   </programme>
   <programme start="20260723233000 +0000" stop="20260724000000 +0000" channel="colorshd">
     <title lang="en">Bareilly Ke Bachchan</title>
-    <desc lang="en">S1 , E36 : The ambitious Sangam faces a series of challenges when she marries the carefree Krishna Bacchan and enters a household of men unaccustomed to living with a woman.</desc>
+    <desc lang="en">S1 , E36 : Upon realising their marriage holds legal validity, Krishna is confronted by Sangam. Elsewhere, Aarti declares her love to Ganga, hoping to become his wife.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33257755_b_h10_ab.jpg"/>
   </programme>
   <programme start="20260724000000 +0000" stop="20260724003000 +0000" channel="colorshd">
     <title lang="en">Mahadev &amp; Sons</title>
-    <desc lang="en">S1 , E145 : Mahadev's principled approach to guiding his family with a firm hand unintentionally sows the seeds of rebellion, ushering in an era of generational discord.</desc>
+    <desc lang="en">S1 , E145 : Vidya finds herself in a fix when the police arrive to arrest her. Later, Rajji and Dheeraj believe Yash tampered with their order to frame Vidya.</desc>
     <icon src="https://stap.tmsimg.com/assets/p32050463_b_h8_ac.jpg"/>
   </programme>
   <programme start="20260723000000 +0000" stop="20260723013000 +0000" channel="setmax">
@@ -3531,12 +3531,12 @@
     <desc lang="en">S1 , E5829 : Various subject-matter experts provide a comprehensive and detailed insight into future predictions and offer guidance to lead a healthy life.</desc>
     <icon src="https://stap.tmsimg.com/assets/p11071709_b_h8_ab.jpg"/>
   </programme>
-  <programme start="20260723020000 +0000" stop="20260723023000 +0000" channel="zeetamil">
+  <programme start="20260723020000 +0000" stop="20260723023200 +0000" channel="zeetamil">
     <title lang="en">Olimayamana Ethirkaalam</title>
     <desc lang="en">S1 , E5829 : Various subject-matter experts provide a comprehensive and detailed insight into future predictions and offer guidance to lead a healthy life.</desc>
     <icon src="https://stap.tmsimg.com/assets/p11071709_b_h8_ab.jpg"/>
   </programme>
-  <programme start="20260723023000 +0000" stop="20260723030000 +0000" channel="zeetamil">
+  <programme start="20260723023200 +0000" stop="20260723030000 +0000" channel="zeetamil">
     <title lang="en">Sa Re Ga Ma Pa L'il Champs</title>
     <desc lang="en">S5 , E15 : Children from across the country take part in a singing competition where they are mentored and judged by famous playback singers from the film industry.</desc>
     <icon src="https://stap.tmsimg.com/assets/p3568310_b_h10_ab.jpg"/>
@@ -4002,41 +4002,41 @@
     <icon src="https://stap.tmsimg.com/assets/p29905543_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260723033000 +0000" stop="20260723063000 +0000" channel="zeebangla">
-    <title lang="en">Bahadur Sontan</title>
-    <desc lang="en">Bahadur Sontan</desc>
-    <icon src="https://stap.tmsimg.com/assets/p28952604_b_h10_aa.jpg"/>
+    <title lang="en">Bahadur</title>
+    <desc lang="en">A rich man looks for a guard to take care of his house, his son Ananda and daughter Puja. His manager brings an honest man, Bahadur, as a housekeeper.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p30576636_v_h10_aa.jpg"/>
   </programme>
-  <programme start="20260723063000 +0000" stop="20260723090000 +0000" channel="zeebangla">
+  <programme start="20260723063000 +0000" stop="20260723085900 +0000" channel="zeebangla">
     <title lang="en">Cheetah</title>
     <desc lang="en">Jamal, a gangster, kills Amar's family. To everyone's surprise, the latter survives, wakes from a coma and seeks revenge.</desc>
     <icon src="https://stap.tmsimg.com/assets/p11026008_v_h8_ab.jpg"/>
   </programme>
-  <programme start="20260723090000 +0000" stop="20260723113000 +0000" channel="zeebangla">
+  <programme start="20260723085900 +0000" stop="20260723112600 +0000" channel="zeebangla">
     <title lang="en">Jwar Bhata</title>
     <desc lang="en">Bijay, a rich tea estate owner's son, angers his father when he marries a poor girl. Ranjan, his cousin, tries to make the most of the situation by usurping his property.</desc>
     <icon src="https://stap.tmsimg.com/assets/p10944107_v_h8_aa.jpg"/>
   </programme>
-  <programme start="20260723113000 +0000" stop="20260723143000 +0000" channel="zeebangla">
+  <programme start="20260723112600 +0000" stop="20260723140700 +0000" channel="zeebangla">
     <title lang="en">Satarupa</title>
     <desc lang="en">Dr. Rupa unintentionally causes Shatadal's memory loss, leading him to see her as his only kin. Later, they fall for each other but when his past returns, he forgets her.</desc>
     <icon src="https://stap.tmsimg.com/assets/p29748747_b_h10_ac.jpg"/>
   </programme>
-  <programme start="20260723143000 +0000" stop="20260723163000 +0000" channel="zeebangla">
+  <programme start="20260723140700 +0000" stop="20260723162700 +0000" channel="zeebangla">
     <title lang="en">Agnipath</title>
     <desc lang="en">Sujay, Ajay and Bijay are three siblings who share a close bond and can go to any length to protect each other. However, when Sujay is killed by his own boss, Bijay sets out to exact revenge.</desc>
     <icon src="https://stap.tmsimg.com/assets/p15141473_b_h10_ac.jpg"/>
   </programme>
-  <programme start="20260723163000 +0000" stop="20260723190000 +0000" channel="zeebangla">
+  <programme start="20260723162700 +0000" stop="20260723191400 +0000" channel="zeebangla">
     <title lang="en">Bandie</title>
     <desc lang="en">Unable to conceive an heir, Maharaja Brajbhan and his wife are forced to abdicate the throne for his cousin, Vikram. Chaos ensues when Vikram learns that the queen is pregnant and decides to kill her.</desc>
     <icon src="https://stap.tmsimg.com/assets/p133331_v_h10_aa.jpg"/>
   </programme>
-  <programme start="20260723190000 +0000" stop="20260723203000 +0000" channel="zeebangla">
+  <programme start="20260723191400 +0000" stop="20260723212500 +0000" channel="zeebangla">
     <title lang="en">Prosenjit Weds Rituparna</title>
     <desc lang="en">Rituparna, a fan of Prosenjit, marries a man with the same name. Her husband, who dislikes his famous namesake, falls for her and attempts to arrange a meeting between his wife and Prosenjit.</desc>
     <icon src="https://stap.tmsimg.com/assets/p29998273_b_h10_aa.jpg"/>
   </programme>
-  <programme start="20260723203000 +0000" stop="20260723233000 +0000" channel="zeebangla">
+  <programme start="20260723212500 +0000" stop="20260723233000 +0000" channel="zeebangla">
     <title lang="en">Saheber Cutlet</title>
     <desc lang="en">A chef wants to open his restaurant in Paris by selling his ancestral house. However, it's not an easy task as he learns his family members are not ready to leave the house.</desc>
     <icon src="https://stap.tmsimg.com/assets/p19655821_b_h8_aa.jpg"/>
