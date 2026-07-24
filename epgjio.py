@@ -1,30 +1,34 @@
 import requests
 import gzip
 import xml.etree.ElementTree as ET
+import re
 from datetime import datetime
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 CHANNEL_API = "https://jiotvapi.cdn.jio.com/apis/v3.1/getMobileChannelList/get/?langId=6&os=android&devicetype=phone&usertype=jio&version=384&langId=6"
 EPG_API = "https://jiotvapi.cdn.jio.com/apis/v1.3/getepg/get?offset=0&channel_id={}&langId=6"
 
-add = "https://ixvSri64WjPk9eDmw9RCkQNX:MxMGfG91568hizw2ZJSMChGK@in169.proxy.nordvpn.com:89"
-proxy = {'https': add}
 HEADERS = {
     "User-Agent": "plaYtv/7.1",
     "Accept": "application/json"
 }
 
 LOGO_URL = "https://jiotvimages.cdn.jio.com/dare_images/images/"
+SHOW_IMG_URL = "https://jiotvimages.cdn.jio.com/dare_images/shows/" # Added base URL for programs
 
+# Helper to remove illegal XML characters
+def clean_text(text):
+    if not text:
+        return ""
+    return re.sub(r'[^\x09\x0A\x0D\x20-\x7E\x85\xA0-\uD7FF\uE000-\uFDCF\uFDE0-\uFFFD]', '', str(text))
 
 def get_channels():
     print("Downloading channel list...")
-    r = requests.get(CHANNEL_API, headers=HEADERS, proxies=proxy, timeout=30)
+    r = requests.get(CHANNEL_API, headers=HEADERS, timeout=30)
     data = r.json()
-
+    
     channels = data.get("result", [])
-
-    # Add extra channel ID only
+    
     extra_ids = [1641]
     existing = {c["channel_id"] for c in channels}
 
@@ -36,17 +40,15 @@ def get_channels():
                 "logoUrl": "Zee_Keralam_HD.png"
             })
 
-    print("Channels:", len(channels))
+    print("Channels found:", len(channels))
     return channels
 
 
 def parse_time(ts):
     try:
         ts = int(ts)
-        # If timestamp length indicates milliseconds (> year 2286), convert to seconds
         if ts > 9999999999:
             ts = ts / 1000.0
-
         return datetime.fromtimestamp(ts).strftime("%Y%m%d%H%M%S +0530")
     except Exception:
         return None
@@ -56,19 +58,16 @@ def fetch_epg(channel):
     cid = channel["channel_id"]
     try:
         url = EPG_API.format(cid)
-        r = requests.get(url, headers=HEADERS, proxies=proxy, timeout=20)
+        r = requests.get(url, headers=HEADERS, timeout=20)
 
-        # Debug failed responses
         if "json" not in r.headers.get("Content-Type", "").lower():
             return None
 
-        data = r.json()
         return {
             "channel": channel,
-            "data": data
+            "data": r.json()
         }
-    except Exception as e:
-        print("EPG error", cid, e)
+    except Exception:
         return None
 
 
@@ -80,15 +79,20 @@ channels = get_channels()
 for ch in channels:
     cid = str(ch["channel_id"])
     c = ET.SubElement(root, "channel", {"id": cid})
-
+    
     name = ch.get("channel_name") or f"Channel {cid}"
-    ET.SubElement(c, "display-name").text = name
+    ET.SubElement(c, "display-name", {"lang": "en"}).text = clean_text(name)
 
     if ch.get("logoUrl"):
-        ET.SubElement(c, "icon", {"src": LOGO_URL + ch["logoUrl"]})
+        # Fix logo URL if it doesn't start with http
+        logo_path = ch["logoUrl"]
+        if not logo_path.startswith("http"):
+            logo_path = LOGO_URL + logo_path
+        ET.SubElement(c, "icon", {"src": logo_path})
 
+print("Downloading EPG schedules (this may take a moment)...")
 
-print("Downloading EPG...")
+total_programs = 0
 
 with ThreadPoolExecutor(max_workers=20) as executor:
     tasks = [executor.submit(fetch_epg, ch) for ch in channels]
@@ -102,28 +106,21 @@ with ThreadPoolExecutor(max_workers=20) as executor:
         data = result["data"]
         cid = ch["channel_id"]
 
-        if not ch.get("channel_name"):
-            ch["channel_name"] = data.get("channel_name") or f"Channel {cid}"
-
-        # FIX: The JioTV EPG endpoint uses the "epg" key, not "result"
         events = data.get("epg") or data.get("result") or []
-
+        
         if isinstance(events, dict):
             events = events.get("events", [])
 
         for ev in events:
-            # FIX: Fallback to Epoch keys which are standard for JioTV v1.3 EPG
             start = ev.get("startEpoch") or ev.get("startTime") or ev.get("starttime")
             end = ev.get("endEpoch") or ev.get("endTime") or ev.get("endtime")
 
             if not start or not end:
                 continue
 
-            # Parse times safely before appending to ElementTree
             start_str = parse_time(start)
             end_str = parse_time(end)
 
-            # Skip if times couldn't be parsed
             if not start_str or not end_str:
                 continue
 
@@ -133,16 +130,30 @@ with ThreadPoolExecutor(max_workers=20) as executor:
                 "channel": str(cid)
             })
 
-            ET.SubElement(p, "title").text = ev.get("showname") or ev.get("title") or "Unknown Program"
+            title_text = ev.get("showname") or ev.get("title") or "Unknown Program"
+            ET.SubElement(p, "title", {"lang": "en"}).text = clean_text(title_text)
 
             if ev.get("description"):
-                ET.SubElement(p, "desc").text = ev["description"]
+                ET.SubElement(p, "desc", {"lang": "en"}).text = clean_text(ev["description"])
 
+            # ---- FIX THUMBNAIL URL HERE ----
             thumb = ev.get("episodeThumbnail") or ev.get("episodePoster") or ev.get("thumbnail")
             if thumb:
+                thumb = str(thumb)
+                # If it's just a filename, add the full Jio CDN link to it
+                if not thumb.startswith("http"):
+                    # sometimes it comes with a leading slash
+                    if thumb.startswith("/"):
+                        thumb = "https://jiotvimages.cdn.jio.com" + thumb
+                    else:
+                        thumb = SHOW_IMG_URL + thumb
+                        
                 ET.SubElement(p, "icon", {"src": thumb})
+                
+            total_programs += 1
 
-print("Saving epg.xml")
+print(f"Total programs fetched: {total_programs}")
+print("Saving epg.xml...")
 
 tree = ET.ElementTree(root)
 tree.write("epg.xml", encoding="utf-8", xml_declaration=True)
@@ -151,4 +162,4 @@ with open("epg.xml", "rb") as f:
     with gzip.open("epg.xml.gz", "wb") as gz:
         gz.writelines(f)
 
-print("DONE")
+print("DONE! File epg.xml.gz is ready.")
