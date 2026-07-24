@@ -896,12 +896,12 @@
     <desc lang="en">The host engages editors and experts in thought-provoking debates, exploring the implications of political decisions and key issues shaping the world.</desc>
     <icon src="https://stap.tmsimg.com/assets/p29740809_b_h10_aa.jpg"/>
   </programme>
-  <programme start="20260724003000 +0000" stop="20260724010000 +0000" channel="reportertv">
+  <programme start="20260724003000 +0000" stop="20260724013000 +0000" channel="reportertv">
     <title lang="en">Good Morning Reporter</title>
     <desc lang="en">The host provides a detailed report featuring insightful updates and developments pertaining to matters concerning the state and the nation.</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/bpAyXkX4.jpg"/>
   </programme>
-  <programme start="20260724010000 +0000" stop="20260724053000 +0000" channel="reportertv">
+  <programme start="20260724013000 +0000" stop="20260724053000 +0000" channel="reportertv">
     <title lang="en">Coffee With Arun</title>
     <desc lang="en">Host Arun provides a detailed report on major questions and issues concerning Kerala through discussions, interviews and public opinions.</desc>
     <icon src="https://stap.tmsimg.com/assets/p29740464_b_h8_aa.jpg"/>
@@ -922,9 +922,9 @@
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/bpAyXkX4.jpg"/>
   </programme>
   <programme start="20260724083000 +0000" stop="20260724093000 +0000" channel="reportertv">
-    <title lang="en">The News Today</title>
-    <desc lang="en">The host presents the latest news and developments surrounding various socio-economic and political issues and provides updates on current events.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p27660843_b_h8_ab.jpg"/>
+    <title lang="en">News Blast</title>
+    <desc lang="en">The host sheds light on the latest updates and developments regarding various topics ranging from social issues and politics to health and business.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p29410255_b_h8_aa.jpg"/>
   </programme>
   <programme start="20260724093000 +0000" stop="20260724103000 +0000" channel="reportertv">
     <title lang="en">News Buzz</title>
@@ -932,8 +932,8 @@
     <icon src="https://stap.tmsimg.com/assets/p29740841_b_h8_aa.jpg"/>
   </programme>
   <programme start="20260724103000 +0000" stop="20260724130000 +0000" channel="reportertv">
-    <title lang="en">Good Evening With Sujaya Parvathy</title>
-    <desc lang="en">The host provides a detailed report featuring the latest updates and key developments surrounding matters of local as well as national significance.</desc>
+    <title lang="en">Good Evening With Madhu Saji</title>
+    <desc lang="en">Good Evening With Madhu Saji</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/bpAyXkX4.jpg"/>
   </programme>
   <programme start="20260724130000 +0000" stop="20260724133000 +0000" channel="reportertv">
@@ -942,8 +942,8 @@
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/bpAyXkX4.jpg"/>
   </programme>
   <programme start="20260724133000 +0000" stop="20260724143000 +0000" channel="reportertv">
-    <title lang="en">Debate With Arun / Sujaya / Smruthy</title>
-    <desc lang="en">The host features a panel of experts from diverse fields as they share insights and opposing views on key issues shaping the world today.</desc>
+    <title lang="en">Debate With Arun/Madhu/Smruthy</title>
+    <desc lang="en">The host conducts a debate with a panel of experts from different fields who share their opinions and perspectives on important topics.</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/bpAyXkX4.jpg"/>
   </programme>
   <programme start="20260724143000 +0000" stop="20260724153000 +0000" channel="reportertv">
@@ -951,39 +951,44 @@
     <desc lang="en">The host engages editors and experts in thought-provoking debates, exploring the implications of political decisions and key issues shaping the world.</desc>
     <icon src="https://stap.tmsimg.com/assets/p29740809_b_h10_aa.jpg"/>
   </programme>
-  <programme start="20260724153000 +0000" stop="20260724170000 +0000" channel="reportertv">
-    <title lang="en">News Night With Arun / Sujaya / Smruthy</title>
-    <desc lang="en">The host features experts as they weigh in on the latest news as well as key developments, offering deep insights and diverse perspectives on issues shaping the nation.</desc>
+  <programme start="20260724153000 +0000" stop="20260724163000 +0000" channel="reportertv">
+    <title lang="en">News Night With Arun/Madhu/Smruthy</title>
+    <desc lang="en">The host sheds light on some of the latest news stories and developments pertaining to various issues around the country.</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/bpAyXkX4.jpg"/>
   </programme>
-  <programme start="20260724170000 +0000" stop="20260724173000 +0000" channel="reportertv">
-    <title lang="en">Witness</title>
-    <desc lang="en">The host provides detailed insights into significant updates concerning various crime-related news stories from around the country.</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/bpAyXkX4.jpg"/>
+  <programme start="20260724163000 +0000" stop="20260724173000 +0000" channel="reportertv">
+    <title lang="en">News Blast</title>
+    <desc lang="en">The host sheds light on the latest updates and developments regarding various topics ranging from social issues and politics to health and business.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p29410255_b_h8_aa.jpg"/>
   </programme>
   <programme start="20260724173000 +0000" stop="20260724183000 +0000" channel="reportertv">
     <title lang="en">Good Night Reporter</title>
     <desc lang="en">The host provides a comprehensive and detailed coverage, elucidating on the latest news and developments from the across the region.</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/bpAyXkX4.jpg"/>
   </programme>
-  <programme start="20260724183000 +0000" stop="20260724193000 +0000" channel="reportertv">
+  <programme start="20260724183000 +0000" stop="20260724190000 +0000" channel="reportertv">
+    <title lang="en">Gulf Reporter</title>
+    <desc lang="en">The reporter presents the latest social, political and economic news updates and developments from the Middle Eastern nations.</desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/bpAyXkX4.jpg"/>
+  </programme>
+  <programme start="20260724190000 +0000" stop="20260724193000 +0000" channel="reportertv">
     <title lang="en">Meet The Editors</title>
     <desc lang="en">The host engages editors and experts in thought-provoking debates, exploring the implications of political decisions and key issues shaping the world.</desc>
     <icon src="https://stap.tmsimg.com/assets/p29740809_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260724193000 +0000" stop="20260724203000 +0000" channel="reportertv">
-    <title lang="en">News Night</title>
-    <desc lang="en">The host sheds light on the latest news updates concerning the political, social, economic and sports fronts from across the nation and the world.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29741623_b_h10_aa.jpg"/>
+    <title lang="en">News Night With Arun/Madhu/Smruthy</title>
+    <desc lang="en">The host sheds light on some of the latest news stories and developments pertaining to various issues around the country.</desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/bpAyXkX4.jpg"/>
   </programme>
   <programme start="20260724203000 +0000" stop="20260724213000 +0000" channel="reportertv">
-    <title lang="en">Debate With Smruthy</title>
-    <desc lang="en">Smruthy Paruthikad hosts a lively panel where experts debate current events and analyse pressing national issues, offering diverse perspectives.</desc>
+    <title lang="en">Debate With Arun/Madhu/Smruthy</title>
+    <desc lang="en">The host conducts a debate with a panel of experts from different fields who share their opinions and perspectives on important topics.</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/bpAyXkX4.jpg"/>
   </programme>
   <programme start="20260724213000 +0000" stop="20260724230000 +0000" channel="reportertv">
-    <title lang="en">Good Evening With Sujaya Parvathy</title>
-    <desc lang="en">The host provides a detailed report featuring the latest updates and key developments surrounding matters of local as well as national significance.</desc>
+    <title lang="en">Good Evening With Madhu Saji</title>
+    <desc lang="en">Good Evening With Madhu Saji</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/bpAyXkX4.jpg"/>
   </programme>
   <programme start="20260724230000 +0000" stop="20260724233000 +0000" channel="reportertv">
@@ -1128,7 +1133,7 @@
   </programme>
   <programme start="20260724180000 +0000" stop="20260724190000 +0000" channel="sonytv">
     <title lang="en">Maharani</title>
-    <desc lang="en">S2 , E10 : Govardhan Das is reappointed as the Governor of Bihar and calls the single largest party, BPP, to form the government.</desc>
+    <desc lang="en">S2 , E10 : Govardhan Das takes charge as the Governor of Bihar and invites the BPP to form the government. Later, Martin meets Rani to disclose the true circumstances surrounding Bheema Bharti's death.</desc>
     <icon src="https://stap.tmsimg.com/assets/p28940266_b_h8_aa.jpg"/>
   </programme>
   <programme start="20260724190000 +0000" stop="20260724200000 +0000" channel="sonytv">
@@ -1168,7 +1173,7 @@
   </programme>
   <programme start="20260725000000 +0000" stop="20260725010000 +0000" channel="sonytv">
     <title lang="en">Maharani</title>
-    <desc lang="en">S2 , E10 : Govardhan Das is reappointed as the Governor of Bihar and calls the single largest party, BPP, to form the government.</desc>
+    <desc lang="en">S2 , E10 : Govardhan Das takes charge as the Governor of Bihar and invites the BPP to form the government. Later, Martin meets Rani to disclose the true circumstances surrounding Bheema Bharti's death.</desc>
     <icon src="https://stap.tmsimg.com/assets/p28940266_b_h8_aa.jpg"/>
   </programme>
   <programme start="20260724000000 +0000" stop="20260724000000 +0000" channel="zeetvhd">
@@ -1178,12 +1183,12 @@
   </programme>
   <programme start="20260724000000 +0000" stop="20260724003000 +0000" channel="zeetvhd">
     <title lang="en">Ganga Mai Ki Betiyaan</title>
-    <desc lang="en">S1 , E300 : After her husband abandons her for not giving birth to a son, a resilient Ganga Mai dedicates herself to raising her three daughters with unwavering strength, grace, and affection.</desc>
+    <desc lang="en">S1 , E300 : The true motive behind Siddhu's plan to have Durgawati arrested is finally exposed, while Indu skillfully manipulates Purvi.</desc>
     <icon src="https://stap.tmsimg.com/assets/p31048787_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260724003000 +0000" stop="20260724010000 +0000" channel="zeetvhd">
     <title lang="en">Jagadhatri</title>
-    <desc lang="en">S1 , E254 : Unbeknownst to her family, a young woman leads a double life as an undercover intelligence officer, determined to clear her mother's name.</desc>
+    <desc lang="en">S1 , E254 : As Jagadhatri bears the brunt of her family's wrath, Janhvi confronts her with direct questions regarding Musa's murder.</desc>
     <icon src="https://stap.tmsimg.com/assets/p31685189_b_h10_ac.jpg"/>
   </programme>
   <programme start="20260724010000 +0000" stop="20260724013000 +0000" channel="zeetvhd">
@@ -1218,7 +1223,7 @@
   </programme>
   <programme start="20260724040000 +0000" stop="20260724050000 +0000" channel="zeetvhd">
     <title lang="en">Lakshmi Nivas</title>
-    <desc lang="en">S1 , E191 : Lakshmi abandons her affluent roots to build a selfless life with Shriniwas. Decades on, the couple work tirelessly to secure their own house and fund a grand wedding for their daughter.</desc>
+    <desc lang="en">S1 , E191 : The family is left absolutely shocked by Aishwarya's conditions. Meanwhile, seeing Veer and Radhika come closer irks Narmada.</desc>
     <icon src="https://stap.tmsimg.com/assets/p32205890_b_h8_ab.jpg"/>
   </programme>
   <programme start="20260724050000 +0000" stop="20260724053000 +0000" channel="zeetvhd">
@@ -1233,12 +1238,12 @@
   </programme>
   <programme start="20260724060000 +0000" stop="20260724063000 +0000" channel="zeetvhd">
     <title lang="en">Ganga Mai Ki Betiyaan</title>
-    <desc lang="en">S1 , E300 : After her husband abandons her for not giving birth to a son, a resilient Ganga Mai dedicates herself to raising her three daughters with unwavering strength, grace, and affection.</desc>
+    <desc lang="en">S1 , E300 : The true motive behind Siddhu's plan to have Durgawati arrested is finally exposed, while Indu skillfully manipulates Purvi.</desc>
     <icon src="https://stap.tmsimg.com/assets/p31048787_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260724063000 +0000" stop="20260724070000 +0000" channel="zeetvhd">
     <title lang="en">Jagadhatri</title>
-    <desc lang="en">S1 , E254 : Unbeknownst to her family, a young woman leads a double life as an undercover intelligence officer, determined to clear her mother's name.</desc>
+    <desc lang="en">S1 , E254 : As Jagadhatri bears the brunt of her family's wrath, Janhvi confronts her with direct questions regarding Musa's murder.</desc>
     <icon src="https://stap.tmsimg.com/assets/p31685189_b_h10_ac.jpg"/>
   </programme>
   <programme start="20260724070000 +0000" stop="20260724073000 +0000" channel="zeetvhd">
@@ -1253,7 +1258,7 @@
   </programme>
   <programme start="20260724080000 +0000" stop="20260724090000 +0000" channel="zeetvhd">
     <title lang="en">Lakshmi Nivas</title>
-    <desc lang="en">S1 , E191 : Lakshmi abandons her affluent roots to build a selfless life with Shriniwas. Decades on, the couple work tirelessly to secure their own house and fund a grand wedding for their daughter.</desc>
+    <desc lang="en">S1 , E191 : The family is left absolutely shocked by Aishwarya's conditions. Meanwhile, seeing Veer and Radhika come closer irks Narmada.</desc>
     <icon src="https://stap.tmsimg.com/assets/p32205890_b_h8_ab.jpg"/>
   </programme>
   <programme start="20260724090000 +0000" stop="20260724093000 +0000" channel="zeetvhd">
@@ -1278,7 +1283,7 @@
   </programme>
   <programme start="20260724110000 +0000" stop="20260724120000 +0000" channel="zeetvhd">
     <title lang="en">Lakshmi Nivas</title>
-    <desc lang="en">S1 , E191 : Lakshmi abandons her affluent roots to build a selfless life with Shriniwas. Decades on, the couple work tirelessly to secure their own house and fund a grand wedding for their daughter.</desc>
+    <desc lang="en">S1 , E191 : The family is left absolutely shocked by Aishwarya's conditions. Meanwhile, seeing Veer and Radhika come closer irks Narmada.</desc>
     <icon src="https://stap.tmsimg.com/assets/p32205890_b_h8_ab.jpg"/>
   </programme>
   <programme start="20260724120000 +0000" stop="20260724123000 +0000" channel="zeetvhd">
@@ -1293,12 +1298,12 @@
   </programme>
   <programme start="20260724130000 +0000" stop="20260724133000 +0000" channel="zeetvhd">
     <title lang="en">Ganga Mai Ki Betiyaan</title>
-    <desc lang="en">S1 , E300 : After her husband abandons her for not giving birth to a son, a resilient Ganga Mai dedicates herself to raising her three daughters with unwavering strength, grace, and affection.</desc>
+    <desc lang="en">S1 , E300 : The true motive behind Siddhu's plan to have Durgawati arrested is finally exposed, while Indu skillfully manipulates Purvi.</desc>
     <icon src="https://stap.tmsimg.com/assets/p31048787_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260724133000 +0000" stop="20260724140000 +0000" channel="zeetvhd">
     <title lang="en">Jagadhatri</title>
-    <desc lang="en">S1 , E254 : Unbeknownst to her family, a young woman leads a double life as an undercover intelligence officer, determined to clear her mother's name.</desc>
+    <desc lang="en">S1 , E254 : As Jagadhatri bears the brunt of her family's wrath, Janhvi confronts her with direct questions regarding Musa's murder.</desc>
     <icon src="https://stap.tmsimg.com/assets/p31685189_b_h10_ac.jpg"/>
   </programme>
   <programme start="20260724140000 +0000" stop="20260724143000 +0000" channel="zeetvhd">
@@ -1608,7 +1613,7 @@
   </programme>
   <programme start="20260724160000 +0000" stop="20260724163000 +0000" channel="starplushd">
     <title lang="en">Oh Humnava Tum Dena Saath Mera</title>
-    <desc lang="en">S1 , E95 : A reserved businessman who avoids romance crosses paths with an artist haunted by a bitter past, leaving the prospect of a budding romance hanging in the balance.</desc>
+    <desc lang="en">S1 , E95 : Societal rumours worry Aparajita upon Vivaan and Rakshit's arrival. Later, an undeniable attraction sparks in Rakshit as Aparajita mends his torn shirt.</desc>
     <icon src="https://stap.tmsimg.com/assets/p32904885_b_h8_ad.jpg"/>
   </programme>
   <programme start="20260724163000 +0000" stop="20260724170000 +0000" channel="starplushd">
@@ -1643,7 +1648,7 @@
   </programme>
   <programme start="20260724200000 +0000" stop="20260724203000 +0000" channel="starplushd">
     <title lang="en">Oh Humnava Tum Dena Saath Mera</title>
-    <desc lang="en">S1 , E95 : A reserved businessman who avoids romance crosses paths with an artist haunted by a bitter past, leaving the prospect of a budding romance hanging in the balance.</desc>
+    <desc lang="en">S1 , E95 : Societal rumours worry Aparajita upon Vivaan and Rakshit's arrival. Later, an undeniable attraction sparks in Rakshit as Aparajita mends his torn shirt.</desc>
     <icon src="https://stap.tmsimg.com/assets/p32904885_b_h8_ad.jpg"/>
   </programme>
   <programme start="20260724203000 +0000" stop="20260724210000 +0000" channel="starplushd">
@@ -1698,7 +1703,7 @@
   </programme>
   <programme start="20260724013000 +0000" stop="20260724020000 +0000" channel="colorshd">
     <title lang="en">Juhi Mui</title>
-    <desc lang="en">S1 , E21 : Juhi, a brilliant girl with autism, faces ridicule from people around her. When trouble comes her way, she becomes a lawyer with her supportive brother guiding her on her journey.</desc>
+    <desc lang="en">S1 , E21 : Juhi and Sanyam put their plan into action to expose Mr. Kothari's corruption, while Meenu accuses Suchitra's mother of theft, sparking a new family crisis.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33428426_b_h8_aa.jpg"/>
   </programme>
   <programme start="20260724020000 +0000" stop="20260724023000 +0000" channel="colorshd">
@@ -1753,7 +1758,7 @@
   </programme>
   <programme start="20260724103000 +0000" stop="20260724110000 +0000" channel="colorshd">
     <title lang="en">Juhi Mui</title>
-    <desc lang="en">S1 , E21 : Juhi, a brilliant girl with autism, faces ridicule from people around her. When trouble comes her way, she becomes a lawyer with her supportive brother guiding her on her journey.</desc>
+    <desc lang="en">S1 , E21 : Juhi and Sanyam put their plan into action to expose Mr. Kothari's corruption, while Meenu accuses Suchitra's mother of theft, sparking a new family crisis.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33428426_b_h8_aa.jpg"/>
   </programme>
   <programme start="20260724110000 +0000" stop="20260724113000 +0000" channel="colorshd">
@@ -1778,7 +1783,7 @@
   </programme>
   <programme start="20260724130000 +0000" stop="20260724133000 +0000" channel="colorshd">
     <title lang="en">Juhi Mui</title>
-    <desc lang="en">S1 , E21 : Juhi, a brilliant girl with autism, faces ridicule from people around her. When trouble comes her way, she becomes a lawyer with her supportive brother guiding her on her journey.</desc>
+    <desc lang="en">S1 , E21 : Juhi and Sanyam put their plan into action to expose Mr. Kothari's corruption, while Meenu accuses Suchitra's mother of theft, sparking a new family crisis.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33428426_b_h8_aa.jpg"/>
   </programme>
   <programme start="20260724133000 +0000" stop="20260724140000 +0000" channel="colorshd">
@@ -1813,7 +1818,7 @@
   </programme>
   <programme start="20260724163000 +0000" stop="20260724170000 +0000" channel="colorshd">
     <title lang="en">Seher Hone Ko Hai</title>
-    <desc lang="en">S1 , E171 : Seher is a young woman with big dreams, and her mother, Kausar, is determined to overcome societal barriers in her daughter's way.</desc>
+    <desc lang="en">S1 , E171 : After uncovering the root cause of Mahid's panic attacks, Fareed puts Seher in charge of his care. Later, when she pushes back, Fareed challenges her to step up and prove her worth as a doctor.</desc>
     <icon src="https://stap.tmsimg.com/assets/p31812237_b_h10_ab.jpg"/>
   </programme>
   <programme start="20260724170000 +0000" stop="20260724173000 +0000" channel="colorshd">
@@ -1828,12 +1833,12 @@
   </programme>
   <programme start="20260724180000 +0000" stop="20260724183000 +0000" channel="colorshd">
     <title lang="en">Mahadev &amp; Sons</title>
-    <desc lang="en">S1 , E146 : Mahadev's principled approach to guiding his family with a firm hand unintentionally sows the seeds of rebellion, ushering in an era of generational discord.</desc>
+    <desc lang="en">S1 , E146 : Verma faces intense pressure from Yash to guarantee Vidya's imprisonment. At the station, Mahadev proves that contamination was restricted to only four unsealed food packets.</desc>
     <icon src="https://stap.tmsimg.com/assets/p32050463_b_h8_ac.jpg"/>
   </programme>
   <programme start="20260724183000 +0000" stop="20260724193000 +0000" channel="colorshd">
     <title lang="en">Do Duniya Ek Dil</title>
-    <desc lang="en">S1 , E100 : Tech visionary Shivaay shuns modern technology after he falls victim to a massive scam. However, his beliefs are tested when he falls in love with Aadhya, a prominent digital influencer.</desc>
+    <desc lang="en">S1 , E100 : Aadhya records Vivaan confessing to the paper leak. But, when the police arrive to arrest him, Baldev tries to stop them.</desc>
     <icon src="https://stap.tmsimg.com/assets/p32456052_b_h10_ac.jpg"/>
   </programme>
   <programme start="20260724193000 +0000" stop="20260724200000 +0000" channel="colorshd">
@@ -1848,7 +1853,7 @@
   </programme>
   <programme start="20260724203000 +0000" stop="20260724223000 +0000" channel="colorshd">
     <title lang="en">Laughter Chefs Unlimited Entertainment</title>
-    <desc lang="en">S3 , E71 : Celebrity duos tackle culinary challenges set by a renowned chef while engaging in communal activities to captivate viewers with their cooking skills and teamwork.</desc>
+    <desc lang="en">S3 , E71 : Celebrity pairs face cooking challenges from a famous chef, join communal tasks, and wow viewers with their skills and teamwork in an entertaining competition format.</desc>
     <icon src="https://stap.tmsimg.com/assets/p27449172_b_h8_ad.jpg"/>
   </programme>
   <programme start="20260724223000 +0000" stop="20260724230000 +0000" channel="colorshd">
@@ -1863,7 +1868,7 @@
   </programme>
   <programme start="20260724233000 +0000" stop="20260725013000 +0000" channel="colorshd">
     <title lang="en">Laughter Chefs Unlimited Entertainment</title>
-    <desc lang="en">S3 , E71 : Celebrity duos tackle culinary challenges set by a renowned chef while engaging in communal activities to captivate viewers with their cooking skills and teamwork.</desc>
+    <desc lang="en">S3 , E71 : Celebrity pairs face cooking challenges from a famous chef, join communal tasks, and wow viewers with their skills and teamwork in an entertaining competition format.</desc>
     <icon src="https://stap.tmsimg.com/assets/p27449172_b_h8_ad.jpg"/>
   </programme>
   <programme start="20260724000000 +0000" stop="20260724011200 +0000" channel="setmax">
@@ -2728,7 +2733,7 @@
   </programme>
   <programme start="20260724043000 +0000" stop="20260724050000 +0000" channel="asianethd">
     <title lang="en">Ee Puzhayum Kadannu</title>
-    <desc lang="en">S1 , E131 : A middle-class family's happiness is shattered by the sudden death of the father, Aravindan. Now, his daughters must navigate life's conflicts to find a path to hope.</desc>
+    <desc lang="en">S1 , E131 : Before the family leaves the house, Saradha recalls fond memories of Aravindan, making everyone emotional. Meanwhile, Nivin desperately hopes to see Kaveri one last time.</desc>
     <icon src="https://stap.tmsimg.com/assets/p32308078_b_h10_ab.jpg"/>
   </programme>
   <programme start="20260724050000 +0000" stop="20260724073000 +0000" channel="asianethd">
@@ -2803,7 +2808,7 @@
   </programme>
   <programme start="20260724163000 +0000" stop="20260724170000 +0000" channel="asianethd">
     <title lang="en">Patharamattu</title>
-    <desc lang="en">S1 , E1029 : With the obligation of marrying off her three daughters, a brave mother does her best to find a responsible partner for them.</desc>
+    <desc lang="en">S1 , E1029 : Ajayan's odd response regarding Nagendran raises doubts for Adarsh and Nayana. Meanwhile, Anirudh confides in Nandana about Naveen's aloofness.</desc>
     <icon src="https://stap.tmsimg.com/assets/p25472032_b_h10_ab.jpg"/>
   </programme>
   <programme start="20260724170000 +0000" stop="20260724173000 +0000" channel="asianethd">
@@ -2813,7 +2818,7 @@
   </programme>
   <programme start="20260724173000 +0000" stop="20260724180000 +0000" channel="asianethd">
     <title lang="en">Ee Puzhayum Kadannu</title>
-    <desc lang="en">S1 , E132 : A middle-class family's happiness is shattered by the sudden death of the father, Aravindan. Now, his daughters must navigate life's conflicts to find a path to hope.</desc>
+    <desc lang="en">S1 , E132 : Nivin stuns Kaveri by finally confessing his long-buried feelings to her. Elsewhere, Rajeswari takes drastic action after Nivin refuses to wed Ragini.</desc>
     <icon src="https://stap.tmsimg.com/assets/p32308078_b_h10_ab.jpg"/>
   </programme>
   <programme start="20260724180000 +0000" stop="20260724183000 +0000" channel="asianethd">
@@ -2833,7 +2838,7 @@
   </programme>
   <programme start="20260724220000 +0000" stop="20260724223000 +0000" channel="asianethd">
     <title lang="en">Ee Puzhayum Kadannu</title>
-    <desc lang="en">S1 , E132 : A middle-class family's happiness is shattered by the sudden death of the father, Aravindan. Now, his daughters must navigate life's conflicts to find a path to hope.</desc>
+    <desc lang="en">S1 , E132 : Nivin stuns Kaveri by finally confessing his long-buried feelings to her. Elsewhere, Rajeswari takes drastic action after Nivin refuses to wed Ragini.</desc>
     <icon src="https://stap.tmsimg.com/assets/p32308078_b_h10_ab.jpg"/>
   </programme>
   <programme start="20260724223000 +0000" stop="20260724230000 +0000" channel="asianethd">
@@ -3053,7 +3058,7 @@
   </programme>
   <programme start="20260724153000 +0000" stop="20260724160000 +0000" channel="mazhavilmanorama">
     <title lang="en">Super Kanmani</title>
-    <desc lang="en">S1 , E560 : Rejected by most of her family and community since infancy due to a birth defect, Kanmani aspires to become a fashion designer and support her father.</desc>
+    <desc lang="en">S1 , E560 : Kripa is offered heartfelt support by Kanmani as Manasa's malicious plots target Sagar's family. Standing united in tough times, everyone gathers to defend one another from harm.</desc>
     <icon src="https://stap.tmsimg.com/assets/p28406469_b_h10_ac.jpg"/>
   </programme>
   <programme start="20260724160000 +0000" stop="20260724163000 +0000" channel="mazhavilmanorama">
@@ -3878,7 +3883,7 @@
   </programme>
   <programme start="20260724140000 +0000" stop="20260724143000 +0000" channel="zeemarathi">
     <title lang="en">Veen Doghantali Hi Tutena</title>
-    <desc lang="en">S1 , E342 : Swanandi and Samar marry for convenience. Over time, their bond deepens with trust, love, and understanding, proving that love can grow unexpectedly.</desc>
+    <desc lang="en">S1 , E342 : Samar, a wealthy tycoon, and Swanandi, a young middle-class professional, enter a marriage of convenience. However, their contractual nuptials gradually evolve into a profound connection.</desc>
     <icon src="https://stap.tmsimg.com/assets/p30905430_b_h10_ac.jpg"/>
   </programme>
   <programme start="20260724143000 +0000" stop="20260724150000 +0000" channel="zeemarathi">
@@ -3893,7 +3898,7 @@
   </programme>
   <programme start="20260724153000 +0000" stop="20260724160000 +0000" channel="zeemarathi">
     <title lang="en">Kamali</title>
-    <desc lang="en">S1 , E379 : A bold kabaddi player from rural Maharashtra defies her family and moves to Mumbai to follow her dreams. She returns with knowledge to fight early marriage, staying rooted in her culture.</desc>
+    <desc lang="en">S1 , E379 : A courageous kabaddi champion hailing from the countryside of Maharashtra challenges her family's expectations by venturing to Mumbai in pursuit of her aspirations.</desc>
     <icon src="https://stap.tmsimg.com/assets/p30594191_b_h8_ad.jpg"/>
   </programme>
   <programme start="20260724160000 +0000" stop="20260724163000 +0000" channel="zeemarathi">
@@ -3923,12 +3928,12 @@
   </programme>
   <programme start="20260724183000 +0000" stop="20260724190000 +0000" channel="zeemarathi">
     <title lang="en">Kamali</title>
-    <desc lang="en">S1 , E379 : A bold kabaddi player from rural Maharashtra defies her family and moves to Mumbai to follow her dreams. She returns with knowledge to fight early marriage, staying rooted in her culture.</desc>
+    <desc lang="en">S1 , E379 : A courageous kabaddi champion hailing from the countryside of Maharashtra challenges her family's expectations by venturing to Mumbai in pursuit of her aspirations.</desc>
     <icon src="https://stap.tmsimg.com/assets/p30594191_b_h8_ad.jpg"/>
   </programme>
   <programme start="20260724190000 +0000" stop="20260724193000 +0000" channel="zeemarathi">
     <title lang="en">Veen Doghantali Hi Tutena</title>
-    <desc lang="en">S1 , E342 : Swanandi and Samar marry for convenience. Over time, their bond deepens with trust, love, and understanding, proving that love can grow unexpectedly.</desc>
+    <desc lang="en">S1 , E342 : Samar, a wealthy tycoon, and Swanandi, a young middle-class professional, enter a marriage of convenience. However, their contractual nuptials gradually evolve into a profound connection.</desc>
     <icon src="https://stap.tmsimg.com/assets/p30905430_b_h10_ac.jpg"/>
   </programme>
   <programme start="20260724193000 +0000" stop="20260724200000 +0000" channel="zeemarathi">
@@ -3938,12 +3943,12 @@
   </programme>
   <programme start="20260724200000 +0000" stop="20260724203000 +0000" channel="zeemarathi">
     <title lang="en">Kamali</title>
-    <desc lang="en">S1 , E379 : A bold kabaddi player from rural Maharashtra defies her family and moves to Mumbai to follow her dreams. She returns with knowledge to fight early marriage, staying rooted in her culture.</desc>
+    <desc lang="en">S1 , E379 : A courageous kabaddi champion hailing from the countryside of Maharashtra challenges her family's expectations by venturing to Mumbai in pursuit of her aspirations.</desc>
     <icon src="https://stap.tmsimg.com/assets/p30594191_b_h8_ad.jpg"/>
   </programme>
   <programme start="20260724203000 +0000" stop="20260724210000 +0000" channel="zeemarathi">
     <title lang="en">Veen Doghantali Hi Tutena</title>
-    <desc lang="en">S1 , E342 : Swanandi and Samar marry for convenience. Over time, their bond deepens with trust, love, and understanding, proving that love can grow unexpectedly.</desc>
+    <desc lang="en">S1 , E342 : Samar, a wealthy tycoon, and Swanandi, a young middle-class professional, enter a marriage of convenience. However, their contractual nuptials gradually evolve into a profound connection.</desc>
     <icon src="https://stap.tmsimg.com/assets/p30905430_b_h10_ac.jpg"/>
   </programme>
   <programme start="20260724210000 +0000" stop="20260724220000 +0000" channel="zeemarathi">
@@ -3953,12 +3958,12 @@
   </programme>
   <programme start="20260724220000 +0000" stop="20260724223000 +0000" channel="zeemarathi">
     <title lang="en">Devmanus Madhla Adhyay</title>
-    <desc lang="en">S1 , E388 : Ajit Kumar, a killer on the run, hides in Banaras as Gopal, a missing tailor. He hopes to escape his past, but secrets unravel as old shadows start to creep in.</desc>
+    <desc lang="en">S1 , E388 : The notorious serial killer, Dr Ajitkumar Dev, relocates to Varanasi where he assumes the identity of Gopal, a tailor who disappeared years ago, and continues his reign of terror.</desc>
     <icon src="https://stap.tmsimg.com/assets/p30349871_b_h8_ac.jpg"/>
   </programme>
   <programme start="20260724223000 +0000" stop="20260724230000 +0000" channel="zeemarathi">
     <title lang="en">Veen Doghantali Hi Tutena</title>
-    <desc lang="en">S1 , E342 : Swanandi and Samar marry for convenience. Over time, their bond deepens with trust, love, and understanding, proving that love can grow unexpectedly.</desc>
+    <desc lang="en">S1 , E342 : Samar, a wealthy tycoon, and Swanandi, a young middle-class professional, enter a marriage of convenience. However, their contractual nuptials gradually evolve into a profound connection.</desc>
     <icon src="https://stap.tmsimg.com/assets/p30905430_b_h10_ac.jpg"/>
   </programme>
   <programme start="20260724230000 +0000" stop="20260725000000 +0000" channel="zeemarathi">
