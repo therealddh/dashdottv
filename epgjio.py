@@ -7,7 +7,8 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 
 CHANNEL_API = "https://jiotvapi.cdn.jio.com/apis/v3.1/getMobileChannelList/get/?langId=6&os=android&devicetype=phone&usertype=jio&version=384&langId=6"
 EPG_API = "https://jiotvapi.cdn.jio.com/apis/v1.3/getepg/get?offset=0&channel_id={}&langId=6"
-
+add = "https://ixvSri64WjPk9eDmw9RCkQNX:MxMGfG91568hizw2ZJSMChGK@in169.proxy.nordvpn.com:89"
+proxy = {'https': add}
 HEADERS = {
     "User-Agent": "plaYtv/7.1",
     "Accept": "application/json"
@@ -24,7 +25,7 @@ def clean_text(text):
 
 def get_channels():
     print("Downloading channel list...")
-    r = requests.get(CHANNEL_API, headers=HEADERS, timeout=30)
+    r = requests.get(CHANNEL_API, headers=HEADERS, proxies=proxy, timeout=30)
     data = r.json()
     
     channels = data.get("result", [])
@@ -58,7 +59,7 @@ def fetch_epg(channel):
     cid = channel["channel_id"]
     try:
         url = EPG_API.format(cid)
-        r = requests.get(url, headers=HEADERS, timeout=20)
+        r = requests.get(url, headers=HEADERS, proxies=proxy, timeout=20)
 
         if "json" not in r.headers.get("Content-Type", "").lower():
             return None
