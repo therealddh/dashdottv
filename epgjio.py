@@ -147,7 +147,7 @@ print("Saving epg.xml")
 tree = ET.ElementTree(root)
 tree.write("epg.xml", encoding="utf-8", xml_declaration=True)
 
-with open("epg.xml", "rb") as f:
+with open("jioepg.xml", "rb") as f:
     with gzip.open("epg.xml.gz", "wb") as gz:
         gz.writelines(f)
 
