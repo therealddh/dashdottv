@@ -357,9 +357,9 @@
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/i5nHMbdU.jpg"/>
   </programme>
   <programme start="20260725190000 +0000" stop="20260725193000 +0000" channel="republictv">
-    <title lang="en">R News</title>
-    <desc lang="en">The host presents the latest updates and headlines on the social, economic and political issues and shares information on current events.</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/i5nHMbdU.jpg"/>
+    <title lang="en">Acko Drive</title>
+    <desc lang="en">S1 , E3 : </desc>
+    <icon src="https://stap.tmsimg.com/assets/p33419212_b_h8_aa.jpg"/>
   </programme>
   <programme start="20260725193000 +0000" stop="20260725200000 +0000" channel="republictv">
     <title lang="en">R News</title>
@@ -377,9 +377,9 @@
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/i5nHMbdU.jpg"/>
   </programme>
   <programme start="20260725210000 +0000" stop="20260725213000 +0000" channel="republictv">
-    <title lang="en">R Estate</title>
-    <desc lang="en">S1 , E16 : The host provides information related to the latest real estate developments and sheds light on the ongoing market trends.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p31789187_b_h8_ab.jpg"/>
+    <title lang="en">R News</title>
+    <desc lang="en">The host presents the latest updates and headlines on the social, economic and political issues and shares information on current events.</desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/i5nHMbdU.jpg"/>
   </programme>
   <programme start="20260725213000 +0000" stop="20260725220000 +0000" channel="republictv">
     <title lang="en">R News</title>
@@ -1533,7 +1533,7 @@
   </programme>
   <programme start="20260725160000 +0000" stop="20260725163000 +0000" channel="starplushd">
     <title lang="en">Oh Humnava Tum Dena Saath Mera</title>
-    <desc lang="en">S1 , E96 : A reserved businessman who avoids romance crosses paths with an artist haunted by a bitter past, leaving the prospect of a budding romance hanging in the balance.</desc>
+    <desc lang="en">S1 , E96 : Chandrabhaga fuels Sudha's anxiety towards Aparajita, causing her to feel insecure. Meanwhile, Rohan confronts Aradhya for being dishonest.</desc>
     <icon src="https://stap.tmsimg.com/assets/p32904885_b_h8_ad.jpg"/>
   </programme>
   <programme start="20260725163000 +0000" stop="20260725170000 +0000" channel="starplushd">
@@ -1568,7 +1568,7 @@
   </programme>
   <programme start="20260725200000 +0000" stop="20260725203000 +0000" channel="starplushd">
     <title lang="en">Oh Humnava Tum Dena Saath Mera</title>
-    <desc lang="en">S1 , E96 : A reserved businessman who avoids romance crosses paths with an artist haunted by a bitter past, leaving the prospect of a budding romance hanging in the balance.</desc>
+    <desc lang="en">S1 , E96 : Chandrabhaga fuels Sudha's anxiety towards Aparajita, causing her to feel insecure. Meanwhile, Rohan confronts Aradhya for being dishonest.</desc>
     <icon src="https://stap.tmsimg.com/assets/p32904885_b_h8_ad.jpg"/>
   </programme>
   <programme start="20260725203000 +0000" stop="20260725210000 +0000" channel="starplushd">
@@ -1623,7 +1623,7 @@
   </programme>
   <programme start="20260725013000 +0000" stop="20260725020000 +0000" channel="colorshd">
     <title lang="en">Seher Hone Ko Hai</title>
-    <desc lang="en">S1 , E172 : Seher is a young woman with big dreams, and her mother, Kausar, is determined to overcome societal barriers in her daughter's way.</desc>
+    <desc lang="en">S1 , E172 : Urged by Fareed, Seher connects with Mahid for his treatment despite Amaal's caution. Later, Seher reaches Niyazi Manzil to prepare for her betrothal.</desc>
     <icon src="https://stap.tmsimg.com/assets/p31812237_b_h10_ab.jpg"/>
   </programme>
   <programme start="20260725020000 +0000" stop="20260725033000 +0000" channel="colorshd">
@@ -1663,7 +1663,7 @@
   </programme>
   <programme start="20260725150000 +0000" stop="20260725153000 +0000" channel="colorshd">
     <title lang="en">Tuu Juliet Jatt Di</title>
-    <desc lang="en">S1 , E251 : Focused Heer encounters privileged Nawab, sparking an unexpected romance. Their journey unfolds amidst challenges, revealing a tale of love intertwined with deception and emotional turmoil.</desc>
+    <desc lang="en">S1 , E251 : Nawab defies everyone by proving Heer's innocence and securing release from prison. Later, he brings Heer home, where Daler humiliates her.</desc>
     <icon src="https://stap.tmsimg.com/assets/p31644915_b_h10_ad.jpg"/>
   </programme>
   <programme start="20260725153000 +0000" stop="20260725160000 +0000" channel="colorshd">
@@ -1678,7 +1678,7 @@
   </programme>
   <programme start="20260725163000 +0000" stop="20260725170000 +0000" channel="colorshd">
     <title lang="en">Seher Hone Ko Hai</title>
-    <desc lang="en">S1 , E172 : Seher is a young woman with big dreams, and her mother, Kausar, is determined to overcome societal barriers in her daughter's way.</desc>
+    <desc lang="en">S1 , E172 : Urged by Fareed, Seher connects with Mahid for his treatment despite Amaal's caution. Later, Seher reaches Niyazi Manzil to prepare for her betrothal.</desc>
     <icon src="https://stap.tmsimg.com/assets/p31812237_b_h10_ab.jpg"/>
   </programme>
   <programme start="20260725170000 +0000" stop="20260725190000 +0000" channel="colorshd">
@@ -1713,7 +1713,7 @@
   </programme>
   <programme start="20260725230000 +0000" stop="20260725233000 +0000" channel="colorshd">
     <title lang="en">Seher Hone Ko Hai</title>
-    <desc lang="en">S1 , E172 : Seher is a young woman with big dreams, and her mother, Kausar, is determined to overcome societal barriers in her daughter's way.</desc>
+    <desc lang="en">S1 , E172 : Urged by Fareed, Seher connects with Mahid for his treatment despite Amaal's caution. Later, Seher reaches Niyazi Manzil to prepare for her betrothal.</desc>
     <icon src="https://stap.tmsimg.com/assets/p31812237_b_h10_ab.jpg"/>
   </programme>
   <programme start="20260725233000 +0000" stop="20260726013000 +0000" channel="colorshd">
@@ -2668,8 +2668,8 @@
   </programme>
   <programme start="20260725133000 +0000" stop="20260725162000 +0000" channel="asianetmovieshd">
     <title lang="en">Mr. X</title>
-    <desc lang="en">After gaining the power of invisibility, Raghu becomes a vigilante in order to take revenge on those who have wronged him and his lover.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p11585096_v_h10_ab.jpg"/>
+    <desc lang="en">Mr. X</desc>
+    <icon src="https://stap.tmsimg.com/assets/p32896498_v_h10_aa.jpg"/>
   </programme>
   <programme start="20260725162000 +0000" stop="20260725192000 +0000" channel="asianetmovieshd">
     <title lang="en">Udayananu Tharam</title>
