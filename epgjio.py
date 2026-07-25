@@ -9,19 +9,24 @@ CHANNEL_API = "https://jiotvapi.cdn.jio.com/apis/v3.1/getMobileChannelList/get/?
 EPG_API = "https://jiotvapi.cdn.jio.com/apis/v1.3/getepg/get?offset=0&channel_id={}&langId=6"
 add = "https://ixvSri64WjPk9eDmw9RCkQNX:MxMGfG91568hizw2ZJSMChGK@in169.proxy.nordvpn.com:89"
 proxy = {'https': add}
+
 HEADERS = {
     "User-Agent": "plaYtv/7.1",
     "Accept": "application/json"
 }
 
 LOGO_URL = "https://jiotvimages.cdn.jio.com/dare_images/images/"
-SHOW_IMG_URL = "https://jiotvimages.cdn.jio.com/dare_images/shows/" # Added base URL for programs
+SHOW_IMG_URL = "https://jiotvimages.cdn.jio.com/dare_images/shows/"
 
-# Helper to remove illegal XML characters
+# Define Indian Standard Time (UTC +05:30)
+IST = timezone(timedelta(hours=5, minutes=30))
+
+# Helper to remove illegal XML characters that crash OTT parsers
 def clean_text(text):
     if not text:
         return ""
     return re.sub(r'[^\x09\x0A\x0D\x20-\x7E\x85\xA0-\uD7FF\uE000-\uFDCF\uFDE0-\uFFFD]', '', str(text))
+
 
 def get_channels():
     print("Downloading channel list...")
@@ -30,7 +35,8 @@ def get_channels():
     
     channels = data.get("result", [])
     
-    extra_ids = [1641]
+    # Add extra channel ID manually
+    extra_ids = [1641]  # Zee Keralam HD
     existing = {c["channel_id"] for c in channels}
 
     for cid in extra_ids:
@@ -48,9 +54,15 @@ def get_channels():
 def parse_time(ts):
     try:
         ts = int(ts)
+        # Convert milliseconds to seconds if the timestamp is too large
         if ts > 9999999999:
             ts = ts / 1000.0
-        return datetime.fromtimestamp(ts).strftime("%Y%m%d%H%M%S +0530")
+            
+        # Explicitly set the timezone to IST, preventing GitHub Actions from using UTC
+        dt = datetime.fromtimestamp(ts, tz=IST)
+        
+        # %z will automatically output +0530
+        return dt.strftime("%Y%m%d%H%M%S %z")
     except Exception:
         return None
 
@@ -61,6 +73,7 @@ def fetch_epg(channel):
         url = EPG_API.format(cid)
         r = requests.get(url, headers=HEADERS, proxies=proxy, timeout=20)
 
+        # Skip non-JSON responses
         if "json" not in r.headers.get("Content-Type", "").lower():
             return None
 
@@ -72,11 +85,11 @@ def fetch_epg(channel):
         return None
 
 
-# Init Root with basic XMLTV attributes
+# Initialize Root with standard XMLTV attributes
 root = ET.Element("tv", {"generator-info-name": "JioTV-EPG"})
 channels = get_channels()
 
-# Create channel list
+# Create channel list block strictly matching XMLTV standards
 for ch in channels:
     cid = str(ch["channel_id"])
     c = ET.SubElement(root, "channel", {"id": cid})
@@ -85,7 +98,7 @@ for ch in channels:
     ET.SubElement(c, "display-name", {"lang": "en"}).text = clean_text(name)
 
     if ch.get("logoUrl"):
-        # Fix logo URL if it doesn't start with http
+        # Fix channel logo URL if it doesn't start with http
         logo_path = ch["logoUrl"]
         if not logo_path.startswith("http"):
             logo_path = LOGO_URL + logo_path
@@ -95,6 +108,7 @@ print("Downloading EPG schedules (this may take a moment)...")
 
 total_programs = 0
 
+# Fetch schedules using multi-threading for speed
 with ThreadPoolExecutor(max_workers=20) as executor:
     tasks = [executor.submit(fetch_epg, ch) for ch in channels]
 
@@ -107,12 +121,13 @@ with ThreadPoolExecutor(max_workers=20) as executor:
         data = result["data"]
         cid = ch["channel_id"]
 
+        # Handle Jio's shifting JSON structure
         events = data.get("epg") or data.get("result") or []
-        
         if isinstance(events, dict):
             events = events.get("events", [])
 
         for ev in events:
+            # Fallback for various time keys
             start = ev.get("startEpoch") or ev.get("startTime") or ev.get("starttime")
             end = ev.get("endEpoch") or ev.get("endTime") or ev.get("endtime")
 
@@ -137,13 +152,11 @@ with ThreadPoolExecutor(max_workers=20) as executor:
             if ev.get("description"):
                 ET.SubElement(p, "desc", {"lang": "en"}).text = clean_text(ev["description"])
 
-            # ---- FIX THUMBNAIL URL HERE ----
+            # Fix missing program thumbnail URLs
             thumb = ev.get("episodeThumbnail") or ev.get("episodePoster") or ev.get("thumbnail")
             if thumb:
                 thumb = str(thumb)
-                # If it's just a filename, add the full Jio CDN link to it
                 if not thumb.startswith("http"):
-                    # sometimes it comes with a leading slash
                     if thumb.startswith("/"):
                         thumb = "https://jiotvimages.cdn.jio.com" + thumb
                     else:
@@ -156,9 +169,11 @@ with ThreadPoolExecutor(max_workers=20) as executor:
 print(f"Total programs fetched: {total_programs}")
 print("Saving epg.xml...")
 
+# Write plain XML
 tree = ET.ElementTree(root)
 tree.write("epg.xml", encoding="utf-8", xml_declaration=True)
 
+# Compress into GZ
 with open("epg.xml", "rb") as f:
     with gzip.open("epg.xml.gz", "wb") as gz:
         gz.writelines(f)
