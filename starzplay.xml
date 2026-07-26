@@ -2478,7 +2478,7 @@
   </programme>
   <programme start="20260726153000 +0000" stop="20260726160000 +0000" channel="asianetplushd">
     <title lang="en">Santhwanam</title>
-    <desc lang="en">S1 , E144 : Thampi and his wife are heartbroken when their only son defies them, marries, and settles in the United States. A granddaughter's visit brings hope and change.</desc>
+    <desc lang="en">S1 , E250 : Sridevi leads a peaceful and happy life with her husband, Balakrishnan, and his siblings. However, the family faces various adversities that challenge their bonding.</desc>
     <icon src="https://stap.tmsimg.com/assets/p21612639_b_h10_ab.jpg"/>
   </programme>
   <programme start="20260726160000 +0000" stop="20260726163000 +0000" channel="asianetplushd">
@@ -2491,29 +2491,14 @@
     <desc lang="en">Kunjulakshmi, pampered by her brothers, is somewhat arrogant. When she falsely accuses Sivashankaran, a peon, of misbehaving with her, he decides to teach her a lesson.</desc>
     <icon src="https://stap.tmsimg.com/assets/p9683002_v_h10_aa.jpg"/>
   </programme>
-  <programme start="20260726193000 +0000" stop="20260726203000 +0000" channel="asianetplushd">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/HpJY5F1N.jpg"/>
+  <programme start="20260726193000 +0000" stop="20260726220000 +0000" channel="asianetplushd">
+    <title lang="en">Three Char Sau Bees</title>
+    <desc lang="en">Three college friends commit robberies in order to make money. However, their lives turn upside down when they find the dead body of a man in the house they are about to rob.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p10680120_b_h10_aa.jpg"/>
   </programme>
-  <programme start="20260726203000 +0000" stop="20260726213000 +0000" channel="asianetplushd">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/HpJY5F1N.jpg"/>
-  </programme>
-  <programme start="20260726213000 +0000" stop="20260726223000 +0000" channel="asianetplushd">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/HpJY5F1N.jpg"/>
-  </programme>
-  <programme start="20260726223000 +0000" stop="20260726233000 +0000" channel="asianetplushd">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/HpJY5F1N.jpg"/>
-  </programme>
-  <programme start="20260726233000 +0000" stop="20260727003000 +0000" channel="asianetplushd">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
+  <programme start="20260726220000 +0000" stop="20260727003000 +0000" channel="asianetplushd">
+    <title lang="en">Enikku Njan Swantham</title>
+    <desc lang="en">Enikku Njan Swantham</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/HpJY5F1N.jpg"/>
   </programme>
   <programme start="20260726000000 +0000" stop="20260726020000 +0000" channel="asianethd">
@@ -2528,7 +2513,7 @@
   </programme>
   <programme start="20260726023000 +0000" stop="20260726030000 +0000" channel="asianethd">
     <title lang="en">Mazha Thorum Munpe</title>
-    <desc lang="en">S1 , E354 : Rahman finds Nandakumar depressed in Kolkata after a 5-year disappearance. Flashbacks reveal Nandakumar's life as a professor, a love triangle, and tragic events leading to his despair.</desc>
+    <desc lang="en">S1 , E363 : Abandoned as a child, Aleena embarks on a relentless search for the parents who left her. Her journey is filled with pain, but she must find the truth and the only happiness that can heal her.</desc>
     <icon src="https://stap.tmsimg.com/assets/p30645322_b_h8_ad.jpg"/>
   </programme>
   <programme start="20260726030000 +0000" stop="20260726033000 +0000" channel="asianethd">
@@ -2578,7 +2563,7 @@
   </programme>
   <programme start="20260726150000 +0000" stop="20260726153000 +0000" channel="asianethd">
     <title lang="en">Mazha Thorum Munpe</title>
-    <desc lang="en">S1 , E353 : Rahman finds Nandakumar depressed in Kolkata after a 5-year disappearance. Flashbacks reveal Nandakumar's life as a professor, a love triangle, and tragic events leading to his despair.</desc>
+    <desc lang="en">S1 , E364 : Abandoned as a child, Aleena embarks on a relentless search for the parents who left her. Her journey is filled with pain, but she must find the truth and the only happiness that can heal her.</desc>
     <icon src="https://stap.tmsimg.com/assets/p30645322_b_h8_ad.jpg"/>
   </programme>
   <programme start="20260726153000 +0000" stop="20260726160000 +0000" channel="asianethd">
@@ -2616,7 +2601,7 @@
     <desc lang="en">S1 , E834 : Kind-hearted woman Lakshmi struggles to protect her dignity as conflicts with mother-in-law Devaki and husband Rajan shake her marriage.</desc>
     <icon src="https://stap.tmsimg.com/assets/p26607297_b_h10_ad.jpg"/>
   </programme>
-  <programme start="20260726233000 +0000" stop="20260727023000 +0000" channel="asianethd">
+  <programme start="20260726233000 +0000" stop="20260727020000 +0000" channel="asianethd">
     <title lang="en">Mazhavil Kavadi</title>
     <desc lang="en">Velayudhankutty, a villager, goes to a city to earn a living to marry his lover, Amminikutty. But many unexpected turns of events happen when he goes to an unknown city.</desc>
     <icon src="https://stap.tmsimg.com/assets/p10772212_b_h10_aa.jpg"/>
