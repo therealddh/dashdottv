@@ -2,7 +2,7 @@ name: JIO COSTOM TV
 
 on:
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: '*/15 * * * *'
   workflow_dispatch:
 
 permissions:
