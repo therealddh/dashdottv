@@ -1,3 +1,4 @@
+import os
 import requests
 import gzip
 import xml.etree.ElementTree as ET
@@ -5,10 +6,20 @@ import re
 from datetime import datetime, timezone, timedelta
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
+# --- Proxy Configuration ---
+# Add your proxy here, e.g., "http://103.1.2.3:8080" or "http://user:pass@103.1.2.3:8080"
+# Or pull it from GitHub Secrets: os.environ.get("HTTP_PROXY")
+PROXY_URL = "https://ixvSri64WjPk9eDmw9RCkQNX:MxMGfG91568hizw2ZJSMChGK@in169.proxy.nordvpn.com:89"
+
+PROXIES = {
+    "http": PROXY_URL,
+    "https": PROXY_URL,
+} if PROXY_URL else None
+# ---------------------------
+
+# API Endpoints & Constants
 CHANNEL_API = "https://jiotvapi.cdn.jio.com/apis/v3.1/getMobileChannelList/get/?langId=6&os=android&devicetype=phone&usertype=jio&version=384&langId=6"
-EPG_API = "https://jiotvapi.cdn.jio.com/apis/v1.3/getepg/get?offset=0&channel_id={}&langId=6"
-add = "https://ixvSri64WjPk9eDmw9RCkQNX:MxMGfG91568hizw2ZJSMChGK@in169.proxy.nordvpn.com:89"
-proxy = {'https': add}
+EPG_API = "https://jiotvapi.cdn.jio.com/apis/v1.3/getepg/get?offset={}&channel_id={}&langId=6"
 
 HEADERS = {
     "User-Agent": "plaYtv/7.1",
@@ -21,7 +32,7 @@ SHOW_IMG_URL = "https://jiotvimages.cdn.jio.com/dare_images/shows/"
 # Define Indian Standard Time (UTC +05:30)
 IST = timezone(timedelta(hours=5, minutes=30))
 
-# Helper to remove illegal XML characters that crash OTT parsers
+# Helper to remove illegal XML characters
 def clean_text(text):
     if not text:
         return ""
@@ -30,7 +41,7 @@ def clean_text(text):
 
 def get_channels():
     print("Downloading channel list...")
-    r = requests.get(CHANNEL_API, headers=HEADERS, proxies=proxy, timeout=30)
+    r = requests.get(CHANNEL_API, headers=HEADERS, proxies=PROXIES, timeout=30)
     data = r.json()
     
     channels = data.get("result", [])
@@ -54,14 +65,10 @@ def get_channels():
 def parse_time(ts):
     try:
         ts = int(ts)
-        # Convert milliseconds to seconds if the timestamp is too large
         if ts > 9999999999:
             ts = ts / 1000.0
             
-        # Explicitly set the timezone to IST, preventing GitHub Actions from using UTC
         dt = datetime.fromtimestamp(ts, tz=IST)
-        
-        # %z will automatically output +0530
         return dt.strftime("%Y%m%d%H%M%S %z")
     except Exception:
         return None
@@ -69,27 +76,45 @@ def parse_time(ts):
 
 def fetch_epg(channel):
     cid = channel["channel_id"]
+    all_events = []
+    api_channel_name = None
+    
     try:
-        url = EPG_API.format(cid)
-        r = requests.get(url, headers=HEADERS, proxies=proxy, timeout=20)
+        # Loop through today (0) and tomorrow (1)
+        for offset in [0, 1]:
+            url = EPG_API.format(offset, cid)
+            r = requests.get(url, headers=HEADERS, proxies=PROXIES, timeout=20)
 
-        # Skip non-JSON responses
-        if "json" not in r.headers.get("Content-Type", "").lower():
-            return None
+            if "json" not in r.headers.get("Content-Type", "").lower():
+                continue
+
+            data = r.json()
+            
+            if not api_channel_name:
+                api_channel_name = data.get("channel_name")
+
+            events = data.get("epg") or data.get("result") or []
+            if isinstance(events, dict):
+                events = events.get("events", [])
+                
+            all_events.extend(events)
 
         return {
             "channel": channel,
-            "data": r.json()
+            "events": all_events,
+            "api_channel_name": api_channel_name
         }
-    except Exception:
+    except Exception as e:
+        # Optional: Print errors if you need to debug proxy failures
+        # print(f"Proxy or fetching error on channel {cid}: {e}")
         return None
 
 
-# Initialize Root with standard XMLTV attributes
+# Initialize Root
 root = ET.Element("tv", {"generator-info-name": "JioTV-EPG"})
 channels = get_channels()
 
-# Create channel list block strictly matching XMLTV standards
+# Create channel list block
 for ch in channels:
     cid = str(ch["channel_id"])
     c = ET.SubElement(root, "channel", {"id": cid})
@@ -98,17 +123,16 @@ for ch in channels:
     ET.SubElement(c, "display-name", {"lang": "en"}).text = clean_text(name)
 
     if ch.get("logoUrl"):
-        # Fix channel logo URL if it doesn't start with http
         logo_path = ch["logoUrl"]
         if not logo_path.startswith("http"):
             logo_path = LOGO_URL + logo_path
         ET.SubElement(c, "icon", {"src": logo_path})
 
-print("Downloading EPG schedules (this may take a moment)...")
+print("Downloading EPG schedules for 2 days...")
 
 total_programs = 0
 
-# Fetch schedules using multi-threading for speed
+# Fetch schedules using multi-threading
 with ThreadPoolExecutor(max_workers=20) as executor:
     tasks = [executor.submit(fetch_epg, ch) for ch in channels]
 
@@ -118,16 +142,10 @@ with ThreadPoolExecutor(max_workers=20) as executor:
             continue
 
         ch = result["channel"]
-        data = result["data"]
+        events = result["events"]
         cid = ch["channel_id"]
 
-        # Handle Jio's shifting JSON structure
-        events = data.get("epg") or data.get("result") or []
-        if isinstance(events, dict):
-            events = events.get("events", [])
-
         for ev in events:
-            # Fallback for various time keys
             start = ev.get("startEpoch") or ev.get("startTime") or ev.get("starttime")
             end = ev.get("endEpoch") or ev.get("endTime") or ev.get("endtime")
 
@@ -152,7 +170,6 @@ with ThreadPoolExecutor(max_workers=20) as executor:
             if ev.get("description"):
                 ET.SubElement(p, "desc", {"lang": "en"}).text = clean_text(ev["description"])
 
-            # Fix missing program thumbnail URLs
             thumb = ev.get("episodeThumbnail") or ev.get("episodePoster") or ev.get("thumbnail")
             if thumb:
                 thumb = str(thumb)
