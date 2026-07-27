@@ -9,7 +9,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 # --- Proxy Configuration ---
 # Add your proxy here, e.g., "http://103.1.2.3:8080" or "http://user:pass@103.1.2.3:8080"
 # Or pull it from GitHub Secrets: os.environ.get("HTTP_PROXY")
-PROXY_URL = "https://ixvSri64WjPk9eDmw9RCkQNX:MxMGfG91568hizw2ZJSMChGK@in169.proxy.nordvpn.com:89"
+PROXY_URL = "https://Cgy2TSMuTzGfgDucApZLpSnD:RA3hUeMKLFNedfYDHbP2Mwdk@in-mum.prod.surfshark.com:443"
 
 PROXIES = {
     "http": PROXY_URL,
