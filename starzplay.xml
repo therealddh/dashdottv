@@ -1608,7 +1608,7 @@
   </programme>
   <programme start="20260728153000 +0000" stop="20260728160000 +0000" channel="starplushd">
     <title lang="en">Mr &amp; Mrs Parshuram</title>
-    <desc lang="en">S1 , E174 : Shivprasad lives a quiet life as a devoted husband and father, but he harbors a massive secret. Unknown to his family, he is also Parshuram, a highly skilled spy on dangerous missions.</desc>
+    <desc lang="en">S1 , E174 : Shalini alarms Karan by reopening his past human trafficking case. Thus, Parshuram probes her past as Karan seeks her secret.</desc>
     <icon src="https://stap.tmsimg.com/assets/p32291184_b_h8_ab.jpg"/>
   </programme>
   <programme start="20260728160000 +0000" stop="20260728163000 +0000" channel="starplushd">
@@ -1618,7 +1618,7 @@
   </programme>
   <programme start="20260728163000 +0000" stop="20260728170000 +0000" channel="starplushd">
     <title lang="en">Anupamaa</title>
-    <desc lang="en">S1 , E2093 : Anupamaa sacrifices her personal ambitions to dedicate her life to her family. However, she eventually decides to live on her own terms after failing to receive credit for her many trials.</desc>
+    <desc lang="en">S1 , E2093 : Anupama and Prem face a demanding blindfold cooking challenge amidst total chaos in the kitchen. Eventually, they manage to beat the clock and present their dish to the judges on time.</desc>
     <icon src="https://stap.tmsimg.com/assets/p18094069_b_h8_ae.jpg"/>
   </programme>
   <programme start="20260728170000 +0000" stop="20260728173000 +0000" channel="starplushd">
@@ -1653,7 +1653,7 @@
   </programme>
   <programme start="20260728203000 +0000" stop="20260728210000 +0000" channel="starplushd">
     <title lang="en">Mr &amp; Mrs Parshuram</title>
-    <desc lang="en">S1 , E174 : Shivprasad lives a quiet life as a devoted husband and father, but he harbors a massive secret. Unknown to his family, he is also Parshuram, a highly skilled spy on dangerous missions.</desc>
+    <desc lang="en">S1 , E174 : Shalini alarms Karan by reopening his past human trafficking case. Thus, Parshuram probes her past as Karan seeks her secret.</desc>
     <icon src="https://stap.tmsimg.com/assets/p32291184_b_h8_ab.jpg"/>
   </programme>
   <programme start="20260728210000 +0000" stop="20260728213000 +0000" channel="starplushd">
@@ -1673,7 +1673,7 @@
   </programme>
   <programme start="20260728223000 +0000" stop="20260728230000 +0000" channel="starplushd">
     <title lang="en">Anupamaa</title>
-    <desc lang="en">S1 , E2093 : Anupamaa sacrifices her personal ambitions to dedicate her life to her family. However, she eventually decides to live on her own terms after failing to receive credit for her many trials.</desc>
+    <desc lang="en">S1 , E2093 : Anupama and Prem face a demanding blindfold cooking challenge amidst total chaos in the kitchen. Eventually, they manage to beat the clock and present their dish to the judges on time.</desc>
     <icon src="https://stap.tmsimg.com/assets/p18094069_b_h8_ae.jpg"/>
   </programme>
   <programme start="20260728230000 +0000" stop="20260729000000 +0000" channel="starplushd">
@@ -1803,7 +1803,7 @@
   </programme>
   <programme start="20260728150000 +0000" stop="20260728153000 +0000" channel="colorshd">
     <title lang="en">Tuu Juliet Jatt Di</title>
-    <desc lang="en">S1 , E254 : Focused Heer encounters privileged Nawab, sparking an unexpected romance. Their journey unfolds amidst challenges, revealing a tale of love intertwined with deception and emotional turmoil.</desc>
+    <desc lang="en">S1 , E254 : Nawab secures Nimrat as his new partner, oblivious to the scheme unfolding around them. Meanwhile, Heer secretly gathers proof against Nimrat after faking her withdrawal from the contest.</desc>
     <icon src="https://stap.tmsimg.com/assets/p31644915_b_h10_ad.jpg"/>
   </programme>
   <programme start="20260728153000 +0000" stop="20260728160000 +0000" channel="colorshd">
@@ -1823,12 +1823,12 @@
   </programme>
   <programme start="20260728170000 +0000" stop="20260728173000 +0000" channel="colorshd">
     <title lang="en">Bareilly Ke Bachchan</title>
-    <desc lang="en">S1 , E40 : The ambitious Sangam faces a series of challenges when she marries the carefree Krishna Bacchan and enters a household of men unaccustomed to living with a woman.</desc>
+    <desc lang="en">S1 , E40 : Krishna asks Sangam to pose as his wife until the reception takes place. Meanwhile, the guests bet on her arrival as Aarti goes to meet Sangam.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33257755_b_h10_ab.jpg"/>
   </programme>
   <programme start="20260728173000 +0000" stop="20260728180000 +0000" channel="colorshd">
     <title lang="en">Juhi Mui</title>
-    <desc lang="en">S1 , E25 : Juhi, a brilliant girl with autism, faces ridicule from people around her. When trouble comes her way, she becomes a lawyer with her supportive brother guiding her on her journey.</desc>
+    <desc lang="en">S1 , E25 : While Karan fights to earn respect at the court, Suchitra starts working to help support the family. Meanwhile, Sanyam steps up to defend Juhi after she suffers a public humiliation.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33428426_b_h8_aa.jpg"/>
   </programme>
   <programme start="20260728180000 +0000" stop="20260728183000 +0000" channel="colorshd">
@@ -1853,17 +1853,17 @@
   </programme>
   <programme start="20260728203000 +0000" stop="20260728210000 +0000" channel="colorshd">
     <title lang="en">Bareilly Ke Bachchan</title>
-    <desc lang="en">S1 , E40 : The ambitious Sangam faces a series of challenges when she marries the carefree Krishna Bacchan and enters a household of men unaccustomed to living with a woman.</desc>
+    <desc lang="en">S1 , E40 : Krishna asks Sangam to pose as his wife until the reception takes place. Meanwhile, the guests bet on her arrival as Aarti goes to meet Sangam.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33257755_b_h10_ab.jpg"/>
   </programme>
   <programme start="20260728210000 +0000" stop="20260728213000 +0000" channel="colorshd">
     <title lang="en">Juhi Mui</title>
-    <desc lang="en">S1 , E25 : Juhi, a brilliant girl with autism, faces ridicule from people around her. When trouble comes her way, she becomes a lawyer with her supportive brother guiding her on her journey.</desc>
+    <desc lang="en">S1 , E25 : While Karan fights to earn respect at the court, Suchitra starts working to help support the family. Meanwhile, Sanyam steps up to defend Juhi after she suffers a public humiliation.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33428426_b_h8_aa.jpg"/>
   </programme>
   <programme start="20260728213000 +0000" stop="20260728220000 +0000" channel="colorshd">
     <title lang="en">Tuu Juliet Jatt Di</title>
-    <desc lang="en">S1 , E254 : Focused Heer encounters privileged Nawab, sparking an unexpected romance. Their journey unfolds amidst challenges, revealing a tale of love intertwined with deception and emotional turmoil.</desc>
+    <desc lang="en">S1 , E254 : Nawab secures Nimrat as his new partner, oblivious to the scheme unfolding around them. Meanwhile, Heer secretly gathers proof against Nimrat after faking her withdrawal from the contest.</desc>
     <icon src="https://stap.tmsimg.com/assets/p31644915_b_h10_ad.jpg"/>
   </programme>
   <programme start="20260728220000 +0000" stop="20260728223000 +0000" channel="colorshd">
@@ -1883,7 +1883,7 @@
   </programme>
   <programme start="20260728233000 +0000" stop="20260729000000 +0000" channel="colorshd">
     <title lang="en">Bareilly Ke Bachchan</title>
-    <desc lang="en">S1 , E40 : The ambitious Sangam faces a series of challenges when she marries the carefree Krishna Bacchan and enters a household of men unaccustomed to living with a woman.</desc>
+    <desc lang="en">S1 , E40 : Krishna asks Sangam to pose as his wife until the reception takes place. Meanwhile, the guests bet on her arrival as Aarti goes to meet Sangam.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33257755_b_h10_ab.jpg"/>
   </programme>
   <programme start="20260729000000 +0000" stop="20260729003000 +0000" channel="colorshd">
@@ -2103,17 +2103,17 @@
   </programme>
   <programme start="20260728120000 +0000" stop="20260728123000 +0000" channel="sabtv">
     <title lang="en">Hui Gumm Yaadein Ek Doctor, Do Zindagiyaan</title>
-    <desc lang="en">S1 , E97 : Following a traumatic accident and an eight-year memory loss, Dr Dev struggles to rebuild his life as his former wife, Srishti, balances motherhood with running their medical facility.</desc>
+    <desc lang="en">S1 , E97 : A young girl adores Spider-Man, assumes she is Spider Girl, and mimics an arachnid. Thus, Dr. Dev manages this rare condition.</desc>
     <icon src="https://stap.tmsimg.com/assets/p32794904_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260728123000 +0000" stop="20260728130000 +0000" channel="sabtv">
     <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">S1 , E4773 : The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
+    <desc lang="en">S1 , E4773 : The Gokuldham Society residents feel enthusiastic about the Muh Dikhayi event and anticipate Bhide's revelation. Thus, they wonder what unique surprise Bhide organises.</desc>
     <icon src="https://stap.tmsimg.com/assets/p12557899_b_h11_ad.jpg"/>
   </programme>
   <programme start="20260728130000 +0000" stop="20260728133000 +0000" channel="sabtv">
     <title lang="en">Pushpa Impossible</title>
-    <desc lang="en">S1 , E1295 : After doing various odd jobs, an uneducated woman from Gujarat starts a business to earn a living and attempts to keep her family happy.</desc>
+    <desc lang="en">S1 , E1295 : Chawl residents sustain Pushpa throughout her severe period of adversity. Consequently, they accommodate her family to reside.</desc>
     <icon src="https://stap.tmsimg.com/assets/p22259614_b_h10_af.jpg"/>
   </programme>
   <programme start="20260728133000 +0000" stop="20260728140000 +0000" channel="sabtv">
@@ -2128,12 +2128,12 @@
   </programme>
   <programme start="20260728143000 +0000" stop="20260728150000 +0000" channel="sabtv">
     <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">S1 , E4773 : The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
+    <desc lang="en">S1 , E4773 : The Gokuldham Society residents feel enthusiastic about the Muh Dikhayi event and anticipate Bhide's revelation. Thus, they wonder what unique surprise Bhide organises.</desc>
     <icon src="https://stap.tmsimg.com/assets/p12557899_b_h11_ad.jpg"/>
   </programme>
   <programme start="20260728150000 +0000" stop="20260728153000 +0000" channel="sabtv">
     <title lang="en">Pushpa Impossible</title>
-    <desc lang="en">S1 , E1295 : After doing various odd jobs, an uneducated woman from Gujarat starts a business to earn a living and attempts to keep her family happy.</desc>
+    <desc lang="en">S1 , E1295 : Chawl residents sustain Pushpa throughout her severe period of adversity. Consequently, they accommodate her family to reside.</desc>
     <icon src="https://stap.tmsimg.com/assets/p22259614_b_h10_af.jpg"/>
   </programme>
   <programme start="20260728153000 +0000" stop="20260728160000 +0000" channel="sabtv">
@@ -2143,17 +2143,17 @@
   </programme>
   <programme start="20260728160000 +0000" stop="20260728163000 +0000" channel="sabtv">
     <title lang="en">Hui Gumm Yaadein Ek Doctor, Do Zindagiyaan</title>
-    <desc lang="en">S1 , E97 : Following a traumatic accident and an eight-year memory loss, Dr Dev struggles to rebuild his life as his former wife, Srishti, balances motherhood with running their medical facility.</desc>
+    <desc lang="en">S1 , E97 : A young girl adores Spider-Man, assumes she is Spider Girl, and mimics an arachnid. Thus, Dr. Dev manages this rare condition.</desc>
     <icon src="https://stap.tmsimg.com/assets/p32794904_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260728163000 +0000" stop="20260728170000 +0000" channel="sabtv">
     <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">S1 , E4773 : The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
+    <desc lang="en">S1 , E4773 : The Gokuldham Society residents feel enthusiastic about the Muh Dikhayi event and anticipate Bhide's revelation. Thus, they wonder what unique surprise Bhide organises.</desc>
     <icon src="https://stap.tmsimg.com/assets/p12557899_b_h11_ad.jpg"/>
   </programme>
   <programme start="20260728170000 +0000" stop="20260728172500 +0000" channel="sabtv">
     <title lang="en">Pushpa Impossible</title>
-    <desc lang="en">S1 , E1295 : After doing various odd jobs, an uneducated woman from Gujarat starts a business to earn a living and attempts to keep her family happy.</desc>
+    <desc lang="en">S1 , E1295 : Chawl residents sustain Pushpa throughout her severe period of adversity. Consequently, they accommodate her family to reside.</desc>
     <icon src="https://stap.tmsimg.com/assets/p22259614_b_h10_af.jpg"/>
   </programme>
   <programme start="20260728172500 +0000" stop="20260728175100 +0000" channel="sabtv">
@@ -2173,17 +2173,17 @@
   </programme>
   <programme start="20260728184300 +0000" stop="20260728190900 +0000" channel="sabtv">
     <title lang="en">Hui Gumm Yaadein Ek Doctor, Do Zindagiyaan</title>
-    <desc lang="en">S1 , E97 : Following a traumatic accident and an eight-year memory loss, Dr Dev struggles to rebuild his life as his former wife, Srishti, balances motherhood with running their medical facility.</desc>
+    <desc lang="en">S1 , E97 : A young girl adores Spider-Man, assumes she is Spider Girl, and mimics an arachnid. Thus, Dr. Dev manages this rare condition.</desc>
     <icon src="https://stap.tmsimg.com/assets/p32794904_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260728190900 +0000" stop="20260728193500 +0000" channel="sabtv">
     <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">S1 , E4773 : The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
+    <desc lang="en">S1 , E4773 : The Gokuldham Society residents feel enthusiastic about the Muh Dikhayi event and anticipate Bhide's revelation. Thus, they wonder what unique surprise Bhide organises.</desc>
     <icon src="https://stap.tmsimg.com/assets/p12557899_b_h11_ad.jpg"/>
   </programme>
   <programme start="20260728193500 +0000" stop="20260728200100 +0000" channel="sabtv">
     <title lang="en">Pushpa Impossible</title>
-    <desc lang="en">S1 , E1295 : After doing various odd jobs, an uneducated woman from Gujarat starts a business to earn a living and attempts to keep her family happy.</desc>
+    <desc lang="en">S1 , E1295 : Chawl residents sustain Pushpa throughout her severe period of adversity. Consequently, they accommodate her family to reside.</desc>
     <icon src="https://stap.tmsimg.com/assets/p22259614_b_h10_af.jpg"/>
   </programme>
   <programme start="20260728200100 +0000" stop="20260728202700 +0000" channel="sabtv">
@@ -2193,12 +2193,12 @@
   </programme>
   <programme start="20260728202700 +0000" stop="20260728205300 +0000" channel="sabtv">
     <title lang="en">Hui Gumm Yaadein Ek Doctor, Do Zindagiyaan</title>
-    <desc lang="en">S1 , E97 : Following a traumatic accident and an eight-year memory loss, Dr Dev struggles to rebuild his life as his former wife, Srishti, balances motherhood with running their medical facility.</desc>
+    <desc lang="en">S1 , E97 : A young girl adores Spider-Man, assumes she is Spider Girl, and mimics an arachnid. Thus, Dr. Dev manages this rare condition.</desc>
     <icon src="https://stap.tmsimg.com/assets/p32794904_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260728205300 +0000" stop="20260728211900 +0000" channel="sabtv">
     <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">S1 , E4773 : The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
+    <desc lang="en">S1 , E4773 : The Gokuldham Society residents feel enthusiastic about the Muh Dikhayi event and anticipate Bhide's revelation. Thus, they wonder what unique surprise Bhide organises.</desc>
     <icon src="https://stap.tmsimg.com/assets/p12557899_b_h11_ad.jpg"/>
   </programme>
   <programme start="20260728211900 +0000" stop="20260728214500 +0000" channel="sabtv">
@@ -2213,7 +2213,7 @@
   </programme>
   <programme start="20260728221100 +0000" stop="20260728223400 +0000" channel="sabtv">
     <title lang="en">Hui Gumm Yaadein Ek Doctor, Do Zindagiyaan</title>
-    <desc lang="en">S1 , E97 : Following a traumatic accident and an eight-year memory loss, Dr Dev struggles to rebuild his life as his former wife, Srishti, balances motherhood with running their medical facility.</desc>
+    <desc lang="en">S1 , E97 : A young girl adores Spider-Man, assumes she is Spider Girl, and mimics an arachnid. Thus, Dr. Dev manages this rare condition.</desc>
     <icon src="https://stap.tmsimg.com/assets/p32794904_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260728223400 +0000" stop="20260728230000 +0000" channel="sabtv">
@@ -2223,7 +2223,7 @@
   </programme>
   <programme start="20260728230000 +0000" stop="20260728232600 +0000" channel="sabtv">
     <title lang="en">Pushpa Impossible</title>
-    <desc lang="en">S1 , E1295 : After doing various odd jobs, an uneducated woman from Gujarat starts a business to earn a living and attempts to keep her family happy.</desc>
+    <desc lang="en">S1 , E1295 : Chawl residents sustain Pushpa throughout her severe period of adversity. Consequently, they accommodate her family to reside.</desc>
     <icon src="https://stap.tmsimg.com/assets/p22259614_b_h10_af.jpg"/>
   </programme>
   <programme start="20260728232600 +0000" stop="20260728235200 +0000" channel="sabtv">
@@ -3516,27 +3516,27 @@
     <desc lang="en">S1 , E1587 : A comprehensive compilation of songs and snippets from some of the most popular and trending Tamil movies is played to entertain the audience.</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/klN7lrpJ.jpg"/>
   </programme>
-  <programme start="20260728003000 +0000" stop="20260728010000 +0000" channel="zeetamil">
+  <programme start="20260728003000 +0000" stop="20260728005900 +0000" channel="zeetamil">
     <title lang="en">RJR Hospital</title>
     <desc lang="en">S1 , E36 : A medical professional sheds light on a range of treatments provided by a reputed hospital whilst sharing a few tips and suggestions on staying safe.</desc>
     <icon src="https://stap.tmsimg.com/assets/p25355634_b_h10_aa.jpg"/>
   </programme>
-  <programme start="20260728010000 +0000" stop="20260728013000 +0000" channel="zeetamil">
+  <programme start="20260728005900 +0000" stop="20260728012900 +0000" channel="zeetamil">
     <title lang="en">TeleShopping</title>
     <desc lang="en">The host presents a collection of varied items for the audience, showcasing exclusive products with unique features and enticing deals.</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/klN7lrpJ.jpg"/>
   </programme>
-  <programme start="20260728013000 +0000" stop="20260728020000 +0000" channel="zeetamil">
+  <programme start="20260728012900 +0000" stop="20260728020000 +0000" channel="zeetamil">
     <title lang="en">Olimayamana Ethirkaalam</title>
     <desc lang="en">S1 , E5834 : Various subject-matter experts provide a comprehensive and detailed insight into future predictions and offer guidance to lead a healthy life.</desc>
     <icon src="https://stap.tmsimg.com/assets/p11071709_b_h8_ab.jpg"/>
   </programme>
-  <programme start="20260728020000 +0000" stop="20260728023000 +0000" channel="zeetamil">
+  <programme start="20260728020000 +0000" stop="20260728023300 +0000" channel="zeetamil">
     <title lang="en">Olimayamana Ethirkaalam</title>
     <desc lang="en">S1 , E5834 : Various subject-matter experts provide a comprehensive and detailed insight into future predictions and offer guidance to lead a healthy life.</desc>
     <icon src="https://stap.tmsimg.com/assets/p11071709_b_h8_ab.jpg"/>
   </programme>
-  <programme start="20260728023000 +0000" stop="20260728030000 +0000" channel="zeetamil">
+  <programme start="20260728023300 +0000" stop="20260728030000 +0000" channel="zeetamil">
     <title lang="en">Sa Re Ga Ma Pa L'il Champs</title>
     <desc lang="en">S5 , E18 : Children from across the country take part in a singing competition where they are mentored and judged by famous playback singers from the film industry.</desc>
     <icon src="https://stap.tmsimg.com/assets/p3568310_b_h10_ab.jpg"/>
@@ -3573,7 +3573,7 @@
   </programme>
   <programme start="20260728060000 +0000" stop="20260728063000 +0000" channel="zeetamil">
     <title lang="en">Sandhya Raagam</title>
-    <desc lang="en">S1 , E934 : Separated sisters face new challenges. Sandhya's daughter, Maya, arrives at Janaki's home. Maya's modern ways influence Janaki's daughter, causing concern and tension in the household.</desc>
+    <desc lang="en">S1 , E940 : After the tragic loss of her sister, Sandhya, Janaki becomes the guardian of her niece, Maya. However, Maya's modern approach starts to influence Janaki's daughter.</desc>
     <icon src="https://stap.tmsimg.com/assets/p26168585_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260728063000 +0000" stop="20260728070000 +0000" channel="zeetamil">
@@ -3593,7 +3593,7 @@
   </programme>
   <programme start="20260728080000 +0000" stop="20260728083000 +0000" channel="zeetamil">
     <title lang="en">Varisu</title>
-    <desc lang="en">S1 , E331 : Janakambal wants her carefree grandson Cibi to take over her business. She brings in Tamil to guide him, but it's unclear if Cibi is ready to change his ways.</desc>
+    <desc lang="en">S1 , E338 : Savvy businesswoman Janakambal enlists Tamil to reform her wayward grandson Cibi, hoping he'll prove worthy of inheriting her empire.</desc>
     <icon src="https://stap.tmsimg.com/assets/p30590230_b_h10_ac.jpg"/>
   </programme>
   <programme start="20260728083000 +0000" stop="20260728090000 +0000" channel="zeetamil">
@@ -3633,7 +3633,7 @@
   </programme>
   <programme start="20260728120000 +0000" stop="20260728123000 +0000" channel="zeetamil">
     <title lang="en">Varisu</title>
-    <desc lang="en">S1 , E331 : Janakambal wants her carefree grandson Cibi to take over her business. She brings in Tamil to guide him, but it's unclear if Cibi is ready to change his ways.</desc>
+    <desc lang="en">S1 , E338 : Savvy businesswoman Janakambal enlists Tamil to reform her wayward grandson Cibi, hoping he'll prove worthy of inheriting her empire.</desc>
     <icon src="https://stap.tmsimg.com/assets/p30590230_b_h10_ac.jpg"/>
   </programme>
   <programme start="20260728123000 +0000" stop="20260728130000 +0000" channel="zeetamil">
@@ -3678,12 +3678,12 @@
   </programme>
   <programme start="20260728163000 +0000" stop="20260728170000 +0000" channel="zeetamil">
     <title lang="en">Sandhya Raagam</title>
-    <desc lang="en">S1 , E923 : Separated sisters face new challenges. Sandhya's daughter, Maya, arrives at Janaki's home. Maya's modern ways influence Janaki's daughter, causing concern and tension in the household.</desc>
+    <desc lang="en">S1 , E941 : After the tragic loss of her sister, Sandhya, Janaki becomes the guardian of her niece, Maya. However, Maya's modern approach starts to influence Janaki's daughter.</desc>
     <icon src="https://stap.tmsimg.com/assets/p26168585_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260728170000 +0000" stop="20260728173000 +0000" channel="zeetamil">
     <title lang="en">Varisu</title>
-    <desc lang="en">S1 , E331 : Janakambal wants her carefree grandson Cibi to take over her business. She brings in Tamil to guide him, but it's unclear if Cibi is ready to change his ways.</desc>
+    <desc lang="en">S1 , E338 : Savvy businesswoman Janakambal enlists Tamil to reform her wayward grandson Cibi, hoping he'll prove worthy of inheriting her empire.</desc>
     <icon src="https://stap.tmsimg.com/assets/p30590230_b_h10_ac.jpg"/>
   </programme>
   <programme start="20260728173000 +0000" stop="20260728180000 +0000" channel="zeetamil">
@@ -3986,67 +3986,67 @@
     <desc lang="en">S1 , E473 : After Ambika's tragic death, her husband Atharva and daughter Veda are heartbroken. However, her spirit returns to watch over and protect Veda in unseen yet powerful ways.</desc>
     <icon src="https://stap.tmsimg.com/assets/p29492543_b_h10_ad.jpg"/>
   </programme>
-  <programme start="20260728000000 +0000" stop="20260728003000 +0000" channel="zeebangla">
+  <programme start="20260728000000 +0000" stop="20260728002700 +0000" channel="zeebangla">
     <title lang="en">Patanjali Yog - By Yogrishi Swami Ramdev</title>
     <desc lang="en">S1 , E506 : Baba Ramdev emphasises the importance of yoga and demonstrates various asanas and breathing exercises that enable one to lead a healthy and stress-free life.</desc>
     <icon src="https://stap.tmsimg.com/assets/p28747290_b_h8_ab.jpg"/>
   </programme>
-  <programme start="20260728003000 +0000" stop="20260728023000 +0000" channel="zeebangla">
+  <programme start="20260728002700 +0000" stop="20260728023100 +0000" channel="zeebangla">
     <title lang="en">Kari Diye Kinlam</title>
     <desc lang="en">Sisters Lakshmi and Sati pursue independence but face recurring challenges in their individual journeys.</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/f3kpHdtF.jpg"/>
   </programme>
-  <programme start="20260728023000 +0000" stop="20260728033000 +0000" channel="zeebangla">
+  <programme start="20260728023100 +0000" stop="20260728033000 +0000" channel="zeebangla">
     <title lang="en">Sakaler Sure</title>
     <desc lang="en">S1 , E733 : Talented singers and artists perform some of the most popular devotional and folk songs of Bengali music and enthral the audience with their performance.</desc>
     <icon src="https://stap.tmsimg.com/assets/p29905543_b_h10_aa.jpg"/>
   </programme>
-  <programme start="20260728033000 +0000" stop="20260728060000 +0000" channel="zeebangla">
+  <programme start="20260728033000 +0000" stop="20260728055800 +0000" channel="zeebangla">
     <title lang="en">Handa and Bhonda</title>
     <desc lang="en">The spirit of a man's late wife grants the wishes of her husband and her son for seven days in hopes that they find common ground with one another.</desc>
     <icon src="https://stap.tmsimg.com/assets/p12385013_b_h10_ab.jpg"/>
   </programme>
-  <programme start="20260728060000 +0000" stop="20260728083000 +0000" channel="zeebangla">
+  <programme start="20260728055800 +0000" stop="20260728083600 +0000" channel="zeebangla">
     <title lang="en">Pabitra Papi</title>
     <desc lang="en">To teach Bhola a lesson, Rajib marries his sister, deceives them out of their land, and has Bhola imprisoned. However, Bhola vows to seek justice and avenge the wrongs done to his family.</desc>
     <icon src="https://stap.tmsimg.com/assets/p29794298_b_h10_aa.jpg"/>
   </programme>
-  <programme start="20260728083000 +0000" stop="20260728113000 +0000" channel="zeebangla">
+  <programme start="20260728083600 +0000" stop="20260728113100 +0000" channel="zeebangla">
     <title lang="en">Aakrosh</title>
     <desc lang="en">Two detectives investigate the disappearance of three medical students in a small village, but their search is hampered by corrupt local authorities.</desc>
     <icon src="https://stap.tmsimg.com/assets/p8349142_v_h11_aa.jpg"/>
   </programme>
-  <programme start="20260728113000 +0000" stop="20260728140000 +0000" channel="zeebangla">
+  <programme start="20260728113100 +0000" stop="20260728140500 +0000" channel="zeebangla">
     <title lang="en">Sundar Bou</title>
     <desc lang="en">Sabitri, who is married to Nanda, is exploited daily by her mother-in-law. Seeing this, her uncle decides to help her overcome her problems.</desc>
     <icon src="https://stap.tmsimg.com/assets/p26260682_b_h10_ac.jpg"/>
   </programme>
-  <programme start="20260728140000 +0000" stop="20260728163000 +0000" channel="zeebangla">
+  <programme start="20260728140500 +0000" stop="20260728164200 +0000" channel="zeebangla">
     <title lang="en">Mama Bhagne</title>
     <desc lang="en">Raja, a lazy man, gets married to Payel under the assumption that she is from a wealthy family. However, he is shocked to learn that Payel's father is a gardener.</desc>
     <icon src="https://stap.tmsimg.com/assets/p12403910_b_h8_aa.jpg"/>
   </programme>
-  <programme start="20260728163000 +0000" stop="20260728193000 +0000" channel="zeebangla">
+  <programme start="20260728164200 +0000" stop="20260728191800 +0000" channel="zeebangla">
     <title lang="en">Apon Amar Apon</title>
     <desc lang="en">Despite the many obstacles he faces, an aspiring singer leaves no stone unturned to establish a foothold in the music industry.</desc>
     <icon src="https://stap.tmsimg.com/assets/p15168063_b_h8_ac.jpg"/>
   </programme>
-  <programme start="20260728193000 +0000" stop="20260728210000 +0000" channel="zeebangla">
+  <programme start="20260728191800 +0000" stop="20260728210200 +0000" channel="zeebangla">
     <title lang="en">Archier Gallery</title>
     <desc lang="en">Despite living in the modern era, Archie, an old-school romantic, uses a mix of new-age love ideas and vintage romance to win over his lady love.</desc>
     <icon src="https://stap.tmsimg.com/assets/p27859428_b_h10_ac.jpg"/>
   </programme>
-  <programme start="20260728210000 +0000" stop="20260728230000 +0000" channel="zeebangla">
+  <programme start="20260728210200 +0000" stop="20260728230000 +0000" channel="zeebangla">
     <title lang="en">Biye Bibhraat</title>
     <desc lang="en">After a series of unsuccessful relationships, Shakya reluctantly consents to meet a prospective bride. However, things take an unexpected twist when the girl's former lover reenters the picture.</desc>
     <icon src="https://stap.tmsimg.com/assets/p29857103_v_h10_aa.jpg"/>
   </programme>
-  <programme start="20260728230000 +0000" stop="20260728233000 +0000" channel="zeebangla">
+  <programme start="20260728230000 +0000" stop="20260728233100 +0000" channel="zeebangla">
     <title lang="en">Sakaler Sure</title>
     <desc lang="en">S1 , E185 : Bengali artists love devotional and folk songs. These songs inspire singers and audiences alike. They celebrate culture and faith, creating a shared experience.</desc>
     <icon src="https://stap.tmsimg.com/assets/p29905543_b_h10_aa.jpg"/>
   </programme>
-  <programme start="20260728233000 +0000" stop="20260729003000 +0000" channel="zeebangla">
+  <programme start="20260728233100 +0000" stop="20260729003000 +0000" channel="zeebangla">
     <title lang="en">Patanjali Yog - By Yogrishi Swami Ramdev</title>
     <desc lang="en">S1 , E507 : Baba Ramdev emphasises the importance of yoga and demonstrates various asanas and breathing exercises that enable one to lead a healthy and stress-free life.</desc>
     <icon src="https://stap.tmsimg.com/assets/p28747290_b_h8_ab.jpg"/>
