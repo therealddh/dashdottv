@@ -522,14 +522,14 @@
     <icon src="https://stap.tmsimg.com/assets/p29823758_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260808153000 +0000" stop="20260808160000 +0000" channel="republictv">
-    <title lang="en">Live And Breaking - LIVE</title>
-    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events, live.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p22150906_b_h10_aa.jpg"/>
+    <title lang="en">Nation Wants to Know</title>
+    <desc lang="en">S1 , E90 : The host presents information about the social, economic and political issues of the day and provides updates and developments on current events.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p29823723_b_h8_aa.jpg"/>
   </programme>
   <programme start="20260808160000 +0000" stop="20260808163000 +0000" channel="republictv">
-    <title lang="en">Live And Breaking - LIVE</title>
-    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events, live.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p22150906_b_h10_aa.jpg"/>
+    <title lang="en">Nation Wants to Know</title>
+    <desc lang="en">S1 , E90 : The host presents information about the social, economic and political issues of the day and provides updates and developments on current events.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p29823723_b_h8_aa.jpg"/>
   </programme>
   <programme start="20260808163000 +0000" stop="20260808170000 +0000" channel="republictv">
     <title lang="en">Live And Breaking - LIVE</title>
@@ -552,14 +552,14 @@
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/i5nHMbdU.jpg"/>
   </programme>
   <programme start="20260808183000 +0000" stop="20260808190000 +0000" channel="republictv">
-    <title lang="en">R News</title>
-    <desc lang="en">The host presents the latest updates and headlines on the social, economic and political issues and shares information on current events.</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/i5nHMbdU.jpg"/>
+    <title lang="en">Nation Wants to Know</title>
+    <desc lang="en">S1 , E90 : The host presents information about the social, economic and political issues of the day and provides updates and developments on current events.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p29823723_b_h8_aa.jpg"/>
   </programme>
   <programme start="20260808190000 +0000" stop="20260808193000 +0000" channel="republictv">
-    <title lang="en">R News</title>
-    <desc lang="en">The host presents the latest updates and headlines on the social, economic and political issues and shares information on current events.</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/i5nHMbdU.jpg"/>
+    <title lang="en">Nation Wants to Know</title>
+    <desc lang="en">S1 , E90 : The host presents information about the social, economic and political issues of the day and provides updates and developments on current events.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p29823723_b_h8_aa.jpg"/>
   </programme>
   <programme start="20260808193000 +0000" stop="20260808200000 +0000" channel="republictv">
     <title lang="en">R News</title>
@@ -1733,7 +1733,7 @@
   </programme>
   <programme start="20260808163000 +0000" stop="20260808170000 +0000" channel="starplushd">
     <title lang="en">Anupamaa</title>
-    <desc lang="en">S1 , E2104 : Anupamaa sacrifices her personal ambitions to dedicate her life to her family. However, she eventually decides to live on her own terms after failing to receive credit for her many trials.</desc>
+    <desc lang="en">S1 , E2104 : The cooking competition gets complicated when Leela and Vasundhara are tied together and forced to cook using only one hand each. Their attempts to outdo one another quickly descend into chaos.</desc>
     <icon src="https://stap.tmsimg.com/assets/p18094069_b_h8_ae.jpg"/>
   </programme>
   <programme start="20260808170000 +0000" stop="20260808173000 +0000" channel="starplushd">
@@ -1793,7 +1793,7 @@
   </programme>
   <programme start="20260808223000 +0000" stop="20260808230000 +0000" channel="starplushd">
     <title lang="en">Anupamaa</title>
-    <desc lang="en">S1 , E2104 : Anupamaa sacrifices her personal ambitions to dedicate her life to her family. However, she eventually decides to live on her own terms after failing to receive credit for her many trials.</desc>
+    <desc lang="en">S1 , E2104 : The cooking competition gets complicated when Leela and Vasundhara are tied together and forced to cook using only one hand each. Their attempts to outdo one another quickly descend into chaos.</desc>
     <icon src="https://stap.tmsimg.com/assets/p18094069_b_h8_ae.jpg"/>
   </programme>
   <programme start="20260808230000 +0000" stop="20260808233000 +0000" channel="starplushd">
@@ -1883,7 +1883,7 @@
   </programme>
   <programme start="20260808150000 +0000" stop="20260808153000 +0000" channel="colorshd">
     <title lang="en">Tuu Juliet Jatt Di</title>
-    <desc lang="en">S1 , E265 : Focused Heer encounters privileged Nawab, sparking an unexpected romance. Their journey unfolds amidst challenges, revealing a tale of love intertwined with deception and emotional turmoil.</desc>
+    <desc lang="en">S1 , E265 : Heer races Nawab on a bike to stop him from racing Arjun. Later, she discovers an injured Pammi at a club and pursues the attacker.</desc>
     <icon src="https://stap.tmsimg.com/assets/p31644915_b_h10_ad.jpg"/>
   </programme>
   <programme start="20260808153000 +0000" stop="20260808160000 +0000" channel="colorshd">
@@ -1928,7 +1928,7 @@
   </programme>
   <programme start="20260808223000 +0000" stop="20260808230000 +0000" channel="colorshd">
     <title lang="en">Tuu Juliet Jatt Di</title>
-    <desc lang="en">S1 , E265 : Focused Heer encounters privileged Nawab, sparking an unexpected romance. Their journey unfolds amidst challenges, revealing a tale of love intertwined with deception and emotional turmoil.</desc>
+    <desc lang="en">S1 , E265 : Heer races Nawab on a bike to stop him from racing Arjun. Later, she discovers an injured Pammi at a club and pursues the attacker.</desc>
     <icon src="https://stap.tmsimg.com/assets/p31644915_b_h10_ad.jpg"/>
   </programme>
   <programme start="20260808230000 +0000" stop="20260808233000 +0000" channel="colorshd">
