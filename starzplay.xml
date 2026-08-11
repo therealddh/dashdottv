@@ -1188,7 +1188,7 @@
   </programme>
   <programme start="20260811033000 +0000" stop="20260811040000 +0000" channel="zeetvhd">
     <title lang="en">Tu Hi Re Dil Mein</title>
-    <desc lang="en">S1 , E57 : Deeming it a lucky charm, Vrinda marries Sanjay, who loves Divya. Serving as a caretaker in his home, she endures silent sacrifices, wondering if love will ever find her.</desc>
+    <desc lang="en">S1 , E57 : Vrinda marries Sanjay, who adores Divya, believing she brings fortune. However, as a housemaid, Vrinda endured hardships.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33321700_b_h10_ac.jpg"/>
   </programme>
   <programme start="20260811040000 +0000" stop="20260811050000 +0000" channel="zeetvhd">
@@ -1248,7 +1248,7 @@
   </programme>
   <programme start="20260811103000 +0000" stop="20260811110000 +0000" channel="zeetvhd">
     <title lang="en">Tu Hi Re Dil Mein</title>
-    <desc lang="en">S1 , E57 : Deeming it a lucky charm, Vrinda marries Sanjay, who loves Divya. Serving as a caretaker in his home, she endures silent sacrifices, wondering if love will ever find her.</desc>
+    <desc lang="en">S1 , E57 : Vrinda marries Sanjay, who adores Divya, believing she brings fortune. However, as a housemaid, Vrinda endured hardships.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33321700_b_h10_ac.jpg"/>
   </programme>
   <programme start="20260811110000 +0000" stop="20260811120000 +0000" channel="zeetvhd">
@@ -1808,7 +1808,7 @@
   </programme>
   <programme start="20260811170000 +0000" stop="20260811173000 +0000" channel="colorshd">
     <title lang="en">Bareilly Ke Bachchan</title>
-    <desc lang="en">S1 , E52 : The ambitious Sangam faces a series of challenges when she marries the carefree Krishna Bacchan and enters a household of men unaccustomed to living with a woman.</desc>
+    <desc lang="en">S1 , E52 : Krishna and the Bacchan family play cricket in an attempt to cheer Sangam up. Later, Krishna is sad when he finds out Sangam plans on reimbursing him.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33257755_b_h10_ab.jpg"/>
   </programme>
   <programme start="20260811173000 +0000" stop="20260811180000 +0000" channel="colorshd">
@@ -1838,7 +1838,7 @@
   </programme>
   <programme start="20260811203000 +0000" stop="20260811210000 +0000" channel="colorshd">
     <title lang="en">Bareilly Ke Bachchan</title>
-    <desc lang="en">S1 , E52 : The ambitious Sangam faces a series of challenges when she marries the carefree Krishna Bacchan and enters a household of men unaccustomed to living with a woman.</desc>
+    <desc lang="en">S1 , E52 : Krishna and the Bacchan family play cricket in an attempt to cheer Sangam up. Later, Krishna is sad when he finds out Sangam plans on reimbursing him.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33257755_b_h10_ab.jpg"/>
   </programme>
   <programme start="20260811210000 +0000" stop="20260811220000 +0000" channel="colorshd">
@@ -1863,7 +1863,7 @@
   </programme>
   <programme start="20260811233000 +0000" stop="20260812000000 +0000" channel="colorshd">
     <title lang="en">Bareilly Ke Bachchan</title>
-    <desc lang="en">S1 , E52 : The ambitious Sangam faces a series of challenges when she marries the carefree Krishna Bacchan and enters a household of men unaccustomed to living with a woman.</desc>
+    <desc lang="en">S1 , E52 : Krishna and the Bacchan family play cricket in an attempt to cheer Sangam up. Later, Krishna is sad when he finds out Sangam plans on reimbursing him.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33257755_b_h10_ab.jpg"/>
   </programme>
   <programme start="20260812000000 +0000" stop="20260812003000 +0000" channel="colorshd">
@@ -2342,39 +2342,29 @@
     <icon src="https://stap.tmsimg.com/assets/p29379941_b_h8_ab.jpg"/>
   </programme>
   <programme start="20260811200000 +0000" stop="20260811210000 +0000" channel="flowersinternational">
-    <title lang="en">Flowers Comedy Ith Item Vere</title>
-    <desc lang="en">Comedians take the stage and perform hilarious skits, showcasing their talent and attempting to impress the judges, in order to win the competition.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29170189_b_h8_ab.jpg"/>
+    <title lang="en">Flowers Comedy - Ithu Item Vere</title>
+    <desc lang="en">S1 , E640 : Contestants showcase their comic prowess through entertaining and hilarious performances and skits in front of a panel of esteemed judges as they compete for a grand prize.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p31653490_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260811210000 +0000" stop="20260811213000 +0000" channel="flowersinternational">
-    <title lang="en">Panchagni</title>
-    <desc lang="en">A restaurant named Pancharatnam is run by five sisters, while their stepmother tries different tactics to close their business.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29170753_b_h8_ab.jpg"/>
+    <title lang="en">Flowers Comedy Golden Punch</title>
+    <desc lang="en">S1 , E11 : </desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/UcNLhTLh.jpg"/>
   </programme>
-  <programme start="20260811213000 +0000" stop="20260811220000 +0000" channel="flowersinternational">
-    <title lang="en">Veettile Vilakku</title>
-    <desc lang="en">A mother goes through various struggles and hardships as she battles for her child and motherhood amidst a complex family relationship.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29496588_b_h10_ac.jpg"/>
+  <programme start="20260811213000 +0000" stop="20260811230000 +0000" channel="flowersinternational">
+    <title lang="en">Top Singer 6</title>
+    <desc lang="en">S1 , E262 : </desc>
+    <icon src="https://stap.tmsimg.com/assets/p31383823_b_h10_aa.jpg"/>
   </programme>
-  <programme start="20260811220000 +0000" stop="20260811223000 +0000" channel="flowersinternational">
-    <title lang="en">Uppum Mulakum</title>
-    <desc lang="en">Balachandran and Neelima, who face many challenges to earn a living, aim to successfully fulfil their wish of going to a foreign country.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29171156_b_h8_ad.jpg"/>
-  </programme>
-  <programme start="20260811223000 +0000" stop="20260811233000 +0000" channel="flowersinternational">
-    <title lang="en">Flowers Top Singer 5</title>
-    <desc lang="en">Talented young singers compete against each other as they perform on stage in front of a panel of judges to emerge victorious and win the title.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29495896_b_h10_ac.jpg"/>
-  </programme>
-  <programme start="20260811233000 +0000" stop="20260812000000 +0000" channel="flowersinternational">
-    <title lang="en">Veettile Vilakku</title>
-    <desc lang="en">A mother goes through various struggles and hardships as she battles for her child and motherhood amidst a complex family relationship.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29496588_b_h10_ac.jpg"/>
+  <programme start="20260811230000 +0000" stop="20260812000000 +0000" channel="flowersinternational">
+    <title lang="en">Flowers Comedy - Ithu Item Vere</title>
+    <desc lang="en">S1 , E640 : Contestants showcase their comic prowess through entertaining and hilarious performances and skits in front of a panel of esteemed judges as they compete for a grand prize.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p31653490_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260812000000 +0000" stop="20260812003000 +0000" channel="flowersinternational">
-    <title lang="en">Sukhamo Devi</title>
-    <desc lang="en">Devika is in love with Nandagopan, but Karthikeyan forces her to marry him. She elopes with Nandagopan only to get abandoned by him at the temple, which leads her to marry his friend.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29170986_b_h8_ab.jpg"/>
+    <title lang="en">Flowers Comedy Golden Moments</title>
+    <desc lang="en">S1 , E217 : Revisit the best moments of the show 'Flowers Comedy,' where comedians put on their greatest skits and performances for the audience.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p29170069_b_h10_ab.jpg"/>
   </programme>
   <programme start="20260811000000 +0000" stop="20260811010000 +0000" channel="arydigital">
     <title lang="en">Good Morning Pakistan</title>
@@ -3548,7 +3538,7 @@
   </programme>
   <programme start="20260811043000 +0000" stop="20260811050000 +0000" channel="zeetamil">
     <title lang="en">Thirumangalyam</title>
-    <desc lang="en">S1 , E202 : Seetha faces family duties, social pressure, and love, seeking dignity through marriage and self-respect while balancing illegitimacy, relationships, and redemption in a restrictive society.</desc>
+    <desc lang="en">S1 , E202 : Lakshmi sets off for Kodaikanal alongside Thiru, completely oblivious to any danger. Meanwhile, Kavitha secretly tampers with the vehicle's brakes to cause an accident.</desc>
     <icon src="https://stap.tmsimg.com/assets/p11310624_b_h8_ab.jpg"/>
   </programme>
   <programme start="20260811050000 +0000" stop="20260811053100 +0000" channel="zeetamil">
@@ -3588,7 +3578,7 @@
   </programme>
   <programme start="20260811083000 +0000" stop="20260811090000 +0000" channel="zeetamil">
     <title lang="en">Idhayam</title>
-    <desc lang="en">S4 , E1073 : Bharathi donates his heart to Aadhi. Aadhi seeks out Bharathi to express gratitude. They feel an immediate connection. Could this be the beginning of a meaningful relationship?</desc>
+    <desc lang="en">S1 , E1073 : A shy woman from a small town falls for a wealthy tycoon but struggles to express her feelings. Subsequently, she tries to overcome her insecurities.</desc>
     <icon src="https://stap.tmsimg.com/assets/p29123848_b_h8_ab.jpg"/>
   </programme>
   <programme start="20260811090000 +0000" stop="20260811093000 +0000" channel="zeetamil">
@@ -3683,7 +3673,7 @@
   </programme>
   <programme start="20260811180200 +0000" stop="20260811183100 +0000" channel="zeetamil">
     <title lang="en">Idhayam</title>
-    <desc lang="en">S4 , E1073 : Bharathi donates his heart to Aadhi. Aadhi seeks out Bharathi to express gratitude. They feel an immediate connection. Could this be the beginning of a meaningful relationship?</desc>
+    <desc lang="en">S1 , E1073 : A shy woman from a small town falls for a wealthy tycoon but struggles to express her feelings. Subsequently, she tries to overcome her insecurities.</desc>
     <icon src="https://stap.tmsimg.com/assets/p29123848_b_h8_ab.jpg"/>
   </programme>
   <programme start="20260811183100 +0000" stop="20260811190000 +0000" channel="zeetamil">
@@ -3778,7 +3768,7 @@
   </programme>
   <programme start="20260811033000 +0000" stop="20260811040000 +0000" channel="zeemarathi">
     <title lang="en">Krushnaichya Leki</title>
-    <desc lang="en">S1 , E54 : Facing abandonment and pain, a resilient single mother and her three daughters stand united and strong, weathering life's various challenges with perseverance and grace.</desc>
+    <desc lang="en">S1 , E54 : Krushnai goes to extreme lengths to stop Gauri from filing a complaint. Subsequently, Matoshree opens her heart to Krushnai.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33371774_b_h8_aa.jpg"/>
   </programme>
   <programme start="20260811040000 +0000" stop="20260811043000 +0000" channel="zeemarathi">
@@ -3798,7 +3788,7 @@
   </programme>
   <programme start="20260811053000 +0000" stop="20260811060000 +0000" channel="zeemarathi">
     <title lang="en">Krushnaichya Leki</title>
-    <desc lang="en">S1 , E54 : Facing abandonment and pain, a resilient single mother and her three daughters stand united and strong, weathering life's various challenges with perseverance and grace.</desc>
+    <desc lang="en">S1 , E54 : Krushnai goes to extreme lengths to stop Gauri from filing a complaint. Subsequently, Matoshree opens her heart to Krushnai.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33371774_b_h8_aa.jpg"/>
   </programme>
   <programme start="20260811060000 +0000" stop="20260811063000 +0000" channel="zeemarathi">
@@ -3838,7 +3828,7 @@
   </programme>
   <programme start="20260811100000 +0000" stop="20260811103000 +0000" channel="zeemarathi">
     <title lang="en">Krushnaichya Leki</title>
-    <desc lang="en">S1 , E54 : Facing abandonment and pain, a resilient single mother and her three daughters stand united and strong, weathering life's various challenges with perseverance and grace.</desc>
+    <desc lang="en">S1 , E54 : Krushnai goes to extreme lengths to stop Gauri from filing a complaint. Subsequently, Matoshree opens her heart to Krushnai.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33371774_b_h8_aa.jpg"/>
   </programme>
   <programme start="20260811103000 +0000" stop="20260811110000 +0000" channel="zeemarathi">
@@ -3898,7 +3888,7 @@
   </programme>
   <programme start="20260811160000 +0000" stop="20260811163000 +0000" channel="zeemarathi">
     <title lang="en">Taarini</title>
-    <desc lang="en">S1 , E347 : Taarini is a quiet daughter at home and a brave undercover cop outside. As she searches for justice for her mother, tough truths force her to make hard choices.</desc>
+    <desc lang="en">S1 , E347 : Taarini's suspicions are aroused when she overhears Kaushiki's phone conversation. Later, a bad omen ruins her 'puja' with Kedar.</desc>
     <icon src="https://stap.tmsimg.com/assets/p30905426_b_h10_ac.jpg"/>
   </programme>
   <programme start="20260811163000 +0000" stop="20260811170200 +0000" channel="zeemarathi">
