@@ -1783,7 +1783,7 @@
   </programme>
   <programme start="20260812140000 +0000" stop="20260812150000 +0000" channel="colorshd">
     <title lang="en">Bhojpuri Bawaal</title>
-    <desc lang="en">S1 , E10 : A look into the daily routines and personal lives of prominent Bhojpuri celebrities, revealing personal stories whilst showcasing regional cultural pride.</desc>
+    <desc lang="en">S1 , E10 : Nirahua delivers a powerful political speech as pressure mounts on Pawan to join politics. Later, Kajal opens up about her past relationships and controversies.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33661133_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260812150000 +0000" stop="20260812153000 +0000" channel="colorshd">
@@ -2638,7 +2638,7 @@
   </programme>
   <programme start="20260812130000 +0000" stop="20260812133000 +0000" channel="asianetplushd">
     <title lang="en">Eatho Janma Kalpanayil</title>
-    <desc lang="en">S1 , E345 : Love blooms between Sruthy, a cheerful girl from a humble background and Ashwin, an arrogant wealthy businessman when they accidentally come across each other.</desc>
+    <desc lang="en">S1 , E345 : Anjali suggests a plan when Sruthi gets concerned about Ashwin's whereabouts. Meanwhile, the family gives Barbie an emotional farewell as she leaves for boarding school.</desc>
     <icon src="https://stap.tmsimg.com/assets/p26614570_b_h10_ad.jpg"/>
   </programme>
   <programme start="20260812133000 +0000" stop="20260812140000 +0000" channel="asianetplushd">
@@ -3156,15 +3156,15 @@
     <desc lang="en">Subhash, a daredevil officer, raises his voice against injustice when he comes across a few politically influential people. However, when his family is brutally murdered, he sets out to exact revenge.</desc>
     <icon src="https://stap.tmsimg.com/assets/p16363572_b_h8_aj.jpg"/>
   </programme>
-  <programme start="20260812192500 +0000" stop="20260812230000 +0000" channel="emsimplysouth">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/GLmMTbx9.jpg"/>
+  <programme start="20260812192500 +0000" stop="20260812215200 +0000" channel="emsimplysouth">
+    <title lang="en">Manithan</title>
+    <desc lang="en">In order to earn quick money and fame, a struggling lawyer accepts a bribe and joins hands with a man who pretends to be a witness in a case. However, his conscience forces him to fight for justice.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p12837150_v_h10_aa.jpg"/>
   </programme>
-  <programme start="20260812230000 +0000" stop="20260813020000 +0000" channel="emsimplysouth">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/GLmMTbx9.jpg"/>
+  <programme start="20260812215200 +0000" stop="20260813004200 +0000" channel="emsimplysouth">
+    <title lang="en">Puli</title>
+    <desc lang="en">Marudheeran goes on a quest to bring back his love, Pavazhamalli, who was kidnapped by the Vedhalams, a group that possesses mystical powers. He must face Yavanarani, a sorceress, and her aide.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p12149527_v_h10_ab.jpg"/>
   </programme>
   <programme start="20260812000000 +0000" stop="20260812000000 +0000" channel="ntvhd">
     <title lang="en">Movie</title>
@@ -3957,9 +3957,9 @@
     <icon src="https://stap.tmsimg.com/assets/p29492543_b_h10_ad.jpg"/>
   </programme>
   <programme start="20260812000000 +0000" stop="20260812002700 +0000" channel="zeebangla">
-    <title lang="en">Patanjali Yog by Yog Rishi Swami Ramdev</title>
-    <desc lang="en">S1 , E521 : Renowned Indian spiritual leader Swami Ramdev delivers demonstrations of various yoga poses and exercises for a healthy life.</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/f3kpHdtF.jpg"/>
+    <title lang="en">Patanjali Yog - By Yogrishi Swami Ramdev</title>
+    <desc lang="en">S1 , E521 : Baba Ramdev emphasises the importance of yoga and demonstrates various asanas and breathing exercises that enable one to lead a healthy and stress-free life.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p28747290_b_h8_ab.jpg"/>
   </programme>
   <programme start="20260812002700 +0000" stop="20260812023200 +0000" channel="zeebangla">
     <title lang="en">Dabaru</title>
@@ -4008,13 +4008,13 @@
   </programme>
   <programme start="20260812213100 +0000" stop="20260812233000 +0000" channel="zeebangla">
     <title lang="en">Shonar Pahar</title>
-    <desc lang="en">Shonar Pahar</desc>
+    <desc lang="en">Upama, who is in her seventies, shares a strained bond with her son Soumya. Meanwhile, her close connection with young Bittu highlights family rifts.</desc>
     <icon src="https://stap.tmsimg.com/assets/p15822684_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260812233000 +0000" stop="20260813003000 +0000" channel="zeebangla">
-    <title lang="en">Patanjali Yog by Yog Rishi Swami Ramdev</title>
-    <desc lang="en">S1 , E522 : Renowned Indian spiritual leader Swami Ramdev delivers demonstrations of various yoga poses and exercises for a healthy life.</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/f3kpHdtF.jpg"/>
+    <title lang="en">Patanjali Yog - By Yogrishi Swami Ramdev</title>
+    <desc lang="en">S1 , E522 : Baba Ramdev emphasises the importance of yoga and demonstrates various asanas and breathing exercises that enable one to lead a healthy and stress-free life.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p28747290_b_h8_ab.jpg"/>
   </programme>
   <programme start="20260812000000 +0000" stop="20260812000000 +0000" channel="m80moasa">
     <title lang="en">M80 Moosa</title>
