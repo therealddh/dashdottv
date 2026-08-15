@@ -1613,7 +1613,7 @@
   </programme>
   <programme start="20260815150000 +0000" stop="20260815153000 +0000" channel="starplushd">
     <title lang="en">Sairaab</title>
-    <desc lang="en">S1 , E75 : Single mother Dr. Noyonika helps pop star sensation Ishaan regain his voice, to the delight of her daughter. But tensions rise as they fall for each other.</desc>
+    <desc lang="en">S1 , E75 : The doctor informs Ishaan's family that he could lose some of his memories. Later, the Basus ask Nayanika to get out of the house.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33240882_b_h8_ab.jpg"/>
   </programme>
   <programme start="20260815153000 +0000" stop="20260815160000 +0000" channel="starplushd">
@@ -3722,9 +3722,9 @@
     <icon src="https://stap.tmsimg.com/assets/p29492543_b_h10_ad.jpg"/>
   </programme>
   <programme start="20260815000000 +0000" stop="20260815002500 +0000" channel="zeebangla">
-    <title lang="en">Patanjali Yog - By Yogrishi Swami Ramdev</title>
-    <desc lang="en">S1 , E1487 : Baba Ramdev emphasises the importance of yoga and demonstrates various asanas and breathing exercises that enable one to lead a healthy and stress-free life.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p28747290_b_h8_ab.jpg"/>
+    <title lang="en">Abar Bochhor Koori Pore</title>
+    <desc lang="en">Twenty years after their school, a group of friends reunite and as they recall their old days, their bonding gets tested, and they are compelled to reconsider their relationship.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p30540768_b_h8_ab.jpg"/>
   </programme>
   <programme start="20260815002500 +0000" stop="20260815023000 +0000" channel="zeebangla">
     <title lang="en">8/12 Binoy Badal Dinesh</title>
