@@ -1358,7 +1358,7 @@
   </programme>
   <programme start="20260816173000 +0000" stop="20260816180000 +0000" channel="zeetvhd">
     <title lang="en">Jaane Anjaane Hum Mile</title>
-    <desc lang="en">S1 , E607 : Reet, a career-oriented woman, finds it difficult to deal with the societal pressures of marriage alongside navigating her life as a journalist.</desc>
+    <desc lang="en">S1 , E607 : Reet, a determined journalist, navigates the struggles of her 'atta-satta' marriage, uncovering family secrets and challenging societal norms in her quest for justice and true love.</desc>
     <icon src="https://stap.tmsimg.com/assets/p28717999_b_h8_ab.jpg"/>
   </programme>
   <programme start="20260816180000 +0000" stop="20260816183000 +0000" channel="zeetvhd">
@@ -1408,7 +1408,7 @@
   </programme>
   <programme start="20260816230000 +0000" stop="20260816233000 +0000" channel="zeetvhd">
     <title lang="en">Jaane Anjaane Hum Mile</title>
-    <desc lang="en">S1 , E607 : Reet, a career-oriented woman, finds it difficult to deal with the societal pressures of marriage alongside navigating her life as a journalist.</desc>
+    <desc lang="en">S1 , E607 : Reet, a determined journalist, navigates the struggles of her 'atta-satta' marriage, uncovering family secrets and challenging societal norms in her quest for justice and true love.</desc>
     <icon src="https://stap.tmsimg.com/assets/p28717999_b_h8_ab.jpg"/>
   </programme>
   <programme start="20260816233000 +0000" stop="20260817000000 +0000" channel="zeetvhd">
@@ -1686,25 +1686,15 @@
     <desc lang="en">S1 , E5256 : Dr Abhimanyu, a misogamist, finds himself getting attracted to Akshara, Kartik and Naira's daughter. Things take a tricky turn when Akshara's half-sister, Arohi, falls in love with him.</desc>
     <icon src="https://stap.tmsimg.com/assets/p1002730_b_h8_ad.jpg"/>
   </programme>
-  <programme start="20260816000000 +0000" stop="20260816003000 +0000" channel="colorshd">
+  <programme start="20260816000000 +0000" stop="20260816010000 +0000" channel="colorshd">
     <title lang="en">Khatron Ke Khiladi</title>
     <desc lang="en">S15 , E5 : 12 contestants battle it out at a number of exotic locations as they perform several hair-raising stunts to win the competition.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33679624_b_h8_aa.jpg"/>
   </programme>
-  <programme start="20260816003000 +0000" stop="20260816010000 +0000" channel="colorshd">
-    <title lang="en">Tuu Juliet Jatt Di</title>
-    <desc lang="en">S1 , E272 : Focused Heer encounters privileged Nawab, sparking an unexpected romance. Their journey unfolds amidst challenges, revealing a tale of love intertwined with deception and emotional turmoil.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p31644915_b_h10_ad.jpg"/>
-  </programme>
-  <programme start="20260816010000 +0000" stop="20260816013000 +0000" channel="colorshd">
-    <title lang="en">DR. Aarambhi</title>
-    <desc lang="en">S1 , E161 : Bound by marriage, former AIPMT topper Aarambhi clings to a hidden dream, waiting for the spark to ignite her second act.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p32220715_b_h10_ab.jpg"/>
-  </programme>
-  <programme start="20260816013000 +0000" stop="20260816020000 +0000" channel="colorshd">
-    <title lang="en">Seher Hone Ko Hai</title>
-    <desc lang="en">S1 , E193 : A gentleman confronts another man for improper conduct toward a woman. Thus, questions expose hidden abuse and her true desires.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p31812237_b_h10_ab.jpg"/>
+  <programme start="20260816010000 +0000" stop="20260816020000 +0000" channel="colorshd">
+    <title lang="en">108 Base Hospital - Uri</title>
+    <desc lang="en">S1 , E1 : </desc>
+    <icon src="https://stap.tmsimg.com/assets/p33657931_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260816020000 +0000" stop="20260816023000 +0000" channel="colorshd">
     <title lang="en">Tuu Juliet Jatt Di</title>
@@ -1761,15 +1751,10 @@
     <desc lang="en">S1 , E525 : A woman feels deep remorse as haunting memories return, yet she finds the strength to stand firm. Later, a surprising comparison reveals familiar habits that reopen old wounds.</desc>
     <icon src="https://stap.tmsimg.com/assets/p29088354_b_h8_aa.jpg"/>
   </programme>
-  <programme start="20260816160000 +0000" stop="20260816163000 +0000" channel="colorshd">
-    <title lang="en">DR. Aarambhi</title>
-    <desc lang="en">S1 , E162 : Bound by marriage, former AIPMT topper Aarambhi clings to a hidden dream, waiting for the spark to ignite her second act.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p32220715_b_h10_ab.jpg"/>
-  </programme>
-  <programme start="20260816163000 +0000" stop="20260816170000 +0000" channel="colorshd">
-    <title lang="en">Seher Hone Ko Hai</title>
-    <desc lang="en">S1 , E194 : Seher is a young woman with big dreams, and her mother, Kausar, is determined to overcome societal barriers in her daughter's way.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p31812237_b_h10_ab.jpg"/>
+  <programme start="20260816160000 +0000" stop="20260816170000 +0000" channel="colorshd">
+    <title lang="en">108 Base Hospital - Uri</title>
+    <desc lang="en">S1 , E2 : </desc>
+    <icon src="https://stap.tmsimg.com/assets/p33657931_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260816170000 +0000" stop="20260816183000 +0000" channel="colorshd">
     <title lang="en">Khatron Ke Khiladi</title>
@@ -1781,45 +1766,30 @@
     <desc lang="en">S1 , E15 : A look into the daily routines and personal lives of prominent Bhojpuri celebrities, revealing personal stories whilst showcasing regional cultural pride.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33661133_b_h10_aa.jpg"/>
   </programme>
-  <programme start="20260816193000 +0000" stop="20260816200000 +0000" channel="colorshd">
+  <programme start="20260816193000 +0000" stop="20260816202000 +0000" channel="colorshd">
+    <title lang="en">Juhi Mui</title>
+    <desc lang="en">S1 , E41 : Juhi tries to look for a pattern of evidence from the information collected. Later, she feels anxious as the verification process for two women remains unfinished.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p33428426_b_h8_aa.jpg"/>
+  </programme>
+  <programme start="20260816202000 +0000" stop="20260816210000 +0000" channel="colorshd">
+    <title lang="en">Mahadev &amp; Sons</title>
+    <desc lang="en">S1 , E165 : Mahadev's principled approach to guiding his family with a firm hand unintentionally sows the seeds of rebellion, ushering in an era of generational discord.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p32050463_b_h8_ac.jpg"/>
+  </programme>
+  <programme start="20260816210000 +0000" stop="20260816220000 +0000" channel="colorshd">
+    <title lang="en">Bhojpuri Bawaal</title>
+    <desc lang="en">S1 , E15 : A look into the daily routines and personal lives of prominent Bhojpuri celebrities, revealing personal stories whilst showcasing regional cultural pride.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p33661133_b_h10_aa.jpg"/>
+  </programme>
+  <programme start="20260816220000 +0000" stop="20260816230000 +0000" channel="colorshd">
+    <title lang="en">108 Base Hospital - Uri</title>
+    <desc lang="en">S1 , E2 : </desc>
+    <icon src="https://stap.tmsimg.com/assets/p33657931_b_h10_aa.jpg"/>
+  </programme>
+  <programme start="20260816230000 +0000" stop="20260817003000 +0000" channel="colorshd">
     <title lang="en">Khatron Ke Khiladi</title>
     <desc lang="en">S15 , E6 : 12 contestants battle it out at a number of exotic locations as they perform several hair-raising stunts to win the competition.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33679624_b_h8_aa.jpg"/>
-  </programme>
-  <programme start="20260816200000 +0000" stop="20260816213000 +0000" channel="colorshd">
-    <title lang="en">Khatron Ke Khiladi</title>
-    <desc lang="en">S15 , E1 : Tune in as Rohit Shetty is back again with an enthralling season, hosting contestants who perform stunts that are bigger, tougher and more unpredictable.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p33679624_b_h8_aa.jpg"/>
-  </programme>
-  <programme start="20260816213000 +0000" stop="20260816220000 +0000" channel="colorshd">
-    <title lang="en">Tuu Juliet Jatt Di</title>
-    <desc lang="en">S1 , E273 : Focused Heer encounters privileged Nawab, sparking an unexpected romance. Their journey unfolds amidst challenges, revealing a tale of love intertwined with deception and emotional turmoil.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p31644915_b_h10_ad.jpg"/>
-  </programme>
-  <programme start="20260816220000 +0000" stop="20260816223000 +0000" channel="colorshd">
-    <title lang="en">Mannat Harr Khushi Paane Ki</title>
-    <desc lang="en">S1 , E525 : A woman feels deep remorse as haunting memories return, yet she finds the strength to stand firm. Later, a surprising comparison reveals familiar habits that reopen old wounds.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29088354_b_h8_aa.jpg"/>
-  </programme>
-  <programme start="20260816223000 +0000" stop="20260816230000 +0000" channel="colorshd">
-    <title lang="en">Bareilly Ke Bachchan</title>
-    <desc lang="en">S1 , E47 : Ambitious Sangam decides to marry the carefree Krishna Bacchan and enters a household of men unaccustomed to living with a woman.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p33257755_b_h10_ab.jpg"/>
-  </programme>
-  <programme start="20260816230000 +0000" stop="20260816233000 +0000" channel="colorshd">
-    <title lang="en">Bareilly Ke Bachchan</title>
-    <desc lang="en">S1 , E48 : The ambitious Sangam faces a series of challenges when she marries the carefree Krishna Bacchan and enters a household of men unaccustomed to living with a woman.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p33257755_b_h10_ab.jpg"/>
-  </programme>
-  <programme start="20260816233000 +0000" stop="20260817000000 +0000" channel="colorshd">
-    <title lang="en">Bareilly Ke Bachchan</title>
-    <desc lang="en">S1 , E49 : Regretting his rude behaviour, Satluj presents Sangam with a thoughtful gift to apologise. Meanwhile, Sangam asks Krishna for help finding work, leaving him conflicted.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p33257755_b_h10_ab.jpg"/>
-  </programme>
-  <programme start="20260817000000 +0000" stop="20260817003000 +0000" channel="colorshd">
-    <title lang="en">Bareilly Ke Bachchan</title>
-    <desc lang="en">S1 , E50 : Aarti's parents file a complaint, leading to Ajab's arrest. After feeling hurt by Satluj, Sangam brings an apology gift and asks Krishna for help finding a job.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p33257755_b_h10_ab.jpg"/>
   </programme>
   <programme start="20260816000000 +0000" stop="20260816004300 +0000" channel="setmax">
     <title lang="en">Bagheera</title>
