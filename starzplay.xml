@@ -2638,7 +2638,7 @@
   </programme>
   <programme start="20260819123000 +0000" stop="20260819130000 +0000" channel="asianetplushd">
     <title lang="en">Malikappuram</title>
-    <desc lang="en">S1 , E182 : When Unnimol, a young girl child, faces dismissal from all her relatives and community, Lord Ayyappan takes the form of a school student to help her overcome obstacles.</desc>
+    <desc lang="en">S1 , E182 : A young soul's faith and innocence are tested through loss and miracles, leading to a heartfelt journey of hope, courage and the strength of belief.</desc>
     <icon src="https://stap.tmsimg.com/assets/p26030289_b_h10_ae.jpg"/>
   </programme>
   <programme start="20260819130000 +0000" stop="20260819133000 +0000" channel="asianetplushd">
@@ -2728,7 +2728,7 @@
   </programme>
   <programme start="20260819040000 +0000" stop="20260819043000 +0000" channel="asianethd">
     <title lang="en">Ivar Vivahitharayal</title>
-    <desc lang="en">S1 , E59 : Bhoomi returns to her biological residence under a binding contract without realizing her true lineage. Confronted by formidable adversaries, she consequently battles to safeguard her love and reclaim her genuine identity.</desc>
+    <desc lang="en">S1 , E59 : Bound by a contract, Bhoomi unknowingly returns to her biological home. Surrounded by powerful enemies, she must fight for love and her true identity.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33275383_b_h8_aa.jpg"/>
   </programme>
   <programme start="20260819043000 +0000" stop="20260819050000 +0000" channel="asianethd">
@@ -3753,7 +3753,7 @@
   </programme>
   <programme start="20260819040000 +0000" stop="20260819043000 +0000" channel="zeemarathi">
     <title lang="en">Sanai Chaughade</title>
-    <desc lang="en">S1 , E150 : Weighed down by his past, Jay rejects the idea of love. But Sharvari comes into his life and destiny ignites a conflict of beliefs, compelling them to explore if they can mend past scars with love.</desc>
+    <desc lang="en">S1 , E150 : Jay becomes increasingly enchanted by Sharvari as the group enjoys playful and carefree times during their holiday getaway.</desc>
     <icon src="https://stap.tmsimg.com/assets/p32659244_b_h10_ad.jpg"/>
   </programme>
   <programme start="20260819043000 +0000" stop="20260819050000 +0000" channel="zeemarathi">
@@ -3783,7 +3783,7 @@
   </programme>
   <programme start="20260819065800 +0000" stop="20260819072800 +0000" channel="zeemarathi">
     <title lang="en">Sanai Chaughade</title>
-    <desc lang="en">S1 , E150 : Weighed down by his past, Jay rejects the idea of love. But Sharvari comes into his life and destiny ignites a conflict of beliefs, compelling them to explore if they can mend past scars with love.</desc>
+    <desc lang="en">S1 , E150 : Jay becomes increasingly enchanted by Sharvari as the group enjoys playful and carefree times during their holiday getaway.</desc>
     <icon src="https://stap.tmsimg.com/assets/p32659244_b_h10_ad.jpg"/>
   </programme>
   <programme start="20260819072800 +0000" stop="20260819080200 +0000" channel="zeemarathi">
@@ -3798,7 +3798,7 @@
   </programme>
   <programme start="20260819090200 +0000" stop="20260819093200 +0000" channel="zeemarathi">
     <title lang="en">Sanai Chaughade</title>
-    <desc lang="en">S1 , E150 : Weighed down by his past, Jay rejects the idea of love. But Sharvari comes into his life and destiny ignites a conflict of beliefs, compelling them to explore if they can mend past scars with love.</desc>
+    <desc lang="en">S1 , E150 : Jay becomes increasingly enchanted by Sharvari as the group enjoys playful and carefree times during their holiday getaway.</desc>
     <icon src="https://stap.tmsimg.com/assets/p32659244_b_h10_ad.jpg"/>
   </programme>
   <programme start="20260819093200 +0000" stop="20260819100200 +0000" channel="zeemarathi">
@@ -4266,44 +4266,59 @@
     <desc lang="en">Mohanakrishnan, an honest village officer, is constantly at odds with his wife Satyabhama, a shrewd and practical lawyer.</desc>
     <icon src="https://evisioneand.com/image/catalog/user-8/Karyam Nissaram - 1920 X 1080.jpg"/>
   </programme>
-  <programme start="20260819000000 +0000" stop="20260819050000 +0000" channel="embollywoodunlimited">
+  <programme start="20260819000000 +0000" stop="20260819020700 +0000" channel="embollywoodunlimited">
     <title lang="en">Uri: The Surgical Strike</title>
     <desc lang="en">Major Vihaan Singh Shergill of the Indian Army leads a covert operation against a group of militants who attacked a base in Uri, Kashmir, in 2016 and killed many soldiers.</desc>
     <icon src="https://stap.tmsimg.com/assets/p16424014_v_h10_aa.jpg"/>
   </programme>
-  <programme start="20260819050000 +0000" stop="20260819080000 +0000" channel="embollywoodunlimited">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/2KIOKvF9.jpg"/>
+  <programme start="20260819020700 +0000" stop="20260819050200 +0000" channel="embollywoodunlimited">
+    <title lang="en">Kabir Singh</title>
+    <desc lang="en">A genius but short-tempered surgeon falls madly in love with a girl. However, he begins to self-destruct after the girl's father marries her off to another.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p17031866_v_h10_ad.jpg"/>
   </programme>
-  <programme start="20260819080000 +0000" stop="20260819110000 +0000" channel="embollywoodunlimited">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/2KIOKvF9.jpg"/>
+  <programme start="20260819050200 +0000" stop="20260819083000 +0000" channel="embollywoodunlimited">
+    <title lang="en">Jodhaa Akbar</title>
+    <desc lang="en">Jodhaa is a fiery Rajput princess who is obliged to marry Mughal Emperor Akbar for political reasons. Eventually, mutual respect and admiration between the duo lead to true love.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p175246_v_h8_aa.jpg"/>
   </programme>
-  <programme start="20260819110000 +0000" stop="20260819140000 +0000" channel="embollywoodunlimited">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/2KIOKvF9.jpg"/>
+  <programme start="20260819083000 +0000" stop="20260819105400 +0000" channel="embollywoodunlimited">
+    <title lang="en">Khuda Haafiz: Chapter 2 - Agni Pariksha</title>
+    <desc lang="en">After the death of his friend's brother, Sameer and Nargis adopt his daughter Nandini. However, trouble ensues when she gets kidnapped.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p22072978_b_h8_ae.jpg"/>
   </programme>
-  <programme start="20260819140000 +0000" stop="20260819170000 +0000" channel="embollywoodunlimited">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/2KIOKvF9.jpg"/>
+  <programme start="20260819105400 +0000" stop="20260819130000 +0000" channel="embollywoodunlimited">
+    <title lang="en">Hamari Adhuri Kahani</title>
+    <desc lang="en">Half a decade after her husband went missing, Vasudha, a single mother, falls for Aarav, a hotelier. However, her missing husband, Hari, returns, thereby creating a rift between the two lovers.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p11764059_v_h10_ab.jpg"/>
   </programme>
-  <programme start="20260819170000 +0000" stop="20260819200000 +0000" channel="embollywoodunlimited">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/2KIOKvF9.jpg"/>
+  <programme start="20260819130000 +0000" stop="20260819150500 +0000" channel="embollywoodunlimited">
+    <title lang="en">Patna Shukla</title>
+    <desc lang="en">Tanvi Shukla, a housewife, is also a minor league lawyer. Her skills are put to the ultimate test when she helps a student expose an education scam.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p28974670_v_h10_aa.jpg"/>
   </programme>
-  <programme start="20260819200000 +0000" stop="20260819230000 +0000" channel="embollywoodunlimited">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/2KIOKvF9.jpg"/>
+  <programme start="20260819150500 +0000" stop="20260819170000 +0000" channel="embollywoodunlimited">
+    <title lang="en">Doctor G</title>
+    <desc lang="en">Uday Gupta, a medical student, the only male in the gynaecology department of a medical college, ends up in a series of hilarious situations due to his hesitance.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p23164451_v_h8_aa.jpg"/>
   </programme>
-  <programme start="20260819230000 +0000" stop="20260820034300 +0000" channel="embollywoodunlimited">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/2KIOKvF9.jpg"/>
+  <programme start="20260819170000 +0000" stop="20260819195600 +0000" channel="embollywoodunlimited">
+    <title lang="en">Rocky Aur Rani Ki Prem Kahani</title>
+    <desc lang="en">After facing several differences and family opposition, Rocky and Rani decide to live with each other's families for three months before getting married.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p25177471_v_h10_aa.jpg"/>
+  </programme>
+  <programme start="20260819195600 +0000" stop="20260819215600 +0000" channel="embollywoodunlimited">
+    <title lang="en">Munjya</title>
+    <desc lang="en">When Bittu visits his village, he uncovers a dark family secret involving a vengeful spirit, Munjya, who is desperate to marry. Bittu must navigate through chaos to protect himself and his lover.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p27543903_v_h8_ab.jpg"/>
+  </programme>
+  <programme start="20260819215600 +0000" stop="20260819232900 +0000" channel="embollywoodunlimited">
+    <title lang="en">Mantra</title>
+    <desc lang="en">An Indian proprietor strives to sustain his enterprise against fierce global rivalry. Furthermore, he endeavours to compensate his family for lost time.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p14471993_v_h10_ab.jpg"/>
+  </programme>
+  <programme start="20260819232900 +0000" stop="20260820011300 +0000" channel="embollywoodunlimited">
+    <title lang="en">Bollywood Calling</title>
+    <desc lang="en">Patrick Stormaire, an ill, alcoholic American film director sets out to make a Bollywood movie. However, when he arrives in India, he learns that the script is yet to be written.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p74984_v_h8_ab.jpg"/>
   </programme>
 </tv>
