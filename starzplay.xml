@@ -2286,20 +2286,30 @@
     <desc lang="en">S1 , E260 : </desc>
     <icon src="https://stap.tmsimg.com/assets/p29516605_b_h8_ab.jpg"/>
   </programme>
-  <programme start="20260823193000 +0000" stop="20260823223000 +0000" channel="flowersinternational">
+  <programme start="20260823193000 +0000" stop="20260823200000 +0000" channel="flowersinternational">
+    <title lang="en">Njan Gagan</title>
+    <desc lang="en">A young couple fall in love but are forced to break up because her father disapproves. Later, while defending a family from thugs, the boy unknowingly saves the girl and vows to protect her.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p29818807_b_h8_aa.jpg"/>
+  </programme>
+  <programme start="20260823200000 +0000" stop="20260823223000 +0000" channel="flowersinternational">
     <title lang="en">Njan Gagan</title>
     <desc lang="en">A young couple fall in love but are forced to break up because her father disapproves. Later, while defending a family from thugs, the boy unknowingly saves the girl and vows to protect her.</desc>
     <icon src="https://stap.tmsimg.com/assets/p29818807_b_h8_aa.jpg"/>
   </programme>
   <programme start="20260823223000 +0000" stop="20260823230000 +0000" channel="flowersinternational">
-    <title lang="en">Panchagni</title>
-    <desc lang="en">A restaurant named Pancharatnam is run by five sisters, while their stepmother tries different tactics to close their business.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29170753_b_h8_ab.jpg"/>
+    <title lang="en">Mahalakshmi</title>
+    <desc lang="en">S1 , E553 : Mahalakshmi faces the consequences of her stepfather's actions with strength, while Kannan, who survives an unexpected tragedy, becomes her unexpected support in a journey of survival.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p29379941_b_h8_ab.jpg"/>
   </programme>
-  <programme start="20260823230000 +0000" stop="20260824003000 +0000" channel="flowersinternational">
-    <title lang="en">Flowers Smart Show</title>
-    <desc lang="en">Flowers Smart Show</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29516539_b_h8_ab.jpg"/>
+  <programme start="20260823230000 +0000" stop="20260824000000 +0000" channel="flowersinternational">
+    <title lang="en">Flowers Comedy Ith Item Vere</title>
+    <desc lang="en">S1 , E648 : Comedians take the stage and perform hilarious skits, showcasing their talent and attempting to impress the judges, in order to win the competition.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p29170189_b_h8_ab.jpg"/>
+  </programme>
+  <programme start="20260824000000 +0000" stop="20260824003000 +0000" channel="flowersinternational">
+    <title lang="en">Flowers Comedy Golden Moments</title>
+    <desc lang="en">S1 , E227 : Revisit the best moments of the show 'Flowers Comedy,' where comedians put on their greatest skits and performances for the audience.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p29170069_b_h10_ab.jpg"/>
   </programme>
   <programme start="20260823000000 +0000" stop="20260823010000 +0000" channel="arydigital">
     <title lang="en">Bus Tera Saath Ho</title>
@@ -3911,49 +3921,59 @@
     <desc lang="en">Mohanakrishnan, an honest village officer, is constantly at odds with his wife Satyabhama, a shrewd and practical lawyer.</desc>
     <icon src="https://evisioneand.com/image/catalog/user-8/Karyam Nissaram - 1920 X 1080.jpg"/>
   </programme>
-  <programme start="20260823000000 +0000" stop="20260823020000 +0000" channel="embollywoodunlimited">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/2KIOKvF9.jpg"/>
+  <programme start="20260823000000 +0000" stop="20260823015000 +0000" channel="embollywoodunlimited">
+    <title lang="en">Student of the Year 2</title>
+    <desc lang="en">Rohan follows his lover, Mridula, to St Teresa's college hoping to reunite with her. There, he befriends Manav, the most popular student, but is constantly at loggerheads with his sister, Shreya.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p16826775_v_h8_aa.jpg"/>
   </programme>
-  <programme start="20260823020000 +0000" stop="20260823050000 +0000" channel="embollywoodunlimited">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/2KIOKvF9.jpg"/>
+  <programme start="20260823015000 +0000" stop="20260823043800 +0000" channel="embollywoodunlimited">
+    <title lang="en">Jersey</title>
+    <desc lang="en">A former cricketer in his late 30s returns to the sport to fulfil his son's dream of owning a cricket jersey, battling personal and professional challenges.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p21223178_v_h10_ad.jpg"/>
   </programme>
-  <programme start="20260823050000 +0000" stop="20260823080000 +0000" channel="embollywoodunlimited">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/2KIOKvF9.jpg"/>
+  <programme start="20260823043800 +0000" stop="20260823070400 +0000" channel="embollywoodunlimited">
+    <title lang="en">Barfi!</title>
+    <desc lang="en">Barfi, a hearing and speech-impaired man, scores a second chance at love when he falls for Jhilmil, an autistic girl. However, things get complicated when Shruti, his first love, returns to his life.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p9357315_v_h10_af.jpg"/>
   </programme>
-  <programme start="20260823080000 +0000" stop="20260823110000 +0000" channel="embollywoodunlimited">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/2KIOKvF9.jpg"/>
+  <programme start="20260823070400 +0000" stop="20260823091900 +0000" channel="embollywoodunlimited">
+    <title lang="en">Omkara</title>
+    <desc lang="en">Ishwar dreams of becoming Omkara's successor after the latter wins the election. However, when Omkara appoints Keshav as his lieutenant, he feels betrayed and plots revenge.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p163303_v_h10_ab.jpg"/>
   </programme>
-  <programme start="20260823110000 +0000" stop="20260823140000 +0000" channel="embollywoodunlimited">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/2KIOKvF9.jpg"/>
+  <programme start="20260823091900 +0000" stop="20260823115800 +0000" channel="embollywoodunlimited">
+    <title lang="en">Laal Singh Chaddha</title>
+    <desc lang="en">Laal Singh Chaddha, a man with a disability, recounts the early years of his life to a passenger on a train. Now, his only wish is to be reunited with his childhood sweetheart, Rupa.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p20824854_v_h10_aa.jpg"/>
   </programme>
-  <programme start="20260823140000 +0000" stop="20260823170000 +0000" channel="embollywoodunlimited">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/2KIOKvF9.jpg"/>
+  <programme start="20260823115800 +0000" stop="20260823144100 +0000" channel="embollywoodunlimited">
+    <title lang="en">Rang de Basanti</title>
+    <desc lang="en">When Sue selects a few students to portray various Indian freedom fighters in her film, she unwittingly awakens their patriotism. The emotional and mental process turns them into rebels for a cause.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p160770_v_h10_aa.jpg"/>
   </programme>
-  <programme start="20260823170000 +0000" stop="20260823200000 +0000" channel="embollywoodunlimited">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/2KIOKvF9.jpg"/>
+  <programme start="20260823144100 +0000" stop="20260823170000 +0000" channel="embollywoodunlimited">
+    <title lang="en">Dev D</title>
+    <desc lang="en">Dev D</desc>
+    <icon src="https://stap.tmsimg.com/assets/p186885_v_h10_ab.jpg"/>
   </programme>
-  <programme start="20260823200000 +0000" stop="20260823230000 +0000" channel="embollywoodunlimited">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/2KIOKvF9.jpg"/>
+  <programme start="20260823170000 +0000" stop="20260823191200 +0000" channel="embollywoodunlimited">
+    <title lang="en">Kadak Singh</title>
+    <desc lang="en">Waking up in a hospital with amnesia, a financial officer sets out to solve an embezzlement scheme. Despite being unable to remember anything about himself, he tries to find clues in others' accounts.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p27429885_v_h10_aa.jpg"/>
   </programme>
-  <programme start="20260823230000 +0000" stop="20260824020000 +0000" channel="embollywoodunlimited">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
+  <programme start="20260823191200 +0000" stop="20260823212800 +0000" channel="embollywoodunlimited">
+    <title lang="en">Dhamaal</title>
+    <desc lang="en">Four lazy friends learn about a hidden treasure in Goa and set out to find it. However, a police inspector learns about their plan and begins to pursue them.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p173210_v_h10_ac.jpg"/>
+  </programme>
+  <programme start="20260823212800 +0000" stop="20260823230700 +0000" channel="embollywoodunlimited">
+    <title lang="en">Dark Chocolate</title>
+    <desc lang="en">This thriller murder mystery is an adaptation of the real life murder case of Sheena Bora. The discovery of a charred corpse in the woods, leads to a high-profile murder investigation.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p13207369_v_h11_aa.jpg"/>
+  </programme>
+  <programme start="20260823230700 +0000" stop="20260824012800 +0000" channel="embollywoodunlimited">
+    <title lang="en">Operation Fryday</title>
+    <desc lang="en">Police informer Ghulam holds the force responsible when his brother gets killed in a gang war. As he then kick-starts his own business, he wrongfully gets involved in a series of bomb attacks.</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/2KIOKvF9.jpg"/>
   </programme>
 </tv>
