@@ -773,7 +773,7 @@
   </programme>
   <programme start="20260825120000 +0000" stop="20260825123000 +0000" channel="manoramanews">
     <title lang="en">News Update</title>
-    <desc lang="en">S1 , E24 : The host presents information about the social, economic and political issues of the day and provides updates on current events.</desc>
+    <desc lang="en">A reporter provides informative updates on the latest events, developments, inventions, discoveries and happenings around the world.</desc>
     <icon src="https://stap.tmsimg.com/assets/p21968456_b_h10_ac.jpg"/>
   </programme>
   <programme start="20260825123000 +0000" stop="20260825130000 +0000" channel="manoramanews">
@@ -788,13 +788,13 @@
   </programme>
   <programme start="20260825133000 +0000" stop="20260825140000 +0000" channel="manoramanews">
     <title lang="en">News Update</title>
-    <desc lang="en">S1 , E19 : The host presents information about the social, economic and political issues of the day and provides updates on current events.</desc>
+    <desc lang="en">A reporter provides informative updates on the latest events, developments, inventions, discoveries and happenings around the world.</desc>
     <icon src="https://stap.tmsimg.com/assets/p21968456_b_h10_ac.jpg"/>
   </programme>
   <programme start="20260825140000 +0000" stop="20260825143000 +0000" channel="manoramanews">
-    <title lang="en">Law &amp; Order</title>
-    <desc lang="en">The host delves into significant judicial rulings and legal controversies, highlighting how these decisions shape communities and influence policy.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p31374015_b_h10_ab.jpg"/>
+    <title lang="en">Nayikamar Close Up</title>
+    <desc lang="en">S1 , E1 : </desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/izA3fDAC.jpg"/>
   </programme>
   <programme start="20260825143000 +0000" stop="20260825153000 +0000" channel="manoramanews">
     <title lang="en">Counter Point</title>
@@ -807,8 +807,8 @@
     <icon src="https://stap.tmsimg.com/assets/p31266596_b_h8_ab.jpg"/>
   </programme>
   <programme start="20260825160000 +0000" stop="20260825163000 +0000" channel="manoramanews">
-    <title lang="en">Daily Special Program</title>
-    <desc lang="en">The host presents a detailed analysis of the latest information and developments on various important issues that affect many lives.</desc>
+    <title lang="en">Iru Swaram Oru Shruthi</title>
+    <desc lang="en">S1 , E1 : </desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/izA3fDAC.jpg"/>
   </programme>
   <programme start="20260825163000 +0000" stop="20260825170000 +0000" channel="manoramanews">
@@ -827,8 +827,8 @@
     <icon src="https://stap.tmsimg.com/assets/p21968484_b_h8_ab.jpg"/>
   </programme>
   <programme start="20260825180000 +0000" stop="20260825183000 +0000" channel="manoramanews">
-    <title lang="en">Daily Special Program</title>
-    <desc lang="en">The host presents a detailed analysis of the latest information and developments on various important issues that affect many lives.</desc>
+    <title lang="en">Iru Swaram Oru Shruthi</title>
+    <desc lang="en">S1 , E1 : </desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/izA3fDAC.jpg"/>
   </programme>
   <programme start="20260825183000 +0000" stop="20260825191500 +0000" channel="manoramanews">
@@ -837,13 +837,13 @@
     <icon src="https://stap.tmsimg.com/assets/p15135965_b_h10_ab.jpg"/>
   </programme>
   <programme start="20260825191500 +0000" stop="20260825194000 +0000" channel="manoramanews">
-    <title lang="en">Law &amp; Order</title>
-    <desc lang="en">S1 , E3 : The team probes the murder of a gay man with AIDS. Later, their investigation leads them to the culprit, who claims to be a mercy killer.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p7893679_b_h8_aa.jpg"/>
+    <title lang="en">Nayikamar Close Up</title>
+    <desc lang="en">S1 , E1 : </desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/izA3fDAC.jpg"/>
   </programme>
   <programme start="20260825194000 +0000" stop="20260825200500 +0000" channel="manoramanews">
-    <title lang="en">Daily Special Program</title>
-    <desc lang="en">The host presents a detailed analysis of the latest information and developments on various important issues that affect many lives.</desc>
+    <title lang="en">Iru Swaram Oru Shruthi</title>
+    <desc lang="en">S1 , E1 : </desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/izA3fDAC.jpg"/>
   </programme>
   <programme start="20260825200500 +0000" stop="20260825203000 +0000" channel="manoramanews">
@@ -857,9 +857,9 @@
     <icon src="https://stap.tmsimg.com/assets/p21968558_b_h8_ab.jpg"/>
   </programme>
   <programme start="20260825205500 +0000" stop="20260825212000 +0000" channel="manoramanews">
-    <title lang="en">Law &amp; Order</title>
-    <desc lang="en">S1 , E3 : The team probes the murder of a gay man with AIDS. Later, their investigation leads them to the culprit, who claims to be a mercy killer.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p7893679_b_h8_aa.jpg"/>
+    <title lang="en">Nayikamar Close Up</title>
+    <desc lang="en">S1 , E1 : </desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/izA3fDAC.jpg"/>
   </programme>
   <programme start="20260825212000 +0000" stop="20260825214500 +0000" channel="manoramanews">
     <title lang="en">News Tonight</title>
@@ -872,13 +872,13 @@
     <icon src="https://stap.tmsimg.com/assets/p15135965_b_h10_ab.jpg"/>
   </programme>
   <programme start="20260825223000 +0000" stop="20260825225500 +0000" channel="manoramanews">
-    <title lang="en">Law &amp; Order</title>
-    <desc lang="en">S1 , E3 : The team probes the murder of a gay man with AIDS. Later, their investigation leads them to the culprit, who claims to be a mercy killer.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p7893679_b_h8_aa.jpg"/>
+    <title lang="en">Nayikamar Close Up</title>
+    <desc lang="en">S1 , E1 : </desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/izA3fDAC.jpg"/>
   </programme>
   <programme start="20260825225500 +0000" stop="20260825232000 +0000" channel="manoramanews">
-    <title lang="en">Daily Special Program</title>
-    <desc lang="en">The host presents a detailed analysis of the latest information and developments on various important issues that affect many lives.</desc>
+    <title lang="en">Iru Swaram Oru Shruthi</title>
+    <desc lang="en">S1 , E1 : </desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/izA3fDAC.jpg"/>
   </programme>
   <programme start="20260825232000 +0000" stop="20260825234500 +0000" channel="manoramanews">
@@ -1263,7 +1263,7 @@
   </programme>
   <programme start="20260825153000 +0000" stop="20260825160000 +0000" channel="zeetvhd">
     <title lang="en">Hamari Radha</title>
-    <desc lang="en">S1 , E27 : Radha strives to overcome various challenges in order to save her marriage, along with tackling betrayal and promises which test her resilience.</desc>
+    <desc lang="en">S1 , E27 : Girdhar reprimands Radha and instructs her to vacate the residence. Consequently, Shanaya exhibits immense delight at this news.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33586417_b_h10_ab.jpg"/>
   </programme>
   <programme start="20260825160000 +0000" stop="20260825163000 +0000" channel="zeetvhd">
@@ -1313,7 +1313,7 @@
   </programme>
   <programme start="20260825210000 +0000" stop="20260825213000 +0000" channel="zeetvhd">
     <title lang="en">Hamari Radha</title>
-    <desc lang="en">S1 , E27 : Radha strives to overcome various challenges in order to save her marriage, along with tackling betrayal and promises which test her resilience.</desc>
+    <desc lang="en">S1 , E27 : Girdhar reprimands Radha and instructs her to vacate the residence. Consequently, Shanaya exhibits immense delight at this news.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33586417_b_h10_ab.jpg"/>
   </programme>
   <programme start="20260825213000 +0000" stop="20260825220000 +0000" channel="zeetvhd">
@@ -1513,7 +1513,7 @@
   </programme>
   <programme start="20260825113000 +0000" stop="20260825120000 +0000" channel="starplushd">
     <title lang="en">Sairaab</title>
-    <desc lang="en">S1 , E78 : Malini turns away a devastated Nayanika at the hospital, blocking access to her ailing father. Conflict escalates as Nayanika fights to manage his treatment despite strict demands to exit.</desc>
+    <desc lang="en">S1 , E84 : Bishu Dada does not accept Ishaan's assertions regarding Nayanika. Meanwhile, Ujjaini embarrasses Nayanika by presenting gifts to Adinath and Indrani.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33240882_b_h8_ab.jpg"/>
   </programme>
   <programme start="20260825120000 +0000" stop="20260825123000 +0000" channel="starplushd">
@@ -1553,17 +1553,17 @@
   </programme>
   <programme start="20260825153000 +0000" stop="20260825160000 +0000" channel="starplushd">
     <title lang="en">Yeh Fitoor Tera</title>
-    <desc lang="en">S1 , E21 : Withdrawn Saumya gathers the courage to reshape her existence upon meeting Jeet, a liberated nonconformist. Meanwhile, romance blossoms in Prayagraj.</desc>
+    <desc lang="en">S1 , E21 : Pihu is bravely defended by Saumya when Roop attempts an act of exploitation. Meanwhile, Jeet works tirelessly to shield the other children from those malicious intentions.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33748526_b_h8_ab.jpg"/>
   </programme>
   <programme start="20260825160000 +0000" stop="20260825163000 +0000" channel="starplushd">
     <title lang="en">Oh Humnava Tum Dena Saath Mera</title>
-    <desc lang="en">S1 , E127 : A reserved businessman who avoids romance crosses paths with an artist haunted by a bitter past, leaving the prospect of a budding romance hanging in the balance.</desc>
+    <desc lang="en">S1 , E127 : Following key clues, Aparajita searches the mall to locate Rakshit. Meanwhile, Arvind confronts Sudha and instructs the police to ensure the safety of Ramgopal and Avinash.</desc>
     <icon src="https://stap.tmsimg.com/assets/p32904885_b_h8_ad.jpg"/>
   </programme>
   <programme start="20260825163000 +0000" stop="20260825170000 +0000" channel="starplushd">
     <title lang="en">Anupamaa</title>
-    <desc lang="en">S1 , E2121 : Anupamaa sacrifices her personal ambitions to dedicate her life to her family. However, she eventually decides to live on her own terms after failing to receive credit for her many trials.</desc>
+    <desc lang="en">S1 , E2121 : Pakhi uncovers Gautam and Paritosh's scheme to sabotage Anupama's sense of taste. Meanwhile, the entire group delivers an energetic stage performance before the final round.</desc>
     <icon src="https://stap.tmsimg.com/assets/p18094069_b_h8_ae.jpg"/>
   </programme>
   <programme start="20260825170000 +0000" stop="20260825173000 +0000" channel="starplushd">
@@ -1608,7 +1608,7 @@
   </programme>
   <programme start="20260825223000 +0000" stop="20260825230000 +0000" channel="starplushd">
     <title lang="en">Anupamaa</title>
-    <desc lang="en">S1 , E2121 : Anupamaa sacrifices her personal ambitions to dedicate her life to her family. However, she eventually decides to live on her own terms after failing to receive credit for her many trials.</desc>
+    <desc lang="en">S1 , E2121 : Pakhi uncovers Gautam and Paritosh's scheme to sabotage Anupama's sense of taste. Meanwhile, the entire group delivers an energetic stage performance before the final round.</desc>
     <icon src="https://stap.tmsimg.com/assets/p18094069_b_h8_ae.jpg"/>
   </programme>
   <programme start="20260825230000 +0000" stop="20260825233000 +0000" channel="starplushd">
@@ -1618,7 +1618,7 @@
   </programme>
   <programme start="20260825233000 +0000" stop="20260826000000 +0000" channel="starplushd">
     <title lang="en">Yeh Fitoor Tera</title>
-    <desc lang="en">S1 , E21 : Withdrawn Saumya gathers the courage to reshape her existence upon meeting Jeet, a liberated nonconformist. Meanwhile, romance blossoms in Prayagraj.</desc>
+    <desc lang="en">S1 , E21 : Pihu is bravely defended by Saumya when Roop attempts an act of exploitation. Meanwhile, Jeet works tirelessly to shield the other children from those malicious intentions.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33748526_b_h8_ab.jpg"/>
   </programme>
   <programme start="20260826000000 +0000" stop="20260826003000 +0000" channel="starplushd">
@@ -1753,12 +1753,12 @@
   </programme>
   <programme start="20260825140000 +0000" stop="20260825150000 +0000" channel="colorshd">
     <title lang="en">Bhojpuri Bawaal</title>
-    <desc lang="en">S1 , E23 : A look into the daily routines and personal lives of prominent Bhojpuri celebrities, revealing personal stories whilst showcasing regional cultural pride.</desc>
+    <desc lang="en">S1 , E23 : During an emotional roundtable, Pakhi Hegde opens up regarding her past relationship with Nirahua. However, a sharp debate erupts after a participant makes a controversial remark.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33661133_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260825150000 +0000" stop="20260825153000 +0000" channel="colorshd">
     <title lang="en">Tuu Juliet Jatt Di</title>
-    <desc lang="en">S1 , E282 : Focused Heer encounters privileged Nawab, sparking an unexpected romance. Their journey unfolds amidst challenges, revealing a tale of love intertwined with deception and emotional turmoil.</desc>
+    <desc lang="en">S1 , E282 : Cherry is rescued from a dangerous plunge by Heer during a frantic search for a bag. Meanwhile, an intense turf war breaks out between university seniors and juniors.</desc>
     <icon src="https://stap.tmsimg.com/assets/p31644915_b_h10_ad.jpg"/>
   </programme>
   <programme start="20260825153000 +0000" stop="20260825160000 +0000" channel="colorshd">
@@ -1773,7 +1773,7 @@
   </programme>
   <programme start="20260825163000 +0000" stop="20260825170000 +0000" channel="colorshd">
     <title lang="en">Seher Hone Ko Hai</title>
-    <desc lang="en">S1 , E201 : Seher is a young woman with big dreams, and her mother, Kausar, is determined to overcome societal barriers in her daughter's way.</desc>
+    <desc lang="en">S1 , E201 : To aid the recovery of Mahid, a tragic event is forcibly recreated by Fareed using Seher. Meanwhile, Mahid frantically attempts to rescue Seher before dangerous goons can reach her.</desc>
     <icon src="https://stap.tmsimg.com/assets/p31812237_b_h10_ab.jpg"/>
   </programme>
   <programme start="20260825170000 +0000" stop="20260825173000 +0000" channel="colorshd">
@@ -1798,7 +1798,7 @@
   </programme>
   <programme start="20260825193000 +0000" stop="20260825200000 +0000" channel="colorshd">
     <title lang="en">Tuu Juliet Jatt Di</title>
-    <desc lang="en">S1 , E282 : Focused Heer encounters privileged Nawab, sparking an unexpected romance. Their journey unfolds amidst challenges, revealing a tale of love intertwined with deception and emotional turmoil.</desc>
+    <desc lang="en">S1 , E282 : Cherry is rescued from a dangerous plunge by Heer during a frantic search for a bag. Meanwhile, an intense turf war breaks out between university seniors and juniors.</desc>
     <icon src="https://stap.tmsimg.com/assets/p31644915_b_h10_ad.jpg"/>
   </programme>
   <programme start="20260825200000 +0000" stop="20260825203000 +0000" channel="colorshd">
@@ -1818,7 +1818,7 @@
   </programme>
   <programme start="20260825220000 +0000" stop="20260825223000 +0000" channel="colorshd">
     <title lang="en">Seher Hone Ko Hai</title>
-    <desc lang="en">S1 , E201 : Seher is a young woman with big dreams, and her mother, Kausar, is determined to overcome societal barriers in her daughter's way.</desc>
+    <desc lang="en">S1 , E201 : To aid the recovery of Mahid, a tragic event is forcibly recreated by Fareed using Seher. Meanwhile, Mahid frantically attempts to rescue Seher before dangerous goons can reach her.</desc>
     <icon src="https://stap.tmsimg.com/assets/p31812237_b_h10_ab.jpg"/>
   </programme>
   <programme start="20260825223000 +0000" stop="20260825230000 +0000" channel="colorshd">
