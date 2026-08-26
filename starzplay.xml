@@ -3196,22 +3196,32 @@
     <desc lang="en">S1 , E1592 : A comprehensive compilation of songs and snippets from some of the most popular and trending Tamil movies is played to entertain the audience.</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/klN7lrpJ.jpg"/>
   </programme>
-  <programme start="20260826003000 +0000" stop="20260826010000 +0000" channel="zeetamil">
+  <programme start="20260826003000 +0000" stop="20260826005900 +0000" channel="zeetamil">
     <title lang="en">RJR Hospital</title>
-    <desc lang="en">S1 , E40 : A medical professional sheds light on a range of treatments provided by a reputed hospital whilst sharing a few tips and suggestions on staying safe.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p25355634_b_h10_aa.jpg"/>
+    <desc lang="en">A medical professional sheds light on a range of treatments provided by a reputed hospital whilst sharing a few tips and suggestions on staying safe.</desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/klN7lrpJ.jpg"/>
   </programme>
-  <programme start="20260826010000 +0000" stop="20260826013000 +0000" channel="zeetamil">
+  <programme start="20260826005900 +0000" stop="20260826012900 +0000" channel="zeetamil">
     <title lang="en">Teleshopping</title>
     <desc lang="en">The host showcases the features of a variety of products manufactured by renowned brands that can be purchased from the comfort of one's home.</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/klN7lrpJ.jpg"/>
   </programme>
-  <programme start="20260826013000 +0000" stop="20260826023000 +0000" channel="zeetamil">
+  <programme start="20260826012900 +0000" stop="20260826020000 +0000" channel="zeetamil">
     <title lang="en">Olimayamana Ethirkaalam</title>
     <desc lang="en">S1 , E5863 : Various subject-matter experts provide a comprehensive and detailed insight into future predictions and offer guidance to lead a healthy life.</desc>
     <icon src="https://stap.tmsimg.com/assets/p11071709_b_h8_ab.jpg"/>
   </programme>
-  <programme start="20260826023000 +0000" stop="20260826033000 +0000" channel="zeetamil">
+  <programme start="20260826020000 +0000" stop="20260826023500 +0000" channel="zeetamil">
+    <title lang="en">Olimayamana Ethirkaalam</title>
+    <desc lang="en">S1 , E5863 : Various subject-matter experts provide a comprehensive and detailed insight into future predictions and offer guidance to lead a healthy life.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p11071709_b_h8_ab.jpg"/>
+  </programme>
+  <programme start="20260826023500 +0000" stop="20260826030000 +0000" channel="zeetamil">
+    <title lang="en">Sa Re Ga Ma Pa L'il Champs</title>
+    <desc lang="en">S5 , E39 : Children from across the country take part in a singing competition where they are mentored and judged by famous playback singers from the film industry.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p3568310_b_h10_ab.jpg"/>
+  </programme>
+  <programme start="20260826030000 +0000" stop="20260826033000 +0000" channel="zeetamil">
     <title lang="en">Sa Re Ga Ma Pa L'il Champs</title>
     <desc lang="en">S5 , E39 : Children from across the country take part in a singing competition where they are mentored and judged by famous playback singers from the film industry.</desc>
     <icon src="https://stap.tmsimg.com/assets/p3568310_b_h10_ab.jpg"/>
@@ -3263,12 +3273,12 @@
   </programme>
   <programme start="20260826080000 +0000" stop="20260826083000 +0000" channel="zeetamil">
     <title lang="en">Varisu</title>
-    <desc lang="en">S1 , E332 : Janakambal wants her carefree grandson Cibi to take over her business. She brings in Tamil to guide him, but it's unclear if Cibi is ready to change his ways.</desc>
+    <desc lang="en">S1 , E362 : Savvy businesswoman Janakambal enlists Tamil to reform her wayward grandson Cibi, hoping he'll prove worthy of inheriting her empire.</desc>
     <icon src="https://stap.tmsimg.com/assets/p30590230_b_h10_ac.jpg"/>
   </programme>
   <programme start="20260826083000 +0000" stop="20260826090000 +0000" channel="zeetamil">
     <title lang="en">Idhayam</title>
-    <desc lang="en">S1 , E1085 : A shy woman from a small town falls for a wealthy tycoon but struggles to express her feelings. Subsequently, she tries to overcome her insecurities.</desc>
+    <desc lang="en">S4 , E1085 : A shy woman from a small town falls for a wealthy tycoon but struggles to express her feelings. Subsequently, she tries to overcome her insecurities.</desc>
     <icon src="https://stap.tmsimg.com/assets/p29123848_b_h8_ab.jpg"/>
   </programme>
   <programme start="20260826090000 +0000" stop="20260826093000 +0000" channel="zeetamil">
@@ -3303,7 +3313,7 @@
   </programme>
   <programme start="20260826120000 +0000" stop="20260826123000 +0000" channel="zeetamil">
     <title lang="en">Varisu</title>
-    <desc lang="en">S1 , E332 : Janakambal wants her carefree grandson Cibi to take over her business. She brings in Tamil to guide him, but it's unclear if Cibi is ready to change his ways.</desc>
+    <desc lang="en">S1 , E362 : Savvy businesswoman Janakambal enlists Tamil to reform her wayward grandson Cibi, hoping he'll prove worthy of inheriting her empire.</desc>
     <icon src="https://stap.tmsimg.com/assets/p30590230_b_h10_ac.jpg"/>
   </programme>
   <programme start="20260826123000 +0000" stop="20260826130000 +0000" channel="zeetamil">
@@ -3353,7 +3363,7 @@
   </programme>
   <programme start="20260826170000 +0000" stop="20260826173000 +0000" channel="zeetamil">
     <title lang="en">Varisu</title>
-    <desc lang="en">S1 , E332 : Janakambal wants her carefree grandson Cibi to take over her business. She brings in Tamil to guide him, but it's unclear if Cibi is ready to change his ways.</desc>
+    <desc lang="en">S1 , E362 : Savvy businesswoman Janakambal enlists Tamil to reform her wayward grandson Cibi, hoping he'll prove worthy of inheriting her empire.</desc>
     <icon src="https://stap.tmsimg.com/assets/p30590230_b_h10_ac.jpg"/>
   </programme>
   <programme start="20260826173000 +0000" stop="20260826180000 +0000" channel="zeetamil">
@@ -3363,7 +3373,7 @@
   </programme>
   <programme start="20260826180000 +0000" stop="20260826183000 +0000" channel="zeetamil">
     <title lang="en">Idhayam</title>
-    <desc lang="en">S1 , E1085 : A shy woman from a small town falls for a wealthy tycoon but struggles to express her feelings. Subsequently, she tries to overcome her insecurities.</desc>
+    <desc lang="en">S4 , E1085 : A shy woman from a small town falls for a wealthy tycoon but struggles to express her feelings. Subsequently, she tries to overcome her insecurities.</desc>
     <icon src="https://stap.tmsimg.com/assets/p29123848_b_h8_ab.jpg"/>
   </programme>
   <programme start="20260826183000 +0000" stop="20260826190000 +0000" channel="zeetamil">
@@ -3378,52 +3388,52 @@
   </programme>
   <programme start="20260826193000 +0000" stop="20260826200000 +0000" channel="zeetamil">
     <title lang="en">Free Ticket</title>
-    <desc lang="en">S1 , E1593 : A comprehensive compilation of songs and snippets from some of the most popular and trending Tamil movies is played to entertain the audience.</desc>
+    <desc lang="en">S1 , E1591 : A heartfelt story about second chances and redemption, following a man who receives a mysterious free ticket that leads him on an emotional journey of self-discovery and healing.</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/klN7lrpJ.jpg"/>
   </programme>
   <programme start="20260826200000 +0000" stop="20260826203000 +0000" channel="zeetamil">
     <title lang="en">Free Ticket</title>
-    <desc lang="en">S1 , E1593 : A comprehensive compilation of songs and snippets from some of the most popular and trending Tamil movies is played to entertain the audience.</desc>
+    <desc lang="en">S1 , E1591 : A heartfelt story about second chances and redemption, following a man who receives a mysterious free ticket that leads him on an emotional journey of self-discovery and healing.</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/klN7lrpJ.jpg"/>
   </programme>
   <programme start="20260826203000 +0000" stop="20260826210000 +0000" channel="zeetamil">
     <title lang="en">Free Ticket</title>
-    <desc lang="en">S1 , E1593 : A comprehensive compilation of songs and snippets from some of the most popular and trending Tamil movies is played to entertain the audience.</desc>
+    <desc lang="en">S1 , E1591 : A heartfelt story about second chances and redemption, following a man who receives a mysterious free ticket that leads him on an emotional journey of self-discovery and healing.</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/klN7lrpJ.jpg"/>
   </programme>
   <programme start="20260826210000 +0000" stop="20260826213000 +0000" channel="zeetamil">
     <title lang="en">Free Ticket</title>
-    <desc lang="en">S1 , E1593 : A comprehensive compilation of songs and snippets from some of the most popular and trending Tamil movies is played to entertain the audience.</desc>
+    <desc lang="en">S1 , E1591 : A heartfelt story about second chances and redemption, following a man who receives a mysterious free ticket that leads him on an emotional journey of self-discovery and healing.</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/klN7lrpJ.jpg"/>
   </programme>
   <programme start="20260826213000 +0000" stop="20260826220000 +0000" channel="zeetamil">
     <title lang="en">Free Ticket</title>
-    <desc lang="en">S1 , E1593 : A comprehensive compilation of songs and snippets from some of the most popular and trending Tamil movies is played to entertain the audience.</desc>
+    <desc lang="en">S1 , E1591 : A heartfelt story about second chances and redemption, following a man who receives a mysterious free ticket that leads him on an emotional journey of self-discovery and healing.</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/klN7lrpJ.jpg"/>
   </programme>
   <programme start="20260826220000 +0000" stop="20260826223000 +0000" channel="zeetamil">
     <title lang="en">Free Ticket</title>
-    <desc lang="en">S1 , E1593 : A comprehensive compilation of songs and snippets from some of the most popular and trending Tamil movies is played to entertain the audience.</desc>
+    <desc lang="en">S1 , E1591 : A heartfelt story about second chances and redemption, following a man who receives a mysterious free ticket that leads him on an emotional journey of self-discovery and healing.</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/klN7lrpJ.jpg"/>
   </programme>
   <programme start="20260826223000 +0000" stop="20260826230000 +0000" channel="zeetamil">
     <title lang="en">Free Ticket</title>
-    <desc lang="en">S1 , E1593 : A comprehensive compilation of songs and snippets from some of the most popular and trending Tamil movies is played to entertain the audience.</desc>
+    <desc lang="en">S1 , E1591 : A heartfelt story about second chances and redemption, following a man who receives a mysterious free ticket that leads him on an emotional journey of self-discovery and healing.</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/klN7lrpJ.jpg"/>
   </programme>
   <programme start="20260826230000 +0000" stop="20260826233000 +0000" channel="zeetamil">
     <title lang="en">Free Ticket</title>
-    <desc lang="en">S1 , E1593 : A comprehensive compilation of songs and snippets from some of the most popular and trending Tamil movies is played to entertain the audience.</desc>
+    <desc lang="en">S1 , E1591 : A heartfelt story about second chances and redemption, following a man who receives a mysterious free ticket that leads him on an emotional journey of self-discovery and healing.</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/klN7lrpJ.jpg"/>
   </programme>
   <programme start="20260826233000 +0000" stop="20260827000000 +0000" channel="zeetamil">
     <title lang="en">Free Ticket</title>
-    <desc lang="en">S1 , E1593 : A comprehensive compilation of songs and snippets from some of the most popular and trending Tamil movies is played to entertain the audience.</desc>
+    <desc lang="en">S1 , E1591 : A heartfelt story about second chances and redemption, following a man who receives a mysterious free ticket that leads him on an emotional journey of self-discovery and healing.</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/klN7lrpJ.jpg"/>
   </programme>
   <programme start="20260827000000 +0000" stop="20260827003000 +0000" channel="zeetamil">
     <title lang="en">Free Ticket</title>
-    <desc lang="en">S1 , E1593 : A comprehensive compilation of songs and snippets from some of the most popular and trending Tamil movies is played to entertain the audience.</desc>
+    <desc lang="en">S1 , E1591 : A heartfelt story about second chances and redemption, following a man who receives a mysterious free ticket that leads him on an emotional journey of self-discovery and healing.</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/klN7lrpJ.jpg"/>
   </programme>
   <programme start="20260826000000 +0000" stop="20260826000000 +0000" channel="zeemarathi">
@@ -3463,7 +3473,7 @@
   </programme>
   <programme start="20260826033000 +0000" stop="20260826040000 +0000" channel="zeemarathi">
     <title lang="en">Krushnaichya Leki</title>
-    <desc lang="en">S1 , E69 : Facing abandonment and pain, a resilient single mother and her three daughters stand united and strong, weathering life's various challenges with perseverance and grace.</desc>
+    <desc lang="en">S1 , E69 : Pramila arranges Shekhar's remarriage. In the meantime, Matoshree expresses regret and attempts to discuss her perspective.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33371774_b_h8_aa.jpg"/>
   </programme>
   <programme start="20260826040000 +0000" stop="20260826043000 +0000" channel="zeemarathi">
@@ -3483,7 +3493,7 @@
   </programme>
   <programme start="20260826053000 +0000" stop="20260826060000 +0000" channel="zeemarathi">
     <title lang="en">Krushnaichya Leki</title>
-    <desc lang="en">S1 , E69 : Facing abandonment and pain, a resilient single mother and her three daughters stand united and strong, weathering life's various challenges with perseverance and grace.</desc>
+    <desc lang="en">S1 , E69 : Pramila arranges Shekhar's remarriage. In the meantime, Matoshree expresses regret and attempts to discuss her perspective.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33371774_b_h8_aa.jpg"/>
   </programme>
   <programme start="20260826060000 +0000" stop="20260826063000 +0000" channel="zeemarathi">
@@ -3523,7 +3533,7 @@
   </programme>
   <programme start="20260826100000 +0000" stop="20260826103000 +0000" channel="zeemarathi">
     <title lang="en">Krushnaichya Leki</title>
-    <desc lang="en">S1 , E69 : Facing abandonment and pain, a resilient single mother and her three daughters stand united and strong, weathering life's various challenges with perseverance and grace.</desc>
+    <desc lang="en">S1 , E69 : Pramila arranges Shekhar's remarriage. In the meantime, Matoshree expresses regret and attempts to discuss her perspective.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33371774_b_h8_aa.jpg"/>
   </programme>
   <programme start="20260826103000 +0000" stop="20260826110000 +0000" channel="zeemarathi">
@@ -3661,45 +3671,60 @@
     <desc lang="en">S1 , E1489 : Baba Ramdev emphasises the importance of yoga and demonstrates various asanas and breathing exercises that enable one to lead a healthy and stress-free life.</desc>
     <icon src="https://stap.tmsimg.com/assets/p28747290_b_h8_ab.jpg"/>
   </programme>
-  <programme start="20260826002600 +0000" stop="20260826033000 +0000" channel="zeebangla">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
+  <programme start="20260826002600 +0000" stop="20260826023000 +0000" channel="zeebangla">
+    <title lang="en">Shesh Theke Shuru</title>
+    <desc lang="en">Mahid, a Dhaka-based businessman, falls in love with a girl on a flight to London. Soon enough, his relationship is threatened as his dark past resurfaces.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p18178050_b_h8_aa.jpg"/>
+  </programme>
+  <programme start="20260826023000 +0000" stop="20260826032600 +0000" channel="zeebangla">
+    <title lang="en">Sakaler Sure</title>
+    <desc lang="en">S1 , E199 : Talented singers and artists perform some of the most popular devotional and folk songs of Bengali music and enthral the audience with their performance.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p29905543_b_h10_aa.jpg"/>
+  </programme>
+  <programme start="20260826032600 +0000" stop="20260826061900 +0000" channel="zeebangla">
+    <title lang="en">Nyay Anyayer Khela</title>
+    <desc lang="en">Nyay Anyayer Khela</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/f3kpHdtF.jpg"/>
   </programme>
-  <programme start="20260826033000 +0000" stop="20260826063000 +0000" channel="zeebangla">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
+  <programme start="20260826061900 +0000" stop="20260826085400 +0000" channel="zeebangla">
+    <title lang="en">Putuler Protisodh</title>
+    <desc lang="en">Bini, a married woman, is murdered by her in-laws, following which her spirit possesses a doll. As she decides to seek revenge, her husband's second wife must free her spirit.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p29794332_b_h10_ab.jpg"/>
+  </programme>
+  <programme start="20260826085400 +0000" stop="20260826113100 +0000" channel="zeebangla">
+    <title lang="en">Maya Mamata</title>
+    <desc lang="en">Mamata is the daughter of a wealthy industrialist who is married to Anil. However, when her mother-in-law drives her away, she strives to find love again.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p29856993_b_h10_aa.jpg"/>
+  </programme>
+  <programme start="20260826113100 +0000" stop="20260826143200 +0000" channel="zeebangla">
+    <title lang="en">Porinaam</title>
+    <desc lang="en">Raghu falls in love with Nisha, but her father opposes their union. To gain his approval, Raghu decides to enter her house disguised as a servant.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p14811934_b_h10_aa.jpg"/>
+  </programme>
+  <programme start="20260826143200 +0000" stop="20260826170600 +0000" channel="zeebangla">
+    <title lang="en">Bidrohini Naari</title>
+    <desc lang="en">Saathi, a rebel, marries a rich man named Partho, but his family fails to welcome her. However, when her maid gets molested by her brother-in-law, she raises her voice against her in-laws.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p29748395_v_h10_aa.jpg"/>
+  </programme>
+  <programme start="20260826170600 +0000" stop="20260826193800 +0000" channel="zeebangla">
+    <title lang="en">Dolon Chapa</title>
+    <desc lang="en">Charan is a simple and honest man who is accused of a crime. Instead of accepting his fate, he fights for his innocence and tries to be acquitted of all charges.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p30665683_v_h8_aa.jpg"/>
+  </programme>
+  <programme start="20260826193800 +0000" stop="20260826212900 +0000" channel="zeebangla">
+    <title lang="en">Archier Gallery</title>
+    <desc lang="en">Despite living in the modern era, Archie, an old-school romantic, uses a mix of new-age love ideas and vintage romance to win over his lady love.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p27859428_b_h10_ac.jpg"/>
+  </programme>
+  <programme start="20260826212900 +0000" stop="20260826233000 +0000" channel="zeebangla">
+    <title lang="en">Kaw Khaw Gaw Gha</title>
+    <desc lang="en">Kaw Khaw Gaw Gha</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/f3kpHdtF.jpg"/>
   </programme>
-  <programme start="20260826063000 +0000" stop="20260826093000 +0000" channel="zeebangla">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/f3kpHdtF.jpg"/>
-  </programme>
-  <programme start="20260826093000 +0000" stop="20260826123000 +0000" channel="zeebangla">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/f3kpHdtF.jpg"/>
-  </programme>
-  <programme start="20260826123000 +0000" stop="20260826153000 +0000" channel="zeebangla">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/f3kpHdtF.jpg"/>
-  </programme>
-  <programme start="20260826153000 +0000" stop="20260826183000 +0000" channel="zeebangla">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/f3kpHdtF.jpg"/>
-  </programme>
-  <programme start="20260826183000 +0000" stop="20260826213000 +0000" channel="zeebangla">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/f3kpHdtF.jpg"/>
-  </programme>
-  <programme start="20260826213000 +0000" stop="20260827003000 +0000" channel="zeebangla">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/f3kpHdtF.jpg"/>
+  <programme start="20260826233000 +0000" stop="20260827002800 +0000" channel="zeebangla">
+    <title lang="en">Patanjali Yog - By Yogrishi Swami Ramdev</title>
+    <desc lang="en">S1 , E1490 : Baba Ramdev emphasises the importance of yoga and demonstrates various asanas and breathing exercises that enable one to lead a healthy and stress-free life.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p28747290_b_h8_ab.jpg"/>
   </programme>
   <programme start="20260826000000 +0000" stop="20260826000000 +0000" channel="m80moasa">
     <title lang="en">M80 Moosa</title>
