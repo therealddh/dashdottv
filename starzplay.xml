@@ -961,17 +961,17 @@
     <desc lang="en">The host sheds light on the latest updates and developments regarding various topics ranging from social issues and politics to health and business.</desc>
     <icon src="https://stap.tmsimg.com/assets/p29410255_b_h8_aa.jpg"/>
   </programme>
-  <programme start="20260827173000 +0000" stop="20260827183000 +0000" channel="reportertv">
+  <programme start="20260827173000 +0000" stop="20260827181500 +0000" channel="reportertv">
     <title lang="en">Good Night Reporter</title>
     <desc lang="en">The host provides a comprehensive and detailed coverage, elucidating on the latest news and developments from the across the region.</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/bpAyXkX4.jpg"/>
   </programme>
-  <programme start="20260827183000 +0000" stop="20260827190000 +0000" channel="reportertv">
+  <programme start="20260827181500 +0000" stop="20260827183000 +0000" channel="reportertv">
     <title lang="en">Gulf Reporter</title>
     <desc lang="en">The reporter presents the latest social, political and economic news updates and developments from the Middle Eastern nations.</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/bpAyXkX4.jpg"/>
   </programme>
-  <programme start="20260827190000 +0000" stop="20260827193000 +0000" channel="reportertv">
+  <programme start="20260827183000 +0000" stop="20260827193000 +0000" channel="reportertv">
     <title lang="en">Meet The Editors</title>
     <desc lang="en">The host engages editors and experts in thought-provoking debates, exploring the implications of political decisions and key issues shaping the world.</desc>
     <icon src="https://stap.tmsimg.com/assets/p29740809_b_h10_aa.jpg"/>
@@ -1143,12 +1143,12 @@
   </programme>
   <programme start="20260827003000 +0000" stop="20260827010000 +0000" channel="zeetvhd">
     <title lang="en">Jagadhatri</title>
-    <desc lang="en">S1 , E288 : Unbeknownst to her family, a young woman leads a double life as an undercover intelligence officer, determined to clear her mother's name.</desc>
+    <desc lang="en">S1 , E288 : A daughter's fight for dignity and an intelligence officer's war for truth, Jagadhatri's dual life embodies strength, sacrifice and the relentless pursuit of justice.</desc>
     <icon src="https://stap.tmsimg.com/assets/p31685189_b_h10_ac.jpg"/>
   </programme>
   <programme start="20260827010000 +0000" stop="20260827013000 +0000" channel="zeetvhd">
     <title lang="en">Vasudha</title>
-    <desc lang="en">S1 , E664 : Though they have different perspectives, the amiable and endearing Vasudha works as a housekeeper in Chandrika, a business tycoon's house.</desc>
+    <desc lang="en">S1 , E664 : Vasudha bids a tearful farewell to her family before departing to observe her fast. Meanwhile, the emotional departure leaves the entire household deeply moved.</desc>
     <icon src="https://stap.tmsimg.com/assets/p28225153_b_h8_ac.jpg"/>
   </programme>
   <programme start="20260827013000 +0000" stop="20260827020000 +0000" channel="zeetvhd">
@@ -1173,7 +1173,7 @@
   </programme>
   <programme start="20260827033000 +0000" stop="20260827040000 +0000" channel="zeetvhd">
     <title lang="en">Tu Hi Re Dil Mein</title>
-    <desc lang="en">S1 , E73 : Deeming it a lucky charm, Vrinda marries Sanjay, who loves Divya. Serving as a caretaker in his home, she endures silent sacrifices, wondering if love will ever find her.</desc>
+    <desc lang="en">S1 , E73 : Things get tricky when Swati arrives at Sanjay's home alongside Vrinda. However, Kavita hatches a fresh plot against Sarita.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33321700_b_h10_ac.jpg"/>
   </programme>
   <programme start="20260827040000 +0000" stop="20260827050000 +0000" channel="zeetvhd">
@@ -1198,12 +1198,12 @@
   </programme>
   <programme start="20260827063000 +0000" stop="20260827070000 +0000" channel="zeetvhd">
     <title lang="en">Jagadhatri</title>
-    <desc lang="en">S1 , E288 : Unbeknownst to her family, a young woman leads a double life as an undercover intelligence officer, determined to clear her mother's name.</desc>
+    <desc lang="en">S1 , E288 : A daughter's fight for dignity and an intelligence officer's war for truth, Jagadhatri's dual life embodies strength, sacrifice and the relentless pursuit of justice.</desc>
     <icon src="https://stap.tmsimg.com/assets/p31685189_b_h10_ac.jpg"/>
   </programme>
   <programme start="20260827070000 +0000" stop="20260827073000 +0000" channel="zeetvhd">
     <title lang="en">Vasudha</title>
-    <desc lang="en">S1 , E664 : Though they have different perspectives, the amiable and endearing Vasudha works as a housekeeper in Chandrika, a business tycoon's house.</desc>
+    <desc lang="en">S1 , E664 : Vasudha bids a tearful farewell to her family before departing to observe her fast. Meanwhile, the emotional departure leaves the entire household deeply moved.</desc>
     <icon src="https://stap.tmsimg.com/assets/p28225153_b_h8_ac.jpg"/>
   </programme>
   <programme start="20260827073000 +0000" stop="20260827080000 +0000" channel="zeetvhd">
@@ -1233,7 +1233,7 @@
   </programme>
   <programme start="20260827103000 +0000" stop="20260827110000 +0000" channel="zeetvhd">
     <title lang="en">Tu Hi Re Dil Mein</title>
-    <desc lang="en">S1 , E73 : Deeming it a lucky charm, Vrinda marries Sanjay, who loves Divya. Serving as a caretaker in his home, she endures silent sacrifices, wondering if love will ever find her.</desc>
+    <desc lang="en">S1 , E73 : Things get tricky when Swati arrives at Sanjay's home alongside Vrinda. However, Kavita hatches a fresh plot against Sarita.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33321700_b_h10_ac.jpg"/>
   </programme>
   <programme start="20260827110000 +0000" stop="20260827120000 +0000" channel="zeetvhd">
@@ -1258,12 +1258,12 @@
   </programme>
   <programme start="20260827133000 +0000" stop="20260827140000 +0000" channel="zeetvhd">
     <title lang="en">Jagadhatri</title>
-    <desc lang="en">S1 , E288 : Unbeknownst to her family, a young woman leads a double life as an undercover intelligence officer, determined to clear her mother's name.</desc>
+    <desc lang="en">S1 , E288 : A daughter's fight for dignity and an intelligence officer's war for truth, Jagadhatri's dual life embodies strength, sacrifice and the relentless pursuit of justice.</desc>
     <icon src="https://stap.tmsimg.com/assets/p31685189_b_h10_ac.jpg"/>
   </programme>
   <programme start="20260827140000 +0000" stop="20260827143000 +0000" channel="zeetvhd">
     <title lang="en">Vasudha</title>
-    <desc lang="en">S1 , E664 : Though they have different perspectives, the amiable and endearing Vasudha works as a housekeeper in Chandrika, a business tycoon's house.</desc>
+    <desc lang="en">S1 , E664 : Vasudha bids a tearful farewell to her family before departing to observe her fast. Meanwhile, the emotional departure leaves the entire household deeply moved.</desc>
     <icon src="https://stap.tmsimg.com/assets/p28225153_b_h8_ac.jpg"/>
   </programme>
   <programme start="20260827143000 +0000" stop="20260827150000 +0000" channel="zeetvhd">
@@ -1298,7 +1298,7 @@
   </programme>
   <programme start="20260827180000 +0000" stop="20260827183000 +0000" channel="zeetvhd">
     <title lang="en">Tum Se Tum Tak</title>
-    <desc lang="en">S1 , E414 : A young woman's unexpected bond with a much older businessman brings emotional twists while challenging societal expectations and family ideals.</desc>
+    <desc lang="en">S1 , E414 : Anu, a kind 20-year-old, and Aryavardhan, a resolute 45-year-old businessman, defy societal norms and family resistance, overcoming struggles to demonstrate that love transcends age or boundaries.</desc>
     <icon src="https://stap.tmsimg.com/assets/p30514065_b_h8_ac.jpg"/>
   </programme>
   <programme start="20260827183000 +0000" stop="20260827190000 +0000" channel="zeetvhd">
@@ -1308,12 +1308,12 @@
   </programme>
   <programme start="20260827190000 +0000" stop="20260827193000 +0000" channel="zeetvhd">
     <title lang="en">Jagadhatri</title>
-    <desc lang="en">S1 , E289 : Unbeknownst to her family, a young woman leads a double life as an undercover intelligence officer, determined to clear her mother's name.</desc>
+    <desc lang="en">S1 , E289 : A daughter's fight for dignity and an intelligence officer's war for truth, Jagadhatri's dual life embodies strength, sacrifice and the relentless pursuit of justice.</desc>
     <icon src="https://stap.tmsimg.com/assets/p31685189_b_h10_ac.jpg"/>
   </programme>
   <programme start="20260827193000 +0000" stop="20260827200000 +0000" channel="zeetvhd">
     <title lang="en">Vasudha</title>
-    <desc lang="en">S1 , E665 : Though they have different perspectives, the amiable and endearing Vasudha works as a housekeeper in Chandrika, a business tycoon's house.</desc>
+    <desc lang="en">S1 , E665 : Guruji provides Vasudha with precise instructions on how to observe the strict fast. Meanwhile, Avinash feels deeply saddened to learn about her condition.</desc>
     <icon src="https://stap.tmsimg.com/assets/p28225153_b_h8_ac.jpg"/>
   </programme>
   <programme start="20260827200000 +0000" stop="20260827203000 +0000" channel="zeetvhd">
@@ -1348,7 +1348,7 @@
   </programme>
   <programme start="20260827233000 +0000" stop="20260828000000 +0000" channel="zeetvhd">
     <title lang="en">Tum Se Tum Tak</title>
-    <desc lang="en">S1 , E414 : A young woman's unexpected bond with a much older businessman brings emotional twists while challenging societal expectations and family ideals.</desc>
+    <desc lang="en">S1 , E414 : Anu, a kind 20-year-old, and Aryavardhan, a resolute 45-year-old businessman, defy societal norms and family resistance, overcoming struggles to demonstrate that love transcends age or boundaries.</desc>
     <icon src="https://stap.tmsimg.com/assets/p30514065_b_h8_ac.jpg"/>
   </programme>
   <programme start="20260828000000 +0000" stop="20260828003000 +0000" channel="zeetvhd">
@@ -1423,7 +1423,7 @@
   </programme>
   <programme start="20260827010000 +0000" stop="20260827013000 +0000" channel="starplushd">
     <title lang="en">Sairaab</title>
-    <desc lang="en">S1 , E86 : Single mother Dr. Noyonika helps pop star sensation Ishaan regain his voice, to the delight of her daughter. But tensions rise as they fall for each other.</desc>
+    <desc lang="en">S1 , E86 : Ujjaini asks Nayanika to leave and move to the hospital quarters, while Shesho requests time to process his true feelings for her.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33240882_b_h8_ab.jpg"/>
   </programme>
   <programme start="20260827013000 +0000" stop="20260827020000 +0000" channel="starplushd">
@@ -1458,7 +1458,7 @@
   </programme>
   <programme start="20260827043000 +0000" stop="20260827050000 +0000" channel="starplushd">
     <title lang="en">Sairaab</title>
-    <desc lang="en">S1 , E86 : Single mother Dr. Noyonika helps pop star sensation Ishaan regain his voice, to the delight of her daughter. But tensions rise as they fall for each other.</desc>
+    <desc lang="en">S1 , E86 : Ujjaini asks Nayanika to leave and move to the hospital quarters, while Shesho requests time to process his true feelings for her.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33240882_b_h8_ab.jpg"/>
   </programme>
   <programme start="20260827050000 +0000" stop="20260827053000 +0000" channel="starplushd">
@@ -1493,7 +1493,7 @@
   </programme>
   <programme start="20260827080000 +0000" stop="20260827083000 +0000" channel="starplushd">
     <title lang="en">Sairaab</title>
-    <desc lang="en">S1 , E86 : Single mother Dr. Noyonika helps pop star sensation Ishaan regain his voice, to the delight of her daughter. But tensions rise as they fall for each other.</desc>
+    <desc lang="en">S1 , E86 : Ujjaini asks Nayanika to leave and move to the hospital quarters, while Shesho requests time to process his true feelings for her.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33240882_b_h8_ab.jpg"/>
   </programme>
   <programme start="20260827083000 +0000" stop="20260827090000 +0000" channel="starplushd">
@@ -1528,7 +1528,7 @@
   </programme>
   <programme start="20260827113000 +0000" stop="20260827120000 +0000" channel="starplushd">
     <title lang="en">Sairaab</title>
-    <desc lang="en">S1 , E86 : Single mother Dr. Noyonika helps pop star sensation Ishaan regain his voice, to the delight of her daughter. But tensions rise as they fall for each other.</desc>
+    <desc lang="en">S1 , E86 : Ujjaini asks Nayanika to leave and move to the hospital quarters, while Shesho requests time to process his true feelings for her.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33240882_b_h8_ab.jpg"/>
   </programme>
   <programme start="20260827120000 +0000" stop="20260827123000 +0000" channel="starplushd">
@@ -1563,7 +1563,7 @@
   </programme>
   <programme start="20260827150000 +0000" stop="20260827153000 +0000" channel="starplushd">
     <title lang="en">Sairaab</title>
-    <desc lang="en">S1 , E87 : Single mother Dr. Noyonika helps pop star sensation Ishaan regain his voice, to the delight of her daughter. But tensions rise as they fall for each other.</desc>
+    <desc lang="en">S1 , E87 : As Ishaan performs, Nayanika tries to reach him after discovering her pregnancy. Meanwhile, Shreya draws everyone's attention to Nayanika's health and hints at her pregnancy.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33240882_b_h8_ab.jpg"/>
   </programme>
   <programme start="20260827153000 +0000" stop="20260827160000 +0000" channel="starplushd">
@@ -1578,7 +1578,7 @@
   </programme>
   <programme start="20260827163000 +0000" stop="20260827170000 +0000" channel="starplushd">
     <title lang="en">Anupamaa</title>
-    <desc lang="en">S1 , E2123 : Anupamaa sacrifices her personal ambitions to dedicate her life to her family. However, she eventually decides to live on her own terms after failing to receive credit for her many trials.</desc>
+    <desc lang="en">S1 , E2123 : Despite losing her sense of taste, Anupama correctly identifies sugar and salt to complete her dish, impressing the judges while Prem struggles with his thali.</desc>
     <icon src="https://stap.tmsimg.com/assets/p18094069_b_h8_ae.jpg"/>
   </programme>
   <programme start="20260827170000 +0000" stop="20260827173000 +0000" channel="starplushd">
@@ -1623,7 +1623,7 @@
   </programme>
   <programme start="20260827223000 +0000" stop="20260827230000 +0000" channel="starplushd">
     <title lang="en">Anupamaa</title>
-    <desc lang="en">S1 , E2123 : Anupamaa sacrifices her personal ambitions to dedicate her life to her family. However, she eventually decides to live on her own terms after failing to receive credit for her many trials.</desc>
+    <desc lang="en">S1 , E2123 : Despite losing her sense of taste, Anupama correctly identifies sugar and salt to complete her dish, impressing the judges while Prem struggles with his thali.</desc>
     <icon src="https://stap.tmsimg.com/assets/p18094069_b_h8_ae.jpg"/>
   </programme>
   <programme start="20260827230000 +0000" stop="20260827233000 +0000" channel="starplushd">
@@ -1663,7 +1663,7 @@
   </programme>
   <programme start="20260827013000 +0000" stop="20260827020000 +0000" channel="colorshd">
     <title lang="en">Seher Hone Ko Hai</title>
-    <desc lang="en">S1 , E202 : Seher is a young woman with big dreams, and her mother, Kausar, is determined to overcome societal barriers in her daughter's way.</desc>
+    <desc lang="en">S1 , E202 : Upon reading a final letter, Seher absolves Mahid of any guilt regarding Kausar's demise. Later, Mahid urges Seher to stop blaming herself for the tragic loss they both endure.</desc>
     <icon src="https://stap.tmsimg.com/assets/p31812237_b_h10_ab.jpg"/>
   </programme>
   <programme start="20260827020000 +0000" stop="20260827023000 +0000" channel="colorshd">
@@ -1698,7 +1698,7 @@
   </programme>
   <programme start="20260827060000 +0000" stop="20260827063000 +0000" channel="colorshd">
     <title lang="en">Seher Hone Ko Hai</title>
-    <desc lang="en">S1 , E202 : Seher is a young woman with big dreams, and her mother, Kausar, is determined to overcome societal barriers in her daughter's way.</desc>
+    <desc lang="en">S1 , E202 : Upon reading a final letter, Seher absolves Mahid of any guilt regarding Kausar's demise. Later, Mahid urges Seher to stop blaming herself for the tragic loss they both endure.</desc>
     <icon src="https://stap.tmsimg.com/assets/p31812237_b_h10_ab.jpg"/>
   </programme>
   <programme start="20260827063000 +0000" stop="20260827080000 +0000" channel="colorshd">
@@ -1723,7 +1723,7 @@
   </programme>
   <programme start="20260827093000 +0000" stop="20260827100000 +0000" channel="colorshd">
     <title lang="en">Seher Hone Ko Hai</title>
-    <desc lang="en">S1 , E202 : Seher is a young woman with big dreams, and her mother, Kausar, is determined to overcome societal barriers in her daughter's way.</desc>
+    <desc lang="en">S1 , E202 : Upon reading a final letter, Seher absolves Mahid of any guilt regarding Kausar's demise. Later, Mahid urges Seher to stop blaming herself for the tragic loss they both endure.</desc>
     <icon src="https://stap.tmsimg.com/assets/p31812237_b_h10_ab.jpg"/>
   </programme>
   <programme start="20260827100000 +0000" stop="20260827103000 +0000" channel="colorshd">
@@ -1753,7 +1753,7 @@
   </programme>
   <programme start="20260827123000 +0000" stop="20260827130000 +0000" channel="colorshd">
     <title lang="en">Seher Hone Ko Hai</title>
-    <desc lang="en">S1 , E202 : Seher is a young woman with big dreams, and her mother, Kausar, is determined to overcome societal barriers in her daughter's way.</desc>
+    <desc lang="en">S1 , E202 : Upon reading a final letter, Seher absolves Mahid of any guilt regarding Kausar's demise. Later, Mahid urges Seher to stop blaming herself for the tragic loss they both endure.</desc>
     <icon src="https://stap.tmsimg.com/assets/p31812237_b_h10_ab.jpg"/>
   </programme>
   <programme start="20260827130000 +0000" stop="20260827133000 +0000" channel="colorshd">
@@ -1768,7 +1768,7 @@
   </programme>
   <programme start="20260827140000 +0000" stop="20260827150000 +0000" channel="colorshd">
     <title lang="en">Bhojpuri Bawaal</title>
-    <desc lang="en">S1 , E25 : A look into the daily routines and personal lives of prominent Bhojpuri celebrities, revealing personal stories whilst showcasing regional cultural pride.</desc>
+    <desc lang="en">S1 , E25 : Tej Pratap and Mallika's Mumbai outing turns into an adventure along with a Bollywood-styled makeover. Later, Aamrapali and Kajal highlight their fame and image.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33661133_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260827150000 +0000" stop="20260827153000 +0000" channel="colorshd">
@@ -1788,7 +1788,7 @@
   </programme>
   <programme start="20260827163000 +0000" stop="20260827170000 +0000" channel="colorshd">
     <title lang="en">Seher Hone Ko Hai</title>
-    <desc lang="en">S1 , E203 : Seher is a young woman with big dreams, and her mother, Kausar, is determined to overcome societal barriers in her daughter's way.</desc>
+    <desc lang="en">S1 , E203 : Driven by a belief in their shared destiny, Mahid proposes marriage to Seher. Fareed then urges her to abandon her guilt and embrace a future with him.</desc>
     <icon src="https://stap.tmsimg.com/assets/p31812237_b_h10_ab.jpg"/>
   </programme>
   <programme start="20260827170000 +0000" stop="20260827173000 +0000" channel="colorshd">
@@ -1803,12 +1803,12 @@
   </programme>
   <programme start="20260827180000 +0000" stop="20260827183000 +0000" channel="colorshd">
     <title lang="en">Mahadev &amp; Sons</title>
-    <desc lang="en">S1 , E175 : Mahadev's principled approach to guiding his family with a firm hand unintentionally sows the seeds of rebellion, ushering in an era of generational discord.</desc>
+    <desc lang="en">S1 , E175 : Mogra's extensive conspiracy is finally brought to light by Rajji and Narmada using video proof. A stunned Mahadev faces devastating blame from Vidya after she slaps Mogra.</desc>
     <icon src="https://stap.tmsimg.com/assets/p32050463_b_h8_ac.jpg"/>
   </programme>
   <programme start="20260827183000 +0000" stop="20260827193000 +0000" channel="colorshd">
     <title lang="en">Bhojpuri Bawaal</title>
-    <desc lang="en">S1 , E26 : A look into the daily routines and personal lives of prominent Bhojpuri celebrities, revealing personal stories whilst showcasing regional cultural pride.</desc>
+    <desc lang="en">S1 , E26 : Pawan discloses his deep bond with his mother and Nirahua goes back to his roots in Ghazipur. Meanwhile, Kajal speaks out about a viral video on social media.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33661133_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260827193000 +0000" stop="20260827200000 +0000" channel="colorshd">
@@ -1828,12 +1828,12 @@
   </programme>
   <programme start="20260827210000 +0000" stop="20260827220000 +0000" channel="colorshd">
     <title lang="en">Bhojpuri Bawaal</title>
-    <desc lang="en">S1 , E26 : A look into the daily routines and personal lives of prominent Bhojpuri celebrities, revealing personal stories whilst showcasing regional cultural pride.</desc>
+    <desc lang="en">S1 , E26 : Pawan discloses his deep bond with his mother and Nirahua goes back to his roots in Ghazipur. Meanwhile, Kajal speaks out about a viral video on social media.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33661133_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260827220000 +0000" stop="20260827223000 +0000" channel="colorshd">
     <title lang="en">Seher Hone Ko Hai</title>
-    <desc lang="en">S1 , E203 : Seher is a young woman with big dreams, and her mother, Kausar, is determined to overcome societal barriers in her daughter's way.</desc>
+    <desc lang="en">S1 , E203 : Driven by a belief in their shared destiny, Mahid proposes marriage to Seher. Fareed then urges her to abandon her guilt and embrace a future with him.</desc>
     <icon src="https://stap.tmsimg.com/assets/p31812237_b_h10_ab.jpg"/>
   </programme>
   <programme start="20260827223000 +0000" stop="20260827230000 +0000" channel="colorshd">
@@ -1853,7 +1853,7 @@
   </programme>
   <programme start="20260828000000 +0000" stop="20260828003000 +0000" channel="colorshd">
     <title lang="en">Mahadev &amp; Sons</title>
-    <desc lang="en">S1 , E175 : Mahadev's principled approach to guiding his family with a firm hand unintentionally sows the seeds of rebellion, ushering in an era of generational discord.</desc>
+    <desc lang="en">S1 , E175 : Mogra's extensive conspiracy is finally brought to light by Rajji and Narmada using video proof. A stunned Mahadev faces devastating blame from Vidya after she slaps Mogra.</desc>
     <icon src="https://stap.tmsimg.com/assets/p32050463_b_h8_ac.jpg"/>
   </programme>
   <programme start="20260827000000 +0000" stop="20260827015800 +0000" channel="setmax">
@@ -2128,17 +2128,17 @@
   </programme>
   <programme start="20260827190900 +0000" stop="20260827193500 +0000" channel="sabtv">
     <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">S1 , E4799 : The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
+    <desc lang="en">S1 , E4799 : Inspector Chalu Pandey finds the same theft pattern and begins searching for the culprit. Later, Bhide calls a night meeting to plan precautions.</desc>
     <icon src="https://stap.tmsimg.com/assets/p12557899_b_h11_ad.jpg"/>
   </programme>
   <programme start="20260827193500 +0000" stop="20260827200100 +0000" channel="sabtv">
     <title lang="en">Pushpa Impossible</title>
-    <desc lang="en">S1 , E1321 : After doing various odd jobs, an uneducated woman from Gujarat starts a business to earn a living and attempts to keep her family happy.</desc>
+    <desc lang="en">S1 , E1321 : After bringing Pushpa home from the police station, Chirag argues with her and leaves. Shanaya forces him to return and get a Rakhi tied by Rashi.</desc>
     <icon src="https://stap.tmsimg.com/assets/p22259614_b_h10_af.jpg"/>
   </programme>
   <programme start="20260827200100 +0000" stop="20260827202700 +0000" channel="sabtv">
     <title lang="en">Hastinapur Ke Veer</title>
-    <desc lang="en">S1 , E74 : Five noble Pandava brothers bravely unite to combat ruthless injustice threatening their peaceful kingdom. Furthermore, their unwavering devotion to dharma secures total victory.</desc>
+    <desc lang="en">S1 , E74 : Guru Dron divides the Pandavas and Kauravas into two mixed armies for a challenge, testing their loyalty, teamwork and sense of duty.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33120073_b_h10_ab.jpg"/>
   </programme>
   <programme start="20260827202700 +0000" stop="20260827205300 +0000" channel="sabtv">
@@ -2148,7 +2148,7 @@
   </programme>
   <programme start="20260827205300 +0000" stop="20260827211900 +0000" channel="sabtv">
     <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">S1 , E4799 : The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
+    <desc lang="en">S1 , E4799 : Inspector Chalu Pandey finds the same theft pattern and begins searching for the culprit. Later, Bhide calls a night meeting to plan precautions.</desc>
     <icon src="https://stap.tmsimg.com/assets/p12557899_b_h11_ad.jpg"/>
   </programme>
   <programme start="20260827211900 +0000" stop="20260827214500 +0000" channel="sabtv">
@@ -2168,12 +2168,12 @@
   </programme>
   <programme start="20260827223400 +0000" stop="20260827230000 +0000" channel="sabtv">
     <title lang="en">Hastinapur Ke Veer</title>
-    <desc lang="en">S1 , E74 : Five noble Pandava brothers bravely unite to combat ruthless injustice threatening their peaceful kingdom. Furthermore, their unwavering devotion to dharma secures total victory.</desc>
+    <desc lang="en">S1 , E74 : Guru Dron divides the Pandavas and Kauravas into two mixed armies for a challenge, testing their loyalty, teamwork and sense of duty.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33120073_b_h10_ab.jpg"/>
   </programme>
   <programme start="20260827230000 +0000" stop="20260827232600 +0000" channel="sabtv">
     <title lang="en">Pushpa Impossible</title>
-    <desc lang="en">S1 , E1321 : After doing various odd jobs, an uneducated woman from Gujarat starts a business to earn a living and attempts to keep her family happy.</desc>
+    <desc lang="en">S1 , E1321 : After bringing Pushpa home from the police station, Chirag argues with her and leaves. Shanaya forces him to return and get a Rakhi tied by Rashi.</desc>
     <icon src="https://stap.tmsimg.com/assets/p22259614_b_h10_af.jpg"/>
   </programme>
   <programme start="20260827232600 +0000" stop="20260827235200 +0000" channel="sabtv">
@@ -2247,39 +2247,14 @@
     <icon src="https://stap.tmsimg.com/assets/p15105355_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260827200000 +0000" stop="20260827210000 +0000" channel="flowersinternational">
-    <title lang="en">Flowers Comedy Ith Item Vere</title>
-    <desc lang="en">Comedians take the stage and perform hilarious skits, showcasing their talent and attempting to impress the judges, in order to win the competition.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29170189_b_h8_ab.jpg"/>
+    <title lang="en">Angels</title>
+    <desc lang="en">Hameem Hyder, a police officer, is suspended for his job. Years later, his investigations become the centre of a reality crime show.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p15105355_b_h10_aa.jpg"/>
   </programme>
-  <programme start="20260827210000 +0000" stop="20260827213000 +0000" channel="flowersinternational">
-    <title lang="en">Panchagni</title>
-    <desc lang="en">A restaurant named Pancharatnam is run by five sisters, while their stepmother tries different tactics to close their business.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29170753_b_h8_ab.jpg"/>
-  </programme>
-  <programme start="20260827213000 +0000" stop="20260827220000 +0000" channel="flowersinternational">
-    <title lang="en">Veettile Vilakku</title>
-    <desc lang="en">A mother goes through various struggles and hardships as she battles for her child and motherhood amidst a complex family relationship.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29496588_b_h10_ac.jpg"/>
-  </programme>
-  <programme start="20260827220000 +0000" stop="20260827223000 +0000" channel="flowersinternational">
-    <title lang="en">Uppum Mulakum</title>
-    <desc lang="en">Balachandran and Neelima, who face many challenges to earn a living, aim to successfully fulfil their wish of going to a foreign country.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29171156_b_h8_ad.jpg"/>
-  </programme>
-  <programme start="20260827223000 +0000" stop="20260827233000 +0000" channel="flowersinternational">
-    <title lang="en">Flowers Top Singer 5</title>
-    <desc lang="en">Talented young singers compete against each other as they perform on stage in front of a panel of judges to emerge victorious and win the title.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29495896_b_h10_ac.jpg"/>
-  </programme>
-  <programme start="20260827233000 +0000" stop="20260828000000 +0000" channel="flowersinternational">
-    <title lang="en">Veettile Vilakku</title>
-    <desc lang="en">A mother goes through various struggles and hardships as she battles for her child and motherhood amidst a complex family relationship.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29496588_b_h10_ac.jpg"/>
-  </programme>
-  <programme start="20260828000000 +0000" stop="20260828003000 +0000" channel="flowersinternational">
-    <title lang="en">Sukhamo Devi</title>
-    <desc lang="en">Devika is in love with Nandagopan, but Karthikeyan forces her to marry him. She elopes with Nandagopan only to get abandoned by him at the temple, which leads her to marry his friend.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29170986_b_h8_ab.jpg"/>
+  <programme start="20260827210000 +0000" stop="20260828003000 +0000" channel="flowersinternational">
+    <title lang="en">Item Vera Onam Bumber</title>
+    <desc lang="en">S1 , E2 : </desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/UcNLhTLh.jpg"/>
   </programme>
   <programme start="20260827000000 +0000" stop="20260827010000 +0000" channel="arydigital">
     <title lang="en">Good Morning Pakistan</title>
@@ -2643,7 +2618,7 @@
   </programme>
   <programme start="20260827040000 +0000" stop="20260827043000 +0000" channel="asianethd">
     <title lang="en">Ivar Vivahitharayal</title>
-    <desc lang="en">S1 , E64 : Bhoomi returns to her biological residence under a binding contract without realizing her true lineage. Confronted by formidable adversaries, she consequently battles to safeguard her love and reclaim her genuine identity.</desc>
+    <desc lang="en">S1 , E64 : Mohanachandran succumbs to Ajay's fury and offers an apology to Bhoomi for his misconduct. Later, Bhoomi feels stunned after spotting Anjana and Roy enjoying drinks together at a bar.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33275383_b_h8_aa.jpg"/>
   </programme>
   <programme start="20260827043000 +0000" stop="20260827050000 +0000" channel="asianethd">
@@ -2698,22 +2673,22 @@
   </programme>
   <programme start="20260827153000 +0000" stop="20260827160000 +0000" channel="asianethd">
     <title lang="en">Chempaneer Poovu</title>
-    <desc lang="en">S1 , E864 : Revathy is a young middle class woman trying to support her family. However, her life changes when she crosses paths with Sachi, an arrogant young man.</desc>
+    <desc lang="en">S1 , E864 : Arun's mother informs Revathy of her plan to seek other marriage proposals for Arun. Meanwhile, Chandramathi meets Priya to arrange a match with Sudhi.</desc>
     <icon src="https://stap.tmsimg.com/assets/p26607297_b_h10_ad.jpg"/>
   </programme>
   <programme start="20260827160000 +0000" stop="20260827163000 +0000" channel="asianethd">
     <title lang="en">Kattathe Kilikoodu</title>
-    <desc lang="en">S1 , E248 : Nidhi wants to escape her destiny, so she marries into a family with a bad reputation. But, in this process she will either bring back their lost hope or lose her own.</desc>
+    <desc lang="en">S1 , E248 : Subash gives Chandini some glass bangles and she gets very happy. Later, when Subash criticises him, Sudheesh loses his temper.</desc>
     <icon src="https://stap.tmsimg.com/assets/p31653307_b_h10_ac.jpg"/>
   </programme>
   <programme start="20260827163000 +0000" stop="20260827170000 +0000" channel="asianethd">
     <title lang="en">Patharamattu</title>
-    <desc lang="en">S1 , E1052 : With the obligation of marrying off her three daughters, a brave mother does her best to find a responsible partner for them.</desc>
+    <desc lang="en">S1 , E1052 : Devayani prompts Kanaka to acknowledge Nandana's underlying dissatisfaction with Naveen. Later, Nayana confronts Jalaja to protect her family's dignity during their Ananthapuri trip.</desc>
     <icon src="https://stap.tmsimg.com/assets/p25472032_b_h10_ab.jpg"/>
   </programme>
   <programme start="20260827170000 +0000" stop="20260827173000 +0000" channel="asianethd">
     <title lang="en">Ivar Vivahitharayal</title>
-    <desc lang="en">S1 , E65 : Bhoomi returns to her biological residence under a binding contract without realizing her true lineage. Confronted by formidable adversaries, she consequently battles to safeguard her love and reclaim her genuine identity.</desc>
+    <desc lang="en">S1 , E65 : Sangeetha confronts Ajay after noticing his disappointment regarding the wedding. Meanwhile, Anjana insults Bhoomi during an invitation visit, sparking a bitter argument.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33275383_b_h8_aa.jpg"/>
   </programme>
   <programme start="20260827173000 +0000" stop="20260827180000 +0000" channel="asianethd">
@@ -2733,12 +2708,12 @@
   </programme>
   <programme start="20260827223000 +0000" stop="20260827230000 +0000" channel="asianethd">
     <title lang="en">Kattathe Kilikoodu</title>
-    <desc lang="en">S1 , E248 : Nidhi wants to escape her destiny, so she marries into a family with a bad reputation. But, in this process she will either bring back their lost hope or lose her own.</desc>
+    <desc lang="en">S1 , E248 : Subash gives Chandini some glass bangles and she gets very happy. Later, when Subash criticises him, Sudheesh loses his temper.</desc>
     <icon src="https://stap.tmsimg.com/assets/p31653307_b_h10_ac.jpg"/>
   </programme>
   <programme start="20260827230000 +0000" stop="20260827233000 +0000" channel="asianethd">
     <title lang="en">Chempaneer Poovu</title>
-    <desc lang="en">S1 , E864 : Revathy is a young middle class woman trying to support her family. However, her life changes when she crosses paths with Sachi, an arrogant young man.</desc>
+    <desc lang="en">S1 , E864 : Arun's mother informs Revathy of her plan to seek other marriage proposals for Arun. Meanwhile, Chandramathi meets Priya to arrange a match with Sudhi.</desc>
     <icon src="https://stap.tmsimg.com/assets/p26607297_b_h10_ad.jpg"/>
   </programme>
   <programme start="20260827233000 +0000" stop="20260828020000 +0000" channel="asianethd">
@@ -2801,12 +2776,12 @@
     <desc lang="en">A police constable reprimands his son for cheating on his school exams. However, he finds himself resorting to similar tactics when he takes a test that could land him a promotion.</desc>
     <icon src="https://stap.tmsimg.com/assets/p26731406_b_h8_aa.jpg"/>
   </programme>
-  <programme start="20260827013000 +0000" stop="20260827043000 +0000" channel="asianetmovieshd">
+  <programme start="20260827013000 +0000" stop="20260827042000 +0000" channel="asianetmovieshd">
     <title lang="en">Run Baby Run</title>
     <desc lang="en">A sharp news cameraman reunites with an editor as they uncover a web of political deceit, risking their careers and rekindling unresolved tensions from their shared past.</desc>
     <icon src="https://stap.tmsimg.com/assets/p9459962_v_h10_aa.jpg"/>
   </programme>
-  <programme start="20260827043000 +0000" stop="20260827073000 +0000" channel="asianetmovieshd">
+  <programme start="20260827042000 +0000" stop="20260827073000 +0000" channel="asianetmovieshd">
     <title lang="en">Romancham</title>
     <desc lang="en">A group of seven men attempt to conduct a seance, only to find themselves in a predicament when a spirit begins to answer their queries.</desc>
     <icon src="https://stap.tmsimg.com/assets/p23961937_v_h8_aa.jpg"/>
@@ -2821,27 +2796,27 @@
     <desc lang="en">Sujatha, a single mother who struggles to make ends meet, is disappointed when her daughter Athira decides to drop out of school. So Sujatha devises a plan to motivate her to study.</desc>
     <icon src="https://stap.tmsimg.com/assets/p14674079_v_h8_aa.jpg"/>
   </programme>
-  <programme start="20260827133000 +0000" stop="20260827163000 +0000" channel="asianetmovieshd">
+  <programme start="20260827133000 +0000" stop="20260827171000 +0000" channel="asianetmovieshd">
     <title lang="en">Bro Daddy</title>
     <desc lang="en">Two close friends, John and Kurian, wish to take their friendship one step further and get their children married. However, they are unaware of the lives their children lead in the city.</desc>
     <icon src="https://stap.tmsimg.com/assets/p21667751_v_h10_aa.jpg"/>
-  </programme>
-  <programme start="20260827163000 +0000" stop="20260827193000 +0000" channel="asianetmovieshd">
-    <title lang="en">Avatharam</title>
-    <desc lang="en">When Karkotakudu, a monster, attempts to destroy Earth to take control of the planet, Rajeshwari, a devotee of Goddess Akkamma, decides to fight the behemoth.</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/k3V7Ffzi.jpg"/>
   </programme>
   <programme start="20260827193000 +0000" stop="20260827213000 +0000" channel="asianetmovieshd">
     <title lang="en">Vanaprastham</title>
     <desc lang="en">An illicit relationship between a Kathakali dancer and a young woman from an upper caste family results in an illegitimate baby. The dancer's worries stockpile when he is barred from seeing his child.</desc>
     <icon src="https://stap.tmsimg.com/assets/p35521_v_h10_ab.jpg"/>
   </programme>
-  <programme start="20260827213000 +0000" stop="20260827233000 +0000" channel="asianetmovieshd">
+  <programme start="20260827213000 +0000" stop="20260827235000 +0000" channel="asianetmovieshd">
+    <title lang="en">No program available</title>
+    <desc lang="en">No program available</desc>
+    <icon src="http://mena-img-cdn-lb.aws.playco.com/livechannels/ASIANETMOVIESHDY2012MML/ASIANETMOVIESHDY2012MML-landscape-poster-v1.jpg"/>
+  </programme>
+  <programme start="20260827213000 +0000" stop="20260827230000 +0000" channel="asianetmovieshd">
     <title lang="en">Leela</title>
     <desc lang="en">Notorious for his relationships with women, a single Kuttiyappan's life takes a turn when he sets out to fulfil one of his strange dreams.</desc>
     <icon src="https://stap.tmsimg.com/assets/p27291524_b_h8_aa.jpg"/>
   </programme>
-  <programme start="20260827233000 +0000" stop="20260828013000 +0000" channel="asianetmovieshd">
+  <programme start="20260827230000 +0000" stop="20260828013000 +0000" channel="asianetmovieshd">
     <title lang="en">Niram</title>
     <desc lang="en">Aby realises that he is in love with Sona, his childhood friend, but is unable to express his feelings. However, he faces a dilemma when he learns that her marriage has already been arranged.</desc>
     <icon src="https://stap.tmsimg.com/assets/p10744843_v_h10_aa.jpg"/>
@@ -2953,7 +2928,7 @@
   </programme>
   <programme start="20260827160000 +0000" stop="20260827163000 +0000" channel="mazhavilmanorama">
     <title lang="en">Othiri Othiri Swapnangal</title>
-    <desc lang="en">S1 , E247 : Varsha, an ambitious young woman, strives to overcome personal struggles and societal stigma while Shivananda, a fearless journalist, fights against corruption and deep family secrets.</desc>
+    <desc lang="en">S1 , E247 : Dr Robin and his gang scheme to eliminate Varsha. The growing conspiracy puts her life in grave danger as she remains unaware.</desc>
     <icon src="https://stap.tmsimg.com/assets/p31588429_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260827163000 +0000" stop="20260827170000 +0000" channel="mazhavilmanorama">
@@ -3443,7 +3418,7 @@
   </programme>
   <programme start="20260827043000 +0000" stop="20260827050000 +0000" channel="zeetamil">
     <title lang="en">Thirumangalyam</title>
-    <desc lang="en">S1 , E214 : Lakshmi, an orphan subjected to her stepmother's cruelty, briefly tastes the promise of a better life upon meeting Thiru, before circumstances conspire to crush her hopes once more.</desc>
+    <desc lang="en">S1 , E214 : A very happy Thiru shares the award with his family. However, at the same time, Kavita receives a video made against Thiru.</desc>
     <icon src="https://stap.tmsimg.com/assets/p11310624_b_h8_ab.jpg"/>
   </programme>
   <programme start="20260827050000 +0000" stop="20260827053000 +0000" channel="zeetamil">
@@ -3453,7 +3428,7 @@
   </programme>
   <programme start="20260827053000 +0000" stop="20260827060000 +0000" channel="zeetamil">
     <title lang="en">Vaagai Sooda Vaa</title>
-    <desc lang="en">S1 , E189 : Sumathi raises her daughters Thenmozhi and Meenakshi with care and diligence. Subsequently, Thenmozhi weds into Mano's financially troubled household.</desc>
+    <desc lang="en">S1 , E189 : Appatha forces Jeeva to handle the household chores as punishment. Shakti, on the other hand, gets upset when Jeeva gets punished.</desc>
     <icon src="https://stap.tmsimg.com/assets/p32267862_b_h8_ab.jpg"/>
   </programme>
   <programme start="20260827060000 +0000" stop="20260827063000 +0000" channel="zeetamil">
@@ -3463,17 +3438,17 @@
   </programme>
   <programme start="20260827063000 +0000" stop="20260827070000 +0000" channel="zeetamil">
     <title lang="en">Ayali</title>
-    <desc lang="en">S1 , E385 : After being falsely accused by her family, Ayali is forced to endure the abuse of her stepmother. Determined to restore her mother's reputation, Ayali joins forces with Siva.</desc>
+    <desc lang="en">S1 , E385 : Paavai visits Kapilan at the hospital as the physician assists Ayali. Furthermore, he prescribes a treatment to heal Archana.</desc>
     <icon src="https://stap.tmsimg.com/assets/p30350157_b_h8_ab.jpg"/>
   </programme>
   <programme start="20260827070000 +0000" stop="20260827073000 +0000" channel="zeetamil">
     <title lang="en">Samanthi</title>
-    <desc lang="en">S1 , E33 : A modest country woman takes a daring step by relocating to an urban center. Meanwhile, this brave transition alters the entire course of her future.</desc>
+    <desc lang="en">S1 , E33 : After humiliating her, the queen sends Roja away. Later, Roja breaks off her relationship with Samandhi for not listening to her.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33589718_b_h8_ab.jpg"/>
   </programme>
   <programme start="20260827073000 +0000" stop="20260827080000 +0000" channel="zeetamil">
     <title lang="en">Karthigai Deepam</title>
-    <desc lang="en">S1 , E1298 : Deepa, a talented woman, faces discrimination due to her complexion. However, her life changes when she meets Karthikeyan, a businessman.</desc>
+    <desc lang="en">S1 , E1298 : Swathi is upset with Chamundeshwari for neglecting her birthday, but Karthikeyan brings her joy by celebrating the special occasion.</desc>
     <icon src="https://stap.tmsimg.com/assets/p24166601_b_h8_af.jpg"/>
   </programme>
   <programme start="20260827080000 +0000" stop="20260827083000 +0000" channel="zeetamil">
@@ -3563,7 +3538,7 @@
   </programme>
   <programme start="20260827163000 +0000" stop="20260827170000 +0000" channel="zeetamil">
     <title lang="en">Sandhya Raagam</title>
-    <desc lang="en">S1 , E967 : After the tragic loss of her sister, Sandhya, Janaki becomes the guardian of her niece, Maya. However, Maya's modern approach starts to influence Janaki's daughter.</desc>
+    <desc lang="en">S1 , E967 : Separated sisters face new challenges. Sandhya's daughter, Maya, arrives at Janaki's home. Maya's modern ways influence Janaki's daughter, causing concern and tension in the household.</desc>
     <icon src="https://stap.tmsimg.com/assets/p26168585_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260827170000 +0000" stop="20260827173000 +0000" channel="zeetamil">
@@ -3643,12 +3618,12 @@
   </programme>
   <programme start="20260827000000 +0000" stop="20260827000000 +0000" channel="zeemarathi">
     <title lang="en">Lakshmi Nivas</title>
-    <desc lang="en">S1 , E573 : Lakshmi is married to Shriniwas Dalvi, who belongs to a traditional joint family. While she strives to navigate challenges, she supports her husband's dreams.</desc>
+    <desc lang="en">S1 , E573 : Janhavi has a conversation with Vishwa and shares her emotions. Meanwhile, the Dalvi family is left shocked by Siddhiraj's sudden arrival.</desc>
     <icon src="https://stap.tmsimg.com/assets/p29094815_b_h10_ab.jpg"/>
   </programme>
   <programme start="20260827000000 +0000" stop="20260827003000 +0000" channel="zeemarathi">
     <title lang="en">Tula Japnar Aahe</title>
-    <desc lang="en">S1 , E498 : After Ambika's tragic death, her husband Atharva and daughter Veda are heartbroken. However, her spirit returns to watch over and protect Veda in unseen yet powerful ways.</desc>
+    <desc lang="en">S1 , E498 : Shivnath faces a deadly and terrifying ambush at the hands of Manjiri shortly after she is rescued by the impressive mystical powers possessed by Maya.</desc>
     <icon src="https://stap.tmsimg.com/assets/p29492543_b_h10_ad.jpg"/>
   </programme>
   <programme start="20260827003000 +0000" stop="20260827005900 +0000" channel="zeemarathi">
@@ -3788,7 +3763,7 @@
   </programme>
   <programme start="20260827145900 +0000" stop="20260827152900 +0000" channel="zeemarathi">
     <title lang="en">Sanai Chaughade</title>
-    <desc lang="en">S1 , E159 : Weighed down by his past, Jay rejects the idea of love. But Sharvari comes into his life and destiny ignites a conflict of beliefs, compelling them to explore if they can mend past scars with love.</desc>
+    <desc lang="en">S1 , E159 : Sharvari and Mac persist with their playful teasing directed at Jay. Meanwhile, a troubled Asavari turns to Pramila to confide her deepest anxieties and fears.</desc>
     <icon src="https://stap.tmsimg.com/assets/p32659244_b_h10_ad.jpg"/>
   </programme>
   <programme start="20260827152900 +0000" stop="20260827160000 +0000" channel="zeemarathi">
@@ -3818,7 +3793,7 @@
   </programme>
   <programme start="20260827175900 +0000" stop="20260827182800 +0000" channel="zeemarathi">
     <title lang="en">Sanai Chaughade</title>
-    <desc lang="en">S1 , E159 : Weighed down by his past, Jay rejects the idea of love. But Sharvari comes into his life and destiny ignites a conflict of beliefs, compelling them to explore if they can mend past scars with love.</desc>
+    <desc lang="en">S1 , E159 : Sharvari and Mac persist with their playful teasing directed at Jay. Meanwhile, a troubled Asavari turns to Pramila to confide her deepest anxieties and fears.</desc>
     <icon src="https://stap.tmsimg.com/assets/p32659244_b_h10_ad.jpg"/>
   </programme>
   <programme start="20260827182800 +0000" stop="20260827190000 +0000" channel="zeemarathi">
@@ -4191,49 +4166,64 @@
     <desc lang="en">Mohanakrishnan, an honest village officer, is constantly at odds with his wife Satyabhama, a shrewd and practical lawyer.</desc>
     <icon src="https://evisioneand.com/image/catalog/user-8/Karyam Nissaram - 1920 X 1080.jpg"/>
   </programme>
-  <programme start="20260827000000 +0000" stop="20260827020000 +0000" channel="embollywoodunlimited">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/2KIOKvF9.jpg"/>
+  <programme start="20260827000000 +0000" stop="20260827000500 +0000" channel="embollywoodunlimited">
+    <title lang="en">Coffee With D</title>
+    <desc lang="en">Arnab decides to interview a dreaded gangster named D to boost his show's ratings and impress his boss. However, he lands up in a sticky situation when D suffers a cardiac arrest on his show.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p14775716_v_h10_aa.jpg"/>
   </programme>
-  <programme start="20260827020000 +0000" stop="20260827050000 +0000" channel="embollywoodunlimited">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/2KIOKvF9.jpg"/>
+  <programme start="20260827000500 +0000" stop="20260827020600 +0000" channel="embollywoodunlimited">
+    <title lang="en">Force 2</title>
+    <desc lang="en">ACP Yashwardhan, a dutiful and honest police officer, teams up with RAW agent Kamaljit Kaur to expose an inside informer who leaks sensitive information to a foreign agency targeting the RAW agents.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p13507522_v_h10_ab.jpg"/>
   </programme>
-  <programme start="20260827050000 +0000" stop="20260827080000 +0000" channel="embollywoodunlimited">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/2KIOKvF9.jpg"/>
+  <programme start="20260827020600 +0000" stop="20260827041700 +0000" channel="embollywoodunlimited">
+    <title lang="en">Cirkus</title>
+    <desc lang="en">Two sets of identical twins are separated at birth and grow in two different cities. Years later, chaos ensues when one set of twins decides to visit the town where the other runs a circus.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p22538614_v_h10_aa.jpg"/>
   </programme>
-  <programme start="20260827080000 +0000" stop="20260827110000 +0000" channel="embollywoodunlimited">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/2KIOKvF9.jpg"/>
+  <programme start="20260827041700 +0000" stop="20260827063500 +0000" channel="embollywoodunlimited">
+    <title lang="en">Heyy Babyy</title>
+    <desc lang="en">Three handsome Sydney bachelors Aroush, Tanmay and Al - are having the time of their lives in Sydney. They flirt around, sleep around and have numerous 'gorgeous' conquests to their credit.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p172363_v_h10_ad.jpg"/>
   </programme>
-  <programme start="20260827110000 +0000" stop="20260827140000 +0000" channel="embollywoodunlimited">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/2KIOKvF9.jpg"/>
+  <programme start="20260827063500 +0000" stop="20260827085300 +0000" channel="embollywoodunlimited">
+    <title lang="en">Chandu Champion</title>
+    <desc lang="en">An extraordinary man confronts relentless challenges with unwavering determination. His spirit and resilience propel him through adversity, ultimately forging a path to historic achievement.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p26739699_v_h10_aa.jpg"/>
   </programme>
-  <programme start="20260827140000 +0000" stop="20260827170000 +0000" channel="embollywoodunlimited">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/2KIOKvF9.jpg"/>
+  <programme start="20260827085300 +0000" stop="20260827105100 +0000" channel="embollywoodunlimited">
+    <title lang="en">Dabangg 2</title>
+    <desc lang="en">Inspector Chulbul Pandey oversees the operations of the local police station in Kanpur. However, things take a turn when he kills the brother of a local politician.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p9622186_v_h10_aa.jpg"/>
   </programme>
-  <programme start="20260827170000 +0000" stop="20260827200000 +0000" channel="embollywoodunlimited">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/2KIOKvF9.jpg"/>
+  <programme start="20260827105100 +0000" stop="20260827125300 +0000" channel="embollywoodunlimited">
+    <title lang="en">Jolly LLB</title>
+    <desc lang="en">Jolly, a struggling lawyer seeking success, comes upon a hit-and-run case and decides to fight for the victims. However, the defendant hires a proficient lawyer, Rajpal, to go against him.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p9744151_v_h10_aa.jpg"/>
   </programme>
-  <programme start="20260827200000 +0000" stop="20260827230000 +0000" channel="embollywoodunlimited">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/2KIOKvF9.jpg"/>
+  <programme start="20260827125300 +0000" stop="20260827143100 +0000" channel="embollywoodunlimited">
+    <title lang="en">Omerta</title>
+    <desc lang="en">Ahmed Omar Saeed Sheikh, a British terrorist of Pakistani descent, plots the kidnapping and murder of Wall Street Journal journalist Daniel Pearl.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p23290213_v_h10_ac.jpg"/>
   </programme>
-  <programme start="20260827230000 +0000" stop="20260828020000 +0000" channel="embollywoodunlimited">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/2KIOKvF9.jpg"/>
+  <programme start="20260827143100 +0000" stop="20260827170000 +0000" channel="embollywoodunlimited">
+    <title lang="en">ABCD 2</title>
+    <desc lang="en">Suresh and Vinnie are childhood friends who are passionate about dancing. They form a dance group but face many hurdles to participate in the Las Vegas dancing competition.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p11541014_v_h10_ab.jpg"/>
+  </programme>
+  <programme start="20260827170000 +0000" stop="20260827192300 +0000" channel="embollywoodunlimited">
+    <title lang="en">Kabali</title>
+    <desc lang="en">When Kabali raises his voice against the oppression faced by Tamil labourers in Malaysia, he is imprisoned for 25 years. After being released, he seeks revenge on the ones who wronged him.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p21280524_v_h10_aa.jpg"/>
+  </programme>
+  <programme start="20260827192300 +0000" stop="20260827213400 +0000" channel="embollywoodunlimited">
+    <title lang="en">Luv Shuv Tey Chicken Khurana</title>
+    <desc lang="en">An escapee desperately tries to decode the recipe of a desired chicken curry using which he can restore the wealth and glory of his lineage.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p9507088_v_h10_ac.jpg"/>
+  </programme>
+  <programme start="20260827213400 +0000" stop="20260828001900 +0000" channel="embollywoodunlimited">
+    <title lang="en">Aankhen</title>
+    <desc lang="en">After being sacked from his position as a bank manager, a temperamental man plots revenge by orchestrating a robbery, enlisting three unlikely accomplices.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p76177_v_h10_ab.jpg"/>
   </programme>
 </tv>
