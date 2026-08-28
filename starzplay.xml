@@ -151,12 +151,62 @@
     <desc lang="en">The host presents a comprehensive and detailed report, elucidating on the latest news and developments from across the globe.</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/qARVxF9Y.jpg"/>
   </programme>
-  <programme start="20260828183000 +0000" stop="20260828213000 +0000" channel="indiatoday">
+  <programme start="20260828183000 +0000" stop="20260828190000 +0000" channel="indiatoday">
     <title lang="en">News</title>
-    <desc lang="en">The host presents a comprehensive and detailed report, elucidating on the latest news and developments from across the globe.</desc>
+    <desc lang="en">The hosts shed light on the latest and most important news, developments and current affairs taking place all around the world.</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/qARVxF9Y.jpg"/>
   </programme>
-  <programme start="20260828213000 +0000" stop="20260829003000 +0000" channel="indiatoday">
+  <programme start="20260828190000 +0000" stop="20260828193000 +0000" channel="indiatoday">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts shed light on the latest and most important news, developments and current affairs taking place all around the world.</desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/qARVxF9Y.jpg"/>
+  </programme>
+  <programme start="20260828193000 +0000" stop="20260828200000 +0000" channel="indiatoday">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts shed light on the latest and most important news, developments and current affairs taking place all around the world.</desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/qARVxF9Y.jpg"/>
+  </programme>
+  <programme start="20260828200000 +0000" stop="20260828203000 +0000" channel="indiatoday">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts shed light on the latest and most important news, developments and current affairs taking place all around the world.</desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/qARVxF9Y.jpg"/>
+  </programme>
+  <programme start="20260828203000 +0000" stop="20260828210000 +0000" channel="indiatoday">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts shed light on the latest and most important news, developments and current affairs taking place all around the world.</desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/qARVxF9Y.jpg"/>
+  </programme>
+  <programme start="20260828210000 +0000" stop="20260828213000 +0000" channel="indiatoday">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts shed light on the latest and most important news, developments and current affairs taking place all around the world.</desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/qARVxF9Y.jpg"/>
+  </programme>
+  <programme start="20260828213000 +0000" stop="20260828220000 +0000" channel="indiatoday">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts shed light on the latest and most important news, developments and current affairs taking place all around the world.</desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/qARVxF9Y.jpg"/>
+  </programme>
+  <programme start="20260828220000 +0000" stop="20260828223000 +0000" channel="indiatoday">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts shed light on the latest and most important news, developments and current affairs taking place all around the world.</desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/qARVxF9Y.jpg"/>
+  </programme>
+  <programme start="20260828223000 +0000" stop="20260828230000 +0000" channel="indiatoday">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts shed light on the latest and most important news, developments and current affairs taking place all around the world.</desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/qARVxF9Y.jpg"/>
+  </programme>
+  <programme start="20260828230000 +0000" stop="20260828233000 +0000" channel="indiatoday">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts shed light on the latest and most important news, developments and current affairs taking place all around the world.</desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/qARVxF9Y.jpg"/>
+  </programme>
+  <programme start="20260828233000 +0000" stop="20260829000000 +0000" channel="indiatoday">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts shed light on the latest and most important news, developments and current affairs taking place all around the world.</desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/qARVxF9Y.jpg"/>
+  </programme>
+  <programme start="20260829000000 +0000" stop="20260829003000 +0000" channel="indiatoday">
     <title lang="en">News</title>
     <desc lang="en">The hosts shed light on the latest and most important news, developments and current affairs taking place all around the world.</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/qARVxF9Y.jpg"/>
@@ -1588,7 +1638,7 @@
   </programme>
   <programme start="20260828150000 +0000" stop="20260828153000 +0000" channel="starplushd">
     <title lang="en">Sairaab</title>
-    <desc lang="en">S1 , E88 : Single mother Dr. Noyonika helps pop star sensation Ishaan regain his voice, to the delight of her daughter. But tensions rise as they fall for each other.</desc>
+    <desc lang="en">S1 , E88 : A touching moment unfolds as Sailee, Aparajita and Saumya tie rakhi to Nayanika. However, tension erupts once Indranil reads out Nayanika's medical report to the unsuspecting family.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33240882_b_h8_ab.jpg"/>
   </programme>
   <programme start="20260828153000 +0000" stop="20260828160000 +0000" channel="starplushd">
@@ -1598,7 +1648,7 @@
   </programme>
   <programme start="20260828160000 +0000" stop="20260828163000 +0000" channel="starplushd">
     <title lang="en">Oh Humnava Tum Dena Saath Mera</title>
-    <desc lang="en">S1 , E130 : A reserved businessman who avoids romance crosses paths with an artist haunted by a bitter past, leaving the prospect of a budding romance hanging in the balance.</desc>
+    <desc lang="en">S1 , E130 : Sudha desperately tries to keep Rakshit and Aparajita apart by hiding who really saved him. Meanwhile, the recovering young man engages in a tense, mysterious conversation with a hooded figure.</desc>
     <icon src="https://stap.tmsimg.com/assets/p32904885_b_h8_ad.jpg"/>
   </programme>
   <programme start="20260828163000 +0000" stop="20260828170000 +0000" channel="starplushd">
@@ -1858,7 +1908,7 @@
   </programme>
   <programme start="20260828220000 +0000" stop="20260828223000 +0000" channel="colorshd">
     <title lang="en">Seher Hone Ko Hai</title>
-    <desc lang="en">S1 , E204 : Seher is a young woman with big dreams, and her mother, Kausar, is determined to overcome societal barriers in her daughter's way.</desc>
+    <desc lang="en">S1 , E204 : Mahid is anxious that Seher might say no to his marriage proposal, but after asking for blessings, he stays optimistic. Later, when he encounters Seher, he jokingly mocks her.</desc>
     <icon src="https://stap.tmsimg.com/assets/p31812237_b_h10_ab.jpg"/>
   </programme>
   <programme start="20260828223000 +0000" stop="20260828230000 +0000" channel="colorshd">
@@ -2298,38 +2348,33 @@
   </programme>
   <programme start="20260828200000 +0000" stop="20260828210000 +0000" channel="flowersinternational">
     <title lang="en">Flowers Comedy Ith Item Vere</title>
-    <desc lang="en">Comedians take the stage and perform hilarious skits, showcasing their talent and attempting to impress the judges, in order to win the competition.</desc>
+    <desc lang="en">S1 , E656 : Comedians take the stage and perform hilarious skits, showcasing their talent and attempting to impress the judges, in order to win the competition.</desc>
     <icon src="https://stap.tmsimg.com/assets/p29170189_b_h8_ab.jpg"/>
   </programme>
   <programme start="20260828210000 +0000" stop="20260828213000 +0000" channel="flowersinternational">
-    <title lang="en">Panchagni</title>
-    <desc lang="en">A restaurant named Pancharatnam is run by five sisters, while their stepmother tries different tactics to close their business.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29170753_b_h8_ab.jpg"/>
+    <title lang="en">Sukhamo Devi</title>
+    <desc lang="en">S1 , E1043 : Devika is in love with Nandagopan, but Karthikeyan forces her to marry him. She elopes with Nandagopan only to get abandoned by him at the temple, which leads her to marry his friend.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p29170986_b_h8_ab.jpg"/>
   </programme>
   <programme start="20260828213000 +0000" stop="20260828220000 +0000" channel="flowersinternational">
-    <title lang="en">Veettile Vilakku</title>
-    <desc lang="en">A mother goes through various struggles and hardships as she battles for her child and motherhood amidst a complex family relationship.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29496588_b_h10_ac.jpg"/>
+    <title lang="en">Mahalakshmi</title>
+    <desc lang="en">S1 , E555 : Mahalakshmi faces the consequences of her stepfather's actions with strength, while Kannan, who survives an unexpected tragedy, becomes her unexpected support in a journey of survival.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p29379941_b_h8_ab.jpg"/>
   </programme>
   <programme start="20260828220000 +0000" stop="20260828223000 +0000" channel="flowersinternational">
     <title lang="en">Uppum Mulakum</title>
-    <desc lang="en">Balachandran and Neelima, who face many challenges to earn a living, aim to successfully fulfil their wish of going to a foreign country.</desc>
+    <desc lang="en">S1 , E689 : Balachandran and Neelima, who face many challenges to earn a living, aim to successfully fulfil their wish of going to a foreign country.</desc>
     <icon src="https://stap.tmsimg.com/assets/p29171156_b_h8_ad.jpg"/>
   </programme>
-  <programme start="20260828223000 +0000" stop="20260828230000 +0000" channel="flowersinternational">
-    <title lang="en">Panchagni</title>
-    <desc lang="en">A restaurant named Pancharatnam is run by five sisters, while their stepmother tries different tactics to close their business.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29170753_b_h8_ab.jpg"/>
-  </programme>
-  <programme start="20260828230000 +0000" stop="20260829000000 +0000" channel="flowersinternational">
-    <title lang="en">Flowers Comedy Ith Item Vere</title>
-    <desc lang="en">Comedians take the stage and perform hilarious skits, showcasing their talent and attempting to impress the judges, in order to win the competition.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29170189_b_h8_ab.jpg"/>
+  <programme start="20260828223000 +0000" stop="20260829000000 +0000" channel="flowersinternational">
+    <title lang="en">Flowers Top Singer 6</title>
+    <desc lang="en">S1 , E1 : Talented singers from all walks of life showcase their vocal abilities with melodious songs overseen by judges to win the grand prize.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p31211089_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260829000000 +0000" stop="20260829003000 +0000" channel="flowersinternational">
-    <title lang="en">Veettile Vilakku</title>
-    <desc lang="en">A mother goes through various struggles and hardships as she battles for her child and motherhood amidst a complex family relationship.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29496588_b_h10_ac.jpg"/>
+    <title lang="en">Sukhamo Devi</title>
+    <desc lang="en">S1 , E1043 : Devika is in love with Nandagopan, but Karthikeyan forces her to marry him. She elopes with Nandagopan only to get abandoned by him at the temple, which leads her to marry his friend.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p29170986_b_h8_ab.jpg"/>
   </programme>
   <programme start="20260828000000 +0000" stop="20260828010000 +0000" channel="arydigital">
     <title lang="en">Good Morning Pakistan</title>
@@ -3003,7 +3048,7 @@
   </programme>
   <programme start="20260828153000 +0000" stop="20260828160000 +0000" channel="mazhavilmanorama">
     <title lang="en">Super Kanmani</title>
-    <desc lang="en">S1 , E588 : Rejected by most of her family and community since infancy due to a birth defect, Kanmani aspires to become a fashion designer and support her father.</desc>
+    <desc lang="en">S1 , E588 : Sreenivasan retrieves his stolen cash and donates it to Krish. Meanwhile, Balaraman convenes an essential project meeting.</desc>
     <icon src="https://stap.tmsimg.com/assets/p28406469_b_h10_ac.jpg"/>
   </programme>
   <programme start="20260828160000 +0000" stop="20260828163000 +0000" channel="mazhavilmanorama">
@@ -3028,7 +3073,7 @@
   </programme>
   <programme start="20260828200000 +0000" stop="20260828204800 +0000" channel="mazhavilmanorama">
     <title lang="en">Super Kanmani</title>
-    <desc lang="en">S1 , E588 : Rejected by most of her family and community since infancy due to a birth defect, Kanmani aspires to become a fashion designer and support her father.</desc>
+    <desc lang="en">S1 , E588 : Sreenivasan retrieves his stolen cash and donates it to Krish. Meanwhile, Balaraman convenes an essential project meeting.</desc>
     <icon src="https://stap.tmsimg.com/assets/p28406469_b_h10_ac.jpg"/>
   </programme>
   <programme start="20260828204800 +0000" stop="20260828211200 +0000" channel="mazhavilmanorama">
@@ -3573,7 +3618,7 @@
   </programme>
   <programme start="20260828130000 +0000" stop="20260828133000 +0000" channel="zeetamil">
     <title lang="en">Parijadam</title>
-    <desc lang="en">S1 , E289 : After a tragic accident leaves Isai orphaned, her aunt Rukmini fakes her horoscope to satisfy Subadra's rigid astrological demands and secure a marriage to Vishal.</desc>
+    <desc lang="en">S1 , E289 : Subhadra urges Yazhini to stand for the election. Meanwhile, the parents of Yazhini suspect that she is in love.</desc>
     <icon src="https://stap.tmsimg.com/assets/p31143416_b_h8_aa.jpg"/>
   </programme>
   <programme start="20260828133000 +0000" stop="20260828140000 +0000" channel="zeetamil">
@@ -3688,7 +3733,7 @@
   </programme>
   <programme start="20260828000000 +0000" stop="20260828003000 +0000" channel="zeemarathi">
     <title lang="en">Tula Japnar Aahe</title>
-    <desc lang="en">S1 , E499 : After Ambika's tragic death, her husband Atharva and daughter Veda are heartbroken. However, her spirit returns to watch over and protect Veda in unseen yet powerful ways.</desc>
+    <desc lang="en">S1 , E499 : Manjiri's sudden return leaves Meera, Atharva and Ambika reeling with shock. Later, Shivnath's unexpected disappearance makes them panic.</desc>
     <icon src="https://stap.tmsimg.com/assets/p29492543_b_h10_ad.jpg"/>
   </programme>
   <programme start="20260828003000 +0000" stop="20260828005900 +0000" channel="zeemarathi">
@@ -3758,12 +3803,12 @@
   </programme>
   <programme start="20260828072900 +0000" stop="20260828080000 +0000" channel="zeemarathi">
     <title lang="en">Savlayachi Janu Savali</title>
-    <desc lang="en">S1 , E665 : A woman with a dusky complexion and a melodious voice faces various obstacles. Her life gets entangled with a man whose mother wants a beautiful bride for him.</desc>
+    <desc lang="en">S1 , E665 : After the kids safely return home by Vitthala's grace, Savali makes the emotional decision to leave the Mehendales' house for good.</desc>
     <icon src="https://stap.tmsimg.com/assets/p29097156_b_h10_ae.jpg"/>
   </programme>
   <programme start="20260828080000 +0000" stop="20260828090000 +0000" channel="zeemarathi">
     <title lang="en">Lakshmi Nivas</title>
-    <desc lang="en">S1 , E575 : Lakshmi is married to Shriniwas Dalvi, who belongs to a traditional joint family. While she strives to navigate challenges, she supports her husband's dreams.</desc>
+    <desc lang="en">S1 , E575 : As Rama finally sets off for Janhavi's Haldi ceremony with Aarav, Bhavana goes to her school desperately searching for her.</desc>
     <icon src="https://stap.tmsimg.com/assets/p29094815_b_h10_ab.jpg"/>
   </programme>
   <programme start="20260828090000 +0000" stop="20260828093000 +0000" channel="zeemarathi">
@@ -3818,7 +3863,7 @@
   </programme>
   <programme start="20260828140000 +0000" stop="20260828143000 +0000" channel="zeemarathi">
     <title lang="en">Veen Doghantali Hi Tutena</title>
-    <desc lang="en">S1 , E378 : Samar, a wealthy tycoon, and Swanandi, a young middle-class professional, enter a marriage of convenience. However, their contractual nuptials gradually evolve into a profound connection.</desc>
+    <desc lang="en">S1 , E378 : Swanandi and Samar marry for convenience. Over time, their bond deepens with trust, love, and understanding, proving that love can grow unexpectedly.</desc>
     <icon src="https://stap.tmsimg.com/assets/p30905430_b_h10_ac.jpg"/>
   </programme>
   <programme start="20260828143000 +0000" stop="20260828145900 +0000" channel="zeemarathi">
@@ -3868,7 +3913,7 @@
   </programme>
   <programme start="20260828185900 +0000" stop="20260828192900 +0000" channel="zeemarathi">
     <title lang="en">Veen Doghantali Hi Tutena</title>
-    <desc lang="en">S1 , E378 : Samar, a wealthy tycoon, and Swanandi, a young middle-class professional, enter a marriage of convenience. However, their contractual nuptials gradually evolve into a profound connection.</desc>
+    <desc lang="en">S1 , E378 : Swanandi and Samar marry for convenience. Over time, their bond deepens with trust, love, and understanding, proving that love can grow unexpectedly.</desc>
     <icon src="https://stap.tmsimg.com/assets/p30905430_b_h10_ac.jpg"/>
   </programme>
   <programme start="20260828192900 +0000" stop="20260828200000 +0000" channel="zeemarathi">
@@ -3883,12 +3928,12 @@
   </programme>
   <programme start="20260828203000 +0000" stop="20260828210000 +0000" channel="zeemarathi">
     <title lang="en">Veen Doghantali Hi Tutena</title>
-    <desc lang="en">S1 , E378 : Samar, a wealthy tycoon, and Swanandi, a young middle-class professional, enter a marriage of convenience. However, their contractual nuptials gradually evolve into a profound connection.</desc>
+    <desc lang="en">S1 , E378 : Swanandi and Samar marry for convenience. Over time, their bond deepens with trust, love, and understanding, proving that love can grow unexpectedly.</desc>
     <icon src="https://stap.tmsimg.com/assets/p30905430_b_h10_ac.jpg"/>
   </programme>
   <programme start="20260828210000 +0000" stop="20260828215900 +0000" channel="zeemarathi">
     <title lang="en">Lakshmi Nivas</title>
-    <desc lang="en">S1 , E575 : Lakshmi is married to Shriniwas Dalvi, who belongs to a traditional joint family. While she strives to navigate challenges, she supports her husband's dreams.</desc>
+    <desc lang="en">S1 , E575 : As Rama finally sets off for Janhavi's Haldi ceremony with Aarav, Bhavana goes to her school desperately searching for her.</desc>
     <icon src="https://stap.tmsimg.com/assets/p29094815_b_h10_ab.jpg"/>
   </programme>
   <programme start="20260828215900 +0000" stop="20260828222900 +0000" channel="zeemarathi">
@@ -3898,12 +3943,12 @@
   </programme>
   <programme start="20260828222900 +0000" stop="20260828225900 +0000" channel="zeemarathi">
     <title lang="en">Veen Doghantali Hi Tutena</title>
-    <desc lang="en">S1 , E378 : Samar, a wealthy tycoon, and Swanandi, a young middle-class professional, enter a marriage of convenience. However, their contractual nuptials gradually evolve into a profound connection.</desc>
+    <desc lang="en">S1 , E378 : Swanandi and Samar marry for convenience. Over time, their bond deepens with trust, love, and understanding, proving that love can grow unexpectedly.</desc>
     <icon src="https://stap.tmsimg.com/assets/p30905430_b_h10_ac.jpg"/>
   </programme>
   <programme start="20260828225900 +0000" stop="20260828235900 +0000" channel="zeemarathi">
     <title lang="en">Lakshmi Nivas</title>
-    <desc lang="en">S1 , E575 : Lakshmi is married to Shriniwas Dalvi, who belongs to a traditional joint family. While she strives to navigate challenges, she supports her husband's dreams.</desc>
+    <desc lang="en">S1 , E575 : As Rama finally sets off for Janhavi's Haldi ceremony with Aarav, Bhavana goes to her school desperately searching for her.</desc>
     <icon src="https://stap.tmsimg.com/assets/p29094815_b_h10_ab.jpg"/>
   </programme>
   <programme start="20260828235900 +0000" stop="20260829003000 +0000" channel="zeemarathi">
@@ -3963,7 +4008,7 @@
   </programme>
   <programme start="20260828195700 +0000" stop="20260828220000 +0000" channel="zeebangla">
     <title lang="en">Biye.Com</title>
-    <desc lang="en">The story revolves around a couple who meet through social media and fall in love. What happens further is what the film is all about.</desc>
+    <desc lang="en">Ayan and Koushani get acquainted with each other on a social media platform. However, chaos ensues when they meet in person.</desc>
     <icon src="https://stap.tmsimg.com/assets/p19438087_b_h8_ab.jpg"/>
   </programme>
   <programme start="20260828220000 +0000" stop="20260828233400 +0000" channel="zeebangla">
