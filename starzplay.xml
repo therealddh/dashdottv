@@ -2911,12 +2911,12 @@
     <desc lang="en">Love knocks on the door of Rambo, an unlucky man. However, a dilemma arises when he develops feelings for two women at the same time.</desc>
     <icon src="https://stap.tmsimg.com/assets/p22031238_b_h10_aa.jpg"/>
   </programme>
-  <programme start="20260902073000 +0000" stop="20260902103000 +0000" channel="asianetmovieshd">
+  <programme start="20260902073000 +0000" stop="20260902104500 +0000" channel="asianetmovieshd">
     <title lang="en">Neymar</title>
     <desc lang="en">Kunjava and his mate welcome a tail-wagging friend called Neymar, only to find their lives thrown into complete disarray.</desc>
     <icon src="https://stap.tmsimg.com/assets/p25430592_v_h10_aa.jpg"/>
   </programme>
-  <programme start="20260902103000 +0000" stop="20260902133000 +0000" channel="asianetmovieshd">
+  <programme start="20260902104500 +0000" stop="20260902133000 +0000" channel="asianetmovieshd">
     <title lang="en">Vikrithi</title>
     <desc lang="en">After spending two sleepless nights taking care of his sick daughter, a person with hearing and speech disability falls asleep in a metro. A passenger photographs him and shares it online.</desc>
     <icon src="https://stap.tmsimg.com/assets/p18214787_v_h10_ac.jpg"/>
@@ -2926,17 +2926,17 @@
     <desc lang="en">A thief robs the automated teller machines of the Imperial Bank of India. Worried about the safety of the bank, the managing director decides to hire a private detective to solve the case.</desc>
     <icon src="https://stap.tmsimg.com/assets/p11018037_v_h10_ab.jpg"/>
   </programme>
-  <programme start="20260902163000 +0000" stop="20260902193000 +0000" channel="asianetmovieshd">
+  <programme start="20260902163000 +0000" stop="20260902192000 +0000" channel="asianetmovieshd">
     <title lang="en">Thanmathra</title>
     <desc lang="en">A family has to deal with the fact that the father, who is also the one that holds the family together, has developed Alzheimer's disease.</desc>
     <icon src="https://stap.tmsimg.com/assets/p172919_v_h10_aa.jpg"/>
   </programme>
-  <programme start="20260902193000 +0000" stop="20260902213000 +0000" channel="asianetmovieshd">
+  <programme start="20260902192000 +0000" stop="20260902215000 +0000" channel="asianetmovieshd">
     <title lang="en">Pullipulikalum Aattinkuttiyum</title>
     <desc lang="en">Gopan, a struggling tourist guide, lands in trouble when his unintentional statement causes his rival, Kuriyachan, to get arrested. Things take a turn when Kuriyachan decides to take revenge.</desc>
     <icon src="https://stap.tmsimg.com/assets/p10173653_b_h8_ab.jpg"/>
   </programme>
-  <programme start="20260902213000 +0000" stop="20260902233000 +0000" channel="asianetmovieshd">
+  <programme start="20260902215000 +0000" stop="20260902233000 +0000" channel="asianetmovieshd">
     <title lang="en">Seelabathi</title>
     <desc lang="en">Seelabhati along with her mother visits a remote village where she starts working as a computer teacher. When some students mysteriously disappear, the villagers start blaming her educational course.</desc>
     <icon src="https://stap.tmsimg.com/assets/p9036083_b_h8_ab.jpg"/>
@@ -4326,14 +4326,9 @@
     <desc lang="en">Ishwar dreams of becoming Omkara's successor after the latter wins the election. However, when Omkara appoints Keshav as his lieutenant, he feels betrayed and plots revenge.</desc>
     <icon src="https://stap.tmsimg.com/assets/p163303_v_h10_ab.jpg"/>
   </programme>
-  <programme start="20260902215600 +0000" stop="20260902230000 +0000" channel="embollywoodunlimited">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/2KIOKvF9.jpg"/>
-  </programme>
-  <programme start="20260902230000 +0000" stop="20260903020000 +0000" channel="embollywoodunlimited">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/2KIOKvF9.jpg"/>
+  <programme start="20260902215600 +0000" stop="20260903004200 +0000" channel="embollywoodunlimited">
+    <title lang="en">Aankhen</title>
+    <desc lang="en">After being sacked from his position as a bank manager, a temperamental man plots revenge by orchestrating a robbery, enlisting three unlikely accomplices.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p76177_v_h10_ab.jpg"/>
   </programme>
 </tv>
