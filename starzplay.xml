@@ -502,7 +502,7 @@
     <icon src="https://stap.tmsimg.com/assets/p1002730_b_h8_ad.jpg"/>
   </programme>
   <programme start="20260903000000 +0000" stop="20260903000000 +0000" channel="colorshd">
-    <title lang="en">Bareilly Ke Bachchan</title>
+    <title lang="en">Bareilly Ke Bacchan</title>
     <desc lang="en">S1 , E71 : Ambitious Sangam marries the carefree Krishna Bacchan and enters a household of men unaccustomed to living with a woman.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33257755_b_h10_ab.jpg"/>
   </programme>
@@ -587,7 +587,7 @@
     <icon src="https://stap.tmsimg.com/assets/p31812237_b_h10_ab.jpg"/>
   </programme>
   <programme start="20260903100000 +0000" stop="20260903103000 +0000" channel="colorshd">
-    <title lang="en">Bareilly Ke Bachchan</title>
+    <title lang="en">Bareilly Ke Bacchan</title>
     <desc lang="en">S1 , E71 : Ambitious Sangam marries the carefree Krishna Bacchan and enters a household of men unaccustomed to living with a woman.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33257755_b_h10_ab.jpg"/>
   </programme>
@@ -652,7 +652,7 @@
     <icon src="https://stap.tmsimg.com/assets/p31812237_b_h10_ab.jpg"/>
   </programme>
   <programme start="20260903170000 +0000" stop="20260903173000 +0000" channel="colorshd">
-    <title lang="en">Bareilly Ke Bachchan</title>
+    <title lang="en">Bareilly Ke Bacchan</title>
     <desc lang="en">S1 , E72 : Sangam suspects Krishna when her rented accommodation is suddenly taken away. Cleverly, Krishna makes sure the tenant denies knowing him and refuses to offer her the space.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33257755_b_h10_ab.jpg"/>
   </programme>
@@ -682,7 +682,7 @@
     <icon src="https://stap.tmsimg.com/assets/p32220715_b_h10_ad.jpg"/>
   </programme>
   <programme start="20260903203000 +0000" stop="20260903210000 +0000" channel="colorshd">
-    <title lang="en">Bareilly Ke Bachchan</title>
+    <title lang="en">Bareilly Ke Bacchan</title>
     <desc lang="en">S1 , E72 : Sangam suspects Krishna when her rented accommodation is suddenly taken away. Cleverly, Krishna makes sure the tenant denies knowing him and refuses to offer her the space.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33257755_b_h10_ab.jpg"/>
   </programme>
@@ -707,7 +707,7 @@
     <icon src="https://stap.tmsimg.com/assets/p33428426_b_h8_aa.jpg"/>
   </programme>
   <programme start="20260903233000 +0000" stop="20260904000000 +0000" channel="colorshd">
-    <title lang="en">Bareilly Ke Bachchan</title>
+    <title lang="en">Bareilly Ke Bacchan</title>
     <desc lang="en">S1 , E72 : Sangam suspects Krishna when her rented accommodation is suddenly taken away. Cleverly, Krishna makes sure the tenant denies knowing him and refuses to offer her the space.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33257755_b_h10_ab.jpg"/>
   </programme>
@@ -2457,39 +2457,29 @@
     <icon src="https://stap.tmsimg.com/assets/p29379941_b_h8_ab.jpg"/>
   </programme>
   <programme start="20260903200000 +0000" stop="20260903210000 +0000" channel="flowersinternational">
-    <title lang="en">Flowers Comedy Ith Item Vere</title>
-    <desc lang="en">Comedians take the stage and perform hilarious skits, showcasing their talent and attempting to impress the judges, in order to win the competition.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29170189_b_h8_ab.jpg"/>
+    <title lang="en">Flowers Comedy - Ithu Item Vere</title>
+    <desc lang="en">S1 , E660 : Contestants showcase their comic prowess through entertaining and hilarious performances and skits in front of a panel of esteemed judges as they compete for a grand prize.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p31653490_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260903210000 +0000" stop="20260903213000 +0000" channel="flowersinternational">
-    <title lang="en">Panchagni</title>
-    <desc lang="en">A restaurant named Pancharatnam is run by five sisters, while their stepmother tries different tactics to close their business.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29170753_b_h8_ab.jpg"/>
+    <title lang="en">Flowers Comedy Golden Punch</title>
+    <desc lang="en">S1 , E19 : </desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/UcNLhTLh.jpg"/>
   </programme>
-  <programme start="20260903213000 +0000" stop="20260903220000 +0000" channel="flowersinternational">
-    <title lang="en">Veettile Vilakku</title>
-    <desc lang="en">A mother goes through various struggles and hardships as she battles for her child and motherhood amidst a complex family relationship.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29496588_b_h10_ac.jpg"/>
+  <programme start="20260903213000 +0000" stop="20260903230000 +0000" channel="flowersinternational">
+    <title lang="en">Flowers Top Singer 6</title>
+    <desc lang="en">S1 , E6 : Talented singers from all walks of life showcase their vocal abilities with melodious songs overseen by judges to win the grand prize.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p31211089_b_h10_aa.jpg"/>
   </programme>
-  <programme start="20260903220000 +0000" stop="20260903223000 +0000" channel="flowersinternational">
-    <title lang="en">Uppum Mulakum</title>
-    <desc lang="en">Balachandran and Neelima, who face many challenges to earn a living, aim to successfully fulfil their wish of going to a foreign country.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29171156_b_h8_ad.jpg"/>
-  </programme>
-  <programme start="20260903223000 +0000" stop="20260903233000 +0000" channel="flowersinternational">
-    <title lang="en">Flowers Top Singer 5</title>
-    <desc lang="en">Talented young singers compete against each other as they perform on stage in front of a panel of judges to emerge victorious and win the title.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29495896_b_h10_ac.jpg"/>
-  </programme>
-  <programme start="20260903233000 +0000" stop="20260904000000 +0000" channel="flowersinternational">
-    <title lang="en">Veettile Vilakku</title>
-    <desc lang="en">A mother goes through various struggles and hardships as she battles for her child and motherhood amidst a complex family relationship.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29496588_b_h10_ac.jpg"/>
+  <programme start="20260903230000 +0000" stop="20260904000000 +0000" channel="flowersinternational">
+    <title lang="en">Flowers Comedy - Ithu Item Vere</title>
+    <desc lang="en">S1 , E660 : Contestants showcase their comic prowess through entertaining and hilarious performances and skits in front of a panel of esteemed judges as they compete for a grand prize.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p31653490_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260904000000 +0000" stop="20260904003000 +0000" channel="flowersinternational">
-    <title lang="en">Sukhamo Devi</title>
-    <desc lang="en">Devika is in love with Nandagopan, but Karthikeyan forces her to marry him. She elopes with Nandagopan only to get abandoned by him at the temple, which leads her to marry his friend.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29170986_b_h8_ab.jpg"/>
+    <title lang="en">Flowers Comedy Golden Moments</title>
+    <desc lang="en">S1 , E148 : Revisit the best moments of the show 'Flowers Comedy,' where comedians put on their greatest skits and performances for the audience.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p29170069_b_h10_ab.jpg"/>
   </programme>
   <programme start="20260903000000 +0000" stop="20260903010000 +0000" channel="arydigital">
     <title lang="en">Good Morning Pakistan</title>
@@ -3523,17 +3513,17 @@
   </programme>
   <programme start="20260903050000 +0000" stop="20260903053000 +0000" channel="zeetamil">
     <title lang="en">Chinnan Siru Kiliye</title>
-    <desc lang="en">S1 , E13 : Indhu, a self-made woman who won't bow or borrow, clashes with Karna, an enforcer of fear-driven patriarchy, triggering a powerful upheaval that shakes the empire everywhere.</desc>
+    <desc lang="en">S1 , E291 : The independent woman in Indhu clashes with the patriarchal idealist in Karna, unleashing a storm the empire never saw coming.</desc>
     <icon src="https://stap.tmsimg.com/assets/p32085372_b_h10_ae.jpg"/>
   </programme>
   <programme start="20260903053000 +0000" stop="20260903060000 +0000" channel="zeetamil">
     <title lang="en">Vaagai Sooda Vaa</title>
-    <desc lang="en">S1 , E196 : Sumathi raises Thenmozhi and Meenakshi with values; Thenmozhi marries into a debt-ridden family, while Meenakshi marries Jeeva to protect Thenmozhi and restore the family's dignity.</desc>
+    <desc lang="en">S1 , E195 : Sumathi raises her daughters Thenmozhi and Meenakshi with care and diligence. Subsequently, Thenmozhi weds into Mano's financially troubled household.</desc>
     <icon src="https://stap.tmsimg.com/assets/p32267862_b_h8_ab.jpg"/>
   </programme>
   <programme start="20260903060000 +0000" stop="20260903063000 +0000" channel="zeetamil">
     <title lang="en">Sandhya Raagam</title>
-    <desc lang="en">S1 , E878 : Separated sisters face new challenges as Sandhya's daughter, Maya, arrives at Janaki's home. Maya's modern ways influence Janaki's daughter, causing concern and tension in the household.</desc>
+    <desc lang="en">S1 , E972 : After the tragic loss of her sister, Sandhya, Janaki becomes the guardian of her niece, Maya. However, Maya's modern approach starts to influence Janaki's daughter.</desc>
     <icon src="https://stap.tmsimg.com/assets/p26168585_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260903063000 +0000" stop="20260903070000 +0000" channel="zeetamil">
@@ -3553,12 +3543,12 @@
   </programme>
   <programme start="20260903080000 +0000" stop="20260903083000 +0000" channel="zeetamil">
     <title lang="en">Varisu</title>
-    <desc lang="en">S1 , E215 : Janakambal wants her carefree grandson Cibi to take over her business. She brings in Tamil to guide him, but it's unclear if Cibi is ready to change his ways.</desc>
+    <desc lang="en">S1 , E373 : Savvy businesswoman Janakambal enlists Tamil to reform her wayward grandson Cibi, hoping he'll prove worthy of inheriting her empire.</desc>
     <icon src="https://stap.tmsimg.com/assets/p30590230_b_h10_ac.jpg"/>
   </programme>
   <programme start="20260903083000 +0000" stop="20260903090000 +0000" channel="zeetamil">
     <title lang="en">Idhayam</title>
-    <desc lang="en">S1 , E1022 : Bharathi donates his heart to Aadhi. Aadhi seeks out Bharathi to express gratitude. They feel an immediate connection. Could this be the beginning of a meaningful relationship?</desc>
+    <desc lang="en">S4 , E1092 : A shy woman from a small town falls for a wealthy tycoon but struggles to express her feelings. Subsequently, she tries to overcome her insecurities.</desc>
     <icon src="https://stap.tmsimg.com/assets/p29123848_b_h8_ab.jpg"/>
   </programme>
   <programme start="20260903090000 +0000" stop="20260903093000 +0000" channel="zeetamil">
@@ -3573,27 +3563,27 @@
   </programme>
   <programme start="20260903100000 +0000" stop="20260903103000 +0000" channel="zeetamil">
     <title lang="en">Aval Varuvala</title>
-    <desc lang="en">S1 , E666 : Divya rejects Jeeva's love due to her traumatic past, revealing her psycho husband. Just as she agrees to marry Jeeva, her husband resurfaces, complicating her life.</desc>
+    <desc lang="en">S1 , E668 : Bhagyalakshmi, a devoted and kind woman, marries Mithra, only for her world to shatter as he plots to abandon her for his lover.</desc>
     <icon src="https://stap.tmsimg.com/assets/p31791829_b_h10_ad.jpg"/>
   </programme>
   <programme start="20260903103000 +0000" stop="20260903110000 +0000" channel="zeetamil">
     <title lang="en">Aval Varuvala</title>
-    <desc lang="en">S1 , E667 : Divya rejects Jeeva's love due to her traumatic past, revealing her psycho husband. Just as she agrees to marry Jeeva, her husband resurfaces, complicating her life.</desc>
+    <desc lang="en">S1 , E669 : Bhagyalakshmi, a devoted and kind woman, marries Mithra, only for her world to shatter as he plots to abandon her for his lover.</desc>
     <icon src="https://stap.tmsimg.com/assets/p31791829_b_h10_ad.jpg"/>
   </programme>
   <programme start="20260903110000 +0000" stop="20260903113000 +0000" channel="zeetamil">
     <title lang="en">Aval Varuvala</title>
-    <desc lang="en">S1 , E666 : Divya rejects Jeeva's love due to her traumatic past, revealing her psycho husband. Just as she agrees to marry Jeeva, her husband resurfaces, complicating her life.</desc>
+    <desc lang="en">S1 , E670 : Bhagyalakshmi, a devoted and kind woman, marries Mithra, only for her world to shatter as he plots to abandon her for his lover.</desc>
     <icon src="https://stap.tmsimg.com/assets/p31791829_b_h10_ad.jpg"/>
   </programme>
   <programme start="20260903113000 +0000" stop="20260903120000 +0000" channel="zeetamil">
     <title lang="en">Aval Varuvala</title>
-    <desc lang="en">S1 , E667 : Divya rejects Jeeva's love due to her traumatic past, revealing her psycho husband. Just as she agrees to marry Jeeva, her husband resurfaces, complicating her life.</desc>
+    <desc lang="en">S1 , E671 : Bhagyalakshmi, a devoted and kind woman, marries Mithra, only for her world to shatter as he plots to abandon her for his lover.</desc>
     <icon src="https://stap.tmsimg.com/assets/p31791829_b_h10_ad.jpg"/>
   </programme>
   <programme start="20260903120000 +0000" stop="20260903123000 +0000" channel="zeetamil">
     <title lang="en">Varisu</title>
-    <desc lang="en">S1 , E215 : Janakambal wants her carefree grandson Cibi to take over her business. She brings in Tamil to guide him, but it's unclear if Cibi is ready to change his ways.</desc>
+    <desc lang="en">S1 , E373 : Savvy businesswoman Janakambal enlists Tamil to reform her wayward grandson Cibi, hoping he'll prove worthy of inheriting her empire.</desc>
     <icon src="https://stap.tmsimg.com/assets/p30590230_b_h10_ac.jpg"/>
   </programme>
   <programme start="20260903123000 +0000" stop="20260903130000 +0000" channel="zeetamil">
@@ -3603,12 +3593,12 @@
   </programme>
   <programme start="20260903130000 +0000" stop="20260903133000 +0000" channel="zeetamil">
     <title lang="en">Parijadam</title>
-    <desc lang="en">S1 , E293 : After losing her parents and her hearing in a tragic accident, Isai is forced to marry Vishal when her aunt Rukmini manipulates her horoscope to meet Subadra's strict astrological beliefs.</desc>
+    <desc lang="en">S1 , E294 : After a tragic accident leaves Isai orphaned, her aunt Rukmini fakes her horoscope to satisfy Subadra's rigid astrological demands and secure a marriage to Vishal.</desc>
     <icon src="https://stap.tmsimg.com/assets/p31143416_b_h8_aa.jpg"/>
   </programme>
   <programme start="20260903133000 +0000" stop="20260903140000 +0000" channel="zeetamil">
     <title lang="en">Chinnan Siru Kiliye</title>
-    <desc lang="en">S1 , E5 : Indhu, a self-made woman who won't bow or borrow, clashes with Karna, an enforcer of fear-driven patriarchy, triggering a powerful upheaval that shakes the empire everywhere.</desc>
+    <desc lang="en">S1 , E292 : The independent woman in Indhu clashes with the patriarchal idealist in Karna, unleashing a storm the empire never saw coming.</desc>
     <icon src="https://stap.tmsimg.com/assets/p32085372_b_h10_ae.jpg"/>
   </programme>
   <programme start="20260903140000 +0000" stop="20260903143000 +0000" channel="zeetamil">
@@ -3618,7 +3608,7 @@
   </programme>
   <programme start="20260903143000 +0000" stop="20260903150000 +0000" channel="zeetamil">
     <title lang="en">Samanthi</title>
-    <desc lang="en">S1 , E38 : Hoping for a fresh start, a humble village girl moves to the busy city, where bold choices and unexpected encounters completely reshape her future forever.</desc>
+    <desc lang="en">S1 , E39 : A modest country woman takes a daring step by relocating to an urban center. Meanwhile, this brave transition alters the entire course of her future.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33589718_b_h8_ab.jpg"/>
   </programme>
   <programme start="20260903150000 +0000" stop="20260903153000 +0000" channel="zeetamil">
@@ -3638,12 +3628,12 @@
   </programme>
   <programme start="20260903163000 +0000" stop="20260903170000 +0000" channel="zeetamil">
     <title lang="en">Sandhya Raagam</title>
-    <desc lang="en">S1 , E889 : Separated sisters face new challenges. Sandhya's daughter, Maya, arrives at Janaki's home. Maya's modern ways influence Janaki's daughter, causing concern and tension in the household.</desc>
+    <desc lang="en">S1 , E973 : After the tragic loss of her sister, Sandhya, Janaki becomes the guardian of her niece, Maya. However, Maya's modern approach starts to influence Janaki's daughter.</desc>
     <icon src="https://stap.tmsimg.com/assets/p26168585_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260903170000 +0000" stop="20260903173000 +0000" channel="zeetamil">
     <title lang="en">Varisu</title>
-    <desc lang="en">S1 , E215 : Janakambal wants her carefree grandson Cibi to take over her business. She brings in Tamil to guide him, but it's unclear if Cibi is ready to change his ways.</desc>
+    <desc lang="en">S1 , E373 : Savvy businesswoman Janakambal enlists Tamil to reform her wayward grandson Cibi, hoping he'll prove worthy of inheriting her empire.</desc>
     <icon src="https://stap.tmsimg.com/assets/p30590230_b_h10_ac.jpg"/>
   </programme>
   <programme start="20260903173000 +0000" stop="20260903180000 +0000" channel="zeetamil">
@@ -3653,7 +3643,7 @@
   </programme>
   <programme start="20260903180000 +0000" stop="20260903183000 +0000" channel="zeetamil">
     <title lang="en">Idhayam</title>
-    <desc lang="en">S1 , E1022 : Bharathi donates his heart to Aadhi. Aadhi seeks out Bharathi to express gratitude. They feel an immediate connection. Could this be the beginning of a meaningful relationship?</desc>
+    <desc lang="en">S4 , E1092 : A shy woman from a small town falls for a wealthy tycoon but struggles to express her feelings. Subsequently, she tries to overcome her insecurities.</desc>
     <icon src="https://stap.tmsimg.com/assets/p29123848_b_h8_ab.jpg"/>
   </programme>
   <programme start="20260903183000 +0000" stop="20260903190000 +0000" channel="zeetamil">
