@@ -463,7 +463,7 @@
   </programme>
   <programme start="20260905013000 +0000" stop="20260905020000 +0000" channel="colorshd">
     <title lang="en">Seher Hone Ko Hai</title>
-    <desc lang="en">S1 , E210 : Seher is a young woman with big dreams, and her mother, Kausar, is determined to overcome societal barriers in her daughter's way.</desc>
+    <desc lang="en">S1 , E210 : Insha uses a swarm of bees to try to ruin the engagement. Meanwhile, Seher gets blackmailed by Hyder.</desc>
     <icon src="https://stap.tmsimg.com/assets/p31812237_b_h10_ab.jpg"/>
   </programme>
   <programme start="20260905020000 +0000" stop="20260905023000 +0000" channel="colorshd">
@@ -518,7 +518,7 @@
   </programme>
   <programme start="20260905150000 +0000" stop="20260905153000 +0000" channel="colorshd">
     <title lang="en">Tuu Juliet Jatt Di</title>
-    <desc lang="en">S1 , E293 : Focused Heer encounters privileged Nawab, sparking an unexpected romance. Their journey unfolds amidst challenges, revealing a tale of love intertwined with deception and emotional turmoil.</desc>
+    <desc lang="en">S1 , E293 : Heer inspires Fateh to finish his song, while a mysterious person appears in Gulaab's cabin. Meanwhile, Jerry tries to discreetly give Fateh her lyrics.</desc>
     <icon src="https://stap.tmsimg.com/assets/p31644915_b_h10_ad.jpg"/>
   </programme>
   <programme start="20260905153000 +0000" stop="20260905160000 +0000" channel="colorshd">
@@ -676,175 +676,250 @@
     <desc lang="en">The host presents the latest updates and headlines on the social, economic and political issues and shares information on current events.</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/i5nHMbdU.jpg"/>
   </programme>
-  <programme start="20260905000000 +0000" stop="20260905013000 +0000" channel="republictv">
+  <programme start="20260905000000 +0000" stop="20260905003000 +0000" channel="republictv">
     <title lang="en">R News</title>
     <desc lang="en">The host presents the latest updates and headlines on the social, economic and political issues and shares information on current events.</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/i5nHMbdU.jpg"/>
   </programme>
+  <programme start="20260905003000 +0000" stop="20260905010000 +0000" channel="republictv">
+    <title lang="en">Live This Morning - LIVE</title>
+    <desc lang="en">The host presents the latest updates and headlines on the social, economic and political issues and shares information on current affairs, live.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p27427554_b_h10_ab.jpg"/>
+  </programme>
+  <programme start="20260905010000 +0000" stop="20260905013000 +0000" channel="republictv">
+    <title lang="en">Live This Morning - LIVE</title>
+    <desc lang="en">The host presents the latest updates and headlines on the social, economic and political issues and shares information on current affairs, live.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p27427554_b_h10_ab.jpg"/>
+  </programme>
   <programme start="20260905013000 +0000" stop="20260905020000 +0000" channel="republictv">
-    <title lang="en">World Of Brands</title>
-    <desc lang="en">The host engages in a conversation with eminent businesspersons, who shed light on their company and its commercial success.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29799285_b_h8_aa.jpg"/>
+    <title lang="en">Live This Morning - LIVE</title>
+    <desc lang="en">The host presents the latest updates and headlines on the social, economic and political issues and shares information on current affairs, live.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p27427554_b_h10_ab.jpg"/>
   </programme>
   <programme start="20260905020000 +0000" stop="20260905023000 +0000" channel="republictv">
+    <title lang="en">Live This Morning - LIVE</title>
+    <desc lang="en">The host presents the latest updates and headlines on the social, economic and political issues and shares information on current affairs, live.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p27427554_b_h10_ab.jpg"/>
+  </programme>
+  <programme start="20260905023000 +0000" stop="20260905030000 +0000" channel="republictv">
+    <title lang="en">Live This Morning - LIVE</title>
+    <desc lang="en">The host presents the latest updates and headlines on the social, economic and political issues and shares information on current affairs, live.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p27427554_b_h10_ab.jpg"/>
+  </programme>
+  <programme start="20260905030000 +0000" stop="20260905033000 +0000" channel="republictv">
+    <title lang="en">The New Age War Room</title>
+    <desc lang="en">The New Age War Room</desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/i5nHMbdU.jpg"/>
+  </programme>
+  <programme start="20260905033000 +0000" stop="20260905040000 +0000" channel="republictv">
     <title lang="en">Live And Breaking - LIVE</title>
     <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events, live.</desc>
     <icon src="https://stap.tmsimg.com/assets/p22150906_b_h10_aa.jpg"/>
   </programme>
-  <programme start="20260905023000 +0000" stop="20260905030000 +0000" channel="republictv">
-    <title lang="en">Adani 2050: Mahakumbh</title>
-    <desc lang="en">The host presents and examines the involvement of the renowned businessman Gautam Adani within the Mahakumbh festival while offering brilliant insights.</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/i5nHMbdU.jpg"/>
-  </programme>
-  <programme start="20260905030000 +0000" stop="20260905033000 +0000" channel="republictv">
-    <title lang="en">6 Stories At 6</title>
-    <desc lang="en">The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29799279_b_h8_aa.jpg"/>
-  </programme>
-  <programme start="20260905033000 +0000" stop="20260905040000 +0000" channel="republictv">
-    <title lang="en">Get Me Right</title>
-    <desc lang="en">The host presents an in-depth report and analyses the latest social, political and economic issues from around the world.</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/i5nHMbdU.jpg"/>
-  </programme>
   <programme start="20260905040000 +0000" stop="20260905043000 +0000" channel="republictv">
-    <title lang="en">This Is Exclusive</title>
-    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p22150944_b_h8_ab.jpg"/>
+    <title lang="en">Start Up Summit</title>
+    <desc lang="en">S1 , E2 : </desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/i5nHMbdU.jpg"/>
   </programme>
   <programme start="20260905043000 +0000" stop="20260905050000 +0000" channel="republictv">
-    <title lang="en">Trending</title>
-    <desc lang="en">The host presents some of the most important and trending news stories, updates and developments from different parts of the world.</desc>
+    <title lang="en">Live And Breaking - LIVE</title>
+    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events, live.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p22150906_b_h10_aa.jpg"/>
+  </programme>
+  <programme start="20260905050000 +0000" stop="20260905053000 +0000" channel="republictv">
+    <title lang="en">Funda Behind Funds</title>
+    <desc lang="en">Funda Behind Funds</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/i5nHMbdU.jpg"/>
   </programme>
-  <programme start="20260905050000 +0000" stop="20260905060000 +0000" channel="republictv">
+  <programme start="20260905053000 +0000" stop="20260905060000 +0000" channel="republictv">
     <title lang="en">Live And Breaking - LIVE</title>
     <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events, live.</desc>
     <icon src="https://stap.tmsimg.com/assets/p22150906_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260905060000 +0000" stop="20260905063000 +0000" channel="republictv">
-    <title lang="en">Burning Question</title>
-    <desc lang="en">The host discusses with experts from various fields, who provide a comprehensive insight into various matters of national importance.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29799293_b_h8_aa.jpg"/>
+    <title lang="en">Acko Drive</title>
+    <desc lang="en">S1 , E9 : Siddharth Vinayak Patankar offers comprehensive insights into the world of motor vehicles while delivering information on safety, performance and cutting-edge automotive technology.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p33419212_b_h8_aa.jpg"/>
   </programme>
   <programme start="20260905063000 +0000" stop="20260905070000 +0000" channel="republictv">
-    <title lang="en">Burning Question</title>
-    <desc lang="en">The host discusses with experts from various fields, who provide a comprehensive insight into various matters of national importance.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29799293_b_h8_aa.jpg"/>
+    <title lang="en">Live And Breaking - LIVE</title>
+    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events, live.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p22150906_b_h10_aa.jpg"/>
   </programme>
-  <programme start="20260905070000 +0000" stop="20260905080000 +0000" channel="republictv">
+  <programme start="20260905070000 +0000" stop="20260905073000 +0000" channel="republictv">
+    <title lang="en">Tech That Changes Everything</title>
+    <desc lang="en">Tech That Changes Everything</desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/i5nHMbdU.jpg"/>
+  </programme>
+  <programme start="20260905073000 +0000" stop="20260905080000 +0000" channel="republictv">
     <title lang="en">Live And Breaking - LIVE</title>
     <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events, live.</desc>
     <icon src="https://stap.tmsimg.com/assets/p22150906_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260905080000 +0000" stop="20260905083000 +0000" channel="republictv">
-    <title lang="en">R News</title>
-    <desc lang="en">The host presents the latest updates and headlines on the social, economic and political issues and shares information on current events.</desc>
+    <title lang="en">Breaking Western Hedgemony</title>
+    <desc lang="en">Breaking Western Hedgemony</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/i5nHMbdU.jpg"/>
   </programme>
   <programme start="20260905083000 +0000" stop="20260905090000 +0000" channel="republictv">
-    <title lang="en">R News</title>
-    <desc lang="en">The host presents the latest updates and headlines on the social, economic and political issues and shares information on current events.</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/i5nHMbdU.jpg"/>
+    <title lang="en">Live And Breaking - LIVE</title>
+    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events, live.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p22150906_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260905090000 +0000" stop="20260905093000 +0000" channel="republictv">
-    <title lang="en">R News</title>
-    <desc lang="en">The host presents the latest updates and headlines on the social, economic and political issues and shares information on current events.</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/i5nHMbdU.jpg"/>
+    <title lang="en">Get Me Right</title>
+    <desc lang="en">S1 , E82 : The host presents an in-depth report and analyses the latest social, political and economic issues from around the world.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p29823758_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260905093000 +0000" stop="20260905100000 +0000" channel="republictv">
-    <title lang="en">R News</title>
-    <desc lang="en">The host presents the latest updates and headlines on the social, economic and political issues and shares information on current events.</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/i5nHMbdU.jpg"/>
+    <title lang="en">Live And Breaking - LIVE</title>
+    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events, live.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p22150906_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260905100000 +0000" stop="20260905103000 +0000" channel="republictv">
-    <title lang="en">R News</title>
-    <desc lang="en">The host presents the latest updates and headlines on the social, economic and political issues and shares information on current events.</desc>
+    <title lang="en">Leadership Talk</title>
+    <desc lang="en">Leadership Talk</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/i5nHMbdU.jpg"/>
   </programme>
   <programme start="20260905103000 +0000" stop="20260905110000 +0000" channel="republictv">
-    <title lang="en">R News</title>
-    <desc lang="en">The host presents the latest updates and headlines on the social, economic and political issues and shares information on current events.</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/i5nHMbdU.jpg"/>
+    <title lang="en">Live And Breaking - LIVE</title>
+    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events, live.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p22150906_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260905110000 +0000" stop="20260905113000 +0000" channel="republictv">
-    <title lang="en">R News</title>
-    <desc lang="en">The host presents the latest updates and headlines on the social, economic and political issues and shares information on current events.</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/i5nHMbdU.jpg"/>
+    <title lang="en">R Tech</title>
+    <desc lang="en">S1 , E5 : </desc>
+    <icon src="https://stap.tmsimg.com/assets/p33808010_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260905113000 +0000" stop="20260905120000 +0000" channel="republictv">
-    <title lang="en">R News</title>
-    <desc lang="en">The host presents the latest updates and headlines on the social, economic and political issues and shares information on current events.</desc>
+    <title lang="en">Skies Of Fire</title>
+    <desc lang="en">Skies Of Fire</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/i5nHMbdU.jpg"/>
   </programme>
   <programme start="20260905120000 +0000" stop="20260905123000 +0000" channel="republictv">
-    <title lang="en">R News</title>
-    <desc lang="en">The host presents the latest updates and headlines on the social, economic and political issues and shares information on current events.</desc>
+    <title lang="en">Skies Of Fire</title>
+    <desc lang="en">Skies Of Fire</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/i5nHMbdU.jpg"/>
   </programme>
   <programme start="20260905123000 +0000" stop="20260905130000 +0000" channel="republictv">
-    <title lang="en">R News</title>
-    <desc lang="en">The host presents the latest updates and headlines on the social, economic and political issues and shares information on current events.</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/i5nHMbdU.jpg"/>
+    <title lang="en">Live And Breaking - LIVE</title>
+    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events, live.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p22150906_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260905130000 +0000" stop="20260905133000 +0000" channel="republictv">
-    <title lang="en">R News</title>
-    <desc lang="en">The host presents the latest updates and headlines on the social, economic and political issues and shares information on current events.</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/i5nHMbdU.jpg"/>
+    <title lang="en">Live And Breaking - LIVE</title>
+    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events, live.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p22150906_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260905133000 +0000" stop="20260905140000 +0000" channel="republictv">
-    <title lang="en">R News</title>
-    <desc lang="en">The host presents the latest updates and headlines on the social, economic and political issues and shares information on current events.</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/i5nHMbdU.jpg"/>
+    <title lang="en">Live And Breaking - LIVE</title>
+    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events, live.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p22150906_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260905140000 +0000" stop="20260905143000 +0000" channel="republictv">
-    <title lang="en">R News</title>
-    <desc lang="en">The host presents the latest updates and headlines on the social, economic and political issues and shares information on current events.</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/i5nHMbdU.jpg"/>
+    <title lang="en">Live And Breaking - LIVE</title>
+    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events, live.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p22150906_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260905143000 +0000" stop="20260905150000 +0000" channel="republictv">
+    <title lang="en">Live And Breaking - LIVE</title>
+    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events, live.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p22150906_b_h10_aa.jpg"/>
+  </programme>
+  <programme start="20260905150000 +0000" stop="20260905153000 +0000" channel="republictv">
+    <title lang="en">Live And Breaking - LIVE</title>
+    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events, live.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p22150906_b_h10_aa.jpg"/>
+  </programme>
+  <programme start="20260905153000 +0000" stop="20260905160000 +0000" channel="republictv">
+    <title lang="en">Live And Breaking - LIVE</title>
+    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events, live.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p22150906_b_h10_aa.jpg"/>
+  </programme>
+  <programme start="20260905160000 +0000" stop="20260905163000 +0000" channel="republictv">
+    <title lang="en">Live And Breaking - LIVE</title>
+    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events, live.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p22150906_b_h10_aa.jpg"/>
+  </programme>
+  <programme start="20260905163000 +0000" stop="20260905170000 +0000" channel="republictv">
+    <title lang="en">Live And Breaking - LIVE</title>
+    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events, live.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p22150906_b_h10_aa.jpg"/>
+  </programme>
+  <programme start="20260905170000 +0000" stop="20260905173000 +0000" channel="republictv">
+    <title lang="en">Sky Is Not The Limit!</title>
+    <desc lang="en">Sky Is Not The Limit!</desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/i5nHMbdU.jpg"/>
+  </programme>
+  <programme start="20260905173000 +0000" stop="20260905180000 +0000" channel="republictv">
     <title lang="en">R News</title>
     <desc lang="en">The host presents the latest updates and headlines on the social, economic and political issues and shares information on current events.</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/i5nHMbdU.jpg"/>
   </programme>
-  <programme start="20260905150000 +0000" stop="20260905153000 +0000" channel="republictv">
-    <title lang="en">Quick Morning</title>
-    <desc lang="en">The host presents the latest updates and headlines on the social, economic and political issues and shares information on current events.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p27341876_b_h10_aa.jpg"/>
-  </programme>
-  <programme start="20260905153000 +0000" stop="20260905160000 +0000" channel="republictv">
-    <title lang="en">Quick Morning</title>
-    <desc lang="en">The host presents the latest updates and headlines on the social, economic and political issues and shares information on current events.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p27341876_b_h10_aa.jpg"/>
-  </programme>
-  <programme start="20260905160000 +0000" stop="20260905180000 +0000" channel="republictv">
-    <title lang="en">Live This Morning - LIVE</title>
-    <desc lang="en">The host presents the latest updates and headlines on the social, economic and political issues and shares information on current affairs, live.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p27427554_b_h10_ab.jpg"/>
-  </programme>
-  <programme start="20260905180000 +0000" stop="20260905193000 +0000" channel="republictv">
-    <title lang="en">Live And Breaking - LIVE</title>
-    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events, live.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p22150906_b_h10_aa.jpg"/>
-  </programme>
-  <programme start="20260905193000 +0000" stop="20260905200000 +0000" channel="republictv">
-    <title lang="en">Get Me Right</title>
-    <desc lang="en">The host presents an in-depth report and analyses the latest social, political and economic issues from around the world.</desc>
+  <programme start="20260905180000 +0000" stop="20260905183000 +0000" channel="republictv">
+    <title lang="en">Tech That Changes Everything</title>
+    <desc lang="en">Tech That Changes Everything</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/i5nHMbdU.jpg"/>
   </programme>
-  <programme start="20260905200000 +0000" stop="20260905233000 +0000" channel="republictv">
-    <title lang="en">Live And Breaking - LIVE</title>
-    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events, live.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p22150906_b_h10_aa.jpg"/>
+  <programme start="20260905183000 +0000" stop="20260905190000 +0000" channel="republictv">
+    <title lang="en">R News</title>
+    <desc lang="en">The host presents the latest updates and headlines on the social, economic and political issues and shares information on current events.</desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/i5nHMbdU.jpg"/>
+  </programme>
+  <programme start="20260905190000 +0000" stop="20260905193000 +0000" channel="republictv">
+    <title lang="en">Acko Drive</title>
+    <desc lang="en">S1 , E9 : Siddharth Vinayak Patankar offers comprehensive insights into the world of motor vehicles while delivering information on safety, performance and cutting-edge automotive technology.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p33419212_b_h8_aa.jpg"/>
+  </programme>
+  <programme start="20260905193000 +0000" stop="20260905200000 +0000" channel="republictv">
+    <title lang="en">R News</title>
+    <desc lang="en">The host presents the latest updates and headlines on the social, economic and political issues and shares information on current events.</desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/i5nHMbdU.jpg"/>
+  </programme>
+  <programme start="20260905200000 +0000" stop="20260905203000 +0000" channel="republictv">
+    <title lang="en">R Tech</title>
+    <desc lang="en">S1 , E5 : </desc>
+    <icon src="https://stap.tmsimg.com/assets/p33808010_b_h10_aa.jpg"/>
+  </programme>
+  <programme start="20260905203000 +0000" stop="20260905210000 +0000" channel="republictv">
+    <title lang="en">R News</title>
+    <desc lang="en">The host presents the latest updates and headlines on the social, economic and political issues and shares information on current events.</desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/i5nHMbdU.jpg"/>
+  </programme>
+  <programme start="20260905210000 +0000" stop="20260905213000 +0000" channel="republictv">
+    <title lang="en">When Machines Start Thinking</title>
+    <desc lang="en">When Machines Start Thinking</desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/i5nHMbdU.jpg"/>
+  </programme>
+  <programme start="20260905213000 +0000" stop="20260905220000 +0000" channel="republictv">
+    <title lang="en">R News</title>
+    <desc lang="en">The host presents the latest updates and headlines on the social, economic and political issues and shares information on current events.</desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/i5nHMbdU.jpg"/>
+  </programme>
+  <programme start="20260905220000 +0000" stop="20260905223000 +0000" channel="republictv">
+    <title lang="en">Funda Behind Funds</title>
+    <desc lang="en">Funda Behind Funds</desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/i5nHMbdU.jpg"/>
+  </programme>
+  <programme start="20260905223000 +0000" stop="20260905230000 +0000" channel="republictv">
+    <title lang="en">R News</title>
+    <desc lang="en">The host presents the latest updates and headlines on the social, economic and political issues and shares information on current events.</desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/i5nHMbdU.jpg"/>
+  </programme>
+  <programme start="20260905230000 +0000" stop="20260905233000 +0000" channel="republictv">
+    <title lang="en">Get Me Right</title>
+    <desc lang="en">S1 , E82 : The host presents an in-depth report and analyses the latest social, political and economic issues from around the world.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p29823758_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260905233000 +0000" stop="20260906000000 +0000" channel="republictv">
-    <title lang="en">World Of Brands</title>
-    <desc lang="en">The host engages in a conversation with eminent businesspersons, who shed light on their company and its commercial success.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29799285_b_h8_aa.jpg"/>
+    <title lang="en">R News</title>
+    <desc lang="en">The host presents the latest updates and headlines on the social, economic and political issues and shares information on current events.</desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/i5nHMbdU.jpg"/>
   </programme>
   <programme start="20260906000000 +0000" stop="20260906003000 +0000" channel="republictv">
-    <title lang="en">Live And Breaking - LIVE</title>
-    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events, live.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p22150906_b_h10_aa.jpg"/>
+    <title lang="en">R Tech</title>
+    <desc lang="en">S1 , E5 : </desc>
+    <icon src="https://stap.tmsimg.com/assets/p33808010_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260905000000 +0000" stop="20260905000000 +0000" channel="asianetnews">
     <title lang="en">News @ 10</title>
@@ -2766,50 +2841,60 @@
     <desc lang="en">S1 , E255 : Varsha, an ambitious young woman, strives to overcome personal struggles and societal stigma while Shivananda, a fearless journalist, fights against corruption and deep family secrets.</desc>
     <icon src="https://stap.tmsimg.com/assets/p31588429_b_h10_aa.jpg"/>
   </programme>
-  <programme start="20260905000000 +0000" stop="20260905020000 +0000" channel="emsimplysouth">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/GLmMTbx9.jpg"/>
-  </programme>
-  <programme start="20260905020000 +0000" stop="20260905050000 +0000" channel="emsimplysouth">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/GLmMTbx9.jpg"/>
-  </programme>
-  <programme start="20260905050000 +0000" stop="20260905080000 +0000" channel="emsimplysouth">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/GLmMTbx9.jpg"/>
-  </programme>
-  <programme start="20260905080000 +0000" stop="20260905110000 +0000" channel="emsimplysouth">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/GLmMTbx9.jpg"/>
-  </programme>
-  <programme start="20260905110000 +0000" stop="20260905140000 +0000" channel="emsimplysouth">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/GLmMTbx9.jpg"/>
-  </programme>
-  <programme start="20260905140000 +0000" stop="20260905184600 +0000" channel="emsimplysouth">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/GLmMTbx9.jpg"/>
-  </programme>
-  <programme start="20260905184600 +0000" stop="20260905205100 +0000" channel="emsimplysouth">
-    <title lang="en">Anchakkallakokkan</title>
-    <desc lang="en">A timid police officer is posted to a remote village in the throes of an upcoming election and a homicide. A man's unexpected confession to the killing only draws in more suspicions and danger.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p26972077_b_h8_aa.jpg"/>
-  </programme>
-  <programme start="20260905205100 +0000" stop="20260905233100 +0000" channel="emsimplysouth">
-    <title lang="en">Salmon</title>
-    <desc lang="en">When Sarfarosh's wife and daughter leave for a vacation, his friends arrange a surprise party for him. Soon, someone is murdered in the party and only a mysterious spirit knows the truth.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p25119382_v_h8_ab.jpg"/>
-  </programme>
-  <programme start="20260905233100 +0000" stop="20260906014400 +0000" channel="emsimplysouth">
+  <programme start="20260905000000 +0000" stop="20260905014400 +0000" channel="emsimplysouth">
     <title lang="en">Ramudu Bheemudu</title>
     <desc lang="en">Ramudu and Bheemudu, two lookalikes who are tired of their mundane lives, decide to swap places and start living in each other's homes.</desc>
     <icon src="https://stap.tmsimg.com/assets/p30832161_b_h10_aa.jpg"/>
+  </programme>
+  <programme start="20260905014400 +0000" stop="20260905041800 +0000" channel="emsimplysouth">
+    <title lang="en">Vaalu</title>
+    <desc lang="en">A jobless man falls in love with a woman who must marry someone to fulfil her parents' wishes, so the man has a short time to make her fall for him.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p10776419_v_h10_ab.jpg"/>
+  </programme>
+  <programme start="20260905041800 +0000" stop="20260905062000 +0000" channel="emsimplysouth">
+    <title lang="en">Thittam Irandu</title>
+    <desc lang="en">While her marriage preparations are underway, Inspector Athira is busy investigating the death of her friend Deepa. Later, her life turns upside down when the whole mystery unfolds before her eyes.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p22091218_b_h8_ab.jpg"/>
+  </programme>
+  <programme start="20260905062000 +0000" stop="20260905084200 +0000" channel="emsimplysouth">
+    <title lang="en">Sweetheart!</title>
+    <desc lang="en">An animator struggles with commitment issues when his girlfriend reveals that she is pregnant. His emotional journey unfolds with surprising humor, leading to personal growth and self-discovery.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p29752708_v_h10_aa.jpg"/>
+  </programme>
+  <programme start="20260905084200 +0000" stop="20260905103600 +0000" channel="emsimplysouth">
+    <title lang="en">Pyali</title>
+    <desc lang="en">Orphaned Kashmiri-origin siblings, Ziyah and Barbiee, live in a Kerala slum. Despite great difficulty, Ziyah cares for his sister, and the two overcome hurdles to fulfill their simple desires.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p23899239_v_h10_aa.jpg"/>
+  </programme>
+  <programme start="20260905103600 +0000" stop="20260905122400 +0000" channel="emsimplysouth">
+    <title lang="en">Jerry</title>
+    <desc lang="en">Jerry</desc>
+    <icon src="https://stap.tmsimg.com/assets/p33972621_b_h8_aa.jpg"/>
+  </programme>
+  <programme start="20260905122400 +0000" stop="20260905143700 +0000" channel="emsimplysouth">
+    <title lang="en">Guruvayoor Ambalanadayil</title>
+    <desc lang="en">Through a series of unforeseen and unfortunate events, a young man who is about to get married ends up marrying a woman who despises him.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p27361810_b_h8_aa.jpg"/>
+  </programme>
+  <programme start="20260905143700 +0000" stop="20260905170100 +0000" channel="emsimplysouth">
+    <title lang="en">Kaithi</title>
+    <desc lang="en">An ex-convict's fresh start to life is threatened by vengeful enemies, compelling him to confront the dangers for a chance at freedom.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p17513542_v_h10_ab.jpg"/>
+  </programme>
+  <programme start="20260905170100 +0000" stop="20260905190700 +0000" channel="emsimplysouth">
+    <title lang="en">Tourist Family</title>
+    <desc lang="en">After the COVID-19 pandemic hits Sri Lanka, a family travels to India to begin a new life. Their arrival quickly transforms their new neighbourhood.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p30084675_v_h10_aa.jpg"/>
+  </programme>
+  <programme start="20260905190700 +0000" stop="20260905220000 +0000" channel="emsimplysouth">
+    <title lang="en">Vaazha II: Biopic of a Billion Bros</title>
+    <desc lang="en">Hashir, Alan, Ajin and Vinayak, four friends strive to navigate the challenges of their life along with managing their interpersonal relationships.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p32587939_v_h8_ab.jpg"/>
+  </programme>
+  <programme start="20260905220000 +0000" stop="20260906003000 +0000" channel="emsimplysouth">
+    <title lang="en">Samara</title>
+    <desc lang="en">A sharp policeman sets off to a mountainous region in order to investigate a series of mysterious deaths perpetrated using toxins.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p26727669_v_h10_aa.jpg"/>
   </programme>
   <programme start="20260905000000 +0000" stop="20260905000000 +0000" channel="ntvhd">
     <title lang="en">Movie</title>
@@ -3871,10 +3956,15 @@
     <desc lang="en">Mohanakrishnan, an honest village officer, is constantly at odds with his wife Satyabhama, a shrewd and practical lawyer.</desc>
     <icon src="https://evisioneand.com/image/catalog/user-8/Karyam Nissaram - 1920 X 1080.jpg"/>
   </programme>
-  <programme start="20260905000000 +0000" stop="20260905035300 +0000" channel="embollywoodunlimited">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/2KIOKvF9.jpg"/>
+  <programme start="20260905000000 +0000" stop="20260905014100 +0000" channel="embollywoodunlimited">
+    <title lang="en">Made in China</title>
+    <desc lang="en">Raghuveer Mehta, a failing businessman, travels to China for some work. During the trip, he hatches a plan to sell an aphrodisiac that enhances men's sexual health in India.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p17396516_v_h10_ab.jpg"/>
+  </programme>
+  <programme start="20260905014100 +0000" stop="20260905035300 +0000" channel="embollywoodunlimited">
+    <title lang="en">Iqbal</title>
+    <desc lang="en">Iqbal, a speech and hearing impaired boy, wishes to play cricket for the Indian team, but his impairment overshadows his talent. Thus, he seeks help from a former cricket player to train him.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p8178522_v_h10_ac.jpg"/>
   </programme>
   <programme start="20260905035300 +0000" stop="20260905061100 +0000" channel="embollywoodunlimited">
     <title lang="en">Tamasha</title>
@@ -3911,12 +4001,12 @@
     <desc lang="en">Chulbul Pandey, a police officer, battles a corrupt political leader, Cheddi Singh, who strains Chulbul's relationship with his step-brother.</desc>
     <icon src="https://stap.tmsimg.com/assets/p8269619_v_h10_ae.jpg"/>
   </programme>
-  <programme start="20260905190500 +0000" stop="20260905230000 +0000" channel="embollywoodunlimited">
+  <programme start="20260905190500 +0000" stop="20260905213700 +0000" channel="embollywoodunlimited">
     <title lang="en">Dangal</title>
     <desc lang="en">Mahavir Singh Phogat, a former wrestling champion, dedicates himself to transforming his daughters, Geeta and Babita, into elite wrestlers.</desc>
     <icon src="https://stap.tmsimg.com/assets/p13537054_v_h10_aa.jpg"/>
   </programme>
-  <programme start="20260905230000 +0000" stop="20260906020000 +0000" channel="embollywoodunlimited">
+  <programme start="20260905213700 +0000" stop="20260906010000 +0000" channel="embollywoodunlimited">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/2KIOKvF9.jpg"/>
