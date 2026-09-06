@@ -2148,7 +2148,7 @@
   </programme>
   <programme start="20260906085600 +0000" stop="20260906092100 +0000" channel="sabtv">
     <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">S1 , E4803 : The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
+    <desc lang="en">S1 , E4803 : Tapu Sena keeps a close watch on Gokuldham as everyone stays alert for the mysterious thief. Will they finally catch the culprit?</desc>
     <icon src="https://stap.tmsimg.com/assets/p12557899_b_h11_ad.jpg"/>
   </programme>
   <programme start="20260906092100 +0000" stop="20260906094700 +0000" channel="sabtv">
@@ -2233,7 +2233,7 @@
   </programme>
   <programme start="20260906161300 +0000" stop="20260906163700 +0000" channel="sabtv">
     <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">S1 , E4803 : The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
+    <desc lang="en">S1 , E4803 : Tapu Sena keeps a close watch on Gokuldham as everyone stays alert for the mysterious thief. Will they finally catch the culprit?</desc>
     <icon src="https://stap.tmsimg.com/assets/p12557899_b_h11_ad.jpg"/>
   </programme>
   <programme start="20260906163700 +0000" stop="20260906170100 +0000" channel="sabtv">
@@ -2711,125 +2711,95 @@
     <desc lang="en">Movie</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/HpJY5F1N.jpg"/>
   </programme>
-  <programme start="20260906003000 +0000" stop="20260906013000 +0000" channel="asianetplushd">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
+  <programme start="20260906003000 +0000" stop="20260906030000 +0000" channel="asianetplushd">
+    <title lang="en">Trivandrum Lodge</title>
+    <desc lang="en">A diverse group of residents coexist in a residential lodge. However, the dynamics shift when a confident and unconventional new tenant arrives.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p9543656_b_h10_aa.jpg"/>
+  </programme>
+  <programme start="20260906030000 +0000" stop="20260906032500 +0000" channel="asianetplushd">
+    <title lang="en">Malikappuram</title>
+    <desc lang="en">S1 , E197 : When Unnimol, a young girl child, faces dismissal from all her relatives and community, Lord Ayyappan takes the form of a school student to help her overcome obstacles.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p26030289_b_h10_ae.jpg"/>
+  </programme>
+  <programme start="20260906032500 +0000" stop="20260906033000 +0000" channel="asianetplushd">
+    <title lang="en">Paribhavam Parvathi</title>
+    <desc lang="en">S2 , E12 : A young couple, Mukundan and Parvathi, along with their little daughter deals with various day-to-day problems in a comical way.</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/HpJY5F1N.jpg"/>
   </programme>
-  <programme start="20260906013000 +0000" stop="20260906023000 +0000" channel="asianetplushd">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
+  <programme start="20260906033000 +0000" stop="20260906063000 +0000" channel="asianetplushd">
+    <title lang="en">Kappal Muthalaali</title>
+    <desc lang="en">Bhoominathan dreams of building a resort on inherited land, but an ancient ship and bureaucratic hurdles turn his plans into a comedic struggle for love and ambition.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p11396290_v_h10_aa.jpg"/>
+  </programme>
+  <programme start="20260906063000 +0000" stop="20260906070000 +0000" channel="asianetplushd">
+    <title lang="en">48th Soorya Festival 2025</title>
+    <desc lang="en">S1 , E42 : </desc>
+    <icon src="https://stap.tmsimg.com/assets/p31697842_b_h10_aa.jpg"/>
+  </programme>
+  <programme start="20260906070000 +0000" stop="20260906093000 +0000" channel="asianetplushd">
+    <title lang="en">Kadal Kadannu Oru Maathukutty</title>
+    <desc lang="en">An unemployed man living in Germany receives an opportunity to organise a star-studded event in Kerala. However, chaos ensues when he arrives in the country.</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/HpJY5F1N.jpg"/>
   </programme>
-  <programme start="20260906023000 +0000" stop="20260906033000 +0000" channel="asianetplushd">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
+  <programme start="20260906093000 +0000" stop="20260906123000 +0000" channel="asianetplushd">
+    <title lang="en">Agnidevan</title>
+    <desc lang="en">Two brothers are constantly at odds over continuing their family legacy. Eventually, their rivalry reaches extreme proportions, threatening to destroy the bond of brotherhood.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p9458921_v_h10_aa.jpg"/>
+  </programme>
+  <programme start="20260906123000 +0000" stop="20260906130000 +0000" channel="asianetplushd">
+    <title lang="en">Malikappuram</title>
+    <desc lang="en">S1 , E198 : Unnimol grows doubtful regarding Kallu's plea to Jayanthan. Subsequently, Giridevan escorts Unnimol to Kizhakkevaathil and recounts the tale of Sundari.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p26030289_b_h10_ae.jpg"/>
+  </programme>
+  <programme start="20260906130000 +0000" stop="20260906133000 +0000" channel="asianetplushd">
+    <title lang="en">Eatho Janma Kalpanayil</title>
+    <desc lang="en">S1 , E368 : Love blooms between Sruthy, a cheerful girl from a humble background and Ashwin, an arrogant wealthy businessman when they accidentally come across each other.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p26614570_b_h10_ad.jpg"/>
+  </programme>
+  <programme start="20260906133000 +0000" stop="20260906140000 +0000" channel="asianetplushd">
+    <title lang="en">Chandrikayil Aliyunnu Chandrakantham</title>
+    <desc lang="en">S1 , E370 : Gautham, an IPS officer, is forced to marry Alakananda, an aspiring doctor. However, when his first love reenters his life, he is forced to choose between his past and his future.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p26128188_b_h10_ag.jpg"/>
+  </programme>
+  <programme start="20260906140000 +0000" stop="20260906143000 +0000" channel="asianetplushd">
+    <title lang="en">Teacheramma</title>
+    <desc lang="en">S1 , E112 : Mahesh shares Vishnu's suspicions with Veena, causing them both to panic. Later, prompted by a dream, Krishnachandran visits Saraswathy's house, where Kani confirms that she is still alive.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p29934565_b_h8_af.jpg"/>
+  </programme>
+  <programme start="20260906143000 +0000" stop="20260906150000 +0000" channel="asianetplushd">
+    <title lang="en">Paadatha Painkili</title>
+    <desc lang="en">S1 , E373 : A young woman faces constant torment and oppression from her family, but remains resilient in her search for love and happiness.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p21218323_b_h10_ab.jpg"/>
+  </programme>
+  <programme start="20260906150000 +0000" stop="20260906153000 +0000" channel="asianetplushd">
+    <title lang="en">Snehakkoottu</title>
+    <desc lang="en">S1 , E109 : A father's decision to remarry brings unexpected struggles as his son Sethumadhavan steps up to care for his half-sisters, navigating shifting family relationships.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p28039099_b_h10_ab.jpg"/>
+  </programme>
+  <programme start="20260906153000 +0000" stop="20260906160000 +0000" channel="asianetplushd">
+    <title lang="en">Santhwanam</title>
+    <desc lang="en">S1 , E290 : Sridevi leads a peaceful and happy life with her husband, Balakrishnan, and his siblings. However, the family faces various adversities that challenge their bonding.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p21612639_b_h10_ab.jpg"/>
+  </programme>
+  <programme start="20260906160000 +0000" stop="20260906163000 +0000" channel="asianetplushd">
+    <title lang="en">Ishtam Mathram</title>
+    <desc lang="en">S1 , E95 : Mahesh loves his daughter but does not know how to relay his affection for her, while Ishita showers her with love, which drives him to envy. It is up to her to bring them closer to each other.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p28132873_b_h10_ab.jpg"/>
+  </programme>
+  <programme start="20260906163000 +0000" stop="20260906193000 +0000" channel="asianetplushd">
+    <title lang="en">Pai Brothers</title>
+    <desc lang="en">Two bumbling brothers fall madly in love with a young female employee. However, hilarity ensues after they realise the woman nurtures a secret agenda.</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/HpJY5F1N.jpg"/>
   </programme>
-  <programme start="20260906033000 +0000" stop="20260906043000 +0000" channel="asianetplushd">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/HpJY5F1N.jpg"/>
+  <programme start="20260906193000 +0000" stop="20260906220000 +0000" channel="asianetplushd">
+    <title lang="en">Churam</title>
+    <desc lang="en">Village blacksmith Kunjunni and orphaned Maya build a loving marriage in their rural community. However, problems arise when a local truck driver makes inappropriate advances toward Maya.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p10745330_v_h8_aa.jpg"/>
   </programme>
-  <programme start="20260906043000 +0000" stop="20260906053000 +0000" channel="asianetplushd">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/HpJY5F1N.jpg"/>
-  </programme>
-  <programme start="20260906053000 +0000" stop="20260906063000 +0000" channel="asianetplushd">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/HpJY5F1N.jpg"/>
-  </programme>
-  <programme start="20260906063000 +0000" stop="20260906073000 +0000" channel="asianetplushd">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/HpJY5F1N.jpg"/>
-  </programme>
-  <programme start="20260906073000 +0000" stop="20260906083000 +0000" channel="asianetplushd">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/HpJY5F1N.jpg"/>
-  </programme>
-  <programme start="20260906083000 +0000" stop="20260906093000 +0000" channel="asianetplushd">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/HpJY5F1N.jpg"/>
-  </programme>
-  <programme start="20260906093000 +0000" stop="20260906103000 +0000" channel="asianetplushd">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/HpJY5F1N.jpg"/>
-  </programme>
-  <programme start="20260906103000 +0000" stop="20260906113000 +0000" channel="asianetplushd">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/HpJY5F1N.jpg"/>
-  </programme>
-  <programme start="20260906113000 +0000" stop="20260906123000 +0000" channel="asianetplushd">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/HpJY5F1N.jpg"/>
-  </programme>
-  <programme start="20260906123000 +0000" stop="20260906133000 +0000" channel="asianetplushd">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/HpJY5F1N.jpg"/>
-  </programme>
-  <programme start="20260906133000 +0000" stop="20260906143000 +0000" channel="asianetplushd">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/HpJY5F1N.jpg"/>
-  </programme>
-  <programme start="20260906143000 +0000" stop="20260906153000 +0000" channel="asianetplushd">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/HpJY5F1N.jpg"/>
-  </programme>
-  <programme start="20260906153000 +0000" stop="20260906163000 +0000" channel="asianetplushd">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/HpJY5F1N.jpg"/>
-  </programme>
-  <programme start="20260906163000 +0000" stop="20260906173000 +0000" channel="asianetplushd">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/HpJY5F1N.jpg"/>
-  </programme>
-  <programme start="20260906173000 +0000" stop="20260906183000 +0000" channel="asianetplushd">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/HpJY5F1N.jpg"/>
-  </programme>
-  <programme start="20260906183000 +0000" stop="20260906193000 +0000" channel="asianetplushd">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/HpJY5F1N.jpg"/>
-  </programme>
-  <programme start="20260906193000 +0000" stop="20260906203000 +0000" channel="asianetplushd">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/HpJY5F1N.jpg"/>
-  </programme>
-  <programme start="20260906203000 +0000" stop="20260906213000 +0000" channel="asianetplushd">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/HpJY5F1N.jpg"/>
-  </programme>
-  <programme start="20260906213000 +0000" stop="20260906223000 +0000" channel="asianetplushd">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/HpJY5F1N.jpg"/>
-  </programme>
-  <programme start="20260906223000 +0000" stop="20260906233000 +0000" channel="asianetplushd">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/HpJY5F1N.jpg"/>
-  </programme>
-  <programme start="20260906233000 +0000" stop="20260907003000 +0000" channel="asianetplushd">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/HpJY5F1N.jpg"/>
+  <programme start="20260906220000 +0000" stop="20260907003000 +0000" channel="asianetplushd">
+    <title lang="en">Aayushkalam</title>
+    <desc lang="en">Balakrishnan, who is in desperate need of a heart transplant, receives the heart of Aby. However, things take an unexpected turn when he starts seeing Aby's ghost.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p10897454_v_h8_aa.jpg"/>
   </programme>
   <programme start="20260906000000 +0000" stop="20260906000000 +0000" channel="asianetcinema">
     <title lang="en">Movie</title>
@@ -3091,20 +3061,25 @@
     <desc lang="en">Living a quiet life with his niece, Eeswaran manages to provide for her and nurtures her like a parent. However, his journey takes an insidious turn when she goes missing.</desc>
     <icon src="https://stap.tmsimg.com/assets/p25697227_v_h10_aa.jpg"/>
   </programme>
-  <programme start="20260906170000 +0000" stop="20260906192000 +0000" channel="emsimplysouth">
+  <programme start="20260906170000 +0000" stop="20260906170100 +0000" channel="emsimplysouth">
     <title lang="en">3BHK</title>
     <desc lang="en">A middle-class family faces various challenges and setbacks as they strive to achieve their dream of owning a home in the city.</desc>
     <icon src="https://stap.tmsimg.com/assets/p30572287_v_h10_aa.jpg"/>
   </programme>
-  <programme start="20260906192000 +0000" stop="20260906230000 +0000" channel="emsimplysouth">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/GLmMTbx9.jpg"/>
+  <programme start="20260906170100 +0000" stop="20260906190700 +0000" channel="emsimplysouth">
+    <title lang="en">Tourist Family</title>
+    <desc lang="en">After the COVID-19 pandemic hits Sri Lanka, a family travels to India to begin a new life. Their arrival quickly transforms their new neighbourhood.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p30084675_v_h10_aa.jpg"/>
   </programme>
-  <programme start="20260906230000 +0000" stop="20260907020000 +0000" channel="emsimplysouth">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/GLmMTbx9.jpg"/>
+  <programme start="20260906190700 +0000" stop="20260906220000 +0000" channel="emsimplysouth">
+    <title lang="en">Vaazha II: Biopic of a Billion Bros</title>
+    <desc lang="en">Hashir, Alan, Ajin and Vinayak, four friends strive to navigate the challenges of their life along with managing their interpersonal relationships.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p32587939_v_h8_ab.jpg"/>
+  </programme>
+  <programme start="20260906220000 +0000" stop="20260907003000 +0000" channel="emsimplysouth">
+    <title lang="en">Samara</title>
+    <desc lang="en">A sharp policeman sets off to a mountainous region in order to investigate a series of mysterious deaths perpetrated using toxins.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p26727669_v_h10_aa.jpg"/>
   </programme>
   <programme start="20260906000000 +0000" stop="20260906000000 +0000" channel="ntvhd">
     <title lang="en">Movie</title>
@@ -3346,14 +3321,9 @@
     <desc lang="en">Shattering the shackles of her past struggles and societal norms, a single mother successfully raises her three young daughters.</desc>
     <icon src="https://stap.tmsimg.com/assets/p21987577_b_h10_aa.jpg"/>
   </programme>
-  <programme start="20260906000000 +0000" stop="20260906000000 +0000" channel="zeetamil">
-    <title lang="en">Free Ticket</title>
-    <desc lang="en">S1 , E1597 : A comprehensive compilation of songs and snippets from some of the most popular and trending Tamil movies is played to entertain the audience.</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/klN7lrpJ.jpg"/>
-  </programme>
   <programme start="20260906000000 +0000" stop="20260906003000 +0000" channel="zeetamil">
     <title lang="en">Free Ticket</title>
-    <desc lang="en">S1 , E1597 : A comprehensive compilation of songs and snippets from some of the most popular and trending Tamil movies is played to entertain the audience.</desc>
+    <desc lang="en">S1 , E1594 : A comprehensive compilation of songs and snippets from some of the most popular and trending Tamil movies is played to entertain the audience.</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/klN7lrpJ.jpg"/>
   </programme>
   <programme start="20260906003000 +0000" stop="20260906010000 +0000" channel="zeetamil">
@@ -3480,11 +3450,6 @@
     <title lang="en">Free Ticket</title>
     <desc lang="en">S1 , E1598 : A comprehensive compilation of songs and snippets from some of the most popular and trending Tamil movies is played to entertain the audience.</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/klN7lrpJ.jpg"/>
-  </programme>
-  <programme start="20260906000000 +0000" stop="20260906000000 +0000" channel="zeemarathi">
-    <title lang="en">Lakshmi Nivas</title>
-    <desc lang="en">S1 , E583 : Lakshmi is married to Shriniwas Dalvi, who belongs to a traditional joint family. While she strives to navigate challenges, she supports her husband's dreams.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29094815_b_h10_ab.jpg"/>
   </programme>
   <programme start="20260906000000 +0000" stop="20260906003000 +0000" channel="zeemarathi">
     <title lang="en">Tula Japnar Aahe</title>
@@ -3618,7 +3583,7 @@
   </programme>
   <programme start="20260906150000 +0000" stop="20260906153000 +0000" channel="zeemarathi">
     <title lang="en">Sanai Chaughade</title>
-    <desc lang="en">S1 , E80 : Jayraj locks his heart away to escape a painful past. But everything changes when he meets Sharvari. Can these two opposites overcome family drama and fear to find healing?</desc>
+    <desc lang="en">S1 , E168 : Weighed down by his past, Jay rejects the idea of love. But Sharvari comes into his life and destiny ignites a conflict of beliefs, compelling them to explore if they can mend past scars with love.</desc>
     <icon src="https://stap.tmsimg.com/assets/p32659244_b_h10_ad.jpg"/>
   </programme>
   <programme start="20260906153000 +0000" stop="20260906160000 +0000" channel="zeemarathi">
@@ -3643,7 +3608,7 @@
   </programme>
   <programme start="20260906180000 +0000" stop="20260906183000 +0000" channel="zeemarathi">
     <title lang="en">Sanai Chaughade</title>
-    <desc lang="en">S1 , E80 : Jayraj locks his heart away to escape a painful past. But everything changes when he meets Sharvari. Can these two opposites overcome family drama and fear to find healing?</desc>
+    <desc lang="en">S1 , E168 : Weighed down by his past, Jay rejects the idea of love. But Sharvari comes into his life and destiny ignites a conflict of beliefs, compelling them to explore if they can mend past scars with love.</desc>
     <icon src="https://stap.tmsimg.com/assets/p32659244_b_h10_ad.jpg"/>
   </programme>
   <programme start="20260906183000 +0000" stop="20260906190000 +0000" channel="zeemarathi">
