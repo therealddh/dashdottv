@@ -228,7 +228,7 @@
   </programme>
   <programme start="20260907193000 +0000" stop="20260907203000 +0000" channel="sonytv">
     <title lang="en">Indian Game Show With Bharti And Harssh</title>
-    <desc lang="en">S1 , E13 : Celebrity guests compete in a series of high-energy challenges to win exciting prizes, while hosts Bharti Singh and Haarsh Limbachiyaa engage in playful banter with them.</desc>
+    <desc lang="en">S1 , E13 : The teams compete against each other to see who can collect the most pairs of underwater underwear and hang them on clotheslines.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33877912_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260907203000 +0000" stop="20260907210000 +0000" channel="sonytv">
@@ -253,7 +253,7 @@
   </programme>
   <programme start="20260907233000 +0000" stop="20260908003000 +0000" channel="sonytv">
     <title lang="en">Indian Game Show With Bharti And Harssh</title>
-    <desc lang="en">S1 , E13 : Celebrity guests compete in a series of high-energy challenges to win exciting prizes, while hosts Bharti Singh and Haarsh Limbachiyaa engage in playful banter with them.</desc>
+    <desc lang="en">S1 , E13 : The teams compete against each other to see who can collect the most pairs of underwater underwear and hang them on clotheslines.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33877912_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260907000000 +0000" stop="20260907000000 +0000" channel="starplushd">
@@ -488,7 +488,7 @@
   </programme>
   <programme start="20260908000000 +0000" stop="20260908003000 +0000" channel="starplushd">
     <title lang="en">Yeh Rishta Kya Kehlata Hai</title>
-    <desc lang="en">S1 , E5278 : Dr Abhimanyu, a misogamist, finds himself getting attracted to Akshara, Kartik and Naira's daughter. Things take a tricky turn when Akshara's half-sister, Arohi, falls in love with him.</desc>
+    <desc lang="en">S1 , E5278 : Abhira is distressed by the announcement of Tanya's marriage to a member of the Damani family. Later, Kabir expresses his gratitude to Abhira, presenting her with flowers for the Baal Gopal idol.</desc>
     <icon src="https://stap.tmsimg.com/assets/p1002730_b_h8_ad.jpg"/>
   </programme>
   <programme start="20260907000000 +0000" stop="20260907010000 +0000" channel="colorshd">
@@ -638,7 +638,7 @@
   </programme>
   <programme start="20260907200000 +0000" stop="20260907203000 +0000" channel="colorshd">
     <title lang="en">DR. Aarambhi</title>
-    <desc lang="en">S1 , E180 : Bound by marriage, former AIPMT topper Aarambhi clings to a hidden dream, waiting for the spark to ignite her second act.</desc>
+    <desc lang="en">S1 , E180 : Raj witnesses Sunny mistreating Manmeet and grows anxious. Meanwhile, Aarambhi suspects Mona's involvement in the dowry case and Dhruv conceals the truth.</desc>
     <icon src="https://stap.tmsimg.com/assets/p32220715_b_h10_ad.jpg"/>
   </programme>
   <programme start="20260907203000 +0000" stop="20260907210000 +0000" channel="colorshd">
@@ -1867,59 +1867,59 @@
     <icon src="https://stap.tmsimg.com/assets/p14300600_b_h8_ag.jpg"/>
   </programme>
   <programme start="20260907183000 +0000" stop="20260907190000 +0000" channel="zeetvhd">
-    <title lang="en">Kundali Bhagya</title>
-    <desc lang="en">Pragya Arora's long-lost sisters, Preeta and Srishti, plot their own course in fate's uncharted waters where adversities and good times go hand in hand.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p14300600_b_h8_ag.jpg"/>
+    <title lang="en">Ganga Mai Ki Betiyaan</title>
+    <desc lang="en">S1 , E346 : After her husband abandons her for not giving birth to a son, a resilient Ganga Mai dedicates herself to raising her three daughters with unwavering strength, grace, and affection.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p31042360_b_h8_ac.jpg"/>
   </programme>
   <programme start="20260907190000 +0000" stop="20260907193000 +0000" channel="zeetvhd">
-    <title lang="en">Vasudha</title>
-    <desc lang="en">Though they have different perspectives, the amiable and endearing Vasudha works as a housekeeper in Chandrika, a business tycoon's house.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p28225153_b_h8_ac.jpg"/>
+    <title lang="en">Jagadhatri</title>
+    <desc lang="en">S1 , E300 : Unbeknownst to her family, a young woman leads a double life as an undercover intelligence officer, determined to clear her mother's name.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p31685189_b_h10_ac.jpg"/>
   </programme>
   <programme start="20260907193000 +0000" stop="20260907200000 +0000" channel="zeetvhd">
-    <title lang="en">Kaise Mujhe Tum Mil Gaye</title>
-    <desc lang="en">When the romantic in Amrita meets the heartbroken skeptic in Virat, their opposing views clash, preventing each other from growing close.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p26136574_b_h8_ac.jpg"/>
-  </programme>
-  <programme start="20260907200000 +0000" stop="20260907203000 +0000" channel="zeetvhd">
-    <title lang="en">Happu Ki Ultan Paltan</title>
-    <desc lang="en">Police officer Happu Singh lives a fun-filled life with his large family that includes his mother, his wife and nine children. But he often finds himself in comical troubles of his own making.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p16695595_b_h8_ae.jpg"/>
-  </programme>
-  <programme start="20260907203000 +0000" stop="20260907210000 +0000" channel="zeetvhd">
-    <title lang="en">Rabb Se Hai Dua</title>
-    <desc lang="en">Dua, a married woman, lives a blissful life in old Delhi with her in-laws. Soon, things take a turn when her husband Haider seeks permission to wed another woman.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p23411657_b_h8_af.jpg"/>
-  </programme>
-  <programme start="20260907210000 +0000" stop="20260907213000 +0000" channel="zeetvhd">
-    <title lang="en">Jagruti</title>
-    <desc lang="en">Seven-year-old Jagriti is a brave girl who challenges conventions head-on with courage and determination, igniting a passionate fight for the rights and dignity of her community.</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/lRS8ul5x.jpg"/>
-  </programme>
-  <programme start="20260907213000 +0000" stop="20260907220000 +0000" channel="zeetvhd">
-    <title lang="en">Bhagya Lakshmi</title>
-    <desc lang="en">Hailing from a middle-class family, Lakshmi's life is upended when she realises that her marriage to Rishi Oberoi is a sham to keep his death at bay.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p20400177_b_h8_aj.jpg"/>
-  </programme>
-  <programme start="20260907220000 +0000" stop="20260907224500 +0000" channel="zeetvhd">
-    <title lang="en">Kumkum Bhagya</title>
-    <desc lang="en">Pragya and Abhi find their lives entwined in a cruel twist of fate. However, despite their initial aversion towards one another, they fall in love and fight to be together against all odds.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p10691540_b_h8_al.jpg"/>
-  </programme>
-  <programme start="20260907224500 +0000" stop="20260907233000 +0000" channel="zeetvhd">
-    <title lang="en">Kundali Bhagya</title>
-    <desc lang="en">Pragya Arora's long-lost sisters, Preeta and Srishti, plot their own course in fate's uncharted waters where adversities and good times go hand in hand.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p14300600_b_h8_ag.jpg"/>
-  </programme>
-  <programme start="20260907233000 +0000" stop="20260908000000 +0000" channel="zeetvhd">
     <title lang="en">Vasudha</title>
-    <desc lang="en">Though they have different perspectives, the amiable and endearing Vasudha works as a housekeeper in Chandrika, a business tycoon's house.</desc>
+    <desc lang="en">S1 , E676 : Though they have different perspectives, the amiable and endearing Vasudha works as a housekeeper in Chandrika, a business tycoon's house.</desc>
     <icon src="https://stap.tmsimg.com/assets/p28225153_b_h8_ac.jpg"/>
   </programme>
+  <programme start="20260907200000 +0000" stop="20260907203000 +0000" channel="zeetvhd">
+    <title lang="en">Tu Hi Re Dil Mein</title>
+    <desc lang="en">S1 , E85 : Deeming it a lucky charm, Vrinda marries Sanjay, who loves Divya. Serving as a caretaker in his home, she endures silent sacrifices, wondering if love will ever find her.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p33321700_b_h10_ac.jpg"/>
+  </programme>
+  <programme start="20260907203000 +0000" stop="20260907210000 +0000" channel="zeetvhd">
+    <title lang="en">Qubool Hai</title>
+    <desc lang="en">S1 , E90 : Zoya, an NRI, comes to India to look for her biological father. However, when she meets Asad, a charming young man, she falls in love with him.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p15959186_b_h10_aa.jpg"/>
+  </programme>
+  <programme start="20260907210000 +0000" stop="20260907213000 +0000" channel="zeetvhd">
+    <title lang="en">Hamari Radha</title>
+    <desc lang="en">S1 , E36 : Girdhar spends the entire night waiting outside Shanaya's house. Meanwhile, Radha stays up waiting for his return and goes to sleep on an empty stomach.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p33586417_b_h10_ab.jpg"/>
+  </programme>
+  <programme start="20260907213000 +0000" stop="20260907220000 +0000" channel="zeetvhd">
+    <title lang="en">Tu Hi Re Dil Mein</title>
+    <desc lang="en">S1 , E85 : Deeming it a lucky charm, Vrinda marries Sanjay, who loves Divya. Serving as a caretaker in his home, she endures silent sacrifices, wondering if love will ever find her.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p33321700_b_h10_ac.jpg"/>
+  </programme>
+  <programme start="20260907220000 +0000" stop="20260907230000 +0000" channel="zeetvhd">
+    <title lang="en">Lakshmi Nivas</title>
+    <desc lang="en">S1 , E237 : Lakshmi abandons her affluent roots to build a selfless life with Shriniwas. Decades on, the couple work tirelessly to secure their own house and fund a grand wedding for their daughter.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p32205890_b_h8_ab.jpg"/>
+  </programme>
+  <programme start="20260907230000 +0000" stop="20260907233000 +0000" channel="zeetvhd">
+    <title lang="en">Dilon Ki Ram Leela</title>
+    <desc lang="en">S1 , E15 : Despite being from an affluent family, Leela longs for her distant father's love. She finds comfort and healing in her strong bond with Ram.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p33830732_b_h10_aa.jpg"/>
+  </programme>
+  <programme start="20260907233000 +0000" stop="20260908000000 +0000" channel="zeetvhd">
+    <title lang="en">Tum Se Tum Tak</title>
+    <desc lang="en">S1 , E425 : A young woman's unexpected bond with a much older businessman brings emotional twists while challenging societal expectations and family ideals.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p30514065_b_h8_ac.jpg"/>
+  </programme>
   <programme start="20260908000000 +0000" stop="20260908003000 +0000" channel="zeetvhd">
-    <title lang="en">Kaise Mujhe Tum Mil Gaye</title>
-    <desc lang="en">When the romantic in Amrita meets the heartbroken skeptic in Virat, their opposing views clash, preventing each other from growing close.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p26136574_b_h8_ac.jpg"/>
+    <title lang="en">Ganga Mai Ki Betiyaan</title>
+    <desc lang="en">S1 , E346 : After her husband abandons her for not giving birth to a son, a resilient Ganga Mai dedicates herself to raising her three daughters with unwavering strength, grace, and affection.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p31042360_b_h8_ac.jpg"/>
   </programme>
   <programme start="20260907000000 +0000" stop="20260907020000 +0000" channel="zeecinema">
     <title lang="en">Mere Pyare Prime Minister</title>
@@ -2258,12 +2258,12 @@
   </programme>
   <programme start="20260907193500 +0000" stop="20260907200100 +0000" channel="sabtv">
     <title lang="en">Pushpa Impossible</title>
-    <desc lang="en">S1 , E1330 : After doing various odd jobs, an uneducated woman from Gujarat starts a business to earn a living and attempts to keep her family happy.</desc>
+    <desc lang="en">S1 , E1330 : Chirag and Pushpa save Shanaya and return her home safely. Afterwards, she sets out to reveal the truth about her abduction and locate her absent father.</desc>
     <icon src="https://stap.tmsimg.com/assets/p22259614_b_h10_af.jpg"/>
   </programme>
   <programme start="20260907200100 +0000" stop="20260907202700 +0000" channel="sabtv">
     <title lang="en">Hastinapur Ke Veer</title>
-    <desc lang="en">S1 , E83 : Five noble Pandava brothers bravely unite to combat ruthless injustice threatening their peaceful kingdom. Furthermore, their unwavering devotion to dharma secures total victory.</desc>
+    <desc lang="en">S1 , E83 : Duryodhan comes across the Kala-Ayas Mudrika, bestowing the power of a thousand elephants, and struggles to acquire its power.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33120073_b_h10_ab.jpg"/>
   </programme>
   <programme start="20260907202700 +0000" stop="20260907205300 +0000" channel="sabtv">
@@ -2293,12 +2293,12 @@
   </programme>
   <programme start="20260907223400 +0000" stop="20260907230000 +0000" channel="sabtv">
     <title lang="en">Hastinapur Ke Veer</title>
-    <desc lang="en">S1 , E83 : Five noble Pandava brothers bravely unite to combat ruthless injustice threatening their peaceful kingdom. Furthermore, their unwavering devotion to dharma secures total victory.</desc>
+    <desc lang="en">S1 , E83 : Duryodhan comes across the Kala-Ayas Mudrika, bestowing the power of a thousand elephants, and struggles to acquire its power.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33120073_b_h10_ab.jpg"/>
   </programme>
   <programme start="20260907230000 +0000" stop="20260907232600 +0000" channel="sabtv">
     <title lang="en">Pushpa Impossible</title>
-    <desc lang="en">S1 , E1330 : After doing various odd jobs, an uneducated woman from Gujarat starts a business to earn a living and attempts to keep her family happy.</desc>
+    <desc lang="en">S1 , E1330 : Chirag and Pushpa save Shanaya and return her home safely. Afterwards, she sets out to reveal the truth about her abduction and locate her absent father.</desc>
     <icon src="https://stap.tmsimg.com/assets/p22259614_b_h10_af.jpg"/>
   </programme>
   <programme start="20260907232600 +0000" stop="20260907235200 +0000" channel="sabtv">
@@ -2438,27 +2438,27 @@
   </programme>
   <programme start="20260907200000 +0000" stop="20260907210000 +0000" channel="flowersinternational">
     <title lang="en">Flowers Comedy - Ithu Item Vere</title>
-    <desc lang="en">S1 , E657 : Contestants showcase their comic prowess through entertaining and hilarious performances and skits in front of a panel of esteemed judges as they compete for a grand prize.</desc>
+    <desc lang="en">S1 , E662 : Contestants showcase their comic prowess through entertaining and hilarious performances and skits in front of a panel of esteemed judges as they compete for a grand prize.</desc>
     <icon src="https://stap.tmsimg.com/assets/p31653490_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260907210000 +0000" stop="20260907213000 +0000" channel="flowersinternational">
     <title lang="en">Flowers Comedy Golden Punch</title>
-    <desc lang="en">S1 , E16 : </desc>
+    <desc lang="en">S1 , E23 : </desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/UcNLhTLh.jpg"/>
   </programme>
   <programme start="20260907213000 +0000" stop="20260907230000 +0000" channel="flowersinternational">
-    <title lang="en">Flowers Top Singer 6</title>
-    <desc lang="en">S1 , E3 : Talented singers from all walks of life showcase their vocal abilities with melodious songs overseen by judges to win the grand prize.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p31211089_b_h10_aa.jpg"/>
+    <title lang="en">Top Singer 7</title>
+    <desc lang="en">S1 , E1 : </desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/UcNLhTLh.jpg"/>
   </programme>
   <programme start="20260907230000 +0000" stop="20260908000000 +0000" channel="flowersinternational">
     <title lang="en">Flowers Comedy - Ithu Item Vere</title>
-    <desc lang="en">S1 , E657 : Contestants showcase their comic prowess through entertaining and hilarious performances and skits in front of a panel of esteemed judges as they compete for a grand prize.</desc>
+    <desc lang="en">S1 , E662 : Contestants showcase their comic prowess through entertaining and hilarious performances and skits in front of a panel of esteemed judges as they compete for a grand prize.</desc>
     <icon src="https://stap.tmsimg.com/assets/p31653490_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260908000000 +0000" stop="20260908003000 +0000" channel="flowersinternational">
     <title lang="en">Flowers Comedy Golden Moments</title>
-    <desc lang="en">S1 , E145 : Revisit the best moments of the show 'Flowers Comedy,' where comedians put on their greatest skits and performances for the audience.</desc>
+    <desc lang="en">S1 , E150 : Revisit the best moments of the show 'Flowers Comedy,' where comedians put on their greatest skits and performances for the audience.</desc>
     <icon src="https://stap.tmsimg.com/assets/p29170069_b_h10_ab.jpg"/>
   </programme>
   <programme start="20260907000000 +0000" stop="20260907010000 +0000" channel="arydigital">
@@ -4182,8 +4182,8 @@
     <icon src="https://stap.tmsimg.com/assets/p14471993_v_h10_ab.jpg"/>
   </programme>
   <programme start="20260907232300 +0000" stop="20260908013400 +0000" channel="embollywoodunlimited">
-    <title lang="en">CityLights</title>
+    <title lang="en">City Lights</title>
     <desc lang="en">Deepak Singh, an ex-army person from Rajasthan, moves to Mumbai with his family hoping for a better lifestyle. However, upon arrival, he realises that everything is not as easy as it seems.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p11064676_v_h10_aa.jpg"/>
+    <icon src="https://stap.tmsimg.com/assets/p21562158_v_h10_ab.jpg"/>
   </programme>
 </tv>
