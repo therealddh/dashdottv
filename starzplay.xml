@@ -3151,20 +3151,25 @@
     <desc lang="en">Movie</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/GLmMTbx9.jpg"/>
   </programme>
-  <programme start="20260908170000 +0000" stop="20260908200000 +0000" channel="emsimplysouth">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/GLmMTbx9.jpg"/>
+  <programme start="20260908191700 +0000" stop="20260908205600 +0000" channel="emsimplysouth">
+    <title lang="en">Thirumbipaar</title>
+    <desc lang="en">Karthik's exceptional hearing leads him to uncover businessman Ashok Selvan's involvement in crimes. As Inspector Kathirvel probes, startling revelations about Karthik, Janani and their fates emerge.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p32488202_b_h8_aa.jpg"/>
   </programme>
-  <programme start="20260908200000 +0000" stop="20260908230000 +0000" channel="emsimplysouth">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/GLmMTbx9.jpg"/>
+  <programme start="20260908205600 +0000" stop="20260908231300 +0000" channel="emsimplysouth">
+    <title lang="en">No program available</title>
+    <desc lang="en">No program available</desc>
+    <icon src="http://mena-img-cdn-lb.aws.playco.com/ev-livechannels-avod/AVODEMSIMPLYSOUTHY2004M/AVODEMSIMPLYSOUTHY2004M-landscape-poster-v1.jpg"/>
   </programme>
-  <programme start="20260908230000 +0000" stop="20260909020000 +0000" channel="emsimplysouth">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/GLmMTbx9.jpg"/>
+  <programme start="20260908205600 +0000" stop="20260908232400 +0000" channel="emsimplysouth">
+    <title lang="en">Hostel</title>
+    <desc lang="en">Kathir conceals Adhirshtalakshmi in his boys' hostel for a hefty sum, evading his strict warden. However, when a woman's spirit starts haunting the building, chaos erupts.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p23687558_v_h8_aa.jpg"/>
+  </programme>
+  <programme start="20260908232400 +0000" stop="20260909010400 +0000" channel="emsimplysouth">
+    <title lang="en">Kismath</title>
+    <desc lang="en">Irfan, a young Muslim boy, falls in love with a Hindu girl, Anita, who is much older than him. However, when their families protest their relationship, the duo seeks help from the police.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p14564585_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260908000000 +0000" stop="20260908023000 +0000" channel="ntvhd">
     <title lang="en">Gulf Prime Time</title>
