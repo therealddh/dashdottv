@@ -3146,15 +3146,20 @@
     <desc lang="en">After committing a revenge killing, a man serves time in prison, but the repercussions of his crime continue to haunt his family long after.</desc>
     <icon src="https://stap.tmsimg.com/assets/p17881891_v_h11_aa.jpg"/>
   </programme>
-  <programme start="20260914190200 +0000" stop="20260914230000 +0000" channel="emsimplysouth">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/GLmMTbx9.jpg"/>
+  <programme start="20260914190200 +0000" stop="20260914212000 +0000" channel="emsimplysouth">
+    <title lang="en">Sila Nerangalil Sila Manidhargal</title>
+    <desc lang="en">The lives of four flawed youngsters intertwine after a deadly road accident. While they try their best to cope with the feelings of remorse and regret, they find themselves transformed.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p24096634_v_h10_aa.jpg"/>
   </programme>
-  <programme start="20260914230000 +0000" stop="20260915020000 +0000" channel="emsimplysouth">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/GLmMTbx9.jpg"/>
+  <programme start="20260914212000 +0000" stop="20260914234500 +0000" channel="emsimplysouth">
+    <title lang="en">Karungaapiyam</title>
+    <desc lang="en">To heal from a painful heartbreak, Karthika decides to spend time at a 100-year-old, unkempt library in an effort to distract herself.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p26175556_v_h10_aa.jpg"/>
+  </programme>
+  <programme start="20260914234500 +0000" stop="20260915015900 +0000" channel="emsimplysouth">
+    <title lang="en">Gargi</title>
+    <desc lang="en">Gargi's faith in her father's innocence drives her to fight against all odds to free him. With an amateur lawyer by her side, she sets off to seek justice.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p22580998_v_h8_aa.jpg"/>
   </programme>
   <programme start="20260914000000 +0000" stop="20260914000000 +0000" channel="ntvhd">
     <title lang="en">Movie</title>
@@ -3842,9 +3847,9 @@
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/f3kpHdtF.jpg"/>
   </programme>
   <programme start="20260914233100 +0000" stop="20260915002600 +0000" channel="zeebangla">
-    <title lang="en">Patanjali Yog by Yog Rishi Swami Ramdev</title>
-    <desc lang="en">S1 , E1495 : Renowned Indian spiritual leader Swami Ramdev delivers demonstrations of various yoga poses and exercises for a healthy life.</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/f3kpHdtF.jpg"/>
+    <title lang="en">Patanjali Yog - By Yogrishi Swami Ramdev</title>
+    <desc lang="en">S1 , E1495 : Baba Ramdev emphasises the importance of yoga and demonstrates various asanas and breathing exercises that enable one to lead a healthy and stress-free life.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p28747290_b_h8_ab.jpg"/>
   </programme>
   <programme start="20260914000000 +0000" stop="20260914000000 +0000" channel="m80moasa">
     <title lang="en">M80 Moosa</title>
