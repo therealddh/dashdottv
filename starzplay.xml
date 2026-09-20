@@ -348,7 +348,7 @@
   </programme>
   <programme start="20260920153000 +0000" stop="20260920160000 +0000" channel="starplushd">
     <title lang="en">Sairaab</title>
-    <desc lang="en">S1 , E111 : Single mother Dr Noyonika helps pop star sensation Ishaan regain his voice, to the delight of her daughter. But tensions rise as they fall for each other.</desc>
+    <desc lang="en">S1 , E111 : Nayanika is defended by Akash and Indranil against Shreya and Angana. Meanwhile, her first night with Ishaan is celebrated amidst family conflict.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33240882_b_h8_ab.jpg"/>
   </programme>
   <programme start="20260920160000 +0000" stop="20260920173000 +0000" channel="starplushd">
@@ -358,7 +358,7 @@
   </programme>
   <programme start="20260920173000 +0000" stop="20260920180000 +0000" channel="starplushd">
     <title lang="en">Anupamaa</title>
-    <desc lang="en">S1 , E2147 : Anupamaa sacrifices her personal ambitions to dedicate her life to her family. However, she eventually decides to live on her own terms after failing to receive credit for her many trials.</desc>
+    <desc lang="en">S1 , E2147 : Festival donations are redirected toward learning after an insightful lesson by Anupama. Meanwhile, Pari is restricted by Vasundhara from joining forces with Ishani.</desc>
     <icon src="https://stap.tmsimg.com/assets/p18094069_b_h8_ae.jpg"/>
   </programme>
   <programme start="20260920180000 +0000" stop="20260920183000 +0000" channel="starplushd">
@@ -393,7 +393,7 @@
   </programme>
   <programme start="20260920223000 +0000" stop="20260920230000 +0000" channel="starplushd">
     <title lang="en">Anupamaa</title>
-    <desc lang="en">S1 , E2147 : Anupamaa sacrifices her personal ambitions to dedicate her life to her family. However, she eventually decides to live on her own terms after failing to receive credit for her many trials.</desc>
+    <desc lang="en">S1 , E2147 : Festival donations are redirected toward learning after an insightful lesson by Anupama. Meanwhile, Pari is restricted by Vasundhara from joining forces with Ishani.</desc>
     <icon src="https://stap.tmsimg.com/assets/p18094069_b_h8_ae.jpg"/>
   </programme>
   <programme start="20260920230000 +0000" stop="20260920233000 +0000" channel="starplushd">
@@ -473,17 +473,17 @@
   </programme>
   <programme start="20260920150000 +0000" stop="20260920153000 +0000" channel="colorshd">
     <title lang="en">Tuu Juliet Jatt Di</title>
-    <desc lang="en">S1 , E308 : Focused Heer encounters privileged Nawab, sparking an unexpected romance. Their journey unfolds amidst challenges, revealing a tale of love intertwined with deception and emotional turmoil.</desc>
+    <desc lang="en">S1 , E308 : Nawab becomes suspicious after Heer reacts nervously to an inspector. Elsewhere, Fateh is confronted by his father regarding his marriage to Heer, as Cherry's sister reveals Vaaris's feelings.</desc>
     <icon src="https://stap.tmsimg.com/assets/p31644915_b_h10_ad.jpg"/>
   </programme>
   <programme start="20260920153000 +0000" stop="20260920160000 +0000" channel="colorshd">
     <title lang="en">Mannat Harr Khushi Paane Ki</title>
-    <desc lang="en">S1 , E560 : Mannat, a gifted young chef, dreams big but faces a formidable obstacle, her ruthless employer Aishwarya. Unknown to both, Aishwarya is also Mannat's birth mother who abandoned her when she was born.</desc>
+    <desc lang="en">S1 , E560 : After being provoked by Mannat, Manyata exposes her own deceit about not expecting a child. Elsewhere, Dua is targeted by a disguised Dhairya, who aims to poison her mind against Vikrant.</desc>
     <icon src="https://stap.tmsimg.com/assets/p29088354_b_h8_aa.jpg"/>
   </programme>
   <programme start="20260920160000 +0000" stop="20260920170000 +0000" channel="colorshd">
     <title lang="en">108 Base Hospital - Uri</title>
-    <desc lang="en">S1 , E12 : A series about army surgeons in a war zone. They save lives on the front line while dealing with tough personal relationships and high-stress situations.</desc>
+    <desc lang="en">S1 , E12 : Naina is selflessly recommended for the Army Board commendation by Anirudh. Elsewhere, Sameer stumbles upon his photograph in Mili's diary, while Anirudh promises to stop pursuing Naina.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33657931_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260920170000 +0000" stop="20260920183000 +0000" channel="colorshd">
@@ -503,12 +503,12 @@
   </programme>
   <programme start="20260920213000 +0000" stop="20260920220000 +0000" channel="colorshd">
     <title lang="en">Tuu Juliet Jatt Di</title>
-    <desc lang="en">S1 , E308 : Focused Heer encounters privileged Nawab, sparking an unexpected romance. Their journey unfolds amidst challenges, revealing a tale of love intertwined with deception and emotional turmoil.</desc>
+    <desc lang="en">S1 , E308 : Nawab becomes suspicious after Heer reacts nervously to an inspector. Elsewhere, Fateh is confronted by his father regarding his marriage to Heer, as Cherry's sister reveals Vaaris's feelings.</desc>
     <icon src="https://stap.tmsimg.com/assets/p31644915_b_h10_ad.jpg"/>
   </programme>
   <programme start="20260920220000 +0000" stop="20260920230000 +0000" channel="colorshd">
     <title lang="en">108 Base Hospital - Uri</title>
-    <desc lang="en">S1 , E12 : A series about army surgeons in a war zone. They save lives on the front line while dealing with tough personal relationships and high-stress situations.</desc>
+    <desc lang="en">S1 , E12 : Naina is selflessly recommended for the Army Board commendation by Anirudh. Elsewhere, Sameer stumbles upon his photograph in Mili's diary, while Anirudh promises to stop pursuing Naina.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33657931_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260920230000 +0000" stop="20260921003000 +0000" channel="colorshd">
@@ -2088,7 +2088,7 @@
   </programme>
   <programme start="20260920080500 +0000" stop="20260920083100 +0000" channel="sabtv">
     <title lang="en">Pushpa Impossible</title>
-    <desc lang="en">S1 , E1341 : After doing various odd jobs, an uneducated woman from Gujarat starts a business to earn a living and attempts to keep her family happy.</desc>
+    <desc lang="en">S1 , E1341 : Unexpected evidence surfacing from the past alters Pushpa's search for her missing child. Meanwhile, doubts grow stronger surrounding Varun and his secretive background.</desc>
     <icon src="https://stap.tmsimg.com/assets/p22259614_b_h10_af.jpg"/>
   </programme>
   <programme start="20260920083100 +0000" stop="20260920085700 +0000" channel="sabtv">
@@ -3016,15 +3016,20 @@
     <desc lang="en">A seasoned police officer begins an investigation after a series of gruesome murders targeting twins comes to light. However, he soon encounters a sinister game of psychological manipulation.</desc>
     <icon src="https://stap.tmsimg.com/assets/p30594304_v_h8_aa.jpg"/>
   </programme>
-  <programme start="20260920170000 +0000" stop="20260920193300 +0000" channel="emsimplysouth">
+  <programme start="20260920170000 +0000" stop="20260920193400 +0000" channel="emsimplysouth">
     <title lang="en">Pavi Caretaker</title>
     <desc lang="en">An unmarried caretaker's life changes when he forms an unexpected bond, adding joy to his routine existence in a residential complex.</desc>
     <icon src="https://stap.tmsimg.com/assets/p27258350_v_h8_aa.jpg"/>
   </programme>
-  <programme start="20260920193300 +0000" stop="20260921020000 +0000" channel="emsimplysouth">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/GLmMTbx9.jpg"/>
+  <programme start="20260920193400 +0000" stop="20260920213300 +0000" channel="emsimplysouth">
+    <title lang="en">Blackmail</title>
+    <desc lang="en">Blackmail</desc>
+    <icon src="https://stap.tmsimg.com/assets/p30795045_b_h8_aa.jpg"/>
+  </programme>
+  <programme start="20260920213300 +0000" stop="20260921000400 +0000" channel="emsimplysouth">
+    <title lang="en">Kulasami</title>
+    <desc lang="en">After his younger sister falls victim to a gang that traps college girls in sex work, a man devises a plan for revenge, determined to make those responsible pay for their crimes.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p26260285_b_h10_ab.jpg"/>
   </programme>
   <programme start="20260920000000 +0000" stop="20260920000000 +0000" channel="ntvhd">
     <title lang="en">Movie</title>
@@ -3926,14 +3931,14 @@
     <desc lang="en">While struggling to survive, Manny and Kizie, who each have a terminal illness, fall in love with each other. Thereafter, the two try to spend the rest of their days being happy and staying positive.</desc>
     <icon src="https://stap.tmsimg.com/assets/p16953282_v_h10_aa.jpg"/>
   </programme>
-  <programme start="20260920204700 +0000" stop="20260920230000 +0000" channel="embollywoodunlimited">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/2KIOKvF9.jpg"/>
+  <programme start="20260920204700 +0000" stop="20260920233400 +0000" channel="embollywoodunlimited">
+    <title lang="en">Aankhen</title>
+    <desc lang="en">After being sacked from his position as a bank manager, a temperamental man plots revenge by orchestrating a robbery, enlisting three unlikely accomplices.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p76177_v_h10_ab.jpg"/>
   </programme>
-  <programme start="20260920230000 +0000" stop="20260921020000 +0000" channel="embollywoodunlimited">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/2KIOKvF9.jpg"/>
+  <programme start="20260920233400 +0000" stop="20260921015300 +0000" channel="embollywoodunlimited">
+    <title lang="en">Dil Toh Baccha Hai Ji</title>
+    <desc lang="en">Naren Ahuja, Abhay Suri and Milind Kelkar are roommates who embark on a journey to find true love. They find the women of their dreams and try their best to make the women reciprocate their love.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p8496610_v_h10_ac.jpg"/>
   </programme>
 </tv>
