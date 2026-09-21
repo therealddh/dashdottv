@@ -608,7 +608,7 @@
   </programme>
   <programme start="20260921153000 +0000" stop="20260921160000 +0000" channel="colorshd">
     <title lang="en">Mannat Harr Khushi Paane Ki</title>
-    <desc lang="en">S1 , E561 : Mannat, a gifted young chef, dreams big but faces a formidable obstacle, her ruthless employer Aishwarya. Unknown to both, Aishwarya is also Mannat's birth mother who abandoned her when she was born.</desc>
+    <desc lang="en">S1 , E561 : Mannat is relieved when Vikrant receives bail, whereas Ronny remembers Neetu's caution regarding Dhairya. Shortly thereafter, Mannat informs Vikrant about Samragi's additional concerning action.</desc>
     <icon src="https://stap.tmsimg.com/assets/p29088354_b_h8_aa.jpg"/>
   </programme>
   <programme start="20260921160000 +0000" stop="20260921163000 +0000" channel="colorshd">
@@ -668,7 +668,7 @@
   </programme>
   <programme start="20260921223000 +0000" stop="20260921230000 +0000" channel="colorshd">
     <title lang="en">Mannat Harr Khushi Paane Ki</title>
-    <desc lang="en">S1 , E561 : Mannat, a gifted young chef, dreams big but faces a formidable obstacle, her ruthless employer Aishwarya. Unknown to both, Aishwarya is also Mannat's birth mother who abandoned her when she was born.</desc>
+    <desc lang="en">S1 , E561 : Mannat is relieved when Vikrant receives bail, whereas Ronny remembers Neetu's caution regarding Dhairya. Shortly thereafter, Mannat informs Vikrant about Samragi's additional concerning action.</desc>
     <icon src="https://stap.tmsimg.com/assets/p29088354_b_h8_aa.jpg"/>
   </programme>
   <programme start="20260921230000 +0000" stop="20260921233000 +0000" channel="colorshd">
@@ -708,7 +708,7 @@
   </programme>
   <programme start="20260921033000 +0000" stop="20260921040000 +0000" channel="asianethd">
     <title lang="en">Patharamattu</title>
-    <desc lang="en">S1 , E1073 : With the obligation of marrying off her three daughters, a brave mother does her best to find a responsible partner for them.</desc>
+    <desc lang="en">S1 , E1073 : Abhi and Nagendran plot against Navya as their suspicions grow. Meanwhile, Navya and Nayana comfort Nandana as she talks about her pain over her marriage to Naveen.</desc>
     <icon src="https://stap.tmsimg.com/assets/p25472032_b_h10_ab.jpg"/>
   </programme>
   <programme start="20260921040000 +0000" stop="20260921043000 +0000" channel="asianethd">
@@ -758,8 +758,8 @@
   </programme>
   <programme start="20260921133000 +0000" stop="20260921140000 +0000" channel="asianethd">
     <title lang="en">Sindhu Bhairavi</title>
-    <desc lang="en">S1 , E228 : Bairavi marries Arumugam to honor her father's promise, while Siva unexpectedly weds Sidhu after rejecting her proposal. Their marriages face emotional trials as they search for love and acceptance.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p33431337_b_h8_aa.jpg"/>
+    <desc lang="en">S1 , E72 : Sindhu, a brave young woman, loves to spread happiness and cheer all around. However, on witnessing injustice, Sindhu takes matters into her own hands.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p29962990_b_h8_aa.jpg"/>
   </programme>
   <programme start="20260921140000 +0000" stop="20260921143000 +0000" channel="asianethd">
     <title lang="en">Advocate Anjali</title>
@@ -798,7 +798,7 @@
   </programme>
   <programme start="20260921171000 +0000" stop="20260921173000 +0000" channel="asianethd">
     <title lang="en">Ee Puzhayum Kadannu</title>
-    <desc lang="en">S1 , E91 : Anjali hates Gopi but eventually falls in love with him. However, she is unable to marry him as she has two sisters who are still single.</desc>
+    <desc lang="en">S1 , E172 : Saradha's worsening condition prompts Ganga to vent her rage on Kaveri. Soon after Kaveri vanishes, Naren raises eyebrows among family members by remaining unconcerned and clueless.</desc>
     <icon src="https://stap.tmsimg.com/assets/p32308078_b_h10_ab.jpg"/>
   </programme>
   <programme start="20260921173000 +0000" stop="20260921183000 +0000" channel="asianethd">
@@ -2472,39 +2472,29 @@
     <icon src="https://stap.tmsimg.com/assets/p29379941_b_h8_ab.jpg"/>
   </programme>
   <programme start="20260921200000 +0000" stop="20260921210000 +0000" channel="flowersinternational">
-    <title lang="en">Flowers Comedy Ith Item Vere</title>
-    <desc lang="en">Comedians take the stage and perform hilarious skits, showcasing their talent and attempting to impress the judges, in order to win the competition.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29170189_b_h8_ab.jpg"/>
+    <title lang="en">Flowers Comedy - Ithu Item Vere</title>
+    <desc lang="en">S1 , E672 : Contestants showcase their comic prowess through entertaining and hilarious performances and skits in front of a panel of esteemed judges as they compete for a grand prize.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p31653490_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260921210000 +0000" stop="20260921213000 +0000" channel="flowersinternational">
-    <title lang="en">Panchagni</title>
-    <desc lang="en">A restaurant named Pancharatnam is run by five sisters, while their stepmother tries different tactics to close their business.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29170753_b_h8_ab.jpg"/>
+    <title lang="en">Flowers Comedy Golden Punch</title>
+    <desc lang="en">S1 , E6 : </desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/UcNLhTLh.jpg"/>
   </programme>
-  <programme start="20260921213000 +0000" stop="20260921220000 +0000" channel="flowersinternational">
-    <title lang="en">Veettile Vilakku</title>
-    <desc lang="en">A mother goes through various struggles and hardships as she battles for her child and motherhood amidst a complex family relationship.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29496588_b_h10_ac.jpg"/>
+  <programme start="20260921213000 +0000" stop="20260921230000 +0000" channel="flowersinternational">
+    <title lang="en">Top Singer 7</title>
+    <desc lang="en">S1 , E13 : </desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/UcNLhTLh.jpg"/>
   </programme>
-  <programme start="20260921220000 +0000" stop="20260921223000 +0000" channel="flowersinternational">
-    <title lang="en">Uppum Mulakum</title>
-    <desc lang="en">Balachandran and Neelima, who face many challenges to earn a living, aim to successfully fulfil their wish of going to a foreign country.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29171156_b_h8_ad.jpg"/>
-  </programme>
-  <programme start="20260921223000 +0000" stop="20260921233000 +0000" channel="flowersinternational">
-    <title lang="en">Flowers Top Singer 5</title>
-    <desc lang="en">Talented young singers compete against each other as they perform on stage in front of a panel of judges to emerge victorious and win the title.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29495896_b_h10_ac.jpg"/>
-  </programme>
-  <programme start="20260921233000 +0000" stop="20260922000000 +0000" channel="flowersinternational">
-    <title lang="en">Veettile Vilakku</title>
-    <desc lang="en">A mother goes through various struggles and hardships as she battles for her child and motherhood amidst a complex family relationship.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29496588_b_h10_ac.jpg"/>
+  <programme start="20260921230000 +0000" stop="20260922000000 +0000" channel="flowersinternational">
+    <title lang="en">Flowers Comedy - Ithu Item Vere</title>
+    <desc lang="en">S1 , E672 : Contestants showcase their comic prowess through entertaining and hilarious performances and skits in front of a panel of esteemed judges as they compete for a grand prize.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p31653490_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260922000000 +0000" stop="20260922003000 +0000" channel="flowersinternational">
-    <title lang="en">Sukhamo Devi</title>
-    <desc lang="en">Devika is in love with Nandagopan, but Karthikeyan forces her to marry him. She elopes with Nandagopan only to get abandoned by him at the temple, which leads her to marry his friend.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29170986_b_h8_ab.jpg"/>
+    <title lang="en">Flowers Comedy Golden Moments</title>
+    <desc lang="en">S1 , E160 : Revisit the best moments of the show 'Flowers Comedy,' where comedians put on their greatest skits and performances for the audience.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p29170069_b_h10_ab.jpg"/>
   </programme>
   <programme start="20260921000000 +0000" stop="20260921000000 +0000" channel="geotv">
     <title lang="en">Beti Ka Ghar Konsa</title>
@@ -2703,7 +2693,7 @@
   </programme>
   <programme start="20260921153000 +0000" stop="20260921160000 +0000" channel="asianetplushd">
     <title lang="en">Santhwanam</title>
-    <desc lang="en">S1 , E126 : Thampi and his wife are heartbroken when their only son defies them, marries, and settles in the United States. A granddaughter's visit brings hope and change.</desc>
+    <desc lang="en">S1 , E305 : Sridevi leads a peaceful and happy life with her husband, Balakrishnan, and his siblings. However, the family faces various adversities that challenge their bonding.</desc>
     <icon src="https://stap.tmsimg.com/assets/p21612639_b_h10_ab.jpg"/>
   </programme>
   <programme start="20260921160000 +0000" stop="20260921163000 +0000" channel="asianetplushd">
@@ -3328,7 +3318,7 @@
   </programme>
   <programme start="20260921073000 +0000" stop="20260921080000 +0000" channel="zeetamil">
     <title lang="en">Karthigai Deepam</title>
-    <desc lang="en">S1 , E1319 : Deepa, a talented woman, faces discrimination due to her complexion. However, her life changes when she meets Karthikeyan, a businessman.</desc>
+    <desc lang="en">S1 , E1319 : Chamundeshwari is targeted and attacked by the men. Meanwhile, Karthikeyan decides to uncover the truth.</desc>
     <icon src="https://stap.tmsimg.com/assets/p24166601_b_h8_af.jpg"/>
   </programme>
   <programme start="20260921080000 +0000" stop="20260921083000 +0000" channel="zeetamil">
@@ -3523,7 +3513,7 @@
   </programme>
   <programme start="20260921030000 +0000" stop="20260921032900 +0000" channel="zeemarathi">
     <title lang="en">Kamali</title>
-    <desc lang="en">S1 , E434 : A bold kabaddi player from rural Maharashtra defies her family and moves to Mumbai to follow her dreams. She returns with knowledge to fight early marriage, staying rooted in her culture.</desc>
+    <desc lang="en">S1 , E434 : Kamini's malicious scheme unravels when Ningi makes an unexpected return to the household. Meanwhile, Kamali succumbs to deep anxiety upon discovering that Gauri has been targeted in a dangerous assault.</desc>
     <icon src="https://stap.tmsimg.com/assets/p30594191_b_h8_ad.jpg"/>
   </programme>
   <programme start="20260921032900 +0000" stop="20260921040000 +0000" channel="zeemarathi">
@@ -3553,7 +3543,7 @@
   </programme>
   <programme start="20260921060000 +0000" stop="20260921063000 +0000" channel="zeemarathi">
     <title lang="en">Veen Doghantali Hi Tutena</title>
-    <desc lang="en">S1 , E400 : Swanandi and Samar marry for convenience. Over time, their bond deepens with trust, love, and understanding, proving that love can grow unexpectedly.</desc>
+    <desc lang="en">S1 , E400 : Anand discovers Mandakini's secret credit card purchases. Meanwhile, Anshuman grows increasingly worried about the mounting financial issue.</desc>
     <icon src="https://stap.tmsimg.com/assets/p30905430_b_h10_ac.jpg"/>
   </programme>
   <programme start="20260921063000 +0000" stop="20260921070000 +0000" channel="zeemarathi">
@@ -3578,12 +3568,12 @@
   </programme>
   <programme start="20260921082900 +0000" stop="20260921093000 +0000" channel="zeemarathi">
     <title lang="en">Lakshmi Nivas</title>
-    <desc lang="en">S1 , E596 : Lakshmi is a brave woman in a traditional family. Her husband, Shriniwas, wants to build his dream house. Lakshmi supports him and faces challenges with strength.</desc>
+    <desc lang="en">S1 , E596 : Lakshmi is married to Shriniwas Dalvi, who belongs to a traditional joint family. While she strives to navigate challenges, she supports her husband's dreams.</desc>
     <icon src="https://stap.tmsimg.com/assets/p29094815_b_h10_ab.jpg"/>
   </programme>
   <programme start="20260921093000 +0000" stop="20260921100000 +0000" channel="zeemarathi">
     <title lang="en">Kamali</title>
-    <desc lang="en">S1 , E434 : A bold kabaddi player from rural Maharashtra defies her family and moves to Mumbai to follow her dreams. She returns with knowledge to fight early marriage, staying rooted in her culture.</desc>
+    <desc lang="en">S1 , E434 : Kamini's malicious scheme unravels when Ningi makes an unexpected return to the household. Meanwhile, Kamali succumbs to deep anxiety upon discovering that Gauri has been targeted in a dangerous assault.</desc>
     <icon src="https://stap.tmsimg.com/assets/p30594191_b_h8_ad.jpg"/>
   </programme>
   <programme start="20260921100000 +0000" stop="20260921103000 +0000" channel="zeemarathi">
@@ -3593,7 +3583,7 @@
   </programme>
   <programme start="20260921103000 +0000" stop="20260921110000 +0000" channel="zeemarathi">
     <title lang="en">Devmanus Madhla Adhyay</title>
-    <desc lang="en">S1 , E442 : The notorious serial killer, Dr Ajitkumar Dev, relocates to Varanasi where he assumes the identity of Gopal, a tailor who disappeared years ago, and continues his reign of terror.</desc>
+    <desc lang="en">S1 , E442 : As Gopal hatches a plot against Lali, Vibhavari's mother turns to the police to report Vibhavari missing.</desc>
     <icon src="https://stap.tmsimg.com/assets/p30349871_b_h8_ac.jpg"/>
   </programme>
   <programme start="20260921110000 +0000" stop="20260921113000 +0000" channel="zeemarathi">
@@ -3603,7 +3593,7 @@
   </programme>
   <programme start="20260921113000 +0000" stop="20260921115900 +0000" channel="zeemarathi">
     <title lang="en">Veen Doghantali Hi Tutena</title>
-    <desc lang="en">S1 , E400 : Swanandi and Samar marry for convenience. Over time, their bond deepens with trust, love, and understanding, proving that love can grow unexpectedly.</desc>
+    <desc lang="en">S1 , E400 : Anand discovers Mandakini's secret credit card purchases. Meanwhile, Anshuman grows increasingly worried about the mounting financial issue.</desc>
     <icon src="https://stap.tmsimg.com/assets/p30905430_b_h10_ac.jpg"/>
   </programme>
   <programme start="20260921115900 +0000" stop="20260921123000 +0000" channel="zeemarathi">
