@@ -783,8 +783,8 @@
   </programme>
   <programme start="20260922133000 +0000" stop="20260922140000 +0000" channel="asianethd">
     <title lang="en">Sindhu Bhairavi</title>
-    <desc lang="en">S1 , E73 : Sindhu, a brave young woman, loves to spread happiness and cheer all around. However, on witnessing injustice, Sindhu takes matters into her own hands.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29962990_b_h8_aa.jpg"/>
+    <desc lang="en">S1 , E73 : </desc>
+    <icon src="https://stap.tmsimg.com/assets/p33431337_b_h8_aa.jpg"/>
   </programme>
   <programme start="20260922140000 +0000" stop="20260922143000 +0000" channel="asianethd">
     <title lang="en">Advocate Anjali</title>
@@ -818,7 +818,7 @@
   </programme>
   <programme start="20260922165000 +0000" stop="20260922171000 +0000" channel="asianethd">
     <title lang="en">Ivar Vivahitharayal</title>
-    <desc lang="en">S1 , E83 : Bhoomi returns to her biological residence under a binding contract without realizing her true lineage. Confronted by formidable adversaries, she consequently battles to safeguard her love and reclaim her genuine identity.</desc>
+    <desc lang="en">S1 , E83 : Ajay accepts Bhoomi's terms as she steps in as his interim spouse. Subsequently, when Bhavani challenges Sangeetha over her backing, she clarifies her motives.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33275383_b_h8_aa.jpg"/>
   </programme>
   <programme start="20260922171000 +0000" stop="20260922173000 +0000" channel="asianethd">
@@ -2482,39 +2482,29 @@
     <icon src="https://stap.tmsimg.com/assets/p29379941_b_h8_ab.jpg"/>
   </programme>
   <programme start="20260922200000 +0000" stop="20260922210000 +0000" channel="flowersinternational">
-    <title lang="en">Flowers Comedy Ith Item Vere</title>
-    <desc lang="en">Comedians take the stage and perform hilarious skits, showcasing their talent and attempting to impress the judges, in order to win the competition.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29170189_b_h8_ab.jpg"/>
+    <title lang="en">Flowers Comedy - Ithu Item Vere</title>
+    <desc lang="en">S1 , E673 : Contestants showcase their comic prowess through entertaining and hilarious performances and skits in front of a panel of esteemed judges as they compete for a grand prize.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p31653490_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260922210000 +0000" stop="20260922213000 +0000" channel="flowersinternational">
-    <title lang="en">Panchagni</title>
-    <desc lang="en">A restaurant named Pancharatnam is run by five sisters, while their stepmother tries different tactics to close their business.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29170753_b_h8_ab.jpg"/>
+    <title lang="en">Flowers Comedy Golden Punch</title>
+    <desc lang="en">S1 , E7 : </desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/UcNLhTLh.jpg"/>
   </programme>
-  <programme start="20260922213000 +0000" stop="20260922220000 +0000" channel="flowersinternational">
-    <title lang="en">Veettile Vilakku</title>
-    <desc lang="en">A mother goes through various struggles and hardships as she battles for her child and motherhood amidst a complex family relationship.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29496588_b_h10_ac.jpg"/>
+  <programme start="20260922213000 +0000" stop="20260922230000 +0000" channel="flowersinternational">
+    <title lang="en">Top Singer 7</title>
+    <desc lang="en">S1 , E14 : </desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/UcNLhTLh.jpg"/>
   </programme>
-  <programme start="20260922220000 +0000" stop="20260922223000 +0000" channel="flowersinternational">
-    <title lang="en">Uppum Mulakum</title>
-    <desc lang="en">Balachandran and Neelima, who face many challenges to earn a living, aim to successfully fulfil their wish of going to a foreign country.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29171156_b_h8_ad.jpg"/>
-  </programme>
-  <programme start="20260922223000 +0000" stop="20260922233000 +0000" channel="flowersinternational">
-    <title lang="en">Flowers Top Singer 5</title>
-    <desc lang="en">Talented young singers compete against each other as they perform on stage in front of a panel of judges to emerge victorious and win the title.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29495896_b_h10_ac.jpg"/>
-  </programme>
-  <programme start="20260922233000 +0000" stop="20260923000000 +0000" channel="flowersinternational">
-    <title lang="en">Veettile Vilakku</title>
-    <desc lang="en">A mother goes through various struggles and hardships as she battles for her child and motherhood amidst a complex family relationship.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29496588_b_h10_ac.jpg"/>
+  <programme start="20260922230000 +0000" stop="20260923000000 +0000" channel="flowersinternational">
+    <title lang="en">Flowers Comedy - Ithu Item Vere</title>
+    <desc lang="en">S1 , E673 : Contestants showcase their comic prowess through entertaining and hilarious performances and skits in front of a panel of esteemed judges as they compete for a grand prize.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p31653490_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260923000000 +0000" stop="20260923003000 +0000" channel="flowersinternational">
-    <title lang="en">Sukhamo Devi</title>
-    <desc lang="en">Devika is in love with Nandagopan, but Karthikeyan forces her to marry him. She elopes with Nandagopan only to get abandoned by him at the temple, which leads her to marry his friend.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29170986_b_h8_ab.jpg"/>
+    <title lang="en">Flowers Comedy Golden Moments</title>
+    <desc lang="en">S1 , E161 : Revisit the best moments of the show 'Flowers Comedy,' where comedians put on their greatest skits and performances for the audience.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p29170069_b_h10_ab.jpg"/>
   </programme>
   <programme start="20260922000000 +0000" stop="20260922000000 +0000" channel="geotv">
     <title lang="en">Beti Ka Ghar Konsa</title>
@@ -3493,7 +3483,7 @@
   </programme>
   <programme start="20260922130000 +0000" stop="20260922133000 +0000" channel="zeetamil">
     <title lang="en">Parijadam</title>
-    <desc lang="en">S1 , E310 : After a tragic accident leaves Isai orphaned, her aunt Rukmini fakes her horoscope to satisfy Subadra's rigid astrological demands and secure a marriage to Vishal.</desc>
+    <desc lang="en">S1 , E310 : Sreeja schemes to create serious difficulties for Isai. Subsequently, Vishal intervenes at the crucial moment to shield Isai.</desc>
     <icon src="https://stap.tmsimg.com/assets/p31143416_b_h8_aa.jpg"/>
   </programme>
   <programme start="20260922133000 +0000" stop="20260922140000 +0000" channel="zeetamil">
