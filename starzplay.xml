@@ -2821,17 +2821,22 @@
     <desc lang="en">Sam Alex, a police officer, resorts to alcohol to ease the pain of his family's death. However, his life turns around when he is called to investigate a series of murders showing a similar pattern.</desc>
     <icon src="https://stap.tmsimg.com/assets/p10181772_b_h10_aa.jpg"/>
   </programme>
-  <programme start="20260922193000 +0000" stop="20260922213000 +0000" channel="asianetmovieshd">
+  <programme start="20260922200000 +0000" stop="20260922221000 +0000" channel="asianetmovieshd">
     <title lang="en">Changathipoocha</title>
     <desc lang="en">Brothers Sreedharan and Raman are embroiled in a bitter feud over their ancestral property. In a bid to consolidate all the wealth, Raman hires Sivankutty to woo Sreedharan's daughter.</desc>
     <icon src="https://stap.tmsimg.com/assets/p10817798_b_h8_ad.jpg"/>
   </programme>
-  <programme start="20260922213000 +0000" stop="20260922233000 +0000" channel="asianetmovieshd">
+  <programme start="20260922221000 +0000" stop="20260922224000 +0000" channel="asianetmovieshd">
+    <title lang="en">No program available</title>
+    <desc lang="en">No program available</desc>
+    <icon src="http://mena-img-cdn-lb.aws.playco.com/livechannels/ASIANETMOVIESHDY2012MML/ASIANETMOVIESHDY2012MML-landscape-poster-v1.jpg"/>
+  </programme>
+  <programme start="20260922221000 +0000" stop="20260923000000 +0000" channel="asianetmovieshd">
     <title lang="en">Idiots</title>
     <desc lang="en">A wealthy heiress plans to implicate her former boyfriend for her murder by hiring an assassin. Things take a turn when a thief enters the house at the same time.</desc>
     <icon src="https://stap.tmsimg.com/assets/p10817806_b_h11_ab.jpg"/>
   </programme>
-  <programme start="20260922233000 +0000" stop="20260923013000 +0000" channel="asianetmovieshd">
+  <programme start="20260923000000 +0000" stop="20260923013000 +0000" channel="asianetmovieshd">
     <title lang="en">Karutha Pakshikal</title>
     <desc lang="en">Widower Murugan moves to Kerala with his three children and irons clothes to make a living. While dealing with daily issues, he also aims to fund the operation of his child who is visually impaired.</desc>
     <icon src="https://stap.tmsimg.com/assets/p168242_b_h8_aa.jpg"/>
@@ -3151,15 +3156,15 @@
     <desc lang="en">SK, an aspiring actor, falls in love with Kavya, a doctor. However, she is engaged to another man and SK tries to sabotage their relationship by making her fall for him.</desc>
     <icon src="https://stap.tmsimg.com/assets/p13339177_v_h10_ac.jpg"/>
   </programme>
-  <programme start="20260922192800 +0000" stop="20260922222500 +0000" channel="emsimplysouth">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/GLmMTbx9.jpg"/>
+  <programme start="20260922192800 +0000" stop="20260922212600 +0000" channel="emsimplysouth">
+    <title lang="en">Nirangal Moondru</title>
+    <desc lang="en">An abduction kicks off a frantic search which soon unexpectedly intertwines the stories of a school student, a filmmaker and a police officer.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p28825916_b_h8_aa.jpg"/>
   </programme>
-  <programme start="20260922222500 +0000" stop="20260923005200 +0000" channel="emsimplysouth">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/GLmMTbx9.jpg"/>
+  <programme start="20260922212600 +0000" stop="20260923001800 +0000" channel="emsimplysouth">
+    <title lang="en">FIR</title>
+    <desc lang="en">Young Irfan Ahmed finds himself caught in inexplicable circumstances tied to his religion, but the media hastily labels him a terrorist, painting him as the embodiment of evil.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p21592054_v_h10_aa.jpg"/>
   </programme>
   <programme start="20260922000000 +0000" stop="20260922020000 +0000" channel="zeekeralam">
     <title lang="en">Movie</title>
@@ -4186,15 +4191,20 @@
     <desc lang="en">Inspector Simmba is a corrupt officer who works for a major smuggler. He finds his values challenged as the gangster's brothers assault his sworn sister.</desc>
     <icon src="https://stap.tmsimg.com/assets/p16310730_v_h8_ae.jpg"/>
   </programme>
-  <programme start="20260922193300 +0000" stop="20260922230000 +0000" channel="embollywoodunlimited">
+  <programme start="20260922193300 +0000" stop="20260922213900 +0000" channel="embollywoodunlimited">
     <title lang="en">The Sabarmati Report</title>
     <desc lang="en">Years after the Sabarmati Express tragedy, Samar Kumar teams up with a novice journalist when the latter stumbles upon a suppressed report, leading to a dangerous quest for the truth.</desc>
     <icon src="https://stap.tmsimg.com/assets/p28751287_v_h10_ab.jpg"/>
   </programme>
-  <programme start="20260922230000 +0000" stop="20260923020000 +0000" channel="embollywoodunlimited">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/2KIOKvF9.jpg"/>
+  <programme start="20260922213900 +0000" stop="20260922235600 +0000" channel="embollywoodunlimited">
+    <title lang="en">Ek Thi Daayan</title>
+    <desc lang="en">A famous magician plans to marry his girlfriend. However, he is secretly scarred by persistent hallucinations of his dead sister and is forced to seek psychiatric help.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p9917558_v_h10_ac.jpg"/>
+  </programme>
+  <programme start="20260922235600 +0000" stop="20260923023200 +0000" channel="embollywoodunlimited">
+    <title lang="en">Sarfira</title>
+    <desc lang="en">A determined young man sets out to fulfil his ambition of starting a low-cost airline. However, he soon finds himself embroiled in a high-stakes game of nefarious rivalry and bureaucracy.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p27714066_v_h8_aa.jpg"/>
   </programme>
   <programme start="20260922000000 +0000" stop="20260922010000 +0000" channel="arydigital">
     <title lang="en">Good Morning Pakistan</title>
