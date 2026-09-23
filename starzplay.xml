@@ -1958,7 +1958,7 @@
   </programme>
   <programme start="20260923230000 +0000" stop="20260923233000 +0000" channel="zeetvhd">
     <title lang="en">Dilo Ki Ram Leela</title>
-    <desc lang="en">S1 , E31 : </desc>
+    <desc lang="en">S1 , E31 : Leela desires her father's affection deeply, seeking peace and joy. Moreover, she discovers complete solace and family with Ram.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33959512_b_h10_ab.jpg"/>
   </programme>
   <programme start="20260923233000 +0000" stop="20260924000000 +0000" channel="zeetvhd">
@@ -2308,8 +2308,8 @@
   </programme>
   <programme start="20260923202700 +0000" stop="20260923205300 +0000" channel="sabtv">
     <title lang="en">Kyunki Papa Kehte Hain</title>
-    <desc lang="en">S1 , E1 : </desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/CzE8u1Jj.jpg"/>
+    <desc lang="en">S1 , E1 : Pawan manages domestic duties to nurture his four siblings, yet mounting pressure deeply consumes him. Thus, profound exhaustion slowly affects his mental peace.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p34126806_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260923205300 +0000" stop="20260923212300 +0000" channel="sabtv">
     <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
@@ -2338,8 +2338,8 @@
   </programme>
   <programme start="20260923230800 +0000" stop="20260923233300 +0000" channel="sabtv">
     <title lang="en">Kyunki Papa Kehte Hain</title>
-    <desc lang="en">S1 , E1 : </desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/CzE8u1Jj.jpg"/>
+    <desc lang="en">S1 , E1 : Pawan manages domestic duties to nurture his four siblings, yet mounting pressure deeply consumes him. Thus, profound exhaustion slowly affects his mental peace.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p34126806_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260923233300 +0000" stop="20260924000000 +0000" channel="sabtv">
     <title lang="en">Shrimad Ramayan</title>
@@ -4201,10 +4201,15 @@
     <desc lang="en">Alizeh, an independent woman recovering from a breakup, and Ayan, a naive musician, meet in New York and form an incredible bond. From there, they experience love, heartbreak and the facts of life.</desc>
     <icon src="https://stap.tmsimg.com/assets/p13240935_v_h10_aa.jpg"/>
   </programme>
-  <programme start="20260923222500 +0000" stop="20260924020000 +0000" channel="embollywoodunlimited">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/2KIOKvF9.jpg"/>
+  <programme start="20260923222500 +0000" stop="20260923235700 +0000" channel="embollywoodunlimited">
+    <title lang="en">Mantra</title>
+    <desc lang="en">An Indian proprietor strives to sustain his enterprise against fierce global rivalry. Furthermore, he endeavours to compensate his family for lost time.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p14471993_v_h10_ab.jpg"/>
+  </programme>
+  <programme start="20260923235700 +0000" stop="20260924015500 +0000" channel="embollywoodunlimited">
+    <title lang="en">Beiimaan Love</title>
+    <desc lang="en">Sunaina falls in love with Raj, a rich businessman, who betrays her. She decides to avenge her humiliation by reinventing herself as a successful entrepreneur and acquiring his business.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p13401746_v_h10_ab.jpg"/>
   </programme>
   <programme start="20260923000000 +0000" stop="20260923010000 +0000" channel="arydigital">
     <title lang="en">Good Morning Pakistan</title>
