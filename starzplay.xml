@@ -2303,7 +2303,7 @@
   </programme>
   <programme start="20260924184300 +0000" stop="20260924190900 +0000" channel="sabtv">
     <title lang="en">Hui Gumm Yaadein Ek Doctor, Do Zindagiyaan</title>
-    <desc lang="en">S1 , E147 : Dr Dev convinces Suhasini that her daughter made up the ghost story to avoid marriage, then sets out to put his house in order.</desc>
+    <desc lang="en">S1 , E147 : Dr. Dev convinces Suhasini that her daughter made up the ghost story to avoid marriage, then sets out to put his house in order.</desc>
     <icon src="https://stap.tmsimg.com/assets/p32794904_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260924190900 +0000" stop="20260924193500 +0000" channel="sabtv">
@@ -2343,7 +2343,7 @@
   </programme>
   <programme start="20260924221200 +0000" stop="20260924223800 +0000" channel="sabtv">
     <title lang="en">Hui Gumm Yaadein Ek Doctor, Do Zindagiyaan</title>
-    <desc lang="en">S1 , E147 : Dr Dev convinces Suhasini that her daughter made up the ghost story to avoid marriage, then sets out to put his house in order.</desc>
+    <desc lang="en">S1 , E147 : Dr. Dev convinces Suhasini that her daughter made up the ghost story to avoid marriage, then sets out to put his house in order.</desc>
     <icon src="https://stap.tmsimg.com/assets/p32794904_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260924223800 +0000" stop="20260924230400 +0000" channel="sabtv">
@@ -2786,17 +2786,22 @@
     <desc lang="en">Narayanan, who gets convicted for killing his father, returns from prison to his village and works selflessly for its people. However, his vengeful relatives create obstacles for him.</desc>
     <icon src="https://stap.tmsimg.com/assets/p10624345_v_h10_aa.jpg"/>
   </programme>
-  <programme start="20260924193000 +0000" stop="20260924213000 +0000" channel="asianetmovieshd">
+  <programme start="20260924201000 +0000" stop="20260924220500 +0000" channel="asianetmovieshd">
     <title lang="en">Aagathan</title>
     <desc lang="en">En route to Bangalore, a man falls in love with a beautiful girl. But he soon realises that her father was responsible for the death of his sister during a terrorist attack a long time ago.</desc>
     <icon src="https://stap.tmsimg.com/assets/p10727976_v_h10_aa.jpg"/>
   </programme>
-  <programme start="20260924213000 +0000" stop="20260924233000 +0000" channel="asianetmovieshd">
+  <programme start="20260924220500 +0000" stop="20260924224500 +0000" channel="asianetmovieshd">
+    <title lang="en">No program available</title>
+    <desc lang="en">No program available</desc>
+    <icon src="http://mena-img-cdn-lb.aws.playco.com/livechannels/ASIANETMOVIESHDY2012MML/ASIANETMOVIESHDY2012MML-landscape-poster-v1.jpg"/>
+  </programme>
+  <programme start="20260924220500 +0000" stop="20260925000000 +0000" channel="asianetmovieshd">
     <title lang="en">Monayi Angane Aanayi</title>
     <desc lang="en">Monayi goes to the city to stay with his friend. However, he ends up getting involved in problems which turns chaotic for everyone.</desc>
     <icon src="https://stap.tmsimg.com/assets/p12765757_v_h10_aa.jpg"/>
   </programme>
-  <programme start="20260924233000 +0000" stop="20260925013000 +0000" channel="asianetmovieshd">
+  <programme start="20260925000000 +0000" stop="20260925013000 +0000" channel="asianetmovieshd">
     <title lang="en">Finger Print</title>
     <desc lang="en">A patriarch of a royal family goes on a mission to find the murderers responsible for killing his descendant. He takes the help of his nephews who are police officers.</desc>
     <icon src="https://stap.tmsimg.com/assets/p11470998_b_h8_ac.jpg"/>
@@ -3791,7 +3796,7 @@
     <desc lang="en">After losing his job for the seventh time, Abby Sen is given a chance to travel back in time where career opportunities are endless. However, he soon becomes deeply torn between his two lives.</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/f3kpHdtF.jpg"/>
   </programme>
-  <programme start="20260924232900 +0000" stop="20260925003000 +0000" channel="zeebangla">
+  <programme start="20260924232900 +0000" stop="20260925002800 +0000" channel="zeebangla">
     <title lang="en">Patanjali Yog - By Yogrishi Swami Ramdev</title>
     <desc lang="en">S1 , E551 : Baba Ramdev emphasises the importance of yoga and demonstrates various asanas and breathing exercises that enable one to lead a healthy and stress-free life.</desc>
     <icon src="https://stap.tmsimg.com/assets/p28747290_b_h8_ab.jpg"/>
