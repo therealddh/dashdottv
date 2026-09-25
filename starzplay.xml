@@ -851,7 +851,7 @@
     <desc lang="en">S1 , E421 : Balachandran dares Sivasankaran to disclose the truth about Aleena to Vyjayanthi. Meanwhile, Babitha and Rohit challenge Vyjayanthi about leaving home.</desc>
     <icon src="https://stap.tmsimg.com/assets/p30645322_b_h8_ad.jpg"/>
   </programme>
-  <programme start="20260925230000 +0000" stop="20260926033000 +0000" channel="asianethd">
+  <programme start="20260925230000 +0000" stop="20260926020000 +0000" channel="asianethd">
     <title lang="en">Chempaneer Poovu</title>
     <desc lang="en">S1 , E891 : Lakshmi gets insulted by Chandramathi when she gets invited to Devu's wedding. Later, Sreekanth is confronted over making the entire payment for the food at the wedding.</desc>
     <icon src="https://stap.tmsimg.com/assets/p26607297_b_h10_ad.jpg"/>
@@ -891,12 +891,62 @@
     <desc lang="en">The host presents a comprehensive and detailed report, elucidating on the latest news and developments from across the globe.</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/qARVxF9Y.jpg"/>
   </programme>
-  <programme start="20260925183000 +0000" stop="20260925213000 +0000" channel="indiatoday">
+  <programme start="20260925183000 +0000" stop="20260925190000 +0000" channel="indiatoday">
     <title lang="en">News</title>
-    <desc lang="en">The host presents a comprehensive and detailed report, elucidating on the latest news and developments from across the globe.</desc>
+    <desc lang="en">The hosts shed light on the latest and most important news, developments and current affairs taking place all around the world.</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/qARVxF9Y.jpg"/>
   </programme>
-  <programme start="20260925213000 +0000" stop="20260926003000 +0000" channel="indiatoday">
+  <programme start="20260925190000 +0000" stop="20260925193000 +0000" channel="indiatoday">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts shed light on the latest and most important news, developments and current affairs taking place all around the world.</desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/qARVxF9Y.jpg"/>
+  </programme>
+  <programme start="20260925193000 +0000" stop="20260925200000 +0000" channel="indiatoday">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts shed light on the latest and most important news, developments and current affairs taking place all around the world.</desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/qARVxF9Y.jpg"/>
+  </programme>
+  <programme start="20260925200000 +0000" stop="20260925203000 +0000" channel="indiatoday">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts shed light on the latest and most important news, developments and current affairs taking place all around the world.</desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/qARVxF9Y.jpg"/>
+  </programme>
+  <programme start="20260925203000 +0000" stop="20260925210000 +0000" channel="indiatoday">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts shed light on the latest and most important news, developments and current affairs taking place all around the world.</desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/qARVxF9Y.jpg"/>
+  </programme>
+  <programme start="20260925210000 +0000" stop="20260925213000 +0000" channel="indiatoday">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts shed light on the latest and most important news, developments and current affairs taking place all around the world.</desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/qARVxF9Y.jpg"/>
+  </programme>
+  <programme start="20260925213000 +0000" stop="20260925220000 +0000" channel="indiatoday">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts shed light on the latest and most important news, developments and current affairs taking place all around the world.</desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/qARVxF9Y.jpg"/>
+  </programme>
+  <programme start="20260925220000 +0000" stop="20260925223000 +0000" channel="indiatoday">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts shed light on the latest and most important news, developments and current affairs taking place all around the world.</desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/qARVxF9Y.jpg"/>
+  </programme>
+  <programme start="20260925223000 +0000" stop="20260925230000 +0000" channel="indiatoday">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts shed light on the latest and most important news, developments and current affairs taking place all around the world.</desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/qARVxF9Y.jpg"/>
+  </programme>
+  <programme start="20260925230000 +0000" stop="20260925233000 +0000" channel="indiatoday">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts shed light on the latest and most important news, developments and current affairs taking place all around the world.</desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/qARVxF9Y.jpg"/>
+  </programme>
+  <programme start="20260925233000 +0000" stop="20260926000000 +0000" channel="indiatoday">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts shed light on the latest and most important news, developments and current affairs taking place all around the world.</desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/qARVxF9Y.jpg"/>
+  </programme>
+  <programme start="20260926000000 +0000" stop="20260926003000 +0000" channel="indiatoday">
     <title lang="en">News</title>
     <desc lang="en">The hosts shed light on the latest and most important news, developments and current affairs taking place all around the world.</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/qARVxF9Y.jpg"/>
@@ -2278,7 +2328,7 @@
   </programme>
   <programme start="20260925193500 +0000" stop="20260925200100 +0000" channel="sabtv">
     <title lang="en">Pushpa Impossible</title>
-    <desc lang="en">S1 , E1346 : Varun questions Pushpa about the Kolhapur mystery, then meets Seema and confesses with her. Will he finally learn the truth?</desc>
+    <desc lang="en">S1 , E1346 : Varun questions Pushpa about the Kolhapur mystery, then meets Seema and confesses to her. Will he finally learn the truth?</desc>
     <icon src="https://stap.tmsimg.com/assets/p22259614_b_h10_af.jpg"/>
   </programme>
   <programme start="20260925200100 +0000" stop="20260925202700 +0000" channel="sabtv">
@@ -4151,20 +4201,15 @@
     <desc lang="en">When the disappearance of a policewoman's son threatens to ruin Vijay's family, he leaves no stone unturned in order to shield his family.</desc>
     <icon src="https://stap.tmsimg.com/assets/p11992916_v_h10_ad.jpg"/>
   </programme>
-  <programme start="20260925193900 +0000" stop="20260925215400 +0000" channel="embollywoodunlimited">
+  <programme start="20260925193900 +0000" stop="20260925221500 +0000" channel="embollywoodunlimited">
     <title lang="en">Haider</title>
     <desc lang="en">Haider returns to Kashmir to investigate his father's disappearance. Driven by the urge to find answers, he takes unconventional measures, unaware of the secrets of the past that await him.</desc>
     <icon src="https://stap.tmsimg.com/assets/p10912381_v_h10_ab.jpg"/>
   </programme>
-  <programme start="20260925215400 +0000" stop="20260925230000 +0000" channel="embollywoodunlimited">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/2KIOKvF9.jpg"/>
-  </programme>
-  <programme start="20260925230000 +0000" stop="20260926020000 +0000" channel="embollywoodunlimited">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/2KIOKvF9.jpg"/>
+  <programme start="20260925221500 +0000" stop="20260926005700 +0000" channel="embollywoodunlimited">
+    <title lang="en">Aankhen</title>
+    <desc lang="en">After being sacked from his position as a bank manager, a temperamental man plots revenge by orchestrating a robbery, enlisting three unlikely accomplices.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p76177_v_h10_ab.jpg"/>
   </programme>
   <programme start="20260925000000 +0000" stop="20260925010000 +0000" channel="arydigital">
     <title lang="en">Good Morning Pakistan</title>
