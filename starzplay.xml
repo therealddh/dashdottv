@@ -648,7 +648,7 @@
   </programme>
   <programme start="20260925170000 +0000" stop="20260925173000 +0000" channel="colorshd">
     <title lang="en">Bareilly Ke Bacchan</title>
-    <desc lang="en">S1 , E91 : Sangam, an ambitious young woman, must find her footing in her newly married life after she marries into the Bacchan family, a household of men who are not used to living with a woman.</desc>
+    <desc lang="en">S1 , E91 : Sangam decides to visit her college to collect certificates and complete agreements. Meanwhile, Krishna grows anxious as she travels alone.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33257755_b_h10_ab.jpg"/>
   </programme>
   <programme start="20260925173000 +0000" stop="20260925180000 +0000" channel="colorshd">
@@ -673,7 +673,7 @@
   </programme>
   <programme start="20260925203000 +0000" stop="20260925210000 +0000" channel="colorshd">
     <title lang="en">Bareilly Ke Bacchan</title>
-    <desc lang="en">S1 , E91 : Sangam, an ambitious young woman, must find her footing in her newly married life after she marries into the Bacchan family, a household of men who are not used to living with a woman.</desc>
+    <desc lang="en">S1 , E91 : Sangam decides to visit her college to collect certificates and complete agreements. Meanwhile, Krishna grows anxious as she travels alone.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33257755_b_h10_ab.jpg"/>
   </programme>
   <programme start="20260925210000 +0000" stop="20260925213000 +0000" channel="colorshd">
@@ -703,7 +703,7 @@
   </programme>
   <programme start="20260925233000 +0000" stop="20260926000000 +0000" channel="colorshd">
     <title lang="en">Bareilly Ke Bacchan</title>
-    <desc lang="en">S1 , E91 : Sangam, an ambitious young woman, must find her footing in her newly married life after she marries into the Bacchan family, a household of men who are not used to living with a woman.</desc>
+    <desc lang="en">S1 , E91 : Sangam decides to visit her college to collect certificates and complete agreements. Meanwhile, Krishna grows anxious as she travels alone.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33257755_b_h10_ab.jpg"/>
   </programme>
   <programme start="20260926000000 +0000" stop="20260926003000 +0000" channel="colorshd">
@@ -823,7 +823,7 @@
   </programme>
   <programme start="20260925171000 +0000" stop="20260925173000 +0000" channel="asianethd">
     <title lang="en">Ee Puzhayum Kadannu</title>
-    <desc lang="en">S1 , E176 : A middle-class family's happiness is shattered by the sudden death of the father, Aravindan. Now, his daughters must navigate life's conflicts to find a path to hope.</desc>
+    <desc lang="en">S1 , E176 : Ganga confronts Kaveri after spotting her speaking with Nila, subsequently insulting Raghu Nath for intervening. Meanwhile, Naren questions Raghu Nath over his interference in the clash.</desc>
     <icon src="https://stap.tmsimg.com/assets/p32308078_b_h10_ab.jpg"/>
   </programme>
   <programme start="20260925173000 +0000" stop="20260925183000 +0000" channel="asianethd">
@@ -851,15 +851,10 @@
     <desc lang="en">S1 , E421 : Balachandran dares Sivasankaran to disclose the truth about Aleena to Vyjayanthi. Meanwhile, Babitha and Rohit challenge Vyjayanthi about leaving home.</desc>
     <icon src="https://stap.tmsimg.com/assets/p30645322_b_h8_ad.jpg"/>
   </programme>
-  <programme start="20260925230000 +0000" stop="20260925233000 +0000" channel="asianethd">
+  <programme start="20260925230000 +0000" stop="20260926033000 +0000" channel="asianethd">
     <title lang="en">Chempaneer Poovu</title>
     <desc lang="en">S1 , E891 : Lakshmi gets insulted by Chandramathi when she gets invited to Devu's wedding. Later, Sreekanth is confronted over making the entire payment for the food at the wedding.</desc>
     <icon src="https://stap.tmsimg.com/assets/p26607297_b_h10_ad.jpg"/>
-  </programme>
-  <programme start="20260925233000 +0000" stop="20260926003000 +0000" channel="asianethd">
-    <title lang="en">Meow</title>
-    <desc lang="en">With dreams of a better life, a married couple and their children move to Dubai. However, chaos ensues when the wife leaves her husband over a disagreement.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p21309860_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260925000000 +0000" stop="20260925003000 +0000" channel="indiatoday">
     <title lang="en">News</title>
@@ -2193,17 +2188,17 @@
   </programme>
   <programme start="20260925110000 +0000" stop="20260925113000 +0000" channel="sabtv">
     <title lang="en">Kyunki Papa Kehte Hain</title>
-    <desc lang="en">S1 , E3 : Pawan lovingly protects his four younger siblings after sudden parental loss, despite severe financial struggle. Furthermore, strict relatives force traditional values upon these resilient children.</desc>
+    <desc lang="en">S1 , E3 : Amber tricks Chachaji and celebrates his victory. Furious, Chachaji threatens to dig up the cricket pitch, while Pawan and his siblings try to stop him.</desc>
     <icon src="https://stap.tmsimg.com/assets/p34126806_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260925113000 +0000" stop="20260925120000 +0000" channel="sabtv">
     <title lang="en">Hastinapur Ke Veer</title>
-    <desc lang="en">S1 , E99 : Five noble Pandava brothers bravely unite to combat ruthless injustice threatening their peaceful kingdom. Furthermore, their unwavering devotion to dharma secures total victory.</desc>
+    <desc lang="en">S1 , E99 : Ved Vyas tells Karn that he is Surya Putra Radheya, which shocks him completely. Also, this brave son works hard to assist his mother.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33120073_b_h10_ab.jpg"/>
   </programme>
   <programme start="20260925120000 +0000" stop="20260925123000 +0000" channel="sabtv">
     <title lang="en">Hui Gumm Yaadein Ek Doctor, Do Zindagiyaan</title>
-    <desc lang="en">S1 , E148 : Following a traumatic accident and an eight-year memory loss, Dr Dev struggles to rebuild his life as his former wife, Srishti, balances motherhood with running their medical facility.</desc>
+    <desc lang="en">S1 , E148 : Dr Dev asks Dr Srishty to reunite, but she cannot forgive him for his past mistakes. Later, the villagers apologise and share tea.</desc>
     <icon src="https://stap.tmsimg.com/assets/p32794904_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260925123000 +0000" stop="20260925130000 +0000" channel="sabtv">
@@ -2213,7 +2208,7 @@
   </programme>
   <programme start="20260925130000 +0000" stop="20260925132900 +0000" channel="sabtv">
     <title lang="en">Pushpa Impossible</title>
-    <desc lang="en">S1 , E1346 : After doing various odd jobs, an uneducated woman from Gujarat starts a business to earn a living and attempts to keep her family happy.</desc>
+    <desc lang="en">S1 , E1346 : Varun questions Pushpa about the Kolhapur mystery, then meets Seema and confesses with her. Will he finally learn the truth?</desc>
     <icon src="https://stap.tmsimg.com/assets/p22259614_b_h10_af.jpg"/>
   </programme>
   <programme start="20260925132900 +0000" stop="20260925140000 +0000" channel="sabtv">
@@ -2233,17 +2228,17 @@
   </programme>
   <programme start="20260925150000 +0000" stop="20260925153000 +0000" channel="sabtv">
     <title lang="en">Kyunki Papa Kehte Hain</title>
-    <desc lang="en">S1 , E3 : Pawan lovingly protects his four younger siblings after sudden parental loss, despite severe financial struggle. Furthermore, strict relatives force traditional values upon these resilient children.</desc>
+    <desc lang="en">S1 , E3 : Amber tricks Chachaji and celebrates his victory. Furious, Chachaji threatens to dig up the cricket pitch, while Pawan and his siblings try to stop him.</desc>
     <icon src="https://stap.tmsimg.com/assets/p34126806_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260925153000 +0000" stop="20260925160000 +0000" channel="sabtv">
     <title lang="en">Hastinapur Ke Veer</title>
-    <desc lang="en">S1 , E99 : Five noble Pandava brothers bravely unite to combat ruthless injustice threatening their peaceful kingdom. Furthermore, their unwavering devotion to dharma secures total victory.</desc>
+    <desc lang="en">S1 , E99 : Ved Vyas tells Karn that he is Surya Putra Radheya, which shocks him completely. Also, this brave son works hard to assist his mother.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33120073_b_h10_ab.jpg"/>
   </programme>
   <programme start="20260925160000 +0000" stop="20260925163000 +0000" channel="sabtv">
     <title lang="en">Hui Gumm Yaadein Ek Doctor, Do Zindagiyaan</title>
-    <desc lang="en">S1 , E148 : Following a traumatic accident and an eight-year memory loss, Dr Dev struggles to rebuild his life as his former wife, Srishti, balances motherhood with running their medical facility.</desc>
+    <desc lang="en">S1 , E148 : Dr Dev asks Dr Srishty to reunite, but she cannot forgive him for his past mistakes. Later, the villagers apologise and share tea.</desc>
     <icon src="https://stap.tmsimg.com/assets/p32794904_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260925163000 +0000" stop="20260925170000 +0000" channel="sabtv">
@@ -2253,7 +2248,7 @@
   </programme>
   <programme start="20260925170000 +0000" stop="20260925172500 +0000" channel="sabtv">
     <title lang="en">Pushpa Impossible</title>
-    <desc lang="en">S1 , E1346 : After doing various odd jobs, an uneducated woman from Gujarat starts a business to earn a living and attempts to keep her family happy.</desc>
+    <desc lang="en">S1 , E1346 : Varun questions Pushpa about the Kolhapur mystery, then meets Seema and confesses with her. Will he finally learn the truth?</desc>
     <icon src="https://stap.tmsimg.com/assets/p22259614_b_h10_af.jpg"/>
   </programme>
   <programme start="20260925172500 +0000" stop="20260925175100 +0000" channel="sabtv">
@@ -2268,12 +2263,12 @@
   </programme>
   <programme start="20260925181500 +0000" stop="20260925184300 +0000" channel="sabtv">
     <title lang="en">Kyunki Papa Kehte Hain</title>
-    <desc lang="en">S1 , E3 : Pawan lovingly protects his four younger siblings after sudden parental loss, despite severe financial struggle. Furthermore, strict relatives force traditional values upon these resilient children.</desc>
+    <desc lang="en">S1 , E3 : Amber tricks Chachaji and celebrates his victory. Furious, Chachaji threatens to dig up the cricket pitch, while Pawan and his siblings try to stop him.</desc>
     <icon src="https://stap.tmsimg.com/assets/p34126806_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260925184300 +0000" stop="20260925190900 +0000" channel="sabtv">
     <title lang="en">Hui Gumm Yaadein Ek Doctor, Do Zindagiyaan</title>
-    <desc lang="en">S1 , E148 : Following a traumatic accident and an eight-year memory loss, Dr Dev struggles to rebuild his life as his former wife, Srishti, balances motherhood with running their medical facility.</desc>
+    <desc lang="en">S1 , E148 : Dr Dev asks Dr Srishty to reunite, but she cannot forgive him for his past mistakes. Later, the villagers apologise and share tea.</desc>
     <icon src="https://stap.tmsimg.com/assets/p32794904_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260925190900 +0000" stop="20260925193500 +0000" channel="sabtv">
@@ -2283,17 +2278,17 @@
   </programme>
   <programme start="20260925193500 +0000" stop="20260925200100 +0000" channel="sabtv">
     <title lang="en">Pushpa Impossible</title>
-    <desc lang="en">S1 , E1346 : After doing various odd jobs, an uneducated woman from Gujarat starts a business to earn a living and attempts to keep her family happy.</desc>
+    <desc lang="en">S1 , E1346 : Varun questions Pushpa about the Kolhapur mystery, then meets Seema and confesses with her. Will he finally learn the truth?</desc>
     <icon src="https://stap.tmsimg.com/assets/p22259614_b_h10_af.jpg"/>
   </programme>
   <programme start="20260925200100 +0000" stop="20260925202700 +0000" channel="sabtv">
     <title lang="en">Hastinapur Ke Veer</title>
-    <desc lang="en">S1 , E99 : Five noble Pandava brothers bravely unite to combat ruthless injustice threatening their peaceful kingdom. Furthermore, their unwavering devotion to dharma secures total victory.</desc>
+    <desc lang="en">S1 , E99 : Ved Vyas tells Karn that he is Surya Putra Radheya, which shocks him completely. Also, this brave son works hard to assist his mother.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33120073_b_h10_ab.jpg"/>
   </programme>
   <programme start="20260925202700 +0000" stop="20260925205300 +0000" channel="sabtv">
     <title lang="en">Kyunki Papa Kehte Hain</title>
-    <desc lang="en">S1 , E3 : Pawan lovingly protects his four younger siblings after sudden parental loss, despite severe financial struggle. Furthermore, strict relatives force traditional values upon these resilient children.</desc>
+    <desc lang="en">S1 , E3 : Amber tricks Chachaji and celebrates his victory. Furious, Chachaji threatens to dig up the cricket pitch, while Pawan and his siblings try to stop him.</desc>
     <icon src="https://stap.tmsimg.com/assets/p34126806_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260925205300 +0000" stop="20260925211900 +0000" channel="sabtv">
@@ -2313,17 +2308,17 @@
   </programme>
   <programme start="20260925221200 +0000" stop="20260925223800 +0000" channel="sabtv">
     <title lang="en">Hui Gumm Yaadein Ek Doctor, Do Zindagiyaan</title>
-    <desc lang="en">S1 , E148 : Following a traumatic accident and an eight-year memory loss, Dr Dev struggles to rebuild his life as his former wife, Srishti, balances motherhood with running their medical facility.</desc>
+    <desc lang="en">S1 , E148 : Dr Dev asks Dr Srishty to reunite, but she cannot forgive him for his past mistakes. Later, the villagers apologise and share tea.</desc>
     <icon src="https://stap.tmsimg.com/assets/p32794904_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260925223800 +0000" stop="20260925230300 +0000" channel="sabtv">
     <title lang="en">Hastinapur Ke Veer</title>
-    <desc lang="en">S1 , E99 : Five noble Pandava brothers bravely unite to combat ruthless injustice threatening their peaceful kingdom. Furthermore, their unwavering devotion to dharma secures total victory.</desc>
+    <desc lang="en">S1 , E99 : Ved Vyas tells Karn that he is Surya Putra Radheya, which shocks him completely. Also, this brave son works hard to assist his mother.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33120073_b_h10_ab.jpg"/>
   </programme>
   <programme start="20260925230300 +0000" stop="20260925232900 +0000" channel="sabtv">
     <title lang="en">Kyunki Papa Kehte Hain</title>
-    <desc lang="en">S1 , E3 : Pawan lovingly protects his four younger siblings after sudden parental loss, despite severe financial struggle. Furthermore, strict relatives force traditional values upon these resilient children.</desc>
+    <desc lang="en">S1 , E3 : Amber tricks Chachaji and celebrates his victory. Furious, Chachaji threatens to dig up the cricket pitch, while Pawan and his siblings try to stop him.</desc>
     <icon src="https://stap.tmsimg.com/assets/p34126806_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260925232900 +0000" stop="20260925235600 +0000" channel="sabtv">
@@ -2462,39 +2457,34 @@
     <icon src="https://stap.tmsimg.com/assets/p29379941_b_h8_ab.jpg"/>
   </programme>
   <programme start="20260925200000 +0000" stop="20260925210000 +0000" channel="flowersinternational">
-    <title lang="en">Flowers Comedy Ith Item Vere</title>
-    <desc lang="en">Comedians take the stage and perform hilarious skits, showcasing their talent and attempting to impress the judges, in order to win the competition.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29170189_b_h8_ab.jpg"/>
+    <title lang="en">Flowers Comedy - Ithu Item Vere</title>
+    <desc lang="en">S1 , E676 : Contestants showcase their comic prowess through entertaining and hilarious performances and skits in front of a panel of esteemed judges as they compete for a grand prize.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p31653490_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260925210000 +0000" stop="20260925213000 +0000" channel="flowersinternational">
-    <title lang="en">Panchagni</title>
-    <desc lang="en">A restaurant named Pancharatnam is run by five sisters, while their stepmother tries different tactics to close their business.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29170753_b_h8_ab.jpg"/>
+    <title lang="en">Sukhamo Devi</title>
+    <desc lang="en">S1 , E1063 : Devika is in love with Nandagopan, but Karthikeyan forces her to marry him. She elopes with Nandagopan only to get abandoned by him at the temple, which leads her to marry his friend.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p29170986_b_h8_ab.jpg"/>
   </programme>
   <programme start="20260925213000 +0000" stop="20260925220000 +0000" channel="flowersinternational">
-    <title lang="en">Veettile Vilakku</title>
-    <desc lang="en">A mother goes through various struggles and hardships as she battles for her child and motherhood amidst a complex family relationship.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29496588_b_h10_ac.jpg"/>
+    <title lang="en">Mahalakshmi</title>
+    <desc lang="en">S1 , E583 : Mahalakshmi faces the consequences of her stepfather's actions with strength, while Kannan, who survives an unexpected tragedy, becomes her unexpected support in a journey of survival.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p29379941_b_h8_ab.jpg"/>
   </programme>
   <programme start="20260925220000 +0000" stop="20260925223000 +0000" channel="flowersinternational">
     <title lang="en">Uppum Mulakum</title>
-    <desc lang="en">Balachandran and Neelima, who face many challenges to earn a living, aim to successfully fulfil their wish of going to a foreign country.</desc>
+    <desc lang="en">S1 , E713 : Balachandran and Neelima, who face many challenges to earn a living, aim to successfully fulfil their wish of going to a foreign country.</desc>
     <icon src="https://stap.tmsimg.com/assets/p29171156_b_h8_ad.jpg"/>
   </programme>
-  <programme start="20260925223000 +0000" stop="20260925230000 +0000" channel="flowersinternational">
-    <title lang="en">Panchagni</title>
-    <desc lang="en">A restaurant named Pancharatnam is run by five sisters, while their stepmother tries different tactics to close their business.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29170753_b_h8_ab.jpg"/>
-  </programme>
-  <programme start="20260925230000 +0000" stop="20260926000000 +0000" channel="flowersinternational">
-    <title lang="en">Flowers Comedy Ith Item Vere</title>
-    <desc lang="en">Comedians take the stage and perform hilarious skits, showcasing their talent and attempting to impress the judges, in order to win the competition.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29170189_b_h8_ab.jpg"/>
+  <programme start="20260925223000 +0000" stop="20260926000000 +0000" channel="flowersinternational">
+    <title lang="en">Top Singer 7</title>
+    <desc lang="en">S1 , E17 : </desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/UcNLhTLh.jpg"/>
   </programme>
   <programme start="20260926000000 +0000" stop="20260926003000 +0000" channel="flowersinternational">
-    <title lang="en">Veettile Vilakku</title>
-    <desc lang="en">A mother goes through various struggles and hardships as she battles for her child and motherhood amidst a complex family relationship.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29496588_b_h10_ac.jpg"/>
+    <title lang="en">Sukhamo Devi</title>
+    <desc lang="en">S1 , E1063 : Devika is in love with Nandagopan, but Karthikeyan forces her to marry him. She elopes with Nandagopan only to get abandoned by him at the temple, which leads her to marry his friend.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p29170986_b_h8_ab.jpg"/>
   </programme>
   <programme start="20260925000000 +0000" stop="20260925000000 +0000" channel="geotv">
     <title lang="en">Uswah</title>
