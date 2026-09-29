@@ -466,12 +466,7 @@
     <desc lang="en">S1 , E194 : After leaving Akshay and Madhavi at the boarding school, an emotional Vrinda takes over as the new boss of the Jamshedpur plant.</desc>
     <icon src="https://stap.tmsimg.com/assets/p32915623_b_h10_ab.jpg"/>
   </programme>
-  <programme start="20260929193000 +0000" stop="20260929200000 +0000" channel="starplushd">
-    <title lang="en">Savdhaan India - Apni Khaki</title>
-    <desc lang="en">S1 , E51 : Following the murder of Revati, Satish escapes custody and heads to Bihar, where he aims to use Namrata for his twisted purposes, but she bravely resists his malicious advances.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p26848068_b_h8_ad.jpg"/>
-  </programme>
-  <programme start="20260929200000 +0000" stop="20260929203000 +0000" channel="starplushd">
+  <programme start="20260929193000 +0000" stop="20260929203000 +0000" channel="starplushd">
     <title lang="en">Savdhaan India - Apni Khaki</title>
     <desc lang="en">S1 , E51 : Following the murder of Revati, Satish escapes custody and heads to Bihar, where he aims to use Namrata for his twisted purposes, but she bravely resists his malicious advances.</desc>
     <icon src="https://stap.tmsimg.com/assets/p26848068_b_h8_ad.jpg"/>
@@ -633,7 +628,7 @@
   </programme>
   <programme start="20260929160000 +0000" stop="20260929163000 +0000" channel="colorshd">
     <title lang="en">DR. Aarambhi</title>
-    <desc lang="en">S1 , E199 : Bound by marriage, former AIPMT topper Aarambhi clings to a hidden dream, waiting for the spark to ignite her second act.</desc>
+    <desc lang="en">S1 , E199 : Avantika gets confronted by Aarambhi over her affair with Vishwas, while he overhears them. Later, she vows to divorce him.</desc>
     <icon src="https://stap.tmsimg.com/assets/p32220715_b_h10_ad.jpg"/>
   </programme>
   <programme start="20260929163000 +0000" stop="20260929170000 +0000" channel="colorshd">
@@ -653,7 +648,7 @@
   </programme>
   <programme start="20260929180000 +0000" stop="20260929183000 +0000" channel="colorshd">
     <title lang="en">Mahadev &amp; Sons</title>
-    <desc lang="en">S1 , E203 : Mahadev's principled approach to guiding his family with a firm hand unintentionally sows the seeds of rebellion, ushering in an era of generational discord.</desc>
+    <desc lang="en">S1 , E203 : Mogra demands Lajwanti's freedom from Yash in exchange for revealing Dheeraj's secret. Meanwhile, Ashish informs her about Monty's murder by Rajji.</desc>
     <icon src="https://stap.tmsimg.com/assets/p32050463_b_h8_ac.jpg"/>
   </programme>
   <programme start="20260929183000 +0000" stop="20260929200000 +0000" channel="colorshd">
@@ -663,7 +658,7 @@
   </programme>
   <programme start="20260929200000 +0000" stop="20260929203000 +0000" channel="colorshd">
     <title lang="en">DR. Aarambhi</title>
-    <desc lang="en">S1 , E199 : Bound by marriage, former AIPMT topper Aarambhi clings to a hidden dream, waiting for the spark to ignite her second act.</desc>
+    <desc lang="en">S1 , E199 : Avantika gets confronted by Aarambhi over her affair with Vishwas, while he overhears them. Later, she vows to divorce him.</desc>
     <icon src="https://stap.tmsimg.com/assets/p32220715_b_h10_ad.jpg"/>
   </programme>
   <programme start="20260929203000 +0000" stop="20260929210000 +0000" channel="colorshd">
@@ -703,7 +698,7 @@
   </programme>
   <programme start="20260930000000 +0000" stop="20260930003000 +0000" channel="colorshd">
     <title lang="en">Mahadev &amp; Sons</title>
-    <desc lang="en">S1 , E203 : Mahadev's principled approach to guiding his family with a firm hand unintentionally sows the seeds of rebellion, ushering in an era of generational discord.</desc>
+    <desc lang="en">S1 , E203 : Mogra demands Lajwanti's freedom from Yash in exchange for revealing Dheeraj's secret. Meanwhile, Ashish informs her about Monty's murder by Rajji.</desc>
     <icon src="https://stap.tmsimg.com/assets/p32050463_b_h8_ac.jpg"/>
   </programme>
   <programme start="20260929000000 +0000" stop="20260929020000 +0000" channel="asianethd">
@@ -818,7 +813,7 @@
   </programme>
   <programme start="20260929165000 +0000" stop="20260929171000 +0000" channel="asianethd">
     <title lang="en">Ivar Vivahitharayal</title>
-    <desc lang="en">S1 , E88 : Achyuthan emotionally supports Bhoomi and persuades her to return to Saubhagyapuram. Later, Bhavani and Anjana doubt Ajay's marriage to Bhoomi, believing that he still has feelings for Nayana.</desc>
+    <desc lang="en">S1 , E88 : Achyuthan emotionally supports Bhoomi and persuades her to return to Saubhagyapuram. Later, Bhavani and Anjana doubt Ajay's marriage to Bhoomi, believing that he still loves Nayana.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33275383_b_h8_aa.jpg"/>
   </programme>
   <programme start="20260929171000 +0000" stop="20260929173000 +0000" channel="asianethd">
@@ -2213,22 +2208,22 @@
   </programme>
   <programme start="20260929110000 +0000" stop="20260929113000 +0000" channel="sabtv">
     <title lang="en">Kyunki Papa Kehte Hain</title>
-    <desc lang="en">S1 , E6 : Pawan lovingly protects his four younger siblings after sudden parental loss, despite severe financial struggle. Furthermore, strict relatives force traditional values upon these resilient children.</desc>
+    <desc lang="en">S1 , E6 : Lakshya vanishes after receiving low marks, sending the household into a desperate search. Meanwhile, Pawan discovers that a land transaction was a complete fraud.</desc>
     <icon src="https://stap.tmsimg.com/assets/p34126806_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260929113000 +0000" stop="20260929120000 +0000" channel="sabtv">
     <title lang="en">Hastinapur Ke Veer</title>
-    <desc lang="en">S1 , E102 : Five noble Pandava brothers bravely unite to combat ruthless injustice threatening their peaceful kingdom. Furthermore, their unwavering devotion to dharma secures total victory.</desc>
+    <desc lang="en">S1 , E102 : Radheya commits to his goal of becoming a warrior. Meanwhile, Bheem attempts to uncover Duryodhan's secret as Duryodhan tries to keep the truth hidden.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33120073_b_h10_ab.jpg"/>
   </programme>
   <programme start="20260929120000 +0000" stop="20260929123000 +0000" channel="sabtv">
     <title lang="en">Hui Gumm Yaadein Ek Doctor, Do Zindagiyaan</title>
-    <desc lang="en">S1 , E151 : Following a traumatic accident and an eight-year memory loss, Dr Dev struggles to rebuild his life as his former wife, Srishti, balances motherhood with running their medical facility.</desc>
+    <desc lang="en">S1 , E151 : Dr Jholachaap arrives to challenge Dr Dev and question his abilities. Meanwhile, Masaan Baba uses a medicine-burning incident to plot against him.</desc>
     <icon src="https://stap.tmsimg.com/assets/p32794904_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260929123000 +0000" stop="20260929130000 +0000" channel="sabtv">
     <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">S1 , E4827 : The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
+    <desc lang="en">S1 , E4827 : Tapu Sena and the Purush Mandali arrive at the police station with key evidence to expose the real culprit. Later, they present the proof to establish Popatlal's innocence.</desc>
     <icon src="https://stap.tmsimg.com/assets/p12557899_b_h11_ad.jpg"/>
   </programme>
   <programme start="20260929130000 +0000" stop="20260929133000 +0000" channel="sabtv">
@@ -2248,27 +2243,27 @@
   </programme>
   <programme start="20260929143000 +0000" stop="20260929150000 +0000" channel="sabtv">
     <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">S1 , E4827 : The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
+    <desc lang="en">S1 , E4827 : Tapu Sena and the Purush Mandali arrive at the police station with key evidence to expose the real culprit. Later, they present the proof to establish Popatlal's innocence.</desc>
     <icon src="https://stap.tmsimg.com/assets/p12557899_b_h11_ad.jpg"/>
   </programme>
   <programme start="20260929150000 +0000" stop="20260929153000 +0000" channel="sabtv">
     <title lang="en">Kyunki Papa Kehte Hain</title>
-    <desc lang="en">S1 , E6 : Pawan lovingly protects his four younger siblings after sudden parental loss, despite severe financial struggle. Furthermore, strict relatives force traditional values upon these resilient children.</desc>
+    <desc lang="en">S1 , E6 : Lakshya vanishes after receiving low marks, sending the household into a desperate search. Meanwhile, Pawan discovers that a land transaction was a complete fraud.</desc>
     <icon src="https://stap.tmsimg.com/assets/p34126806_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260929153000 +0000" stop="20260929160000 +0000" channel="sabtv">
     <title lang="en">Hastinapur Ke Veer</title>
-    <desc lang="en">S1 , E102 : Five noble Pandava brothers bravely unite to combat ruthless injustice threatening their peaceful kingdom. Furthermore, their unwavering devotion to dharma secures total victory.</desc>
+    <desc lang="en">S1 , E102 : Radheya commits to his goal of becoming a warrior. Meanwhile, Bheem attempts to uncover Duryodhan's secret as Duryodhan tries to keep the truth hidden.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33120073_b_h10_ab.jpg"/>
   </programme>
   <programme start="20260929160000 +0000" stop="20260929163000 +0000" channel="sabtv">
     <title lang="en">Hui Gumm Yaadein Ek Doctor, Do Zindagiyaan</title>
-    <desc lang="en">S1 , E151 : Following a traumatic accident and an eight-year memory loss, Dr Dev struggles to rebuild his life as his former wife, Srishti, balances motherhood with running their medical facility.</desc>
+    <desc lang="en">S1 , E151 : Dr Jholachaap arrives to challenge Dr Dev and question his abilities. Meanwhile, Masaan Baba uses a medicine-burning incident to plot against him.</desc>
     <icon src="https://stap.tmsimg.com/assets/p32794904_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260929163000 +0000" stop="20260929170000 +0000" channel="sabtv">
     <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">S1 , E4827 : The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
+    <desc lang="en">S1 , E4827 : Tapu Sena and the Purush Mandali arrive at the police station with key evidence to expose the real culprit. Later, they present the proof to establish Popatlal's innocence.</desc>
     <icon src="https://stap.tmsimg.com/assets/p12557899_b_h11_ad.jpg"/>
   </programme>
   <programme start="20260929170000 +0000" stop="20260929172500 +0000" channel="sabtv">
@@ -2288,17 +2283,17 @@
   </programme>
   <programme start="20260929181500 +0000" stop="20260929184300 +0000" channel="sabtv">
     <title lang="en">Kyunki Papa Kehte Hain</title>
-    <desc lang="en">S1 , E6 : Pawan lovingly protects his four younger siblings after sudden parental loss, despite severe financial struggle. Furthermore, strict relatives force traditional values upon these resilient children.</desc>
+    <desc lang="en">S1 , E6 : Lakshya vanishes after receiving low marks, sending the household into a desperate search. Meanwhile, Pawan discovers that a land transaction was a complete fraud.</desc>
     <icon src="https://stap.tmsimg.com/assets/p34126806_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260929184300 +0000" stop="20260929190900 +0000" channel="sabtv">
     <title lang="en">Hui Gumm Yaadein Ek Doctor, Do Zindagiyaan</title>
-    <desc lang="en">S1 , E151 : Following a traumatic accident and an eight-year memory loss, Dr Dev struggles to rebuild his life as his former wife, Srishti, balances motherhood with running their medical facility.</desc>
+    <desc lang="en">S1 , E151 : Dr Jholachaap arrives to challenge Dr Dev and question his abilities. Meanwhile, Masaan Baba uses a medicine-burning incident to plot against him.</desc>
     <icon src="https://stap.tmsimg.com/assets/p32794904_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260929190900 +0000" stop="20260929193500 +0000" channel="sabtv">
     <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">S1 , E4827 : The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
+    <desc lang="en">S1 , E4827 : Tapu Sena and the Purush Mandali arrive at the police station with key evidence to expose the real culprit. Later, they present the proof to establish Popatlal's innocence.</desc>
     <icon src="https://stap.tmsimg.com/assets/p12557899_b_h11_ad.jpg"/>
   </programme>
   <programme start="20260929193500 +0000" stop="20260929200100 +0000" channel="sabtv">
@@ -2308,17 +2303,17 @@
   </programme>
   <programme start="20260929200100 +0000" stop="20260929202700 +0000" channel="sabtv">
     <title lang="en">Hastinapur Ke Veer</title>
-    <desc lang="en">S1 , E102 : Five noble Pandava brothers bravely unite to combat ruthless injustice threatening their peaceful kingdom. Furthermore, their unwavering devotion to dharma secures total victory.</desc>
+    <desc lang="en">S1 , E102 : Radheya commits to his goal of becoming a warrior. Meanwhile, Bheem attempts to uncover Duryodhan's secret as Duryodhan tries to keep the truth hidden.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33120073_b_h10_ab.jpg"/>
   </programme>
   <programme start="20260929202700 +0000" stop="20260929205300 +0000" channel="sabtv">
     <title lang="en">Kyunki Papa Kehte Hain</title>
-    <desc lang="en">S1 , E6 : Pawan lovingly protects his four younger siblings after sudden parental loss, despite severe financial struggle. Furthermore, strict relatives force traditional values upon these resilient children.</desc>
+    <desc lang="en">S1 , E6 : Lakshya vanishes after receiving low marks, sending the household into a desperate search. Meanwhile, Pawan discovers that a land transaction was a complete fraud.</desc>
     <icon src="https://stap.tmsimg.com/assets/p34126806_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260929205300 +0000" stop="20260929211900 +0000" channel="sabtv">
     <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">S1 , E4827 : The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
+    <desc lang="en">S1 , E4827 : Tapu Sena and the Purush Mandali arrive at the police station with key evidence to expose the real culprit. Later, they present the proof to establish Popatlal's innocence.</desc>
     <icon src="https://stap.tmsimg.com/assets/p12557899_b_h11_ad.jpg"/>
   </programme>
   <programme start="20260929211900 +0000" stop="20260929214500 +0000" channel="sabtv">
@@ -2333,17 +2328,17 @@
   </programme>
   <programme start="20260929221200 +0000" stop="20260929223800 +0000" channel="sabtv">
     <title lang="en">Hui Gumm Yaadein Ek Doctor, Do Zindagiyaan</title>
-    <desc lang="en">S1 , E151 : Following a traumatic accident and an eight-year memory loss, Dr Dev struggles to rebuild his life as his former wife, Srishti, balances motherhood with running their medical facility.</desc>
+    <desc lang="en">S1 , E151 : Dr Jholachaap arrives to challenge Dr Dev and question his abilities. Meanwhile, Masaan Baba uses a medicine-burning incident to plot against him.</desc>
     <icon src="https://stap.tmsimg.com/assets/p32794904_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260929223800 +0000" stop="20260929230400 +0000" channel="sabtv">
     <title lang="en">Hastinapur Ke Veer</title>
-    <desc lang="en">S1 , E102 : Five noble Pandava brothers bravely unite to combat ruthless injustice threatening their peaceful kingdom. Furthermore, their unwavering devotion to dharma secures total victory.</desc>
+    <desc lang="en">S1 , E102 : Radheya commits to his goal of becoming a warrior. Meanwhile, Bheem attempts to uncover Duryodhan's secret as Duryodhan tries to keep the truth hidden.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33120073_b_h10_ab.jpg"/>
   </programme>
   <programme start="20260929230400 +0000" stop="20260929233000 +0000" channel="sabtv">
     <title lang="en">Kyunki Papa Kehte Hain</title>
-    <desc lang="en">S1 , E6 : Pawan lovingly protects his four younger siblings after sudden parental loss, despite severe financial struggle. Furthermore, strict relatives force traditional values upon these resilient children.</desc>
+    <desc lang="en">S1 , E6 : Lakshya vanishes after receiving low marks, sending the household into a desperate search. Meanwhile, Pawan discovers that a land transaction was a complete fraud.</desc>
     <icon src="https://stap.tmsimg.com/assets/p34126806_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260929233000 +0000" stop="20260929235600 +0000" channel="sabtv">
@@ -2482,39 +2477,29 @@
     <icon src="https://stap.tmsimg.com/assets/p29379941_b_h8_ab.jpg"/>
   </programme>
   <programme start="20260929200000 +0000" stop="20260929210000 +0000" channel="flowersinternational">
-    <title lang="en">Flowers Comedy Ith Item Vere</title>
-    <desc lang="en">Comedians take the stage and perform hilarious skits, showcasing their talent and attempting to impress the judges, in order to win the competition.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29170189_b_h8_ab.jpg"/>
+    <title lang="en">Flowers Comedy - Ithu Item Vere</title>
+    <desc lang="en">S1 , E678 : Contestants showcase their comic prowess through entertaining and hilarious performances and skits in front of a panel of esteemed judges as they compete for a grand prize.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p31653490_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260929210000 +0000" stop="20260929213000 +0000" channel="flowersinternational">
-    <title lang="en">Panchagni</title>
-    <desc lang="en">A restaurant named Pancharatnam is run by five sisters, while their stepmother tries different tactics to close their business.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29170753_b_h8_ab.jpg"/>
+    <title lang="en">Flowers Comedy Golden Punch</title>
+    <desc lang="en">S1 , E14 : </desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/UcNLhTLh.jpg"/>
   </programme>
-  <programme start="20260929213000 +0000" stop="20260929220000 +0000" channel="flowersinternational">
-    <title lang="en">Veettile Vilakku</title>
-    <desc lang="en">A mother goes through various struggles and hardships as she battles for her child and motherhood amidst a complex family relationship.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29496588_b_h10_ac.jpg"/>
+  <programme start="20260929213000 +0000" stop="20260929230000 +0000" channel="flowersinternational">
+    <title lang="en">Top Singer 7</title>
+    <desc lang="en">S1 , E20 : </desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/UcNLhTLh.jpg"/>
   </programme>
-  <programme start="20260929220000 +0000" stop="20260929223000 +0000" channel="flowersinternational">
-    <title lang="en">Uppum Mulakum</title>
-    <desc lang="en">Balachandran and Neelima, who face many challenges to earn a living, aim to successfully fulfil their wish of going to a foreign country.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29171156_b_h8_ad.jpg"/>
-  </programme>
-  <programme start="20260929223000 +0000" stop="20260929233000 +0000" channel="flowersinternational">
-    <title lang="en">Flowers Top Singer 5</title>
-    <desc lang="en">Talented young singers compete against each other as they perform on stage in front of a panel of judges to emerge victorious and win the title.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29495896_b_h10_ac.jpg"/>
-  </programme>
-  <programme start="20260929233000 +0000" stop="20260930000000 +0000" channel="flowersinternational">
-    <title lang="en">Veettile Vilakku</title>
-    <desc lang="en">A mother goes through various struggles and hardships as she battles for her child and motherhood amidst a complex family relationship.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29496588_b_h10_ac.jpg"/>
+  <programme start="20260929230000 +0000" stop="20260930000000 +0000" channel="flowersinternational">
+    <title lang="en">Flowers Comedy - Ithu Item Vere</title>
+    <desc lang="en">S1 , E678 : Contestants showcase their comic prowess through entertaining and hilarious performances and skits in front of a panel of esteemed judges as they compete for a grand prize.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p31653490_b_h10_aa.jpg"/>
   </programme>
   <programme start="20260930000000 +0000" stop="20260930003000 +0000" channel="flowersinternational">
-    <title lang="en">Sukhamo Devi</title>
-    <desc lang="en">Devika is in love with Nandagopan, but Karthikeyan forces her to marry him. She elopes with Nandagopan only to get abandoned by him at the temple, which leads her to marry his friend.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29170986_b_h8_ab.jpg"/>
+    <title lang="en">Flowers Comedy Golden Moments</title>
+    <desc lang="en">S1 , E166 : Revisit the best moments of the show 'Flowers Comedy,' where comedians put on their greatest skits and performances for the audience.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p29170069_b_h10_ab.jpg"/>
   </programme>
   <programme start="20260929000000 +0000" stop="20260929000000 +0000" channel="geotv">
     <title lang="en">Uswah</title>
@@ -3443,12 +3428,12 @@
   </programme>
   <programme start="20260929080000 +0000" stop="20260929083000 +0000" channel="zeetamil">
     <title lang="en">Varisu</title>
-    <desc lang="en">S1 , E287 : Janakambal wants her carefree grandson Cibi to take over her business. She brings in Tamil to guide him, but it's unclear if Cibi is ready to change his ways.</desc>
+    <desc lang="en">S1 , E395 : Savvy businesswoman Janakambal enlists Tamil to reform her wayward grandson Cibi, hoping he'll prove worthy of inheriting her empire.</desc>
     <icon src="https://stap.tmsimg.com/assets/p30590230_b_h10_ac.jpg"/>
   </programme>
   <programme start="20260929083000 +0000" stop="20260929090000 +0000" channel="zeetamil">
     <title lang="en">Idhayam</title>
-    <desc lang="en">S1 , E1087 : Bharathi donates his heart to Aadhi. Aadhi seeks out Bharathi to express gratitude. They feel an immediate connection. Could this be the beginning of a meaningful relationship?</desc>
+    <desc lang="en">S1 , E1117 : A shy woman from a small town falls for a wealthy tycoon but struggles to express her feelings. Subsequently, she tries to overcome her insecurities.</desc>
     <icon src="https://stap.tmsimg.com/assets/p29123848_b_h8_ab.jpg"/>
   </programme>
   <programme start="20260929090000 +0000" stop="20260929093000 +0000" channel="zeetamil">
@@ -3478,12 +3463,12 @@
   </programme>
   <programme start="20260929113000 +0000" stop="20260929120000 +0000" channel="zeetamil">
     <title lang="en">Enna Solla Pogirai</title>
-    <desc lang="en">S1 , E8 : </desc>
+    <desc lang="en">S1 , E16 : </desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/klN7lrpJ.jpg"/>
   </programme>
   <programme start="20260929120000 +0000" stop="20260929123000 +0000" channel="zeetamil">
     <title lang="en">Varisu</title>
-    <desc lang="en">S1 , E287 : Janakambal wants her carefree grandson Cibi to take over her business. She brings in Tamil to guide him, but it's unclear if Cibi is ready to change his ways.</desc>
+    <desc lang="en">S1 , E395 : Savvy businesswoman Janakambal enlists Tamil to reform her wayward grandson Cibi, hoping he'll prove worthy of inheriting her empire.</desc>
     <icon src="https://stap.tmsimg.com/assets/p30590230_b_h10_ac.jpg"/>
   </programme>
   <programme start="20260929123000 +0000" stop="20260929130000 +0000" channel="zeetamil">
@@ -3533,7 +3518,7 @@
   </programme>
   <programme start="20260929170000 +0000" stop="20260929173000 +0000" channel="zeetamil">
     <title lang="en">Varisu</title>
-    <desc lang="en">S1 , E287 : Janakambal wants her carefree grandson Cibi to take over her business. She brings in Tamil to guide him, but it's unclear if Cibi is ready to change his ways.</desc>
+    <desc lang="en">S1 , E395 : Savvy businesswoman Janakambal enlists Tamil to reform her wayward grandson Cibi, hoping he'll prove worthy of inheriting her empire.</desc>
     <icon src="https://stap.tmsimg.com/assets/p30590230_b_h10_ac.jpg"/>
   </programme>
   <programme start="20260929173000 +0000" stop="20260929180000 +0000" channel="zeetamil">
@@ -3543,7 +3528,7 @@
   </programme>
   <programme start="20260929180000 +0000" stop="20260929183000 +0000" channel="zeetamil">
     <title lang="en">Idhayam</title>
-    <desc lang="en">S1 , E1087 : Bharathi donates his heart to Aadhi. Aadhi seeks out Bharathi to express gratitude. They feel an immediate connection. Could this be the beginning of a meaningful relationship?</desc>
+    <desc lang="en">S1 , E1117 : A shy woman from a small town falls for a wealthy tycoon but struggles to express her feelings. Subsequently, she tries to overcome her insecurities.</desc>
     <icon src="https://stap.tmsimg.com/assets/p29123848_b_h8_ab.jpg"/>
   </programme>
   <programme start="20260929183000 +0000" stop="20260929190000 +0000" channel="zeetamil">
