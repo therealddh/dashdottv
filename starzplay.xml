@@ -298,7 +298,7 @@
   </programme>
   <programme start="20261001020000 +0000" stop="20261001023000 +0000" channel="starplushd">
     <title lang="en">Kyunki Saas Bhi Kabhi Bahu Thi</title>
-    <desc lang="en">S2 , E429 : Tulsi and Mihir Virani navigate the ensuing challenges that emerge in their family which has endured a lengthy passage of time.</desc>
+    <desc lang="en">S2 , E429 : The Virani household conducts a prayer ritual on Mihir's birthday. Meanwhile, Mihir collapses upon catching a glimpse of his past.</desc>
     <icon src="https://stap.tmsimg.com/assets/p30798579_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261001023000 +0000" stop="20261001030000 +0000" channel="starplushd">
@@ -338,7 +338,7 @@
   </programme>
   <programme start="20261001060000 +0000" stop="20261001063000 +0000" channel="starplushd">
     <title lang="en">Kyunki Saas Bhi Kabhi Bahu Thi</title>
-    <desc lang="en">S2 , E429 : Tulsi and Mihir Virani navigate the ensuing challenges that emerge in their family which has endured a lengthy passage of time.</desc>
+    <desc lang="en">S2 , E429 : The Virani household conducts a prayer ritual on Mihir's birthday. Meanwhile, Mihir collapses upon catching a glimpse of his past.</desc>
     <icon src="https://stap.tmsimg.com/assets/p30798579_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261001063000 +0000" stop="20261001070000 +0000" channel="starplushd">
@@ -368,7 +368,7 @@
   </programme>
   <programme start="20261001090000 +0000" stop="20261001093000 +0000" channel="starplushd">
     <title lang="en">Kyunki Saas Bhi Kabhi Bahu Thi</title>
-    <desc lang="en">S2 , E429 : Tulsi and Mihir Virani navigate the ensuing challenges that emerge in their family which has endured a lengthy passage of time.</desc>
+    <desc lang="en">S2 , E429 : The Virani household conducts a prayer ritual on Mihir's birthday. Meanwhile, Mihir collapses upon catching a glimpse of his past.</desc>
     <icon src="https://stap.tmsimg.com/assets/p30798579_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261001093000 +0000" stop="20261001100000 +0000" channel="starplushd">
@@ -408,7 +408,7 @@
   </programme>
   <programme start="20261001130000 +0000" stop="20261001133000 +0000" channel="starplushd">
     <title lang="en">Kyunki Saas Bhi Kabhi Bahu Thi</title>
-    <desc lang="en">S2 , E429 : Tulsi and Mihir Virani navigate the ensuing challenges that emerge in their family which has endured a lengthy passage of time.</desc>
+    <desc lang="en">S2 , E429 : The Virani household conducts a prayer ritual on Mihir's birthday. Meanwhile, Mihir collapses upon catching a glimpse of his past.</desc>
     <icon src="https://stap.tmsimg.com/assets/p30798579_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261001133000 +0000" stop="20261001140000 +0000" channel="starplushd">
@@ -853,7 +853,7 @@
   </programme>
   <programme start="20261001171000 +0000" stop="20261001173000 +0000" channel="asianethd">
     <title lang="en">Ee Puzhayum Kadannu</title>
-    <desc lang="en">S1 , E90 : Anjali hates Gopi but eventually falls in love with him. However, she is unable to marry him as she has two sisters who are still single.</desc>
+    <desc lang="en">S1 , E180 : A middle-class family's happiness is shattered by the sudden death of the father, Aravindan. Now, his daughters must navigate life's conflicts to find a path to hope.</desc>
     <icon src="https://stap.tmsimg.com/assets/p32308078_b_h10_ab.jpg"/>
   </programme>
   <programme start="20261001173000 +0000" stop="20261001183000 +0000" channel="asianethd">
@@ -2866,17 +2866,17 @@
     <desc lang="en">Baba Kalyani, a police officer, travels to Kochi to uncover a terrorist conspiracy. He must not only work on the case but also deal with old rivals who are hell-bent on settling scores with him.</desc>
     <icon src="https://stap.tmsimg.com/assets/p10166973_v_h10_aa.jpg"/>
   </programme>
-  <programme start="20261001193000 +0000" stop="20261001213000 +0000" channel="asianetmovieshd">
+  <programme start="20261001193000 +0000" stop="20261001211500 +0000" channel="asianetmovieshd">
     <title lang="en">Cheriya Kallanum Valiya Policum</title>
     <desc lang="en">Sadasivan comes across a house where the owner, Kumaran, has committed suicide to protect his wife, Soumini. However, what is even stranger is that a man who is visually challenged is always around.</desc>
     <icon src="https://stap.tmsimg.com/assets/p11287493_b_h8_ac.jpg"/>
   </programme>
-  <programme start="20261001213000 +0000" stop="20261001233000 +0000" channel="asianetmovieshd">
+  <programme start="20261001211500 +0000" stop="20261001231500 +0000" channel="asianetmovieshd">
     <title lang="en">Hareendran Oru Nishkalankan</title>
     <desc lang="en">Hareendran, a software tycoon, runs a successful company with his childhood friend. However, things take an unexpected turn when his friend damages his reputation.</desc>
     <icon src="https://stap.tmsimg.com/assets/p10612930_b_h10_ae.jpg"/>
   </programme>
-  <programme start="20261001233000 +0000" stop="20261002013000 +0000" channel="asianetmovieshd">
+  <programme start="20261001231500 +0000" stop="20261002013000 +0000" channel="asianetmovieshd">
     <title lang="en">Swarnam</title>
     <desc lang="en">Divakaran is a selfish and miserly man. When he fails to buy a truck for himself, he goes after a mythical treasure hidden in a river.</desc>
     <icon src="https://stap.tmsimg.com/assets/p10706240_b_h8_ab.jpg"/>
@@ -4261,79 +4261,114 @@
     <desc lang="en">This thriller murder mystery is an adaptation of the real life murder case of Sheena Bora. The discovery of a charred corpse in the woods, leads to a high-profile murder investigation.</desc>
     <icon src="https://stap.tmsimg.com/assets/p13207369_v_h11_aa.jpg"/>
   </programme>
-  <programme start="20261001000000 +0000" stop="20261001013000 +0000" channel="arydigital">
+  <programme start="20261001000000 +0000" stop="20261001010000 +0000" channel="arydigital">
     <title lang="en">Good Morning Pakistan</title>
     <desc lang="en">Host Nida Yasir provides the latest happenings from all over the world, discusses the problems of the viewers and chats with various celebrities.</desc>
     <icon src="https://stap.tmsimg.com/assets/p706783_b_h10_ab.jpg"/>
+  </programme>
+  <programme start="20261001010000 +0000" stop="20261001013000 +0000" channel="arydigital">
+    <title lang="en">Daura e Tarjuma e Quran</title>
+    <desc lang="en">A Muslim cleric reads out verses from the Holy Quran and explains their meaning in a lucid manner to help devotees understand the scripture.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p18238749_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261001013000 +0000" stop="20261001020000 +0000" channel="arydigital">
-    <title lang="en">Iqra</title>
-    <desc lang="en">An Islamic religious leader teaches school students to read the Holy Quran with the help of teachers in an entertaining way.</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/SFeblxjv.jpg"/>
+    <title lang="en">Dars E Bukhari</title>
+    <desc lang="en">The host encourages listeners to lead a devout life while illuminating the teachings and sayings of the Prophet Muhammad (PBUH).</desc>
+    <icon src="https://stap.tmsimg.com/assets/p13599546_b_h10_ab.jpg"/>
   </programme>
-  <programme start="20261001020000 +0000" stop="20261001040000 +0000" channel="arydigital">
-    <title lang="en">Jeeto Pakistan League</title>
-    <desc lang="en">Pakistan's biggest game show returns with a new theme, uniting city teams in thrilling challenges and bringing fans together for unforgettable moments worldwide.</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/SFeblxjv.jpg"/>
-  </programme>
-  <programme start="20261001040000 +0000" stop="20261001060000 +0000" channel="arydigital">
-    <title lang="en">Good Morning Pakistan</title>
-    <desc lang="en">Host Nida Yasir provides the latest happenings from all over the world, discusses the problems of the viewers and chats with various celebrities.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p706783_b_h10_ab.jpg"/>
-  </programme>
-  <programme start="20261001060000 +0000" stop="20261001063000 +0000" channel="arydigital">
+  <programme start="20261001020000 +0000" stop="20261001023000 +0000" channel="arydigital">
     <title lang="en">Bulbulay</title>
     <desc lang="en">Nabeel and Mehmood slyly move into a flat owned by someone else. However, chaos ensues for Nabeel when Khoobsurat, a runaway bride, decides to stay with them and his mother, Mumtaz, comes visiting.</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/SFeblxjv.jpg"/>
   </programme>
-  <programme start="20261001063000 +0000" stop="20261001080000 +0000" channel="arydigital">
-    <title lang="en">Bharam</title>
-    <desc lang="en">Noor and Maarif fall in love with each other and decide to get married, keeping it a secret from their families. However, her parents complicate matters by pressuring her to marry her cousin instead.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p16650432_b_h8_aa.jpg"/>
+  <programme start="20261001023000 +0000" stop="20261001040000 +0000" channel="arydigital">
+    <title lang="en">Tamasha</title>
+    <desc lang="en">Rai Bahadur does not approve of his grandson's girlfriend, who is an aspiring actress. To gain his approval, the boy lies to him that he is now in love with a college-going girl from a decent family.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p26390892_v_h8_aa.jpg"/>
   </programme>
-  <programme start="20261001080000 +0000" stop="20261001090000 +0000" channel="arydigital">
-    <title lang="en">Ae Dil</title>
-    <desc lang="en">In a journey of faith, heartbreak and optimism in the face of adversity, Roham and Maliha's bond crumbles as truths come to light, forcing them to confront their anxieties and aspirations.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29112416_b_h8_aa.jpg"/>
-  </programme>
-  <programme start="20261001090000 +0000" stop="20261001094500 +0000" channel="arydigital">
-    <title lang="en">Bulbulay</title>
-    <desc lang="en">Nabeel and Mehmood slyly move into a flat owned by someone else. However, chaos ensues for Nabeel when Khoobsurat, a runaway bride, decides to stay with them and his mother, Mumtaz, comes visiting.</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/SFeblxjv.jpg"/>
-  </programme>
-  <programme start="20261001094500 +0000" stop="20261001150000 +0000" channel="arydigital">
-    <title lang="en">Shan-e-Iftar</title>
-    <desc lang="en">Shan-e-Iftar</desc>
-    <icon src="https://stap.tmsimg.com/assets/p10079493_b_h8_aa.jpg"/>
-  </programme>
-  <programme start="20261001150000 +0000" stop="20261001180000 +0000" channel="arydigital">
-    <title lang="en">Jeeto Pakistan League</title>
-    <desc lang="en">Pakistan's biggest game show returns with a new theme, uniting city teams in thrilling challenges and bringing fans together for unforgettable moments worldwide.</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/SFeblxjv.jpg"/>
-  </programme>
-  <programme start="20261001180000 +0000" stop="20261001183000 +0000" channel="arydigital">
-    <title lang="en">Ae Dil</title>
-    <desc lang="en">In a journey of faith, heartbreak and optimism in the face of adversity, Roham and Maliha's bond crumbles as truths come to light, forcing them to confront their anxieties and aspirations.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29112416_b_h8_aa.jpg"/>
-  </programme>
-  <programme start="20261001183000 +0000" stop="20261001190000 +0000" channel="arydigital">
-    <title lang="en">Ae Dil</title>
-    <desc lang="en">In a journey of faith, heartbreak and optimism in the face of adversity, Roham and Maliha's bond crumbles as truths come to light, forcing them to confront their anxieties and aspirations.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29112416_b_h8_aa.jpg"/>
-  </programme>
-  <programme start="20261001190000 +0000" stop="20261001210000 +0000" channel="arydigital">
+  <programme start="20261001040000 +0000" stop="20261001063000 +0000" channel="arydigital">
     <title lang="en">Good Morning Pakistan</title>
     <desc lang="en">Host Nida Yasir provides the latest happenings from all over the world, discusses the problems of the viewers and chats with various celebrities.</desc>
     <icon src="https://stap.tmsimg.com/assets/p706783_b_h10_ab.jpg"/>
   </programme>
-  <programme start="20261001210000 +0000" stop="20261001223000 +0000" channel="arydigital">
-    <title lang="en">Ae Dil</title>
-    <desc lang="en">In a journey of faith, heartbreak and optimism in the face of adversity, Roham and Maliha's bond crumbles as truths come to light, forcing them to confront their anxieties and aspirations.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29112416_b_h8_aa.jpg"/>
+  <programme start="20261001063000 +0000" stop="20261001070000 +0000" channel="arydigital">
+    <title lang="en">Bulbulay</title>
+    <desc lang="en">Nabeel and Mehmood slyly move into a flat owned by someone else. However, chaos ensues for Nabeel when Khoobsurat, a runaway bride, decides to stay with them and his mother, Mumtaz, comes visiting.</desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/SFeblxjv.jpg"/>
   </programme>
-  <programme start="20261001223000 +0000" stop="20261002013000 +0000" channel="arydigital">
-    <title lang="en">Shan-e-Sehr</title>
-    <desc lang="en">The host and some religious experts narrate stories from the Quran and provide a discourse on matters of importance to Islam during the month of Ramadan.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p11884291_b_h10_ac.jpg"/>
+  <programme start="20261001070000 +0000" stop="20261001080000 +0000" channel="arydigital">
+    <title lang="en">Main Tera</title>
+    <desc lang="en">Main Tera</desc>
+    <icon src="https://stap.tmsimg.com/assets/p33618378_b_h10_ab.jpg"/>
+  </programme>
+  <programme start="20261001080000 +0000" stop="20261001100000 +0000" channel="arydigital">
+    <title lang="en">Izzat</title>
+    <desc lang="en">Izzat</desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/SFeblxjv.jpg"/>
+  </programme>
+  <programme start="20261001100000 +0000" stop="20261001110000 +0000" channel="arydigital">
+    <title lang="en">Hey FAM</title>
+    <desc lang="en">Hey FAM</desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/SFeblxjv.jpg"/>
+  </programme>
+  <programme start="20261001110000 +0000" stop="20261001123000 +0000" channel="arydigital">
+    <title lang="en">Tamasha</title>
+    <desc lang="en">Rai Bahadur does not approve of his grandson's girlfriend, who is an aspiring actress. To gain his approval, the boy lies to him that he is now in love with a college-going girl from a decent family.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p26390892_v_h8_aa.jpg"/>
+  </programme>
+  <programme start="20261001123000 +0000" stop="20261001133000 +0000" channel="arydigital">
+    <title lang="en">Main Tera</title>
+    <desc lang="en">Main Tera</desc>
+    <icon src="https://stap.tmsimg.com/assets/p33618378_b_h10_ab.jpg"/>
+  </programme>
+  <programme start="20261001133000 +0000" stop="20261001143000 +0000" channel="arydigital">
+    <title lang="en">Dar-e-Nijaat</title>
+    <desc lang="en">Haunted by her past, a married woman attempts to build a new life — until old secrets and attachments resurface and threaten her present.</desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/SFeblxjv.jpg"/>
+  </programme>
+  <programme start="20261001143000 +0000" stop="20261001160000 +0000" channel="arydigital">
+    <title lang="en">Izzat</title>
+    <desc lang="en">Izzat</desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/SFeblxjv.jpg"/>
+  </programme>
+  <programme start="20261001160000 +0000" stop="20261001170000 +0000" channel="arydigital">
+    <title lang="en">Hey FAM</title>
+    <desc lang="en">Hey FAM</desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/SFeblxjv.jpg"/>
+  </programme>
+  <programme start="20261001170000 +0000" stop="20261001180000 +0000" channel="arydigital">
+    <title lang="en">Main Tera</title>
+    <desc lang="en">Main Tera</desc>
+    <icon src="https://stap.tmsimg.com/assets/p33618378_b_h10_ab.jpg"/>
+  </programme>
+  <programme start="20261001180000 +0000" stop="20261001193000 +0000" channel="arydigital">
+    <title lang="en">Tamasha</title>
+    <desc lang="en">Rai Bahadur does not approve of his grandson's girlfriend, who is an aspiring actress. To gain his approval, the boy lies to him that he is now in love with a college-going girl from a decent family.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p26390892_v_h8_aa.jpg"/>
+  </programme>
+  <programme start="20261001193000 +0000" stop="20261001200000 +0000" channel="arydigital">
+    <title lang="en">Bulbulay</title>
+    <desc lang="en">Nabeel and Mehmood slyly move into a flat owned by someone else. However, chaos ensues for Nabeel when Khoobsurat, a runaway bride, decides to stay with them and his mother, Mumtaz, comes visiting.</desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/SFeblxjv.jpg"/>
+  </programme>
+  <programme start="20261001200000 +0000" stop="20261001210000 +0000" channel="arydigital">
+    <title lang="en">Hey FAM</title>
+    <desc lang="en">Hey FAM</desc>
+    <icon src="https://stap.tmsimg.com/assets/p34096251_b_h10_ab.jpg"/>
+  </programme>
+  <programme start="20261001210000 +0000" stop="20261001220000 +0000" channel="arydigital">
+    <title lang="en">Izzat</title>
+    <desc lang="en">Izzat</desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/SFeblxjv.jpg"/>
+  </programme>
+  <programme start="20261001220000 +0000" stop="20261001230000 +0000" channel="arydigital">
+    <title lang="en">Main Tera</title>
+    <desc lang="en">Main Tera</desc>
+    <icon src="https://stap.tmsimg.com/assets/p33618378_b_h10_ab.jpg"/>
+  </programme>
+  <programme start="20261001230000 +0000" stop="20261002010000 +0000" channel="arydigital">
+    <title lang="en">Good Morning Pakistan</title>
+    <desc lang="en">Host Nida Yasir provides the latest happenings from all over the world, discusses the problems of the viewers and chats with various celebrities.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p706783_b_h10_ab.jpg"/>
   </programme>
 </tv>
