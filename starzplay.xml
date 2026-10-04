@@ -433,7 +433,7 @@
   </programme>
   <programme start="20261004040000 +0000" stop="20261004043000 +0000" channel="colorshd">
     <title lang="en">Mannat Harr Khushi Paane Ki</title>
-    <desc lang="en">S1 , E573 : Mannat, a gifted young chef, dreams big but faces a formidable obstacle, her ruthless employer Aishwarya. Unknown to both, Aishwarya is also Mannat's birth mother who abandoned her when she was born.</desc>
+    <desc lang="en">S1 , E573 : Samragi mocks a helpless Vikrant while Mannat searches for Dua. Guided by Bunty, Mannat attacks Ankit, but Dhairya escapes with Dua.</desc>
     <icon src="https://stap.tmsimg.com/assets/p29088354_b_h8_aa.jpg"/>
   </programme>
   <programme start="20261004043000 +0000" stop="20261004060000 +0000" channel="colorshd">
@@ -468,17 +468,17 @@
   </programme>
   <programme start="20261004143000 +0000" stop="20261004150000 +0000" channel="colorshd">
     <title lang="en">Juhi Mui</title>
-    <desc lang="en">S1 , E80 : Juhi, a brilliant girl with autism, faces ridicule from people around her. When trouble comes her way, she becomes a lawyer with her supportive brother guiding her on her journey.</desc>
+    <desc lang="en">S1 , E80 : When Juhi questions Sanyam about his feelings, he admits he wants to stay with her forever, while Uttam plots to set the curtain on fire.</desc>
     <icon src="https://stap.tmsimg.com/assets/p33428426_b_h8_aa.jpg"/>
   </programme>
   <programme start="20261004150000 +0000" stop="20261004153000 +0000" channel="colorshd">
     <title lang="en">Tuu Juliet Jatt Di</title>
-    <desc lang="en">S1 , E322 : Focused Heer encounters privileged Nawab, sparking an unexpected romance. Their journey unfolds amidst challenges, revealing a tale of love intertwined with deception and emotional turmoil.</desc>
+    <desc lang="en">S1 , E322 : Heer tells Nawab she came to the Brar house for legal matters, not as his wife, while Nawab suspects she is hiding the truth about Suchak.</desc>
     <icon src="https://stap.tmsimg.com/assets/p31644915_b_h10_ad.jpg"/>
   </programme>
   <programme start="20261004153000 +0000" stop="20261004160000 +0000" channel="colorshd">
     <title lang="en">Mannat Harr Khushi Paane Ki</title>
-    <desc lang="en">S1 , E574 : Mannat, a gifted young chef, dreams big but faces a formidable obstacle, her ruthless employer Aishwarya. Unknown to both, Aishwarya is also Mannat's birth mother who abandoned her when she was born.</desc>
+    <desc lang="en">S1 , E574 : Accused by Dhairya of plotting his death with Vikrant, Mannat is confronted by Dua, who demands answers about Dhairya's alliance with Ankit.</desc>
     <icon src="https://stap.tmsimg.com/assets/p29088354_b_h8_aa.jpg"/>
   </programme>
   <programme start="20261004160000 +0000" stop="20261004170000 +0000" channel="colorshd">
@@ -503,7 +503,7 @@
   </programme>
   <programme start="20261004213000 +0000" stop="20261004220000 +0000" channel="colorshd">
     <title lang="en">Tuu Juliet Jatt Di</title>
-    <desc lang="en">S1 , E322 : Focused Heer encounters privileged Nawab, sparking an unexpected romance. Their journey unfolds amidst challenges, revealing a tale of love intertwined with deception and emotional turmoil.</desc>
+    <desc lang="en">S1 , E322 : Heer tells Nawab she came to the Brar house for legal matters, not as his wife, while Nawab suspects she is hiding the truth about Suchak.</desc>
     <icon src="https://stap.tmsimg.com/assets/p31644915_b_h10_ad.jpg"/>
   </programme>
   <programme start="20261004220000 +0000" stop="20261004230000 +0000" channel="colorshd">
@@ -1734,7 +1734,7 @@
   <programme start="20261004120000 +0000" stop="20261004143000 +0000" channel="zeetvhd">
     <title lang="en">Assi</title>
     <desc lang="en">A vigilante named Chattri Man executes violent offenders to aid an abused educator. Consequently, an advocate debates justice versus retribution.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p32449450_v_h8_ab.jpg"/>
+    <icon src="https://stap.tmsimg.com/assets/p32449450_v_h10_ac.jpg"/>
   </programme>
   <programme start="20261004143000 +0000" stop="20261004153000 +0000" channel="zeetvhd">
     <title lang="en">Maa Hai Na</title>
@@ -1834,7 +1834,7 @@
   <programme start="20261004110000 +0000" stop="20261004140000 +0000" channel="zeecinema">
     <title lang="en">Assi</title>
     <desc lang="en">A vigilante named Chattri Man executes violent offenders to aid an abused educator. Consequently, an advocate debates justice versus retribution.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p32449450_v_h8_ab.jpg"/>
+    <icon src="https://stap.tmsimg.com/assets/p32449450_v_h10_ac.jpg"/>
   </programme>
   <programme start="20261004140000 +0000" stop="20261004163000 +0000" channel="zeecinema">
     <title lang="en">Ghajini</title>
