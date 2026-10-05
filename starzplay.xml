@@ -233,7 +233,7 @@
   </programme>
   <programme start="20261005200000 +0000" stop="20261005203000 +0000" channel="sonytv">
     <title lang="en">Pushpa Impossible</title>
-    <desc lang="en">S1 , E76 : After doing various odd jobs, an uneducated woman from Gujarat starts a business to earn a living and attempts to keep her family happy.</desc>
+    <desc lang="en">S1 , E76 : Parents protest against Pushpa studying at the school, prompting Mr Nanavati to consider expelling her. Meanwhile, Pushpa searches for a way to save her education.</desc>
     <icon src="https://stap.tmsimg.com/assets/p22259614_b_h10_af.jpg"/>
   </programme>
   <programme start="20261005203000 +0000" stop="20261005210000 +0000" channel="sonytv">
@@ -2497,39 +2497,39 @@
     <icon src="https://stap.tmsimg.com/assets/p29379941_b_h8_ab.jpg"/>
   </programme>
   <programme start="20261005200000 +0000" stop="20261005210000 +0000" channel="flowersinternational">
-    <title lang="en">Flowers Comedy Ith Item Vere</title>
-    <desc lang="en">Comedians take the stage and perform hilarious skits, showcasing their talent and attempting to impress the judges, in order to win the competition.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29170189_b_h8_ab.jpg"/>
+    <title lang="en">Flowers Comedy - Ithu Item Vere</title>
+    <desc lang="en">S1 , E682 : Contestants showcase their comic prowess through entertaining and hilarious performances and skits in front of a panel of esteemed judges as they compete for a grand prize.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p31653490_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261005210000 +0000" stop="20261005213000 +0000" channel="flowersinternational">
-    <title lang="en">Panchagni</title>
-    <desc lang="en">A restaurant named Pancharatnam is run by five sisters, while their stepmother tries different tactics to close their business.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29170753_b_h8_ab.jpg"/>
+    <title lang="en">Sithara</title>
+    <desc lang="en">S1 , E1 : </desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/UcNLhTLh.jpg"/>
   </programme>
   <programme start="20261005213000 +0000" stop="20261005220000 +0000" channel="flowersinternational">
-    <title lang="en">Veettile Vilakku</title>
-    <desc lang="en">A mother goes through various struggles and hardships as she battles for her child and motherhood amidst a complex family relationship.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29496588_b_h10_ac.jpg"/>
-  </programme>
-  <programme start="20261005220000 +0000" stop="20261005223000 +0000" channel="flowersinternational">
     <title lang="en">Uppum Mulakum</title>
-    <desc lang="en">Balachandran and Neelima, who face many challenges to earn a living, aim to successfully fulfil their wish of going to a foreign country.</desc>
+    <desc lang="en">S1 , E721 : Balachandran and Neelima, who face many challenges to earn a living, aim to successfully fulfil their wish of going to a foreign country.</desc>
     <icon src="https://stap.tmsimg.com/assets/p29171156_b_h8_ad.jpg"/>
   </programme>
-  <programme start="20261005223000 +0000" stop="20261005233000 +0000" channel="flowersinternational">
-    <title lang="en">Flowers Top Singer 5</title>
-    <desc lang="en">Talented young singers compete against each other as they perform on stage in front of a panel of judges to emerge victorious and win the title.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29495896_b_h10_ac.jpg"/>
+  <programme start="20261005220000 +0000" stop="20261005223000 +0000" channel="flowersinternational">
+    <title lang="en">Sukhamo Devi</title>
+    <desc lang="en">S1 , E1069 : Devika is in love with Nandagopan, but Karthikeyan forces her to marry him. She elopes with Nandagopan only to get abandoned by him at the temple, which leads her to marry his friend.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p29170986_b_h8_ab.jpg"/>
   </programme>
-  <programme start="20261005233000 +0000" stop="20261006000000 +0000" channel="flowersinternational">
-    <title lang="en">Veettile Vilakku</title>
-    <desc lang="en">A mother goes through various struggles and hardships as she battles for her child and motherhood amidst a complex family relationship.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29496588_b_h10_ac.jpg"/>
+  <programme start="20261005223000 +0000" stop="20261005230000 +0000" channel="flowersinternational">
+    <title lang="en">Mahalakshmi</title>
+    <desc lang="en">S1 , E593 : Mahalakshmi faces the consequences of her stepfather's actions with strength, while Kannan, who survives an unexpected tragedy, becomes her unexpected support in a journey of survival.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p29379941_b_h8_ab.jpg"/>
+  </programme>
+  <programme start="20261005230000 +0000" stop="20261006000000 +0000" channel="flowersinternational">
+    <title lang="en">Flowers Comedy - Ithu Item Vere</title>
+    <desc lang="en">S1 , E682 : Contestants showcase their comic prowess through entertaining and hilarious performances and skits in front of a panel of esteemed judges as they compete for a grand prize.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p31653490_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261006000000 +0000" stop="20261006003000 +0000" channel="flowersinternational">
-    <title lang="en">Sukhamo Devi</title>
-    <desc lang="en">Devika is in love with Nandagopan, but Karthikeyan forces her to marry him. She elopes with Nandagopan only to get abandoned by him at the temple, which leads her to marry his friend.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p29170986_b_h8_ab.jpg"/>
+    <title lang="en">Flowers Comedy Golden Moments</title>
+    <desc lang="en">S1 , E170 : Revisit the best moments of the show 'Flowers Comedy,' where comedians put on their greatest skits and performances for the audience.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p29170069_b_h10_ab.jpg"/>
   </programme>
   <programme start="20261005000000 +0000" stop="20261005000000 +0000" channel="geotv">
     <title lang="en">Uswah</title>
@@ -3101,20 +3101,20 @@
     <desc lang="en">Arrested for public nuisance, Saba thinks of ways to get himself freed. Soon, in an attempt to coax the police, Saba narrates his love complicated story.</desc>
     <icon src="https://stap.tmsimg.com/assets/p26268989_v_h10_aa.jpg"/>
   </programme>
-  <programme start="20261005170000 +0000" stop="20261005192300 +0000" channel="emsimplysouth">
-    <title lang="en">Sookshma Darshini</title>
-    <desc lang="en">Priya and her friend become suspicious of Manuel who returns to their neighbourhood. Soon, Priya's curiosity gets the better of her, ensuing a cat-and-mouse game between them.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p28803604_b_h8_aa.jpg"/>
+  <programme start="20261005192100 +0000" stop="20261005213300 +0000" channel="emsimplysouth">
+    <title lang="en">Vaazhl</title>
+    <desc lang="en">A man experiences several unfortunate incidents as he traverses through life. The path eventually leads him towards self-discovery, revealing the absurdity of truth.</desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/GLmMTbx9.jpg"/>
   </programme>
-  <programme start="20261005192300 +0000" stop="20261005222800 +0000" channel="emsimplysouth">
-    <title lang="en">Vendhu Thanindhathu Kaadu</title>
-    <desc lang="en">The need to make a living leads Muthu to Mumbai where he finds himself entangled in the world of gangsters. However, as he forges a path to the top, he must strive to protect his loved ones.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p22920441_v_h8_aa.jpg"/>
+  <programme start="20261005213300 +0000" stop="20261005235400 +0000" channel="emsimplysouth">
+    <title lang="en">No program available</title>
+    <desc lang="en">No program available</desc>
+    <icon src="http://mena-img-cdn-lb.aws.playco.com/ev-livechannels-avod/AVODEMSIMPLYSOUTHY2004M/AVODEMSIMPLYSOUTHY2004M-landscape-poster-v1.jpg"/>
   </programme>
-  <programme start="20261005222800 +0000" stop="20261006011300 +0000" channel="emsimplysouth">
-    <title lang="en">Va: Quarter Cutting</title>
-    <desc lang="en">While Sura is on his way to Saudi Arabia, he meets his soon-to-be brother-in-law Marthandam in Chennai. Subsequently, the duo go on a desperate search of liquor on a dry day.</desc>
-    <icon src="https://stap.tmsimg.com/assets/p8386488_b_h10_aa.jpg"/>
+  <programme start="20261005213300 +0000" stop="20261006000800 +0000" channel="emsimplysouth">
+    <title lang="en">Tamizh Padam</title>
+    <desc lang="en">Tamizh Padam</desc>
+    <icon src="https://stap.tmsimg.com/assets/p8018552_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261005000000 +0000" stop="20261005003000 +0000" channel="zeekeralam">
     <title lang="en">Kudumbasree Sharada</title>
@@ -3533,7 +3533,7 @@
   </programme>
   <programme start="20261005055900 +0000" stop="20261005062900 +0000" channel="zeemarathi">
     <title lang="en">Veen Doghantali Hi Tutena</title>
-    <desc lang="en">S1 , E413 : Samar, a wealthy tycoon, and Swanandi, a young middle-class professional, enter a marriage of convenience. However, their contractual nuptials gradually evolve into a profound connection.</desc>
+    <desc lang="en">S1 , E413 : Anshuman treats Dilip with disdain and openly shames him. Meanwhile, Adhira expresses her heartfelt thanks to Samar.</desc>
     <icon src="https://stap.tmsimg.com/assets/p30905430_b_h10_ac.jpg"/>
   </programme>
   <programme start="20261005062900 +0000" stop="20261005065800 +0000" channel="zeemarathi">
@@ -3583,7 +3583,7 @@
   </programme>
   <programme start="20261005112900 +0000" stop="20261005115900 +0000" channel="zeemarathi">
     <title lang="en">Veen Doghantali Hi Tutena</title>
-    <desc lang="en">S1 , E413 : Samar, a wealthy tycoon, and Swanandi, a young middle-class professional, enter a marriage of convenience. However, their contractual nuptials gradually evolve into a profound connection.</desc>
+    <desc lang="en">S1 , E413 : Anshuman treats Dilip with disdain and openly shames him. Meanwhile, Adhira expresses her heartfelt thanks to Samar.</desc>
     <icon src="https://stap.tmsimg.com/assets/p30905430_b_h10_ac.jpg"/>
   </programme>
   <programme start="20261005115900 +0000" stop="20261005122700 +0000" channel="zeemarathi">
@@ -4071,15 +4071,20 @@
     <desc lang="en">The life of a lazy and aimless young man takes an interesting turn, blossoming into an individual who discovers his potential after meeting an aspiring writer.</desc>
     <icon src="https://stap.tmsimg.com/assets/p3588673_v_h10_ab.jpg"/>
   </programme>
-  <programme start="20261005191600 +0000" stop="20261005230000 +0000" channel="embollywoodunlimited">
+  <programme start="20261005191600 +0000" stop="20261005213600 +0000" channel="embollywoodunlimited">
     <title lang="en">Tamasha</title>
     <desc lang="en">While on a vacation in Corsica, Ved and Tara fall in love and decide to hide their true identities. After the trip, Tara goes to Delhi to find a Ved who is struggling with his true self.</desc>
     <icon src="https://stap.tmsimg.com/assets/p12217149_v_h10_ac.jpg"/>
   </programme>
-  <programme start="20261005230000 +0000" stop="20261006020000 +0000" channel="embollywoodunlimited">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://stap.tmsimg.com/assets/p809737_b_h8_ar.jpg"/>
+  <programme start="20261005213600 +0000" stop="20261005234000 +0000" channel="embollywoodunlimited">
+    <title lang="en">Lost</title>
+    <desc lang="en">A journalist relentlessly investigates to uncover the truth behind the sudden and mysterious disappearance of a young activist.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p24897857_v_h8_aa.jpg"/>
+  </programme>
+  <programme start="20261005234000 +0000" stop="20261006011000 +0000" channel="embollywoodunlimited">
+    <title lang="en">Mantra</title>
+    <desc lang="en">Kim arrives in France for his former wife's funeral and meets his estranged daughter. Later, as they spend time together, they find it difficult to communicate in a different language.</desc>
+    <icon src="https://stap.tmsimg.com/assets/p12786877_v_h8_aa.jpg"/>
   </programme>
   <programme start="20261005000000 +0000" stop="20261005010000 +0000" channel="arydigital">
     <title lang="en">Main Tera</title>
