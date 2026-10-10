@@ -456,12 +456,7 @@
     <desc lang="en">S2 , E53 : With the initiation of the Grand Finale Weekend, the celebrity couples deal with a twist to entertain the audience with delectable dishes and hilarious interactions.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p27930156_b_h8_aa.jpg"/>
   </programme>
-  <programme start="20261010040000 +0000" stop="20261010043000 +0000" channel="colorshd">
-    <title lang="en">Mannat Harr Khushi Paane Ki</title>
-    <desc lang="en">S1 , E579 : Samragi holds Vikrant accountable regarding Manyata's passing, whilst Dua avoids speaking with Dhairya. Later, Ankit plans to implicate Vikrant utilising his garments and prints.</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29088354_b_h8_aa.jpg"/>
-  </programme>
-  <programme start="20261010043000 +0000" stop="20261010060000 +0000" channel="colorshd">
+  <programme start="20261010040000 +0000" stop="20261010060000 +0000" channel="colorshd">
     <title lang="en">Khatron Ke Khiladi</title>
     <desc lang="en">S15 , E20 : The finalists must ramp up their courage as they face their toughest challenge yet. Eventually, one Khiladi rises to win the title.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p33679624_b_h8_aa.jpg"/>
@@ -471,10 +466,15 @@
     <desc lang="en">S2 , E54 : The celebrity couples compete in the kitchen to win the coveted title whilst guests from 'Pati Patni Aur Panga' grace the stage with their presence.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p27930156_b_h8_aa.jpg"/>
   </programme>
-  <programme start="20261010073000 +0000" stop="20261010090000 +0000" channel="colorshd">
-    <title lang="en">Khatron Ke Khiladi</title>
-    <desc lang="en">S15 , E20 : The finalists must ramp up their courage as they face their toughest challenge yet. Eventually, one Khiladi rises to win the title.</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p33679624_b_h8_aa.jpg"/>
+  <programme start="20261010073000 +0000" stop="20261010083000 +0000" channel="colorshd">
+    <title lang="en">108 Base Hospital - Uri</title>
+    <desc lang="en">S1 , E16 : Anirudh finds it difficult to accept Naina's engagement to Sameer amid hospital chaos. Meanwhile, Jahnvi uncovers Bhediya's sinister conspiracy and finds herself in grave danger.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p33657931_b_h10_aa.jpg"/>
+  </programme>
+  <programme start="20261010083000 +0000" stop="20261010090000 +0000" channel="colorshd">
+    <title lang="en">Shayad Yahi Hai Pyaar</title>
+    <desc lang="en">S1 , E9 : Preeti is encouraged to fight her own battle against Shanaya. Later, Aarav apologises to her for his harsh words.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p34138733_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261010090000 +0000" stop="20261010120000 +0000" channel="colorshd">
     <title lang="en">Jab We Met</title>
@@ -511,35 +511,30 @@
     <desc lang="en">S1 , E17 : A series about army surgeons in a war zone. They save lives on the front line while dealing with tough personal relationships and high-stress situations.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p33657931_b_h10_aa.jpg"/>
   </programme>
-  <programme start="20261010170000 +0000" stop="20261010183000 +0000" channel="colorshd">
-    <title lang="en">Pati Patni Aur Panga</title>
+  <programme start="20261010170000 +0000" stop="20261010184500 +0000" channel="colorshd">
+    <title lang="en">Dhamaal With Pati Patni Aur Panga - Jodiyon Ka Reality Check</title>
     <desc lang="en">S2 , E1 : Popular celebrity couples brace themselves to adventure and excitement as they undertake unusual challenges that put their relationship and bond to the test.</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p30722223_b_h8_ab.jpg"/>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p30722223_b_h8_ad.jpg"/>
   </programme>
-  <programme start="20261010183000 +0000" stop="20261010200000 +0000" channel="colorshd">
+  <programme start="20261010184500 +0000" stop="20261010201500 +0000" channel="colorshd">
     <title lang="en">Bigg Boss</title>
     <desc lang="en">S20 , E35 : Celebrity contestants live in an isolated house and perform assigned tasks, in order to win the cash prize, while also trying to avoid being eliminated.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p33987277_b_h10_aa.jpg"/>
   </programme>
-  <programme start="20261010200000 +0000" stop="20261010213000 +0000" channel="colorshd">
-    <title lang="en">Pati Patni Aur Panga</title>
+  <programme start="20261010201500 +0000" stop="20261010220000 +0000" channel="colorshd">
+    <title lang="en">Dhamaal With Pati Patni Aur Panga - Jodiyon Ka Reality Check</title>
     <desc lang="en">S2 , E1 : Popular celebrity couples brace themselves to adventure and excitement as they undertake unusual challenges that put their relationship and bond to the test.</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p30722223_b_h8_ab.jpg"/>
-  </programme>
-  <programme start="20261010213000 +0000" stop="20261010220000 +0000" channel="colorshd">
-    <title lang="en">Tuu Juliet Jatt Di</title>
-    <desc lang="en">S1 , E328 : Focused Heer encounters privileged Nawab, sparking an unexpected romance. Their journey unfolds amidst challenges, revealing a tale of love intertwined with deception and emotional turmoil.</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p31644915_b_h10_ad.jpg"/>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p30722223_b_h8_ad.jpg"/>
   </programme>
   <programme start="20261010220000 +0000" stop="20261010230000 +0000" channel="colorshd">
     <title lang="en">108 Base Hospital - Uri</title>
     <desc lang="en">S1 , E17 : A series about army surgeons in a war zone. They save lives on the front line while dealing with tough personal relationships and high-stress situations.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p33657931_b_h10_aa.jpg"/>
   </programme>
-  <programme start="20261010230000 +0000" stop="20261011003000 +0000" channel="colorshd">
-    <title lang="en">Pati Patni Aur Panga</title>
+  <programme start="20261010230000 +0000" stop="20261011010000 +0000" channel="colorshd">
+    <title lang="en">Dhamaal With Pati Patni Aur Panga - Jodiyon Ka Reality Check</title>
     <desc lang="en">S2 , E1 : Popular celebrity couples brace themselves to adventure and excitement as they undertake unusual challenges that put their relationship and bond to the test.</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p30722223_b_h8_ab.jpg"/>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p30722223_b_h8_ad.jpg"/>
   </programme>
   <programme start="20261010000000 +0000" stop="20261010020000 +0000" channel="asianethd">
     <title lang="en">Mukundetta Sumithra vilikkunnu</title>
@@ -3251,30 +3246,10 @@
     <desc lang="en">S1 , E40 : Janakambal recounts a painful memory at the temple. Elsewhere, when Meena encounters difficulties preparing the offering, Tamil steps in and makes it with ease.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p30590230_b_h10_ac.jpg"/>
   </programme>
-  <programme start="20261010173000 +0000" stop="20261010180000 +0000" channel="zeetamil">
+  <programme start="20261010173000 +0000" stop="20261011003000 +0000" channel="zeetamil">
     <title lang="en">Annamalai Kudumbam</title>
     <desc lang="en">S1 , E5 : Annamalai punishes Dhandapani for his betrayal. On the other hand, Uthaman slaps a staff member who fails to deliver the order.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p31786369_b_h8_ab.jpg"/>
-  </programme>
-  <programme start="20261010180000 +0000" stop="20261010183000 +0000" channel="zeetamil">
-    <title lang="en">Idhayam</title>
-    <desc lang="en">S1 , E16 : Shankar's discovery of his friend being a womanizer comes to light when his wife is accused of murdering him, revealing another suspect.</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29123848_b_h8_ab.jpg"/>
-  </programme>
-  <programme start="20261010183000 +0000" stop="20261010190000 +0000" channel="zeetamil">
-    <title lang="en">Vaagai Sooda Vaa</title>
-    <desc lang="en">S1 , E10 : Sumathi raises Thenmozhi and Meenakshi with values; Thenmozhi marries into a debt-ridden family, while Meenakshi marries Jeeva to protect Thenmozhi and restore the family's dignity.</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p32267862_b_h8_ab.jpg"/>
-  </programme>
-  <programme start="20261010190000 +0000" stop="20261010193000 +0000" channel="zeetamil">
-    <title lang="en">Ayali</title>
-    <desc lang="en">S1 , E41 : Ayali's family shunned her due to false accusations. She endures her stepmom's cruelty and joins Siva. They plan to expose Varma, proving her mother's innocence, seeking justice and family reunion.</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p30350157_b_h8_ab.jpg"/>
-  </programme>
-  <programme start="20261010193000 +0000" stop="20261011003000 +0000" channel="zeetamil">
-    <title lang="en">Free Ticket</title>
-    <desc lang="en">S1 , E1603 : A comprehensive compilation of songs and snippets from some of the most popular and trending Tamil movies is played to entertain the audience.</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/klN7lrpJ.jpg"/>
   </programme>
   <programme start="20261010000000 +0000" stop="20261010000000 +0000" channel="zeemarathi">
     <title lang="en">Lakshmi Nivas</title>
