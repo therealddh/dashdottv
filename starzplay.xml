@@ -2836,20 +2836,25 @@
     <desc lang="en">Manojan and Vimala become parents to a baby boy. However, after a year, the wife begins to question the child's parentage.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p31762713_b_h8_aa.jpg"/>
   </programme>
-  <programme start="20261011170000 +0000" stop="20261011200000 +0000" channel="emsimplysouth">
-    <title lang="en">Vyasanasametham Bandhumithradhikal</title>
-    <desc lang="en">In a small town, a shopkeeper's life turns chaotic when his mother-in-law passes away and his daughter begins challenging traditional expectations about her upcoming marriage.</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p31056590_b_h8_aa.jpg"/>
+  <programme start="20261011185000 +0000" stop="20261011205200 +0000" channel="emsimplysouth">
+    <title lang="en">Irudhi Suttru</title>
+    <desc lang="en">A failed boxer sees potential in a roadside fish-seller and begins to train her to compete in the women's boxing category in the Olympics.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p12552316_b_h8_aa.jpg"/>
   </programme>
-  <programme start="20261011200000 +0000" stop="20261011230000 +0000" channel="emsimplysouth">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p809737_b_h8_ar.jpg"/>
+  <programme start="20261011205200 +0000" stop="20261011224200 +0000" channel="emsimplysouth">
+    <title lang="en">No program available</title>
+    <desc lang="en">No program available</desc>
+    <icon src="http://mena-img-cdn-lb.aws.playco.com/ev-livechannels-avod/AVODEMSIMPLYSOUTHY2004M/AVODEMSIMPLYSOUTHY2004M-landscape-poster-v1.jpg"/>
   </programme>
-  <programme start="20261011230000 +0000" stop="20261012020000 +0000" channel="emsimplysouth">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p809737_b_h8_ar.jpg"/>
+  <programme start="20261011205200 +0000" stop="20261011230000 +0000" channel="emsimplysouth">
+    <title lang="en">Pagalariyaan</title>
+    <desc lang="en">Akshara, the daughter of gangster Silent, doesn't realise she's been kidnapped by Wolf, as a hidden agenda slowly unravels, dragging her into a treacherous world of betrayal and danger.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29283976_b_h8_aa.jpg"/>
+  </programme>
+  <programme start="20261011230000 +0000" stop="20261012022000 +0000" channel="emsimplysouth">
+    <title lang="en">Dasavatharam</title>
+    <desc lang="en">After a scientist realizes the danger of a bioweapon, he races against time to prevent its misuse when it is accidentally brought to India.</desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/GLmMTbx9.jpg"/>
   </programme>
   <programme start="20261011000000 +0000" stop="20261011000000 +0000" channel="zeekeralam">
     <title lang="en">Madhuranombarakattu</title>
@@ -3661,20 +3666,20 @@
     <desc lang="en">Movie</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p809737_b_h8_ar.jpg"/>
   </programme>
-  <programme start="20261011170000 +0000" stop="20261011200000 +0000" channel="embollywoodunlimited">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p809737_b_h8_ar.jpg"/>
+  <programme start="20261011190900 +0000" stop="20261011214700 +0000" channel="embollywoodunlimited">
+    <title lang="en">Teri Baaton Mein Aisa Uljha Jiya</title>
+    <desc lang="en">A robotics engineer on the quest to find his ideal partner, falls in love with an intelligent female robot mistaking her for a real woman in Los Angeles.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p26533792_v_h10_aa.jpg"/>
   </programme>
-  <programme start="20261011200000 +0000" stop="20261011230000 +0000" channel="embollywoodunlimited">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p809737_b_h8_ar.jpg"/>
+  <programme start="20261011214700 +0000" stop="20261011235600 +0000" channel="embollywoodunlimited">
+    <title lang="en">No program available</title>
+    <desc lang="en">No program available</desc>
+    <icon src="http://mena-img-cdn-lb.aws.playco.com/ev-livechannels-avod/AVODEMY2004MHI/AVODEMY2004MHI-landscape-poster-v1.jpg"/>
   </programme>
-  <programme start="20261011230000 +0000" stop="20261012020000 +0000" channel="embollywoodunlimited">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p809737_b_h8_ar.jpg"/>
+  <programme start="20261011214700 +0000" stop="20261012000200 +0000" channel="embollywoodunlimited">
+    <title lang="en">Housefull 3</title>
+    <desc lang="en">A rich businessman does not want his three daughters to get married because of a superstitious belief. Now, their boyfriends must prove to him that they are perfect for his daughters.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p12893097_v_h8_ad.jpg"/>
   </programme>
   <programme start="20261011000000 +0000" stop="20261011010000 +0000" channel="arydigital">
     <title lang="en">Main Tera</title>
