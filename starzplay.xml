@@ -1141,20 +1141,20 @@
     <desc lang="en">Sameer struggles with anger issues that complicate his personal life and relationships. His world takes an unexpected turn when he meets Rani.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p89329_v_h10_ad.jpg"/>
   </programme>
-  <programme start="20261013192600 +0000" stop="20261013200000 +0000" channel="embollywoodunlimited">
+  <programme start="20261013192600 +0000" stop="20261013214500 +0000" channel="embollywoodunlimited">
     <title lang="en">Queen</title>
     <desc lang="en">Rani is devastated after her fiancé leaves her just before the wedding. Undeterred, she decides to go on their honeymoon alone where she gets pulled out of her comfort zone and rediscovers herself.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p10608434_v_h10_ab.jpg"/>
   </programme>
-  <programme start="20261013200000 +0000" stop="20261013230000 +0000" channel="embollywoodunlimited">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p809737_b_h8_ar.jpg"/>
+  <programme start="20261013214500 +0000" stop="20261013232300 +0000" channel="embollywoodunlimited">
+    <title lang="en">Dark Chocolate</title>
+    <desc lang="en">This thriller murder mystery is an adaptation of the real life murder case of Sheena Bora. The discovery of a charred corpse in the woods, leads to a high-profile murder investigation.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p13207369_v_h11_aa.jpg"/>
   </programme>
-  <programme start="20261013230000 +0000" stop="20261014020000 +0000" channel="embollywoodunlimited">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p809737_b_h8_ar.jpg"/>
+  <programme start="20261013232300 +0000" stop="20261014012200 +0000" channel="embollywoodunlimited">
+    <title lang="en">Beiimaan Love</title>
+    <desc lang="en">Sunaina falls in love with Raj, a rich businessman, who betrays her. She decides to avenge her humiliation by reinventing herself as a successful entrepreneur and acquiring his business.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p13401746_v_h10_ab.jpg"/>
   </programme>
   <programme start="20261013000000 +0000" stop="20261013003000 +0000" channel="sonytv">
     <title lang="en">The Kapil Sharma Show</title>
@@ -1208,7 +1208,7 @@
   </programme>
   <programme start="20261013063000 +0000" stop="20261013080000 +0000" channel="sonytv">
     <title lang="en">Kaun Banega Crorepati</title>
-    <desc lang="en">S18 , E46 : The host quizzes contestants with a range of general knowledge questions. Every correct answer increases their chances of claiming a rewarding cash prize in this engaging game show.</desc>
+    <desc lang="en">S18 , E46 : Host Amitabh Bachchan asks a series of questions to several contestants to test their general knowledge and give them a chance to win a cash prize.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p33766470_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261013080000 +0000" stop="20261013083000 +0000" channel="sonytv">
@@ -1243,7 +1243,7 @@
   </programme>
   <programme start="20261013130000 +0000" stop="20261013143000 +0000" channel="sonytv">
     <title lang="en">Kaun Banega Crorepati</title>
-    <desc lang="en">S18 , E46 : The host quizzes contestants with a range of general knowledge questions. Every correct answer increases their chances of claiming a rewarding cash prize in this engaging game show.</desc>
+    <desc lang="en">S18 , E46 : Host Amitabh Bachchan asks a series of questions to several contestants to test their general knowledge and give them a chance to win a cash prize.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p33766470_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261013143000 +0000" stop="20261013150000 +0000" channel="sonytv">
@@ -2758,7 +2758,7 @@
   </programme>
   <programme start="20261013110000 +0000" stop="20261013113000 +0000" channel="sabtv">
     <title lang="en">Kyunki Papa Kehte Hain</title>
-    <desc lang="en">S1 , E18 : Pawan lovingly protects his four younger siblings after sudden parental loss, despite severe financial struggle. Furthermore, strict relatives force traditional values upon these resilient children.</desc>
+    <desc lang="en">S1 , E18 : Seeking to secure a design order for garba costumes, Simaran turns to Kakaji for his guidance and support.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p34126806_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261013113000 +0000" stop="20261013120000 +0000" channel="sabtv">
@@ -2768,7 +2768,7 @@
   </programme>
   <programme start="20261013120000 +0000" stop="20261013123000 +0000" channel="sabtv">
     <title lang="en">Hui Gumm Yaadein Ek Doctor, Do Zindagiyaan</title>
-    <desc lang="en">S1 , E163 : Following a traumatic accident and an eight-year memory loss, Dr Dev struggles to rebuild his life as his former wife, Srishti, balances motherhood with running their medical facility.</desc>
+    <desc lang="en">S1 , E163 : Dr Srishty finds herself targeted by a village boy, who attacks her with a stone. However, she is rescued by Dr Hitanshu and Gehna, who arrive in the nick of time.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p32794904_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261013123000 +0000" stop="20261013130000 +0000" channel="sabtv">
@@ -2798,7 +2798,7 @@
   </programme>
   <programme start="20261013150000 +0000" stop="20261013153000 +0000" channel="sabtv">
     <title lang="en">Kyunki Papa Kehte Hain</title>
-    <desc lang="en">S1 , E18 : Pawan lovingly protects his four younger siblings after sudden parental loss, despite severe financial struggle. Furthermore, strict relatives force traditional values upon these resilient children.</desc>
+    <desc lang="en">S1 , E18 : Seeking to secure a design order for garba costumes, Simaran turns to Kakaji for his guidance and support.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p34126806_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261013153000 +0000" stop="20261013160000 +0000" channel="sabtv">
@@ -2808,7 +2808,7 @@
   </programme>
   <programme start="20261013160000 +0000" stop="20261013163000 +0000" channel="sabtv">
     <title lang="en">Hui Gumm Yaadein Ek Doctor, Do Zindagiyaan</title>
-    <desc lang="en">S1 , E163 : Following a traumatic accident and an eight-year memory loss, Dr Dev struggles to rebuild his life as his former wife, Srishti, balances motherhood with running their medical facility.</desc>
+    <desc lang="en">S1 , E163 : Dr Srishty finds herself targeted by a village boy, who attacks her with a stone. However, she is rescued by Dr Hitanshu and Gehna, who arrive in the nick of time.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p32794904_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261013163000 +0000" stop="20261013170000 +0000" channel="sabtv">
@@ -2833,12 +2833,12 @@
   </programme>
   <programme start="20261013181500 +0000" stop="20261013184300 +0000" channel="sabtv">
     <title lang="en">Kyunki Papa Kehte Hain</title>
-    <desc lang="en">S1 , E18 : Pawan lovingly protects his four younger siblings after sudden parental loss, despite severe financial struggle. Furthermore, strict relatives force traditional values upon these resilient children.</desc>
+    <desc lang="en">S1 , E18 : Seeking to secure a design order for garba costumes, Simaran turns to Kakaji for his guidance and support.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p34126806_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261013184300 +0000" stop="20261013190900 +0000" channel="sabtv">
     <title lang="en">Hui Gumm Yaadein Ek Doctor, Do Zindagiyaan</title>
-    <desc lang="en">S1 , E163 : Following a traumatic accident and an eight-year memory loss, Dr Dev struggles to rebuild his life as his former wife, Srishti, balances motherhood with running their medical facility.</desc>
+    <desc lang="en">S1 , E163 : Dr Srishty finds herself targeted by a village boy, who attacks her with a stone. However, she is rescued by Dr Hitanshu and Gehna, who arrive in the nick of time.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p32794904_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261013190900 +0000" stop="20261013193500 +0000" channel="sabtv">
@@ -2858,7 +2858,7 @@
   </programme>
   <programme start="20261013202700 +0000" stop="20261013205300 +0000" channel="sabtv">
     <title lang="en">Kyunki Papa Kehte Hain</title>
-    <desc lang="en">S1 , E18 : Pawan lovingly protects his four younger siblings after sudden parental loss, despite severe financial struggle. Furthermore, strict relatives force traditional values upon these resilient children.</desc>
+    <desc lang="en">S1 , E18 : Seeking to secure a design order for garba costumes, Simaran turns to Kakaji for his guidance and support.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p34126806_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261013205300 +0000" stop="20261013211900 +0000" channel="sabtv">
@@ -2878,7 +2878,7 @@
   </programme>
   <programme start="20261013221200 +0000" stop="20261013223800 +0000" channel="sabtv">
     <title lang="en">Hui Gumm Yaadein Ek Doctor, Do Zindagiyaan</title>
-    <desc lang="en">S1 , E163 : Following a traumatic accident and an eight-year memory loss, Dr Dev struggles to rebuild his life as his former wife, Srishti, balances motherhood with running their medical facility.</desc>
+    <desc lang="en">S1 , E163 : Dr Srishty finds herself targeted by a village boy, who attacks her with a stone. However, she is rescued by Dr Hitanshu and Gehna, who arrive in the nick of time.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p32794904_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261013223800 +0000" stop="20261013230400 +0000" channel="sabtv">
@@ -2888,7 +2888,7 @@
   </programme>
   <programme start="20261013230400 +0000" stop="20261013233000 +0000" channel="sabtv">
     <title lang="en">Kyunki Papa Kehte Hain</title>
-    <desc lang="en">S1 , E18 : Pawan lovingly protects his four younger siblings after sudden parental loss, despite severe financial struggle. Furthermore, strict relatives force traditional values upon these resilient children.</desc>
+    <desc lang="en">S1 , E18 : Seeking to secure a design order for garba costumes, Simaran turns to Kakaji for his guidance and support.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p34126806_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261013233000 +0000" stop="20261013235600 +0000" channel="sabtv">
