@@ -138,7 +138,7 @@
   </channel>
   <programme start="20261022000000 +0000" stop="20261022000000 +0000" channel="colorshd">
     <title lang="en">Bareilly Ki Bacchan</title>
-    <desc lang="en">S1 , E113 : Ambitious Sangam marries carefree Krishna Bacchan and moves into a home with only male residents. However, she faces the daunting challenge of winning over her eccentric in-laws.</desc>
+    <desc lang="en">S1 , E113 : Krishna and Satluj pretend to be caterers and meet Aarti in secret. Later, they inform her that she may not get another chance to marry Ganga.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p33728804_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261022000000 +0000" stop="20261022003000 +0000" channel="colorshd">
@@ -198,7 +198,7 @@
   </programme>
   <programme start="20261022053000 +0000" stop="20261022060000 +0000" channel="colorshd">
     <title lang="en">Bareilly Ki Bacchan</title>
-    <desc lang="en">S1 , E113 : Ambitious Sangam marries carefree Krishna Bacchan and moves into a home with only male residents. However, she faces the daunting challenge of winning over her eccentric in-laws.</desc>
+    <desc lang="en">S1 , E113 : Krishna and Satluj pretend to be caterers and meet Aarti in secret. Later, they inform her that she may not get another chance to marry Ganga.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p33728804_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261022060000 +0000" stop="20261022063000 +0000" channel="colorshd">
@@ -208,7 +208,7 @@
   </programme>
   <programme start="20261022063000 +0000" stop="20261022070000 +0000" channel="colorshd">
     <title lang="en">Bareilly Ki Bacchan</title>
-    <desc lang="en">S1 , E113 : Ambitious Sangam marries carefree Krishna Bacchan and moves into a home with only male residents. However, she faces the daunting challenge of winning over her eccentric in-laws.</desc>
+    <desc lang="en">S1 , E113 : Krishna and Satluj pretend to be caterers and meet Aarti in secret. Later, they inform her that she may not get another chance to marry Ganga.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p33728804_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261022070000 +0000" stop="20261022073000 +0000" channel="colorshd">
@@ -243,7 +243,7 @@
   </programme>
   <programme start="20261022100000 +0000" stop="20261022103000 +0000" channel="colorshd">
     <title lang="en">Bareilly Ki Bacchan</title>
-    <desc lang="en">S1 , E113 : Ambitious Sangam marries carefree Krishna Bacchan and moves into a home with only male residents. However, she faces the daunting challenge of winning over her eccentric in-laws.</desc>
+    <desc lang="en">S1 , E113 : Krishna and Satluj pretend to be caterers and meet Aarti in secret. Later, they inform her that she may not get another chance to marry Ganga.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p33728804_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261022103000 +0000" stop="20261022110000 +0000" channel="colorshd">
@@ -683,7 +683,7 @@
   </programme>
   <programme start="20261022150000 +0000" stop="20261022153000 +0000" channel="colorskannada">
     <title lang="en">Sri Gandhada Gudi</title>
-    <desc lang="en">S1 , E367 : Chandana marries into a family with a troubled past in order to escape her fate. However, can she restore the family's hope?</desc>
+    <desc lang="en">S1 , E367 : Chandana's attempts to win Vaibhavi's affection spark envy. Meanwhile, Mutthu rejects Amir's money but asks to send Bharathi an invitation to the wedding.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p31372046_b_h8_ab.jpg"/>
   </programme>
   <programme start="20261022153000 +0000" stop="20261022160000 +0000" channel="colorskannada">
@@ -703,7 +703,7 @@
   </programme>
   <programme start="20261022190000 +0000" stop="20261022193000 +0000" channel="colorskannada">
     <title lang="en">Sri Gandhada Gudi</title>
-    <desc lang="en">S1 , E367 : Chandana marries into a family with a troubled past in order to escape her fate. However, can she restore the family's hope?</desc>
+    <desc lang="en">S1 , E367 : Chandana's attempts to win Vaibhavi's affection spark envy. Meanwhile, Mutthu rejects Amir's money but asks to send Bharathi an invitation to the wedding.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p31372046_b_h8_ab.jpg"/>
   </programme>
   <programme start="20261022193000 +0000" stop="20261022200000 +0000" channel="colorskannada">
@@ -748,7 +748,7 @@
   </programme>
   <programme start="20261022233000 +0000" stop="20261023000000 +0000" channel="colorskannada">
     <title lang="en">Sri Gandhada Gudi</title>
-    <desc lang="en">S1 , E367 : Chandana marries into a family with a troubled past in order to escape her fate. However, can she restore the family's hope?</desc>
+    <desc lang="en">S1 , E367 : Chandana's attempts to win Vaibhavi's affection spark envy. Meanwhile, Mutthu rejects Amir's money but asks to send Bharathi an invitation to the wedding.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p31372046_b_h8_ab.jpg"/>
   </programme>
   <programme start="20261023000000 +0000" stop="20261023003000 +0000" channel="colorskannada">
@@ -2753,22 +2753,22 @@
   </programme>
   <programme start="20261022113000 +0000" stop="20261022120000 +0000" channel="sabtv">
     <title lang="en">Hastinapur Ke Veer</title>
-    <desc lang="en">S1 , E122 : Arjun ends up losing Drona's favour, while Radheya's bold vision gets him suspended. However, will Radheya be proved right?</desc>
+    <desc lang="en">S1 , E122 : Radheya faces suspension for his bold vision, while Arjun loses Drona's favor. Will Bhishma's decision finally prove Radheya right?</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p33120073_b_h10_ab.jpg"/>
   </programme>
   <programme start="20261022120000 +0000" stop="20261022123000 +0000" channel="sabtv">
     <title lang="en">Hui Gumm Yaadein Ek Doctor, Do Zindagiyaan</title>
-    <desc lang="en">S1 , E171 : Following a traumatic accident and an eight-year memory loss, Dr Dev struggles to rebuild his life as his former wife, Srishti, balances motherhood with running their medical facility.</desc>
+    <desc lang="en">S1 , E171 : Dr Dev helps a woman deliver her baby by pretending to be possessed by Durga Mata. He wonders if the villagers will accept the truth.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p32794904_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261022123000 +0000" stop="20261022130000 +0000" channel="sabtv">
     <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">S1 , E4847 : The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
+    <desc lang="en">S1 , E4847 : With the expected funds delayed, a stressed Jethalal turns to Mehta Saab for help. Mehta Saab suggests a solution to save the day.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p12557899_b_h11_ad.jpg"/>
   </programme>
   <programme start="20261022130000 +0000" stop="20261022133000 +0000" channel="sabtv">
     <title lang="en">Pushpa Impossible</title>
-    <desc lang="en">S1 , E1369 : After doing various odd jobs, an uneducated woman from Gujarat starts a business to earn a living and attempts to keep her family happy.</desc>
+    <desc lang="en">S1 , E1369 : Pushpa confronts Shanaya about her feelings for Varun, but Chirag overhears the conversation. Will this revelation change everything?</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p22259614_b_h10_af.jpg"/>
   </programme>
   <programme start="20261022133000 +0000" stop="20261022140000 +0000" channel="sabtv">
@@ -2783,7 +2783,7 @@
   </programme>
   <programme start="20261022143000 +0000" stop="20261022150000 +0000" channel="sabtv">
     <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">S1 , E4847 : The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
+    <desc lang="en">S1 , E4847 : With the expected funds delayed, a stressed Jethalal turns to Mehta Saab for help. Mehta Saab suggests a solution to save the day.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p12557899_b_h11_ad.jpg"/>
   </programme>
   <programme start="20261022150000 +0000" stop="20261022153000 +0000" channel="sabtv">
@@ -2793,22 +2793,22 @@
   </programme>
   <programme start="20261022153000 +0000" stop="20261022160000 +0000" channel="sabtv">
     <title lang="en">Hastinapur Ke Veer</title>
-    <desc lang="en">S1 , E122 : Arjun ends up losing Drona's favour, while Radheya's bold vision gets him suspended. However, will Radheya be proved right?</desc>
+    <desc lang="en">S1 , E122 : Radheya faces suspension for his bold vision, while Arjun loses Drona's favor. Will Bhishma's decision finally prove Radheya right?</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p33120073_b_h10_ab.jpg"/>
   </programme>
   <programme start="20261022160000 +0000" stop="20261022163000 +0000" channel="sabtv">
     <title lang="en">Hui Gumm Yaadein Ek Doctor, Do Zindagiyaan</title>
-    <desc lang="en">S1 , E171 : Following a traumatic accident and an eight-year memory loss, Dr Dev struggles to rebuild his life as his former wife, Srishti, balances motherhood with running their medical facility.</desc>
+    <desc lang="en">S1 , E171 : Dr Dev helps a woman deliver her baby by pretending to be possessed by Durga Mata. He wonders if the villagers will accept the truth.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p32794904_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261022163000 +0000" stop="20261022170000 +0000" channel="sabtv">
     <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">S1 , E4847 : The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
+    <desc lang="en">S1 , E4847 : With the expected funds delayed, a stressed Jethalal turns to Mehta Saab for help. Mehta Saab suggests a solution to save the day.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p12557899_b_h11_ad.jpg"/>
   </programme>
   <programme start="20261022170000 +0000" stop="20261022172500 +0000" channel="sabtv">
     <title lang="en">Pushpa Impossible</title>
-    <desc lang="en">S1 , E1369 : After doing various odd jobs, an uneducated woman from Gujarat starts a business to earn a living and attempts to keep her family happy.</desc>
+    <desc lang="en">S1 , E1369 : Pushpa confronts Shanaya about her feelings for Varun, but Chirag overhears the conversation. Will this revelation change everything?</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p22259614_b_h10_af.jpg"/>
   </programme>
   <programme start="20261022172500 +0000" stop="20261022175100 +0000" channel="sabtv">
@@ -2828,22 +2828,22 @@
   </programme>
   <programme start="20261022184300 +0000" stop="20261022190900 +0000" channel="sabtv">
     <title lang="en">Hui Gumm Yaadein Ek Doctor, Do Zindagiyaan</title>
-    <desc lang="en">S1 , E171 : Following a traumatic accident and an eight-year memory loss, Dr Dev struggles to rebuild his life as his former wife, Srishti, balances motherhood with running their medical facility.</desc>
+    <desc lang="en">S1 , E171 : Dr Dev helps a woman deliver her baby by pretending to be possessed by Durga Mata. He wonders if the villagers will accept the truth.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p32794904_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261022190900 +0000" stop="20261022193500 +0000" channel="sabtv">
     <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">S1 , E4847 : The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
+    <desc lang="en">S1 , E4847 : With the expected funds delayed, a stressed Jethalal turns to Mehta Saab for help. Mehta Saab suggests a solution to save the day.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p12557899_b_h11_ad.jpg"/>
   </programme>
   <programme start="20261022193500 +0000" stop="20261022200100 +0000" channel="sabtv">
     <title lang="en">Pushpa Impossible</title>
-    <desc lang="en">S1 , E1369 : After doing various odd jobs, an uneducated woman from Gujarat starts a business to earn a living and attempts to keep her family happy.</desc>
+    <desc lang="en">S1 , E1369 : Pushpa confronts Shanaya about her feelings for Varun, but Chirag overhears the conversation. Will this revelation change everything?</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p22259614_b_h10_af.jpg"/>
   </programme>
   <programme start="20261022200100 +0000" stop="20261022202700 +0000" channel="sabtv">
     <title lang="en">Hastinapur Ke Veer</title>
-    <desc lang="en">S1 , E122 : Arjun ends up losing Drona's favour, while Radheya's bold vision gets him suspended. However, will Radheya be proved right?</desc>
+    <desc lang="en">S1 , E122 : Radheya faces suspension for his bold vision, while Arjun loses Drona's favor. Will Bhishma's decision finally prove Radheya right?</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p33120073_b_h10_ab.jpg"/>
   </programme>
   <programme start="20261022202700 +0000" stop="20261022205300 +0000" channel="sabtv">
@@ -2853,7 +2853,7 @@
   </programme>
   <programme start="20261022205300 +0000" stop="20261022211900 +0000" channel="sabtv">
     <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">S1 , E4847 : The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
+    <desc lang="en">S1 , E4847 : With the expected funds delayed, a stressed Jethalal turns to Mehta Saab for help. Mehta Saab suggests a solution to save the day.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p12557899_b_h11_ad.jpg"/>
   </programme>
   <programme start="20261022211900 +0000" stop="20261022214500 +0000" channel="sabtv">
@@ -2868,12 +2868,12 @@
   </programme>
   <programme start="20261022221200 +0000" stop="20261022223800 +0000" channel="sabtv">
     <title lang="en">Hui Gumm Yaadein Ek Doctor, Do Zindagiyaan</title>
-    <desc lang="en">S1 , E171 : Following a traumatic accident and an eight-year memory loss, Dr Dev struggles to rebuild his life as his former wife, Srishti, balances motherhood with running their medical facility.</desc>
+    <desc lang="en">S1 , E171 : Dr Dev helps a woman deliver her baby by pretending to be possessed by Durga Mata. He wonders if the villagers will accept the truth.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p32794904_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261022223800 +0000" stop="20261022230400 +0000" channel="sabtv">
     <title lang="en">Hastinapur Ke Veer</title>
-    <desc lang="en">S1 , E122 : Arjun ends up losing Drona's favour, while Radheya's bold vision gets him suspended. However, will Radheya be proved right?</desc>
+    <desc lang="en">S1 , E122 : Radheya faces suspension for his bold vision, while Arjun loses Drona's favor. Will Bhishma's decision finally prove Radheya right?</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p33120073_b_h10_ab.jpg"/>
   </programme>
   <programme start="20261022230400 +0000" stop="20261022233000 +0000" channel="sabtv">
