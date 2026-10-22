@@ -733,7 +733,7 @@
   </programme>
   <programme start="20261022220000 +0000" stop="20261022223000 +0000" channel="colorskannada">
     <title lang="en">Raani</title>
-    <desc lang="en">S1 , E224 : Raani brings immense joy to her mother while growing up inside the prison walls. As an adult, she now prepares to step outside and navigate the real world completely on her own.</desc>
+    <desc lang="en">S1 , E224 : Balakrishna's parents reject Raani's offer to perform prayers and warn Kaveri to stay away from their family. Later, Raani remains silent as Teju accuses her of theft.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p25470729_b_h8_ab.jpg"/>
   </programme>
   <programme start="20261022223000 +0000" stop="20261022230000 +0000" channel="colorskannada">
@@ -1121,15 +1121,20 @@
     <desc lang="en">Two thugs meet Rajiv, who belongs to a respectable family, and want to fix their sister's wedding with him. However, when Rajiv's uncle refuses to the match, a series of hilarious situations occur.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p176589_v_h10_ac.jpg"/>
   </programme>
-  <programme start="20261022192700 +0000" stop="20261022230000 +0000" channel="embollywoodunlimited">
+  <programme start="20261022192700 +0000" stop="20261022214100 +0000" channel="embollywoodunlimited">
     <title lang="en">The Dirty Picture</title>
     <desc lang="en">Reshma, a village girl, achieves immense success in the male-dominated film industry. However, as her career rises, she pays a heavy price for it.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p8965553_v_h10_ae.jpg"/>
   </programme>
-  <programme start="20261022230000 +0000" stop="20261023020000 +0000" channel="embollywoodunlimited">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p809737_b_h8_ar.jpg"/>
+  <programme start="20261022214100 +0000" stop="20261022231800 +0000" channel="embollywoodunlimited">
+    <title lang="en">Dark Chocolate</title>
+    <desc lang="en">This thriller murder mystery is an adaptation of the real life murder case of Sheena Bora. The discovery of a charred corpse in the woods, leads to a high-profile murder investigation.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p13207369_v_h11_aa.jpg"/>
+  </programme>
+  <programme start="20261022231800 +0000" stop="20261023015300 +0000" channel="embollywoodunlimited">
+    <title lang="en">Jagga Jasoos</title>
+    <desc lang="en">Jagga's adoptive father, Bagchi, enrols him in a boarding school and mysteriously disappears. Upon growing up, Jagga goes in search of him and takes the help of Shruti, a journalist.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p14342748_v_h8_aa.jpg"/>
   </programme>
   <programme start="20261022000000 +0000" stop="20261022003000 +0000" channel="sonytv">
     <title lang="en">The Kapil Sharma Show</title>
@@ -1454,7 +1459,7 @@
   <programme start="20261022183000 +0000" stop="20261022190000 +0000" channel="starplushd">
     <title lang="en">Apsara</title>
     <desc lang="en">S1 , E2 : Targeted by her aunt's harsh taunts, Sunheri deeply misses her parents. Elsewhere, Saira secretly employs magic to ruin Dhara's birthday prep while pretending to care about her.</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/OTerzykJ.jpg"/>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p34356169_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261022190000 +0000" stop="20261022193000 +0000" channel="starplushd">
     <title lang="en">Kyunki Rishton Ke Bhi Roop Badalte Hain</title>
@@ -3022,39 +3027,39 @@
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29379941_b_h8_ab.jpg"/>
   </programme>
   <programme start="20261022200000 +0000" stop="20261022210000 +0000" channel="flowersinternational">
-    <title lang="en">Flowers Comedy Ith Item Vere</title>
-    <desc lang="en">Comedians take the stage and perform hilarious skits, showcasing their talent and attempting to impress the judges, in order to win the competition.</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29170189_b_h8_ab.jpg"/>
+    <title lang="en">Flowers Comedy - Ithu Item Vere</title>
+    <desc lang="en">S1 , E695 : Contestants showcase their comic prowess through entertaining and hilarious performances and skits in front of a panel of esteemed judges as they compete for a grand prize.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p31653490_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261022210000 +0000" stop="20261022213000 +0000" channel="flowersinternational">
-    <title lang="en">Panchagni</title>
-    <desc lang="en">A restaurant named Pancharatnam is run by five sisters, while their stepmother tries different tactics to close their business.</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29170753_b_h8_ab.jpg"/>
+    <title lang="en">Sithara</title>
+    <desc lang="en">S1 , E14 : </desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/UcNLhTLh.jpg"/>
   </programme>
   <programme start="20261022213000 +0000" stop="20261022220000 +0000" channel="flowersinternational">
-    <title lang="en">Veettile Vilakku</title>
-    <desc lang="en">A mother goes through various struggles and hardships as she battles for her child and motherhood amidst a complex family relationship.</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29496588_b_h10_ac.jpg"/>
-  </programme>
-  <programme start="20261022220000 +0000" stop="20261022223000 +0000" channel="flowersinternational">
     <title lang="en">Uppum Mulakum</title>
-    <desc lang="en">Balachandran and Neelima, who face many challenges to earn a living, aim to successfully fulfil their wish of going to a foreign country.</desc>
+    <desc lang="en">S1 , E737 : Balachandran and Neelima, who face many challenges to earn a living, aim to successfully fulfil their wish of going to a foreign country.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29171156_b_h8_ad.jpg"/>
   </programme>
-  <programme start="20261022223000 +0000" stop="20261022233000 +0000" channel="flowersinternational">
-    <title lang="en">Flowers Top Singer 5</title>
-    <desc lang="en">Talented young singers compete against each other as they perform on stage in front of a panel of judges to emerge victorious and win the title.</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29495896_b_h10_ac.jpg"/>
+  <programme start="20261022220000 +0000" stop="20261022223000 +0000" channel="flowersinternational">
+    <title lang="en">Sukhamo Devi</title>
+    <desc lang="en">S1 , E1083 : Devika is in love with Nandagopan, but Karthikeyan forces her to marry him. She elopes with Nandagopan only to get abandoned by him at the temple, which leads her to marry his friend.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29170986_b_h8_ab.jpg"/>
   </programme>
-  <programme start="20261022233000 +0000" stop="20261023000000 +0000" channel="flowersinternational">
-    <title lang="en">Veettile Vilakku</title>
-    <desc lang="en">A mother goes through various struggles and hardships as she battles for her child and motherhood amidst a complex family relationship.</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29496588_b_h10_ac.jpg"/>
+  <programme start="20261022223000 +0000" stop="20261022230000 +0000" channel="flowersinternational">
+    <title lang="en">Mahalakshmi</title>
+    <desc lang="en">S1 , E610 : Mahalakshmi faces the consequences of her stepfather's actions with strength, while Kannan, who survives an unexpected tragedy, becomes her unexpected support in a journey of survival.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29379941_b_h8_ab.jpg"/>
+  </programme>
+  <programme start="20261022230000 +0000" stop="20261023000000 +0000" channel="flowersinternational">
+    <title lang="en">Flowers Comedy - Ithu Item Vere</title>
+    <desc lang="en">S1 , E695 : Contestants showcase their comic prowess through entertaining and hilarious performances and skits in front of a panel of esteemed judges as they compete for a grand prize.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p31653490_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261023000000 +0000" stop="20261023003000 +0000" channel="flowersinternational">
-    <title lang="en">Sukhamo Devi</title>
-    <desc lang="en">Devika is in love with Nandagopan, but Karthikeyan forces her to marry him. She elopes with Nandagopan only to get abandoned by him at the temple, which leads her to marry his friend.</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29170986_b_h8_ab.jpg"/>
+    <title lang="en">Flowers Comedy Golden Moments</title>
+    <desc lang="en">S1 , E182 : Revisit the best moments of the show 'Flowers Comedy,' where comedians put on their greatest skits and performances for the audience.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29170069_b_h10_ab.jpg"/>
   </programme>
   <programme start="20261022000000 +0000" stop="20261022000000 +0000" channel="geotv">
     <title lang="en">Uswah</title>
