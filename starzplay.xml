@@ -468,7 +468,7 @@
   </programme>
   <programme start="20261026171000 +0000" stop="20261026173000 +0000" channel="asianethd">
     <title lang="en">Ee Puzhayum Kadannu</title>
-    <desc lang="en">S1 , E91 : Anjali hates Gopi but eventually falls in love with him. However, she is unable to marry him as she has two sisters who are still single.</desc>
+    <desc lang="en">S1 , E197 : Kaveri feels slighted when the welcome board features Naren's family details while leaving hers out. Nevertheless, the couple's grand wedding reception commences in style.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p32308078_b_h10_ab.jpg"/>
   </programme>
   <programme start="20261026173000 +0000" stop="20261026183000 +0000" channel="asianethd">
@@ -482,9 +482,9 @@
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/9ipHx6hC.jpg"/>
   </programme>
   <programme start="20261026190000 +0000" stop="20261026193000 +0000" channel="asianethd">
-    <title lang="en">Line Cut With Anjana Nambiar</title>
-    <desc lang="en">S1 , E18 : Anjana Nambiar, the host, converses with former 'Bigg Boss' contestants to explore their side of the story, address controversies or regrets, and share post-game reflections.</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p33906349_b_h10_aa.jpg"/>
+    <title lang="en">Chirikkum Thalika</title>
+    <desc lang="en">S2 , E120 : A comprehensive compilation of some of the best rib-tickling comedy scenes from various Malayalam movies featuring renowned actors and actresses.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p621682_b_h10_ab.jpg"/>
   </programme>
   <programme start="20261026193000 +0000" stop="20261026223000 +0000" channel="asianethd">
     <title lang="en">Two Countries</title>
@@ -1116,10 +1116,15 @@
     <desc lang="en">Barfi, a hearing and speech-impaired man, scores a second chance at love when he falls for Jhilmil, an autistic girl. However, things get complicated when Shruti, his first love, returns to his life.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p9357315_v_h10_af.jpg"/>
   </programme>
-  <programme start="20261026211300 +0000" stop="20261027020000 +0000" channel="embollywoodunlimited">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/2KIOKvF9.jpg"/>
+  <programme start="20261026211300 +0000" stop="20261026235200 +0000" channel="embollywoodunlimited">
+    <title lang="en">Aankhen</title>
+    <desc lang="en">Good-for-nothing brothers Munnu and Bunnu crack elaborate practical jokes, one of which gets out of hand. As a result, Bunnu goes missing and is presumed dead while Munnu is suspected of his murder.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p8239535_v_h10_ac.jpg"/>
+  </programme>
+  <programme start="20261026235200 +0000" stop="20261027015300 +0000" channel="embollywoodunlimited">
+    <title lang="en">Patna Shukla</title>
+    <desc lang="en">Tanvi Shukla, a housewife, is also a minor league lawyer. Her skills are put to the ultimate test when she helps a student expose an education scam.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p28974670_v_h10_aa.jpg"/>
   </programme>
   <programme start="20261026000000 +0000" stop="20261026003000 +0000" channel="sonytv">
     <title lang="en">Indian Game Show With Bharti And Harssh</title>
@@ -2833,7 +2838,7 @@
   </programme>
   <programme start="20261026190900 +0000" stop="20261026193600 +0000" channel="sabtv">
     <title lang="en">Hui Gumm Yaadein Ek Doctor, Do Zindagiyaan</title>
-    <desc lang="en">S1 , E174 : Dr Srishty firmly requests Dr Dev to cease observing her and her emotions, and he expresses his desire to remain with her. Observing their conversation, the villagers approach them the following day.</desc>
+    <desc lang="en">S1 , E174 : As tension grows between Dev and Srishty after a heated argument, those around them hope to bring them closer and mend the rift.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p32794904_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261026193600 +0000" stop="20261026200300 +0000" channel="sabtv">
@@ -2868,7 +2873,7 @@
   </programme>
   <programme start="20261026221900 +0000" stop="20261026224600 +0000" channel="sabtv">
     <title lang="en">Hui Gumm Yaadein Ek Doctor, Do Zindagiyaan</title>
-    <desc lang="en">S1 , E174 : Dr Srishty firmly requests Dr Dev to cease observing her and her emotions, and he expresses his desire to remain with her. Observing their conversation, the villagers approach them the following day.</desc>
+    <desc lang="en">S1 , E174 : As tension grows between Dev and Srishty after a heated argument, those around them hope to bring them closer and mend the rift.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p32794904_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261026224600 +0000" stop="20261026231200 +0000" channel="sabtv">
@@ -3012,39 +3017,39 @@
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29379941_b_h8_ab.jpg"/>
   </programme>
   <programme start="20261026200000 +0000" stop="20261026210000 +0000" channel="flowersinternational">
-    <title lang="en">Flowers Comedy Ith Item Vere</title>
-    <desc lang="en">Comedians take the stage and perform hilarious skits, showcasing their talent and attempting to impress the judges, in order to win the competition.</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29170189_b_h8_ab.jpg"/>
+    <title lang="en">Flowers Comedy - Ithu Item Vere</title>
+    <desc lang="en">S1 , E697 : Contestants showcase their comic prowess through entertaining and hilarious performances and skits in front of a panel of esteemed judges as they compete for a grand prize.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p31653490_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261026210000 +0000" stop="20261026213000 +0000" channel="flowersinternational">
-    <title lang="en">Panchagni</title>
-    <desc lang="en">A restaurant named Pancharatnam is run by five sisters, while their stepmother tries different tactics to close their business.</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29170753_b_h8_ab.jpg"/>
+    <title lang="en">Sithara</title>
+    <desc lang="en">S1 , E16 : </desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/UcNLhTLh.jpg"/>
   </programme>
   <programme start="20261026213000 +0000" stop="20261026220000 +0000" channel="flowersinternational">
-    <title lang="en">Veettile Vilakku</title>
-    <desc lang="en">A mother goes through various struggles and hardships as she battles for her child and motherhood amidst a complex family relationship.</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29496588_b_h10_ac.jpg"/>
-  </programme>
-  <programme start="20261026220000 +0000" stop="20261026223000 +0000" channel="flowersinternational">
     <title lang="en">Uppum Mulakum</title>
-    <desc lang="en">Balachandran and Neelima, who face many challenges to earn a living, aim to successfully fulfil their wish of going to a foreign country.</desc>
+    <desc lang="en">S1 , E740 : Balachandran and Neelima, who face many challenges to earn a living, aim to successfully fulfil their wish of going to a foreign country.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29171156_b_h8_ad.jpg"/>
   </programme>
-  <programme start="20261026223000 +0000" stop="20261026233000 +0000" channel="flowersinternational">
-    <title lang="en">Flowers Top Singer 5</title>
-    <desc lang="en">Talented young singers compete against each other as they perform on stage in front of a panel of judges to emerge victorious and win the title.</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29495896_b_h10_ac.jpg"/>
+  <programme start="20261026220000 +0000" stop="20261026223000 +0000" channel="flowersinternational">
+    <title lang="en">Sukhamo Devi</title>
+    <desc lang="en">S1 , E1086 : Devika is in love with Nandagopan, but Karthikeyan forces her to marry him. She elopes with Nandagopan only to get abandoned by him at the temple, which leads her to marry his friend.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29170986_b_h8_ab.jpg"/>
   </programme>
-  <programme start="20261026233000 +0000" stop="20261027000000 +0000" channel="flowersinternational">
-    <title lang="en">Veettile Vilakku</title>
-    <desc lang="en">A mother goes through various struggles and hardships as she battles for her child and motherhood amidst a complex family relationship.</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29496588_b_h10_ac.jpg"/>
+  <programme start="20261026223000 +0000" stop="20261026230000 +0000" channel="flowersinternational">
+    <title lang="en">Mahalakshmi</title>
+    <desc lang="en">S1 , E614 : Mahalakshmi faces the consequences of her stepfather's actions with strength, while Kannan, who survives an unexpected tragedy, becomes her unexpected support in a journey of survival.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29379941_b_h8_ab.jpg"/>
+  </programme>
+  <programme start="20261026230000 +0000" stop="20261027000000 +0000" channel="flowersinternational">
+    <title lang="en">Flowers Comedy - Ithu Item Vere</title>
+    <desc lang="en">S1 , E697 : Contestants showcase their comic prowess through entertaining and hilarious performances and skits in front of a panel of esteemed judges as they compete for a grand prize.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p31653490_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261027000000 +0000" stop="20261027003000 +0000" channel="flowersinternational">
-    <title lang="en">Sukhamo Devi</title>
-    <desc lang="en">Devika is in love with Nandagopan, but Karthikeyan forces her to marry him. She elopes with Nandagopan only to get abandoned by him at the temple, which leads her to marry his friend.</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29170986_b_h8_ab.jpg"/>
+    <title lang="en">Flowers Comedy Golden Moments</title>
+    <desc lang="en">S1 , E184 : Revisit the best moments of the show 'Flowers Comedy,' where comedians put on their greatest skits and performances for the audience.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29170069_b_h10_ab.jpg"/>
   </programme>
   <programme start="20261026000000 +0000" stop="20261026000000 +0000" channel="geotv">
     <title lang="en">Uswah</title>
@@ -3536,25 +3541,25 @@
     <desc lang="en">After the COVID-19 pandemic hits Sri Lanka, a family travels to India to begin a new life. Their arrival quickly transforms their new neighbourhood.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p30084675_v_h10_aa.jpg"/>
   </programme>
-  <programme start="20261026151900 +0000" stop="20261026170000 +0000" channel="emsimplysouth">
+  <programme start="20261026151900 +0000" stop="20261026190200 +0000" channel="emsimplysouth">
     <title lang="en">Feminist Fathima</title>
     <desc lang="en">A homemaker ignites subtle defiance by attempting to buy a new mattress, confronting patriarchy through minor acts of resistance as she seeks liberation from social constraints.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p32145000_b_h10_ab.jpg"/>
   </programme>
-  <programme start="20261026170000 +0000" stop="20261026200000 +0000" channel="emsimplysouth">
-    <title lang="en">Athibheekara Kaamukan</title>
-    <desc lang="en">A hopeless youth meets Yama, the Hindu death deity, starting a deep emotional voyage filled with love, laughter, sorrow and optimism. Consequently, this remarkable encounter brings renewal.</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p33924321_b_h8_aa.jpg"/>
-  </programme>
-  <programme start="20261026200000 +0000" stop="20261026230000 +0000" channel="emsimplysouth">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
+  <programme start="20261026190200 +0000" stop="20261026205900 +0000" channel="emsimplysouth">
+    <title lang="en">Striker</title>
+    <desc lang="en">Striker</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/GLmMTbx9.jpg"/>
   </programme>
-  <programme start="20261026230000 +0000" stop="20261027020000 +0000" channel="emsimplysouth">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/GLmMTbx9.jpg"/>
+  <programme start="20261026205900 +0000" stop="20261026230500 +0000" channel="emsimplysouth">
+    <title lang="en">Partner</title>
+    <desc lang="en">Two career thieves attempt to rob a scientist. However, things take a turn when one of them gets trapped in an experiment and turns into a woman.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p25512616_v_h10_aa.jpg"/>
+  </programme>
+  <programme start="20261026230500 +0000" stop="20261027015800 +0000" channel="emsimplysouth">
+    <title lang="en">Ka Pae Ranasingam</title>
+    <desc lang="en">Ariyanachi, a poor woman, strives to bring her deceased husband's body back to India from Dubai, battling the odds of political agenda, corruption and a treacherous bureaucracy that stand in her way.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p18876629_v_h10_ab.jpg"/>
   </programme>
   <programme start="20261026000000 +0000" stop="20261026003000 +0000" channel="zeekeralam">
     <title lang="en">Kudumbasree Sharada</title>
@@ -4522,18 +4527,18 @@
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p32827361_b_h10_ab.jpg"/>
   </programme>
   <programme start="20261026030000 +0000" stop="20261026033000 +0000" channel="starjalsha">
-    <title lang="en">Lokkhi Jhnapi</title>
-    <desc lang="en">S1 , E453 : Turna alleges Padma stole ornaments and demands Ujjayini inspect the matter. Consequently, Jhnapi compels Turna to confess guilt.</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p30821897_b_h8_ad.jpg"/>
-  </programme>
-  <programme start="20261026033000 +0000" stop="20261026040000 +0000" channel="starjalsha">
     <title lang="en">Gangaa</title>
     <desc lang="en">S1 , E229 : A tender moment blossoms on Ashtami when Arjun assists Gangaa with her saree. Soon after, Ahana gets drenched with water by Gangaa for attempting to draw close to Arjun.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p33318319_b_h8_aa.jpg"/>
   </programme>
+  <programme start="20261026033000 +0000" stop="20261026040000 +0000" channel="starjalsha">
+    <title lang="en">Ajmeri Gems House</title>
+    <desc lang="en">S1 , E1 : </desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p33303362_b_h10_aa.jpg"/>
+  </programme>
   <programme start="20261026040000 +0000" stop="20261026043000 +0000" channel="starjalsha">
     <title lang="en">Ashirbad</title>
-    <desc lang="en">S1 , E28 : After falling in love with Mallar, the youngest son in an affection-starved, all-male family, Meghla sets out to turn their disorganised residence into a warm, loving home.</desc>
+    <desc lang="en">S1 , E28 : A bathing mishap causes humour at Mallar's home while Kedar and Alap adorn a flowerbed. Therefore, Mallar fears that Meghla discovers it and fumes.</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/aASfXKeQ.jpg"/>
   </programme>
   <programme start="20261026043000 +0000" stop="20261026050000 +0000" channel="starjalsha">
@@ -4553,7 +4558,7 @@
   </programme>
   <programme start="20261026070000 +0000" stop="20261026073000 +0000" channel="starjalsha">
     <title lang="en">Tilottama</title>
-    <desc lang="en">S1 , E91 : A young female doctor faces a violent attack after uncovering medical corruption. However, things take a turn when a fearless person named Tomosha steps in to seek justice for her.</desc>
+    <desc lang="en">S1 , E91 : Tomosha urges Khagen to permit Debraj to lodge a police complaint against Rohit. Thereafter, Debraj declines to attend Adinath's Ashirbaad ceremony.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p33707253_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261026073000 +0000" stop="20261026093000 +0000" channel="starjalsha">
@@ -4562,9 +4567,9 @@
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p21611210_b_h8_aa.jpg"/>
   </programme>
   <programme start="20261026093000 +0000" stop="20261026113000 +0000" channel="starjalsha">
-    <title lang="en">Tumi Chherona Haat Pothe</title>
-    <desc lang="en">S1 , E382 : Cousins Moni and Rashi marry into the wealthy Modak family, seemingly living a dream. However, Moni soon finds herself battling conspiracies from unexpected quarters.</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p31393443_b_h8_ac.jpg"/>
+    <title lang="en">Maa</title>
+    <desc lang="en">S1 , E2 : Pratima Mukherjee, a mother, witnesses her daughter Pari being kidnapped. Years later, she crosses paths with her again after she's all grown up.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p26889340_b_h10_ab.jpg"/>
   </programme>
   <programme start="20261026113000 +0000" stop="20261026120000 +0000" channel="starjalsha">
     <title lang="en">Lokkhi Jhnapi</title>
@@ -4627,9 +4632,9 @@
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p33941707_b_h8_aa.jpg"/>
   </programme>
   <programme start="20261026190000 +0000" stop="20261026193000 +0000" channel="starjalsha">
-    <title lang="en">Ajmeri Gems House</title>
-    <desc lang="en">S1 , E1 : </desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p33303362_b_h10_aa.jpg"/>
+    <title lang="en">Ashirbad</title>
+    <desc lang="en">S1 , E29 : Mallar tells his marriage story to his brothers but Alap finds discrepancies in his tale. Later, Meghla becomes doubtful about Mallar's intentions.</desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/aASfXKeQ.jpg"/>
   </programme>
   <programme start="20261026193000 +0000" stop="20261026200000 +0000" channel="starjalsha">
     <title lang="en">Parashuram</title>
@@ -4642,9 +4647,9 @@
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p21611210_b_h8_aa.jpg"/>
   </programme>
   <programme start="20261026220000 +0000" stop="20261027000000 +0000" channel="starjalsha">
-    <title lang="en">Tumi Chherona Haat Pothe</title>
-    <desc lang="en">S1 , E382 : Cousins Moni and Rashi marry into the wealthy Modak family, seemingly living a dream. However, Moni soon finds herself battling conspiracies from unexpected quarters.</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p31393443_b_h8_ac.jpg"/>
+    <title lang="en">Maa</title>
+    <desc lang="en">S1 , E2 : Pratima Mukherjee, a mother, witnesses her daughter Pari being kidnapped. Years later, she crosses paths with her again after she's all grown up.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p26889340_b_h10_ab.jpg"/>
   </programme>
   <programme start="20261027000000 +0000" stop="20261027003000 +0000" channel="starjalsha">
     <title lang="en">Lokkhi Jhnapi</title>
@@ -4738,7 +4743,7 @@
   </programme>
   <programme start="20261026183000 +0000" stop="20261026193000 +0000" channel="colorsbangla">
     <title lang="en">Debi Niye Kando Hebbi</title>
-    <desc lang="en">S1 , E42 : The Durga Puja becomes a rivalry between the Baroari and Bonedi traditions. However, amidst the enmity, a new friendship blossoms, bringing them together.</desc>
+    <desc lang="en">S1 , E42 : Robi and Ratan confront Palash for hurting Suhashini, who rejects his apology and orders him to leave. Meanwhile, Bakul discovers the councillor's role in her kidnapping plot.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p34102270_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261026193000 +0000" stop="20261026203000 +0000" channel="colorsbangla">
