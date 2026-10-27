@@ -318,7 +318,7 @@
   </programme>
   <programme start="20261027183000 +0000" stop="20261027200000 +0000" channel="colorshd">
     <title lang="en">Bigg Boss</title>
-    <desc lang="en">S20 , E52 : Celebrity contestants live in an isolated house and perform assigned tasks, in order to win the cash prize, while also trying to avoid being eliminated.</desc>
+    <desc lang="en">S20 , E52 : Arishfa confronts the Gharwaales for violating a rule, and fights keep escalating in repetition. Afterwards, Gullu and Kanika concoct a scheme as the nomination game kicks off energetically.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p33987277_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261027200000 +0000" stop="20261027203000 +0000" channel="colorshd">
@@ -498,7 +498,7 @@
   </programme>
   <programme start="20261027220000 +0000" stop="20261027223000 +0000" channel="asianethd">
     <title lang="en">Advocate Anjali</title>
-    <desc lang="en">S1 , E267 : The relentlessly courageous Anjali takes on a threatening case, with justice on her mind. As the case unravels, so do hidden truths and family betrayals.</desc>
+    <desc lang="en">S1 , E267 : Sivasankari breaks down over Mukundan's death and confronts Raghavan Unni, holding him responsible. Indhu stuns the family by demanding a post-mortem on Mukundan's body.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p31653667_b_h10_ac.jpg"/>
   </programme>
   <programme start="20261027223000 +0000" stop="20261027230000 +0000" channel="asianethd">
@@ -703,8 +703,8 @@
   </programme>
   <programme start="20261027190000 +0000" stop="20261027193000 +0000" channel="colorskannada">
     <title lang="en">Sri Gandhada Gudi</title>
-    <desc lang="en">S1 , E372 : As Nataraja divides his wife's jewels, Kantirava yields his share to Chandana. Meanwhile, Chandana consoles a crushed Mahima, shattered by her parents' cruel absence.</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p31356156_b_h10_ab.jpg"/>
+    <desc lang="en">S1 , E372 : After Nataraja distributes his wife's jewellery among his sons, Kantirava passes his share to Chandana. Meanwhile, Chandana comforts Mahima over her parents missing the wedding.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p31372046_b_h8_ab.jpg"/>
   </programme>
   <programme start="20261027193000 +0000" stop="20261027200000 +0000" channel="colorskannada">
     <title lang="en">Muddu Sose</title>
@@ -748,8 +748,8 @@
   </programme>
   <programme start="20261027233000 +0000" stop="20261028000000 +0000" channel="colorskannada">
     <title lang="en">Sri Gandhada Gudi</title>
-    <desc lang="en">S1 , E372 : As Nataraja divides his wife's jewels, Kantirava yields his share to Chandana. Meanwhile, Chandana consoles a crushed Mahima, shattered by her parents' cruel absence.</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p31356156_b_h10_ab.jpg"/>
+    <desc lang="en">S1 , E372 : After Nataraja distributes his wife's jewellery among his sons, Kantirava passes his share to Chandana. Meanwhile, Chandana comforts Mahima over her parents missing the wedding.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p31372046_b_h8_ab.jpg"/>
   </programme>
   <programme start="20261028000000 +0000" stop="20261028003000 +0000" channel="colorskannada">
     <title lang="en">Gowri Kalyana</title>
@@ -1136,20 +1136,20 @@
     <desc lang="en">Inspector Simmba is a corrupt officer who works for a major smuggler. He finds his values challenged as the gangster's brothers assault his sworn sister.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p16310730_v_h8_ae.jpg"/>
   </programme>
-  <programme start="20261027193100 +0000" stop="20261027210000 +0000" channel="embollywoodunlimited">
+  <programme start="20261027193100 +0000" stop="20261027215900 +0000" channel="embollywoodunlimited">
     <title lang="en">Hungama</title>
     <desc lang="en">A millionaire businessman living in a village decides to move to the city with his wife. However, things take a comical turn as a case of mistaken identity causes chaos in their lives.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p82035_v_h10_ab.jpg"/>
   </programme>
-  <programme start="20261027210000 +0000" stop="20261027230000 +0000" channel="embollywoodunlimited">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/2KIOKvF9.jpg"/>
+  <programme start="20261027215900 +0000" stop="20261027234600 +0000" channel="embollywoodunlimited">
+    <title lang="en">X: Past Is Present</title>
+    <desc lang="en">A filmmaker goes to a party and meets a young girl who is half his age. They start talking and through the course of the night, she reminds him of every girl he has dated in the past.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p12351608_v_h10_aa.jpg"/>
   </programme>
-  <programme start="20261027230000 +0000" stop="20261028020000 +0000" channel="embollywoodunlimited">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/2KIOKvF9.jpg"/>
+  <programme start="20261027234600 +0000" stop="20261028020200 +0000" channel="embollywoodunlimited">
+    <title lang="en">Rocket Gang</title>
+    <desc lang="en">A group of friends visits a new resort, but their excitement is short-lived when they experience supernatural activities and are confronted by the ghosts of some young children.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p24480317_v_h10_aa.jpg"/>
   </programme>
   <programme start="20261027000000 +0000" stop="20261027003000 +0000" channel="sonytv">
     <title lang="en">The Kapil Sharma Show</title>
@@ -1493,7 +1493,7 @@
   </programme>
   <programme start="20261027183000 +0000" stop="20261027190000 +0000" channel="starplushd">
     <title lang="en">Apsara</title>
-    <desc lang="en">S1 , E7 : Empowered Sunheri continuously shields her heavenly community against prevailing malevolence. However, her sibling Dhara constantly opposes her.</desc>
+    <desc lang="en">S1 , E7 : Chitra discloses her true self to Sunheri, but Sunheri doesn't accept it. In the meantime, Tilotama ignites a blaze, while Shaurya saves Dhara as Chitra discloses Sunheri's history.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p34356169_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261027190000 +0000" stop="20261027193000 +0000" channel="starplushd">
@@ -1538,7 +1538,7 @@
   </programme>
   <programme start="20261028000000 +0000" stop="20261028003000 +0000" channel="starplushd">
     <title lang="en">Yeh Rishta Kya Kehlata Hai</title>
-    <desc lang="en">S1 , E5328 : Dr Abhimanyu, a misogamist, finds himself getting attracted to Akshara, Kartik and Naira's daughter. Things take a tricky turn when Akshara's half-sister, Arohi, falls in love with him.</desc>
+    <desc lang="en">S1 , E5328 : The Poddars reach the Damani residence while Maira and Kabir barely miss one another. At the same time, Krish mocks Abhira and Armaan, while Maira identifies Kabir's scent.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p1002730_b_h8_ad.jpg"/>
   </programme>
   <programme start="20261027000000 +0000" stop="20261027000000 +0000" channel="republictv">
@@ -3611,20 +3611,25 @@
     <desc lang="en">Amid efforts from bigots to limit schooling, a young teacher joins his father in their family legacy to continue ensuring equal education for all.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p30570198_v_h10_aa.jpg"/>
   </programme>
-  <programme start="20261027170000 +0000" stop="20261027200000 +0000" channel="emsimplysouth">
+  <programme start="20261027170000 +0000" stop="20261027190600 +0000" channel="emsimplysouth">
+    <title lang="en">No program available</title>
+    <desc lang="en">No program available</desc>
+    <icon src="http://mena-img-cdn-lb.aws.playco.com/ev-livechannels-avod/AVODEMSIMPLYSOUTHY2004M/AVODEMSIMPLYSOUTHY2004M-landscape-poster-v1.jpg"/>
+  </programme>
+  <programme start="20261027190600 +0000" stop="20261027212800 +0000" channel="emsimplysouth">
+    <title lang="en">Tamizh Padam 2</title>
+    <desc lang="en">Shiva, a former cop, vows never to return to the force, but when his wife is brutally murdered by the notorious don P, he swears vengeance.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p15910263_v_h8_ac.jpg"/>
+  </programme>
+  <programme start="20261027212800 +0000" stop="20261027234600 +0000" channel="emsimplysouth">
+    <title lang="en">Raavana Kottam</title>
+    <desc lang="en">Two prominent communities in a village live harmoniously under their leaders. However, a series of premeditated crimes by corrupt bureaucrats result in communal turmoil.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p24665057_v_h10_aa.jpg"/>
+  </programme>
+  <programme start="20261027234600 +0000" stop="20261028015300 +0000" channel="emsimplysouth">
     <title lang="en">Amoz Alexander</title>
     <desc lang="en">Amoz Alexander</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p33924362_b_h8_aa.jpg"/>
-  </programme>
-  <programme start="20261027200000 +0000" stop="20261027230000 +0000" channel="emsimplysouth">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/GLmMTbx9.jpg"/>
-  </programme>
-  <programme start="20261027230000 +0000" stop="20261028020000 +0000" channel="emsimplysouth">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/GLmMTbx9.jpg"/>
   </programme>
   <programme start="20261027000000 +0000" stop="20261027020000 +0000" channel="zeekeralam">
     <title lang="en">Movie</title>
@@ -5017,9 +5022,9 @@
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/SFeblxjv.jpg"/>
   </programme>
   <programme start="20261027220000 +0000" stop="20261027230000 +0000" channel="arydigital">
-    <title lang="en">Main Tera</title>
-    <desc lang="en">Main Tera</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p33618378_b_h10_ab.jpg"/>
+    <title lang="en">Lagan Lagi</title>
+    <desc lang="en">Lagan Lagi</desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/SFeblxjv.jpg"/>
   </programme>
   <programme start="20261027230000 +0000" stop="20261028010000 +0000" channel="arydigital">
     <title lang="en">Good Morning Pakistan</title>
