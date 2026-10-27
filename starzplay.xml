@@ -3067,39 +3067,39 @@
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29379941_b_h8_ab.jpg"/>
   </programme>
   <programme start="20261027200000 +0000" stop="20261027210000 +0000" channel="flowersinternational">
-    <title lang="en">Flowers Comedy Ith Item Vere</title>
-    <desc lang="en">Comedians take the stage and perform hilarious skits, showcasing their talent and attempting to impress the judges, in order to win the competition.</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29170189_b_h8_ab.jpg"/>
+    <title lang="en">Flowers Comedy - Ithu Item Vere</title>
+    <desc lang="en">S1 , E698 : Contestants showcase their comic prowess through entertaining and hilarious performances and skits in front of a panel of esteemed judges as they compete for a grand prize.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p31653490_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261027210000 +0000" stop="20261027213000 +0000" channel="flowersinternational">
-    <title lang="en">Panchagni</title>
-    <desc lang="en">A restaurant named Pancharatnam is run by five sisters, while their stepmother tries different tactics to close their business.</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29170753_b_h8_ab.jpg"/>
+    <title lang="en">Sithara</title>
+    <desc lang="en">S1 , E17 : </desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/UcNLhTLh.jpg"/>
   </programme>
   <programme start="20261027213000 +0000" stop="20261027220000 +0000" channel="flowersinternational">
-    <title lang="en">Veettile Vilakku</title>
-    <desc lang="en">A mother goes through various struggles and hardships as she battles for her child and motherhood amidst a complex family relationship.</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29496588_b_h10_ac.jpg"/>
-  </programme>
-  <programme start="20261027220000 +0000" stop="20261027223000 +0000" channel="flowersinternational">
     <title lang="en">Uppum Mulakum</title>
-    <desc lang="en">Balachandran and Neelima, who face many challenges to earn a living, aim to successfully fulfil their wish of going to a foreign country.</desc>
+    <desc lang="en">S1 , E741 : Balachandran and Neelima, who face many challenges to earn a living, aim to successfully fulfil their wish of going to a foreign country.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29171156_b_h8_ad.jpg"/>
   </programme>
-  <programme start="20261027223000 +0000" stop="20261027233000 +0000" channel="flowersinternational">
-    <title lang="en">Flowers Top Singer 5</title>
-    <desc lang="en">Talented young singers compete against each other as they perform on stage in front of a panel of judges to emerge victorious and win the title.</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29495896_b_h10_ac.jpg"/>
+  <programme start="20261027220000 +0000" stop="20261027223000 +0000" channel="flowersinternational">
+    <title lang="en">Sukhamo Devi</title>
+    <desc lang="en">S1 , E1087 : Devika is in love with Nandagopan, but Karthikeyan forces her to marry him. She elopes with Nandagopan only to get abandoned by him at the temple, which leads her to marry his friend.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29170986_b_h8_ab.jpg"/>
   </programme>
-  <programme start="20261027233000 +0000" stop="20261028000000 +0000" channel="flowersinternational">
-    <title lang="en">Veettile Vilakku</title>
-    <desc lang="en">A mother goes through various struggles and hardships as she battles for her child and motherhood amidst a complex family relationship.</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29496588_b_h10_ac.jpg"/>
+  <programme start="20261027223000 +0000" stop="20261027230000 +0000" channel="flowersinternational">
+    <title lang="en">Mahalakshmi</title>
+    <desc lang="en">S1 , E615 : Mahalakshmi faces the consequences of her stepfather's actions with strength, while Kannan, who survives an unexpected tragedy, becomes her unexpected support in a journey of survival.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29379941_b_h8_ab.jpg"/>
+  </programme>
+  <programme start="20261027230000 +0000" stop="20261028000000 +0000" channel="flowersinternational">
+    <title lang="en">Flowers Comedy - Ithu Item Vere</title>
+    <desc lang="en">S1 , E698 : Contestants showcase their comic prowess through entertaining and hilarious performances and skits in front of a panel of esteemed judges as they compete for a grand prize.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p31653490_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261028000000 +0000" stop="20261028003000 +0000" channel="flowersinternational">
-    <title lang="en">Sukhamo Devi</title>
-    <desc lang="en">Devika is in love with Nandagopan, but Karthikeyan forces her to marry him. She elopes with Nandagopan only to get abandoned by him at the temple, which leads her to marry his friend.</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29170986_b_h8_ab.jpg"/>
+    <title lang="en">Flowers Comedy Golden Moments</title>
+    <desc lang="en">S1 , E185 : Revisit the best moments of the show 'Flowers Comedy,' where comedians put on their greatest skits and performances for the audience.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29170069_b_h10_ab.jpg"/>
   </programme>
   <programme start="20261027000000 +0000" stop="20261027000000 +0000" channel="geotv">
     <title lang="en">Uswah</title>
@@ -3251,12 +3251,12 @@
     <desc lang="en">A fisherman saves a suicidal Unni, only to sell him to a Punjabi moneylender in Kerala. Unni is then forced to pose as a man with hearing and speech impairment, resulting in hilarious consequences.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p17136655_b_h8_ab.jpg"/>
   </programme>
-  <programme start="20261027043000 +0000" stop="20261027073000 +0000" channel="asianetmovieshd">
+  <programme start="20261027043000 +0000" stop="20261027072500 +0000" channel="asianetmovieshd">
     <title lang="en">Vettam</title>
     <desc lang="en">Gopalakrishnan meets Veena while trying to smuggle a stolen necklace. Later, he accompanies Veena on her mission to unite with her lover.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p10692755_v_h8_ab.jpg"/>
   </programme>
-  <programme start="20261027073000 +0000" stop="20261027103000 +0000" channel="asianetmovieshd">
+  <programme start="20261027072500 +0000" stop="20261027103000 +0000" channel="asianetmovieshd">
     <title lang="en">Two Countries</title>
     <desc lang="en">Ullas schemes to marry Simran, a woman with a disability, to avoid repaying a debt, but faces complications when Laya, a wealthy alcoholic, enters his life, turning his plans upside down.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p12510096_v_h10_aa.jpg"/>
@@ -3271,22 +3271,22 @@
     <desc lang="en">The life of an ordinary driver Keshu turns upside down when he wins a lottery worth 12 crores, but his morality gets tested.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p21427834_b_h8_ad.jpg"/>
   </programme>
-  <programme start="20261027163000 +0000" stop="20261027193000 +0000" channel="asianetmovieshd">
+  <programme start="20261027163000 +0000" stop="20261027191000 +0000" channel="asianetmovieshd">
     <title lang="en">Ee Parakkum Thalika</title>
     <desc lang="en">Unni, a bus owner, tries several ways to improve the condition of his bus, which is named after his late father. Things take a turn when the daughter of a powerful politician enters his life.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p10070032_v_h10_aa.jpg"/>
   </programme>
-  <programme start="20261027193000 +0000" stop="20261027213000 +0000" channel="asianetmovieshd">
+  <programme start="20261027191000 +0000" stop="20261027213000 +0000" channel="asianetmovieshd">
     <title lang="en">Spanish Masala</title>
     <desc lang="en">Charlie works at an Indian restaurant in Spain. Skilled in imitating voices, he becomes close to his employer's blind daughter by imitating her lost boyfriend's voice and tries to reunite them.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p9056859_v_h10_ab.jpg"/>
   </programme>
-  <programme start="20261027213000 +0000" stop="20261027233000 +0000" channel="asianetmovieshd">
+  <programme start="20261027213000 +0000" stop="20261027232000 +0000" channel="asianetmovieshd">
     <title lang="en">Aagathan</title>
     <desc lang="en">En route to Bangalore, a man falls in love with a beautiful girl. But he soon realises that her father was responsible for the death of his sister during a terrorist attack a long time ago.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p10727976_v_h10_aa.jpg"/>
   </programme>
-  <programme start="20261027233000 +0000" stop="20261028013000 +0000" channel="asianetmovieshd">
+  <programme start="20261027232000 +0000" stop="20261028013000 +0000" channel="asianetmovieshd">
     <title lang="en">Sundarakilladi</title>
     <desc lang="en">Without knowing the risk of his work, a man goes to a village to dig a well as they are facing water scarcity. However, his life takes a turn when he falls in love with a girl.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p14862407_v_h10_aa.jpg"/>
@@ -4938,8 +4938,8 @@
   </programme>
   <programme start="20261027023000 +0000" stop="20261027040000 +0000" channel="arydigital">
     <title lang="en">Tamasha</title>
-    <desc lang="en">Rai Bahadur does not approve of his grandson's girlfriend, who is an aspiring actress. To gain his approval, the boy lies to him that he is now in love with a college-going girl from a decent family.</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p26390892_v_h8_aa.jpg"/>
+    <desc lang="en">Celebrity contestants live in an isolated house and perform assigned tasks, in order to win the cash prize, while also trying to avoid elimination.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p25361506_b_h10_ab.jpg"/>
   </programme>
   <programme start="20261027040000 +0000" stop="20261027063000 +0000" channel="arydigital">
     <title lang="en">Good Morning Pakistan</title>
@@ -4968,8 +4968,8 @@
   </programme>
   <programme start="20261027110000 +0000" stop="20261027123000 +0000" channel="arydigital">
     <title lang="en">Tamasha</title>
-    <desc lang="en">Rai Bahadur does not approve of his grandson's girlfriend, who is an aspiring actress. To gain his approval, the boy lies to him that he is now in love with a college-going girl from a decent family.</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p26390892_v_h8_aa.jpg"/>
+    <desc lang="en">Celebrity contestants live in an isolated house and perform assigned tasks, in order to win the cash prize, while also trying to avoid elimination.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p25361506_b_h10_ab.jpg"/>
   </programme>
   <programme start="20261027123000 +0000" stop="20261027133000 +0000" channel="arydigital">
     <title lang="en">Main Tera</title>
@@ -4998,8 +4998,8 @@
   </programme>
   <programme start="20261027180000 +0000" stop="20261027193000 +0000" channel="arydigital">
     <title lang="en">Tamasha</title>
-    <desc lang="en">Rai Bahadur does not approve of his grandson's girlfriend, who is an aspiring actress. To gain his approval, the boy lies to him that he is now in love with a college-going girl from a decent family.</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p26390892_v_h8_aa.jpg"/>
+    <desc lang="en">Celebrity contestants live in an isolated house and perform assigned tasks, in order to win the cash prize, while also trying to avoid elimination.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p25361506_b_h10_ab.jpg"/>
   </programme>
   <programme start="20261027193000 +0000" stop="20261027200000 +0000" channel="arydigital">
     <title lang="en">Bulbulay</title>
