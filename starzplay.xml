@@ -398,7 +398,7 @@
   </programme>
   <programme start="20261028043000 +0000" stop="20261028050000 +0000" channel="asianethd">
     <title lang="en">Ee Puzhayum Kadannu</title>
-    <desc lang="en">S1 , E90 : Anjali hates Gopi but eventually falls in love with him. However, she is unable to marry him as she has two sisters who are still single.</desc>
+    <desc lang="en">S1 , E198 : A heartbroken Nivin comes to Naren and Kaveri's reception. Later, Saradha becomes emotional when Nila, Radhamma, Yamuna and Vineeth decide to attend an event.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p32308078_b_h10_ab.jpg"/>
   </programme>
   <programme start="20261028050000 +0000" stop="20261028073000 +0000" channel="asianethd">
@@ -438,7 +438,7 @@
   </programme>
   <programme start="20261028133000 +0000" stop="20261028140000 +0000" channel="asianethd">
     <title lang="en">Ee Puzhayum Kadannu</title>
-    <desc lang="en">S1 , E90 : Anjali hates Gopi but eventually falls in love with him. However, she is unable to marry him as she has two sisters who are still single.</desc>
+    <desc lang="en">S1 , E198 : A heartbroken Nivin comes to Naren and Kaveri's reception. Later, Saradha becomes emotional when Nila, Radhamma, Yamuna and Vineeth decide to attend an event.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p32308078_b_h10_ab.jpg"/>
   </programme>
   <programme start="20261028140000 +0000" stop="20261028143000 +0000" channel="asianethd">
@@ -453,7 +453,7 @@
   </programme>
   <programme start="20261028150000 +0000" stop="20261028153000 +0000" channel="asianethd">
     <title lang="en">Mazha Thorum Munpe</title>
-    <desc lang="en">S1 , E306 : Rahman finds Nandakumar depressed in Kolkata after a 5-year disappearance. Flashbacks reveal Nandakumar's life as a professor, a love triangle, and tragic events leading to his despair.</desc>
+    <desc lang="en">S1 , E454 : Stanly ruthlessly forces an arranged match on Aleena, crushing her plea to wed Manu. Desperate to break free, she demands cash to revive Snehanikethanam and flee.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p30645322_b_h8_ad.jpg"/>
   </programme>
   <programme start="20261028153000 +0000" stop="20261028160000 +0000" channel="asianethd">
@@ -478,7 +478,7 @@
   </programme>
   <programme start="20261028171000 +0000" stop="20261028173000 +0000" channel="asianethd">
     <title lang="en">Ee Puzhayum Kadannu</title>
-    <desc lang="en">S1 , E91 : Anjali hates Gopi but eventually falls in love with him. However, she is unable to marry him as she has two sisters who are still single.</desc>
+    <desc lang="en">S1 , E199 : Ragini taunts Nivin over missing his chance to marry Kaveri on the reception day. Meanwhile, Kaveri leaves Nivin heartbroken after warning him to stay away.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p32308078_b_h10_ab.jpg"/>
   </programme>
   <programme start="20261028173000 +0000" stop="20261028183000 +0000" channel="asianethd">
@@ -503,7 +503,7 @@
   </programme>
   <programme start="20261028223000 +0000" stop="20261028230000 +0000" channel="asianethd">
     <title lang="en">Mazha Thorum Munpe</title>
-    <desc lang="en">S1 , E306 : Rahman finds Nandakumar depressed in Kolkata after a 5-year disappearance. Flashbacks reveal Nandakumar's life as a professor, a love triangle, and tragic events leading to his despair.</desc>
+    <desc lang="en">S1 , E454 : Stanly ruthlessly forces an arranged match on Aleena, crushing her plea to wed Manu. Desperate to break free, she demands cash to revive Snehanikethanam and flee.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p30645322_b_h8_ad.jpg"/>
   </programme>
   <programme start="20261028230000 +0000" stop="20261028233000 +0000" channel="asianethd">
@@ -1198,7 +1198,7 @@
   </programme>
   <programme start="20261028063000 +0000" stop="20261028080000 +0000" channel="sonytv">
     <title lang="en">Kaun Banega Crorepati</title>
-    <desc lang="en">S18 , E57 : Host Amitabh Bachchan asks a series of questions to several contestants to test their general knowledge and give them a chance to win a cash prize.</desc>
+    <desc lang="en">S18 , E57 : Abhishek Debsharma competes against Rajlaxmi Swain in an intense contest for the title. Meanwhile, both participants push their limits to emerge triumphant.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p33766470_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261028080000 +0000" stop="20261028083000 +0000" channel="sonytv">
@@ -1233,7 +1233,7 @@
   </programme>
   <programme start="20261028130000 +0000" stop="20261028143000 +0000" channel="sonytv">
     <title lang="en">Kaun Banega Crorepati</title>
-    <desc lang="en">S18 , E57 : Host Amitabh Bachchan asks a series of questions to several contestants to test their general knowledge and give them a chance to win a cash prize.</desc>
+    <desc lang="en">S18 , E57 : Abhishek Debsharma competes against Rajlaxmi Swain in an intense contest for the title. Meanwhile, both participants push their limits to emerge triumphant.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p33766470_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261028143000 +0000" stop="20261028150000 +0000" channel="sonytv">
@@ -2428,32 +2428,32 @@
   </programme>
   <programme start="20261028000000 +0000" stop="20261028000000 +0000" channel="zeetvhd">
     <title lang="en">Tum Se Tum Tak</title>
-    <desc lang="en">S1 , E475 : A young woman's unexpected bond with a much older businessman brings emotional twists while challenging societal expectations and family ideals.</desc>
+    <desc lang="en">S1 , E474 : A young woman's unexpected bond with a much older businessman brings emotional twists while challenging societal expectations and family ideals.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p30514065_b_h8_ac.jpg"/>
   </programme>
   <programme start="20261028000000 +0000" stop="20261028003000 +0000" channel="zeetvhd">
     <title lang="en">Ganga Mai Ki Betiyaan</title>
-    <desc lang="en">S1 , E396 : After her husband abandons her for not giving birth to a son, a resilient Ganga Mai dedicates herself to raising her three daughters with unwavering strength, grace, and affection.</desc>
+    <desc lang="en">S1 , E395 : After her husband abandons her for not giving birth to a son, a resilient Ganga Mai dedicates herself to raising her three daughters with unwavering strength, grace, and affection.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p31042360_b_h8_ac.jpg"/>
   </programme>
   <programme start="20261028003000 +0000" stop="20261028010000 +0000" channel="zeetvhd">
     <title lang="en">Jagadhatri</title>
-    <desc lang="en">S1 , E342 : Unbeknownst to her family, a young woman leads a double life as an undercover intelligence officer, determined to clear her mother's name.</desc>
+    <desc lang="en">S1 , E338 : Unbeknownst to her family, a young woman leads a double life as an undercover intelligence officer, determined to clear her mother's name.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p31685189_b_h10_ac.jpg"/>
   </programme>
   <programme start="20261028010000 +0000" stop="20261028013000 +0000" channel="zeetvhd">
     <title lang="en">Vasudha</title>
-    <desc lang="en">S1 , E718 : Though they have different perspectives, the amiable and endearing Vasudha works as a housekeeper in Chandrika, a business tycoon's house.</desc>
+    <desc lang="en">S1 , E714 : Samar manages to make Prabhat unconscious, while Vasudha attempts to seek blessings from him before the wedding.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p28225153_b_h8_ac.jpg"/>
   </programme>
   <programme start="20261028013000 +0000" stop="20261028020000 +0000" channel="zeetvhd">
     <title lang="en">Tum Se Tum Tak</title>
-    <desc lang="en">S1 , E475 : A young woman's unexpected bond with a much older businessman brings emotional twists while challenging societal expectations and family ideals.</desc>
+    <desc lang="en">S1 , E474 : A young woman's unexpected bond with a much older businessman brings emotional twists while challenging societal expectations and family ideals.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p30514065_b_h8_ac.jpg"/>
   </programme>
   <programme start="20261028020000 +0000" stop="20261028023000 +0000" channel="zeetvhd">
     <title lang="en">Qubool Hai</title>
-    <desc lang="en">S1 , E126 : A shattered Asad lets Zoya be taken away for deportation. However, after Dilshad reveals that Zoya was only acting in his best interest, Asad frantically searches for her at the airport.</desc>
+    <desc lang="en">S1 , E125 : Razia pays no heed when Zoya claims that she and Dilshad are innocent. Later, an enraged Asad informs Mr Bhatawdekar that he lied about being engaged to Zoya.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p15959186_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261028023000 +0000" stop="20261028030000 +0000" channel="zeetvhd">
@@ -2468,57 +2468,57 @@
   </programme>
   <programme start="20261028033000 +0000" stop="20261028040000 +0000" channel="zeetvhd">
     <title lang="en">Tu Hi Re Dil Mein</title>
-    <desc lang="en">S1 , E135 : Deeming it a lucky charm, Vrinda marries Sanjay, who loves Divya. Serving as a caretaker in his home, she endures silent sacrifices, wondering if love will ever find her.</desc>
+    <desc lang="en">S1 , E133 : Sarita questions Swati directly regarding her marriage to Sanjay. Meanwhile, an anxious Gautam fears that Swati might unravel his carefully arranged schemes.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p33321700_b_h10_ac.jpg"/>
   </programme>
   <programme start="20261028040000 +0000" stop="20261028050000 +0000" channel="zeetvhd">
     <title lang="en">Lakshmi Nivas</title>
-    <desc lang="en">S1 , E287 : Lakshmi abandons her affluent roots to build a selfless life with Shriniwas. Decades on, the couple work tirelessly to secure their own house and fund a grand wedding for their daughter.</desc>
+    <desc lang="en">S1 , E285 : Lakshmi abandons her affluent roots to build a selfless life with Shriniwas. Decades on, the couple work tirelessly to secure their own house and fund a grand wedding for their daughter.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p32205890_b_h8_ab.jpg"/>
   </programme>
   <programme start="20261028050000 +0000" stop="20261028053000 +0000" channel="zeetvhd">
     <title lang="en">Dilo Ki Ram Leela</title>
-    <desc lang="en">S1 , E57 : Leela desires her father's affection deeply, seeking peace and joy. Moreover, she discovers complete solace and family with Ram.</desc>
+    <desc lang="en">S1 , E53 : Leela desires her father's affection deeply, seeking peace and joy. Moreover, she discovers complete solace and family with Ram.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p33959512_b_h10_ab.jpg"/>
   </programme>
   <programme start="20261028053000 +0000" stop="20261028060000 +0000" channel="zeetvhd">
     <title lang="en">Tum Se Tum Tak</title>
-    <desc lang="en">S1 , E475 : A young woman's unexpected bond with a much older businessman brings emotional twists while challenging societal expectations and family ideals.</desc>
+    <desc lang="en">S1 , E474 : A young woman's unexpected bond with a much older businessman brings emotional twists while challenging societal expectations and family ideals.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p30514065_b_h8_ac.jpg"/>
   </programme>
   <programme start="20261028060000 +0000" stop="20261028063000 +0000" channel="zeetvhd">
     <title lang="en">Ganga Mai Ki Betiyaan</title>
-    <desc lang="en">S1 , E396 : After her husband abandons her for not giving birth to a son, a resilient Ganga Mai dedicates herself to raising her three daughters with unwavering strength, grace, and affection.</desc>
+    <desc lang="en">S1 , E395 : After her husband abandons her for not giving birth to a son, a resilient Ganga Mai dedicates herself to raising her three daughters with unwavering strength, grace, and affection.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p31042360_b_h8_ac.jpg"/>
   </programme>
   <programme start="20261028063000 +0000" stop="20261028070000 +0000" channel="zeetvhd">
     <title lang="en">Jagadhatri</title>
-    <desc lang="en">S1 , E342 : Unbeknownst to her family, a young woman leads a double life as an undercover intelligence officer, determined to clear her mother's name.</desc>
+    <desc lang="en">S1 , E338 : Unbeknownst to her family, a young woman leads a double life as an undercover intelligence officer, determined to clear her mother's name.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p31685189_b_h10_ac.jpg"/>
   </programme>
   <programme start="20261028070000 +0000" stop="20261028073000 +0000" channel="zeetvhd">
     <title lang="en">Vasudha</title>
-    <desc lang="en">S1 , E718 : Though they have different perspectives, the amiable and endearing Vasudha works as a housekeeper in Chandrika, a business tycoon's house.</desc>
+    <desc lang="en">S1 , E714 : Samar manages to make Prabhat unconscious, while Vasudha attempts to seek blessings from him before the wedding.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p28225153_b_h8_ac.jpg"/>
   </programme>
   <programme start="20261028073000 +0000" stop="20261028080000 +0000" channel="zeetvhd">
     <title lang="en">Tum Se Tum Tak</title>
-    <desc lang="en">S1 , E475 : A young woman's unexpected bond with a much older businessman brings emotional twists while challenging societal expectations and family ideals.</desc>
+    <desc lang="en">S1 , E474 : A young woman's unexpected bond with a much older businessman brings emotional twists while challenging societal expectations and family ideals.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p30514065_b_h8_ac.jpg"/>
   </programme>
   <programme start="20261028080000 +0000" stop="20261028090000 +0000" channel="zeetvhd">
     <title lang="en">Lakshmi Nivas</title>
-    <desc lang="en">S1 , E287 : Lakshmi abandons her affluent roots to build a selfless life with Shriniwas. Decades on, the couple work tirelessly to secure their own house and fund a grand wedding for their daughter.</desc>
+    <desc lang="en">S1 , E285 : Lakshmi abandons her affluent roots to build a selfless life with Shriniwas. Decades on, the couple work tirelessly to secure their own house and fund a grand wedding for their daughter.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p32205890_b_h8_ab.jpg"/>
   </programme>
   <programme start="20261028090000 +0000" stop="20261028093000 +0000" channel="zeetvhd">
     <title lang="en">Qubool Hai</title>
-    <desc lang="en">S1 , E126 : A shattered Asad lets Zoya be taken away for deportation. However, after Dilshad reveals that Zoya was only acting in his best interest, Asad frantically searches for her at the airport.</desc>
+    <desc lang="en">S1 , E125 : Razia pays no heed when Zoya claims that she and Dilshad are innocent. Later, an enraged Asad informs Mr Bhatawdekar that he lied about being engaged to Zoya.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p15959186_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261028093000 +0000" stop="20261028100000 +0000" channel="zeetvhd">
     <title lang="en">Tum Se Tum Tak</title>
-    <desc lang="en">S1 , E475 : A young woman's unexpected bond with a much older businessman brings emotional twists while challenging societal expectations and family ideals.</desc>
+    <desc lang="en">S1 , E474 : A young woman's unexpected bond with a much older businessman brings emotional twists while challenging societal expectations and family ideals.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p30514065_b_h8_ac.jpg"/>
   </programme>
   <programme start="20261028100000 +0000" stop="20261028103000 +0000" channel="zeetvhd">
@@ -2528,47 +2528,47 @@
   </programme>
   <programme start="20261028103000 +0000" stop="20261028110000 +0000" channel="zeetvhd">
     <title lang="en">Tu Hi Re Dil Mein</title>
-    <desc lang="en">S1 , E135 : Deeming it a lucky charm, Vrinda marries Sanjay, who loves Divya. Serving as a caretaker in his home, she endures silent sacrifices, wondering if love will ever find her.</desc>
+    <desc lang="en">S1 , E133 : Sarita questions Swati directly regarding her marriage to Sanjay. Meanwhile, an anxious Gautam fears that Swati might unravel his carefully arranged schemes.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p33321700_b_h10_ac.jpg"/>
   </programme>
   <programme start="20261028110000 +0000" stop="20261028120000 +0000" channel="zeetvhd">
     <title lang="en">Lakshmi Nivas</title>
-    <desc lang="en">S1 , E287 : Lakshmi abandons her affluent roots to build a selfless life with Shriniwas. Decades on, the couple work tirelessly to secure their own house and fund a grand wedding for their daughter.</desc>
+    <desc lang="en">S1 , E285 : Lakshmi abandons her affluent roots to build a selfless life with Shriniwas. Decades on, the couple work tirelessly to secure their own house and fund a grand wedding for their daughter.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p32205890_b_h8_ab.jpg"/>
   </programme>
   <programme start="20261028120000 +0000" stop="20261028123000 +0000" channel="zeetvhd">
     <title lang="en">Dilo Ki Ram Leela</title>
-    <desc lang="en">S1 , E57 : Leela desires her father's affection deeply, seeking peace and joy. Moreover, she discovers complete solace and family with Ram.</desc>
+    <desc lang="en">S1 , E53 : Leela desires her father's affection deeply, seeking peace and joy. Moreover, she discovers complete solace and family with Ram.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p33959512_b_h10_ab.jpg"/>
   </programme>
   <programme start="20261028123000 +0000" stop="20261028130000 +0000" channel="zeetvhd">
     <title lang="en">Tum Se Tum Tak</title>
-    <desc lang="en">S1 , E475 : A young woman's unexpected bond with a much older businessman brings emotional twists while challenging societal expectations and family ideals.</desc>
+    <desc lang="en">S1 , E474 : A young woman's unexpected bond with a much older businessman brings emotional twists while challenging societal expectations and family ideals.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p30514065_b_h8_ac.jpg"/>
   </programme>
   <programme start="20261028130000 +0000" stop="20261028133000 +0000" channel="zeetvhd">
     <title lang="en">Ganga Mai Ki Betiyaan</title>
-    <desc lang="en">S1 , E396 : After her husband abandons her for not giving birth to a son, a resilient Ganga Mai dedicates herself to raising her three daughters with unwavering strength, grace, and affection.</desc>
+    <desc lang="en">S1 , E395 : After her husband abandons her for not giving birth to a son, a resilient Ganga Mai dedicates herself to raising her three daughters with unwavering strength, grace, and affection.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p31042360_b_h8_ac.jpg"/>
   </programme>
   <programme start="20261028133000 +0000" stop="20261028140000 +0000" channel="zeetvhd">
     <title lang="en">Jagadhatri</title>
-    <desc lang="en">S1 , E342 : Unbeknownst to her family, a young woman leads a double life as an undercover intelligence officer, determined to clear her mother's name.</desc>
+    <desc lang="en">S1 , E338 : Unbeknownst to her family, a young woman leads a double life as an undercover intelligence officer, determined to clear her mother's name.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p31685189_b_h10_ac.jpg"/>
   </programme>
   <programme start="20261028140000 +0000" stop="20261028143000 +0000" channel="zeetvhd">
     <title lang="en">Vasudha</title>
-    <desc lang="en">S1 , E718 : Though they have different perspectives, the amiable and endearing Vasudha works as a housekeeper in Chandrika, a business tycoon's house.</desc>
+    <desc lang="en">S1 , E714 : Samar manages to make Prabhat unconscious, while Vasudha attempts to seek blessings from him before the wedding.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p28225153_b_h8_ac.jpg"/>
   </programme>
   <programme start="20261028143000 +0000" stop="20261028150000 +0000" channel="zeetvhd">
     <title lang="en">Tum Se Tum Tak</title>
-    <desc lang="en">S1 , E475 : A young woman's unexpected bond with a much older businessman brings emotional twists while challenging societal expectations and family ideals.</desc>
+    <desc lang="en">S1 , E474 : A young woman's unexpected bond with a much older businessman brings emotional twists while challenging societal expectations and family ideals.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p30514065_b_h8_ac.jpg"/>
   </programme>
   <programme start="20261028150000 +0000" stop="20261028153000 +0000" channel="zeetvhd">
     <title lang="en">Qubool Hai</title>
-    <desc lang="en">S1 , E127 : Zoya, an NRI, comes to India to look for her biological father. However, when she meets Asad, a charming young man, she falls in love with him.</desc>
+    <desc lang="en">S1 , E126 : A shattered Asad lets Zoya be taken away for deportation. However, after Dilshad reveals that Zoya was only acting in his best interest, Asad frantically searches for her at the airport.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p15959186_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261028153000 +0000" stop="20261028160000 +0000" channel="zeetvhd">
@@ -2578,47 +2578,47 @@
   </programme>
   <programme start="20261028160000 +0000" stop="20261028163000 +0000" channel="zeetvhd">
     <title lang="en">Tu Hi Re Dil Mein</title>
-    <desc lang="en">S1 , E136 : Deeming it a lucky charm, Vrinda marries Sanjay, who loves Divya. Serving as a caretaker in his home, she endures silent sacrifices, wondering if love will ever find her.</desc>
+    <desc lang="en">S1 , E134 : Deeming it a lucky charm, Vrinda marries Sanjay, who loves Divya. Serving as a caretaker in his home, she endures silent sacrifices, wondering if love will ever find her.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p33321700_b_h10_ac.jpg"/>
   </programme>
   <programme start="20261028163000 +0000" stop="20261028173000 +0000" channel="zeetvhd">
     <title lang="en">Lakshmi Nivas</title>
-    <desc lang="en">S1 , E288 : Lakshmi abandons her affluent roots to build a selfless life with Shriniwas. Decades on, the couple work tirelessly to secure their own house and fund a grand wedding for their daughter.</desc>
+    <desc lang="en">S1 , E286 : Lakshmi abandons her affluent roots to build a selfless life with Shriniwas. Decades on, the couple work tirelessly to secure their own house and fund a grand wedding for their daughter.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p32205890_b_h8_ab.jpg"/>
   </programme>
   <programme start="20261028173000 +0000" stop="20261028180000 +0000" channel="zeetvhd">
     <title lang="en">Dilo Ki Ram Leela</title>
-    <desc lang="en">S1 , E58 : Leela desires her father's affection deeply, seeking peace and joy. Moreover, she discovers complete solace and family with Ram.</desc>
+    <desc lang="en">S1 , E54 : Leela desires her father's affection deeply, seeking peace and joy. Moreover, she discovers complete solace and family with Ram.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p33959512_b_h10_ab.jpg"/>
   </programme>
   <programme start="20261028180000 +0000" stop="20261028183000 +0000" channel="zeetvhd">
     <title lang="en">Tum Se Tum Tak</title>
-    <desc lang="en">S1 , E476 : A young woman's unexpected bond with a much older businessman brings emotional twists while challenging societal expectations and family ideals.</desc>
+    <desc lang="en">S1 , E475 : A young woman's unexpected bond with a much older businessman brings emotional twists while challenging societal expectations and family ideals.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p30514065_b_h8_ac.jpg"/>
   </programme>
   <programme start="20261028183000 +0000" stop="20261028190000 +0000" channel="zeetvhd">
     <title lang="en">Ganga Mai Ki Betiyaan</title>
-    <desc lang="en">S1 , E397 : After her husband abandons her for not giving birth to a son, a resilient Ganga Mai dedicates herself to raising her three daughters with unwavering strength, grace, and affection.</desc>
+    <desc lang="en">S1 , E396 : After her husband abandons her for not giving birth to a son, a resilient Ganga Mai dedicates herself to raising her three daughters with unwavering strength, grace, and affection.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p31042360_b_h8_ac.jpg"/>
   </programme>
   <programme start="20261028190000 +0000" stop="20261028193000 +0000" channel="zeetvhd">
     <title lang="en">Jagadhatri</title>
-    <desc lang="en">S1 , E343 : Unbeknownst to her family, a young woman leads a double life as an undercover intelligence officer, determined to clear her mother's name.</desc>
+    <desc lang="en">S1 , E339 : Unbeknownst to her family, a young woman leads a double life as an undercover intelligence officer, determined to clear her mother's name.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p31685189_b_h10_ac.jpg"/>
   </programme>
   <programme start="20261028193000 +0000" stop="20261028200000 +0000" channel="zeetvhd">
     <title lang="en">Vasudha</title>
-    <desc lang="en">S1 , E719 : Though they have different perspectives, the amiable and endearing Vasudha works as a housekeeper in Chandrika, a business tycoon's house.</desc>
+    <desc lang="en">S1 , E715 : Samar pressures Vasudha into letting Phool take her place at the altar to protect Prabhat. Meanwhile, she finds herself trapped by his ruthless demands.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p28225153_b_h8_ac.jpg"/>
   </programme>
   <programme start="20261028200000 +0000" stop="20261028203000 +0000" channel="zeetvhd">
     <title lang="en">Tu Hi Re Dil Mein</title>
-    <desc lang="en">S1 , E136 : Deeming it a lucky charm, Vrinda marries Sanjay, who loves Divya. Serving as a caretaker in his home, she endures silent sacrifices, wondering if love will ever find her.</desc>
+    <desc lang="en">S1 , E134 : Deeming it a lucky charm, Vrinda marries Sanjay, who loves Divya. Serving as a caretaker in his home, she endures silent sacrifices, wondering if love will ever find her.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p33321700_b_h10_ac.jpg"/>
   </programme>
   <programme start="20261028203000 +0000" stop="20261028210000 +0000" channel="zeetvhd">
     <title lang="en">Qubool Hai</title>
-    <desc lang="en">S1 , E127 : Zoya, an NRI, comes to India to look for her biological father. However, when she meets Asad, a charming young man, she falls in love with him.</desc>
+    <desc lang="en">S1 , E126 : A shattered Asad lets Zoya be taken away for deportation. However, after Dilshad reveals that Zoya was only acting in his best interest, Asad frantically searches for her at the airport.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p15959186_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261028210000 +0000" stop="20261028213000 +0000" channel="zeetvhd">
@@ -2628,47 +2628,47 @@
   </programme>
   <programme start="20261028213000 +0000" stop="20261028220000 +0000" channel="zeetvhd">
     <title lang="en">Tu Hi Re Dil Mein</title>
-    <desc lang="en">S1 , E136 : Deeming it a lucky charm, Vrinda marries Sanjay, who loves Divya. Serving as a caretaker in his home, she endures silent sacrifices, wondering if love will ever find her.</desc>
+    <desc lang="en">S1 , E134 : Deeming it a lucky charm, Vrinda marries Sanjay, who loves Divya. Serving as a caretaker in his home, she endures silent sacrifices, wondering if love will ever find her.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p33321700_b_h10_ac.jpg"/>
   </programme>
   <programme start="20261028220000 +0000" stop="20261028230000 +0000" channel="zeetvhd">
     <title lang="en">Lakshmi Nivas</title>
-    <desc lang="en">S1 , E288 : Lakshmi abandons her affluent roots to build a selfless life with Shriniwas. Decades on, the couple work tirelessly to secure their own house and fund a grand wedding for their daughter.</desc>
+    <desc lang="en">S1 , E286 : Lakshmi abandons her affluent roots to build a selfless life with Shriniwas. Decades on, the couple work tirelessly to secure their own house and fund a grand wedding for their daughter.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p32205890_b_h8_ab.jpg"/>
   </programme>
   <programme start="20261028230000 +0000" stop="20261028233000 +0000" channel="zeetvhd">
     <title lang="en">Dilo Ki Ram Leela</title>
-    <desc lang="en">S1 , E58 : Leela desires her father's affection deeply, seeking peace and joy. Moreover, she discovers complete solace and family with Ram.</desc>
+    <desc lang="en">S1 , E54 : Leela desires her father's affection deeply, seeking peace and joy. Moreover, she discovers complete solace and family with Ram.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p33959512_b_h10_ab.jpg"/>
   </programme>
   <programme start="20261028233000 +0000" stop="20261029000000 +0000" channel="zeetvhd">
     <title lang="en">Tum Se Tum Tak</title>
-    <desc lang="en">S1 , E476 : A young woman's unexpected bond with a much older businessman brings emotional twists while challenging societal expectations and family ideals.</desc>
+    <desc lang="en">S1 , E475 : A young woman's unexpected bond with a much older businessman brings emotional twists while challenging societal expectations and family ideals.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p30514065_b_h8_ac.jpg"/>
   </programme>
   <programme start="20261029000000 +0000" stop="20261029003000 +0000" channel="zeetvhd">
     <title lang="en">Ganga Mai Ki Betiyaan</title>
-    <desc lang="en">S1 , E397 : After her husband abandons her for not giving birth to a son, a resilient Ganga Mai dedicates herself to raising her three daughters with unwavering strength, grace, and affection.</desc>
+    <desc lang="en">S1 , E396 : After her husband abandons her for not giving birth to a son, a resilient Ganga Mai dedicates herself to raising her three daughters with unwavering strength, grace, and affection.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p31042360_b_h8_ac.jpg"/>
   </programme>
   <programme start="20261028000000 +0000" stop="20261028003000 +0000" channel="sabtv">
     <title lang="en">Pushpa Impossible</title>
-    <desc lang="en">S1 , E1373 : After doing various odd jobs, an uneducated woman from Gujarat starts a business to earn a living and attempts to keep her family happy.</desc>
+    <desc lang="en">S1 , E1373 : As Chirag's temper creates a rift within the family, his strained relationships risk alienating him completely from his loved ones.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p22259614_b_h10_af.jpg"/>
   </programme>
   <programme start="20261028003000 +0000" stop="20261028005500 +0000" channel="sabtv">
     <title lang="en">Hui Gumm Yaadein Ek Doctor, Do Zindagiyaan</title>
-    <desc lang="en">S1 , E175 : Following a traumatic accident and an eight-year memory loss, Dr Dev struggles to rebuild his life as his former wife, Srishti, balances motherhood with running their medical facility.</desc>
+    <desc lang="en">S1 , E175 : After word of their disagreement spreads, the villagers rally around Dev and Srishty, each offering their own advice and support.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p32794904_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261028005500 +0000" stop="20261028012100 +0000" channel="sabtv">
     <title lang="en">Hastinapur Ke Veer</title>
-    <desc lang="en">S1 , E126 : Five noble Pandava brothers bravely unite to combat ruthless injustice threatening their peaceful kingdom. Furthermore, their unwavering devotion to dharma secures total victory.</desc>
+    <desc lang="en">S1 , E126 : Radheya accepts responsibility for a mistake to shield an ally from scrutiny. However, mounting doubts from those around him threaten to produce dire consequences.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p33120073_b_h10_ab.jpg"/>
   </programme>
   <programme start="20261028012100 +0000" stop="20261028014700 +0000" channel="sabtv">
     <title lang="en">Kyunki Papa Kehte Hain</title>
-    <desc lang="en">S1 , E30 : Pawan lovingly protects his four younger siblings after sudden parental loss, despite severe financial struggle. Furthermore, strict relatives force traditional values upon these resilient children.</desc>
+    <desc lang="en">S1 , E30 : Chachaji learns that Mandhavi is the mastermind behind the ghost mystery and is determined to take Amber with her to America.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p34126806_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261028014700 +0000" stop="20261028021300 +0000" channel="sabtv">
@@ -2678,12 +2678,12 @@
   </programme>
   <programme start="20261028021300 +0000" stop="20261028023900 +0000" channel="sabtv">
     <title lang="en">Hui Gumm Yaadein Ek Doctor, Do Zindagiyaan</title>
-    <desc lang="en">S1 , E175 : Following a traumatic accident and an eight-year memory loss, Dr Dev struggles to rebuild his life as his former wife, Srishti, balances motherhood with running their medical facility.</desc>
+    <desc lang="en">S1 , E175 : After word of their disagreement spreads, the villagers rally around Dev and Srishty, each offering their own advice and support.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p32794904_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261028023900 +0000" stop="20261028030000 +0000" channel="sabtv">
     <title lang="en">Pushpa Impossible</title>
-    <desc lang="en">S1 , E1373 : After doing various odd jobs, an uneducated woman from Gujarat starts a business to earn a living and attempts to keep her family happy.</desc>
+    <desc lang="en">S1 , E1373 : As Chirag's temper creates a rift within the family, his strained relationships risk alienating him completely from his loved ones.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p22259614_b_h10_af.jpg"/>
   </programme>
   <programme start="20261028030000 +0000" stop="20261028031400 +0000" channel="sabtv">
@@ -2718,12 +2718,12 @@
   </programme>
   <programme start="20261028053000 +0000" stop="20261028055400 +0000" channel="sabtv">
     <title lang="en">Pushpa Impossible</title>
-    <desc lang="en">S1 , E1373 : After doing various odd jobs, an uneducated woman from Gujarat starts a business to earn a living and attempts to keep her family happy.</desc>
+    <desc lang="en">S1 , E1373 : As Chirag's temper creates a rift within the family, his strained relationships risk alienating him completely from his loved ones.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p22259614_b_h10_af.jpg"/>
   </programme>
   <programme start="20261028055400 +0000" stop="20261028062000 +0000" channel="sabtv">
     <title lang="en">Hui Gumm Yaadein Ek Doctor, Do Zindagiyaan</title>
-    <desc lang="en">S1 , E175 : Following a traumatic accident and an eight-year memory loss, Dr Dev struggles to rebuild his life as his former wife, Srishti, balances motherhood with running their medical facility.</desc>
+    <desc lang="en">S1 , E175 : After word of their disagreement spreads, the villagers rally around Dev and Srishty, each offering their own advice and support.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p32794904_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261028062000 +0000" stop="20261028064600 +0000" channel="sabtv">
@@ -2733,22 +2733,22 @@
   </programme>
   <programme start="20261028064600 +0000" stop="20261028071200 +0000" channel="sabtv">
     <title lang="en">Kyunki Papa Kehte Hain</title>
-    <desc lang="en">S1 , E30 : Pawan lovingly protects his four younger siblings after sudden parental loss, despite severe financial struggle. Furthermore, strict relatives force traditional values upon these resilient children.</desc>
+    <desc lang="en">S1 , E30 : Chachaji learns that Mandhavi is the mastermind behind the ghost mystery and is determined to take Amber with her to America.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p34126806_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261028071200 +0000" stop="20261028073800 +0000" channel="sabtv">
     <title lang="en">Hastinapur Ke Veer</title>
-    <desc lang="en">S1 , E126 : Five noble Pandava brothers bravely unite to combat ruthless injustice threatening their peaceful kingdom. Furthermore, their unwavering devotion to dharma secures total victory.</desc>
+    <desc lang="en">S1 , E126 : Radheya accepts responsibility for a mistake to shield an ally from scrutiny. However, mounting doubts from those around him threaten to produce dire consequences.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p33120073_b_h10_ab.jpg"/>
   </programme>
   <programme start="20261028073800 +0000" stop="20261028080400 +0000" channel="sabtv">
     <title lang="en">Pushpa Impossible</title>
-    <desc lang="en">S1 , E1373 : After doing various odd jobs, an uneducated woman from Gujarat starts a business to earn a living and attempts to keep her family happy.</desc>
+    <desc lang="en">S1 , E1373 : As Chirag's temper creates a rift within the family, his strained relationships risk alienating him completely from his loved ones.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p22259614_b_h10_af.jpg"/>
   </programme>
   <programme start="20261028080400 +0000" stop="20261028083000 +0000" channel="sabtv">
     <title lang="en">Hui Gumm Yaadein Ek Doctor, Do Zindagiyaan</title>
-    <desc lang="en">S1 , E175 : Following a traumatic accident and an eight-year memory loss, Dr Dev struggles to rebuild his life as his former wife, Srishti, balances motherhood with running their medical facility.</desc>
+    <desc lang="en">S1 , E175 : After word of their disagreement spreads, the villagers rally around Dev and Srishty, each offering their own advice and support.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p32794904_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261028083000 +0000" stop="20261028085600 +0000" channel="sabtv">
@@ -2758,17 +2758,17 @@
   </programme>
   <programme start="20261028085600 +0000" stop="20261028092200 +0000" channel="sabtv">
     <title lang="en">Kyunki Papa Kehte Hain</title>
-    <desc lang="en">S1 , E30 : Pawan lovingly protects his four younger siblings after sudden parental loss, despite severe financial struggle. Furthermore, strict relatives force traditional values upon these resilient children.</desc>
+    <desc lang="en">S1 , E30 : Chachaji learns that Mandhavi is the mastermind behind the ghost mystery and is determined to take Amber with her to America.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p34126806_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261028092200 +0000" stop="20261028094800 +0000" channel="sabtv">
     <title lang="en">Hastinapur Ke Veer</title>
-    <desc lang="en">S1 , E126 : Five noble Pandava brothers bravely unite to combat ruthless injustice threatening their peaceful kingdom. Furthermore, their unwavering devotion to dharma secures total victory.</desc>
+    <desc lang="en">S1 , E126 : Radheya accepts responsibility for a mistake to shield an ally from scrutiny. However, mounting doubts from those around him threaten to produce dire consequences.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p33120073_b_h10_ab.jpg"/>
   </programme>
   <programme start="20261028094800 +0000" stop="20261028101400 +0000" channel="sabtv">
     <title lang="en">Hui Gumm Yaadein Ek Doctor, Do Zindagiyaan</title>
-    <desc lang="en">S1 , E175 : Following a traumatic accident and an eight-year memory loss, Dr Dev struggles to rebuild his life as his former wife, Srishti, balances motherhood with running their medical facility.</desc>
+    <desc lang="en">S1 , E175 : After word of their disagreement spreads, the villagers rally around Dev and Srishty, each offering their own advice and support.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p32794904_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261028101400 +0000" stop="20261028103900 +0000" channel="sabtv">
@@ -2778,152 +2778,152 @@
   </programme>
   <programme start="20261028103900 +0000" stop="20261028110000 +0000" channel="sabtv">
     <title lang="en">Pushpa Impossible</title>
-    <desc lang="en">S1 , E1373 : After doing various odd jobs, an uneducated woman from Gujarat starts a business to earn a living and attempts to keep her family happy.</desc>
+    <desc lang="en">S1 , E1373 : As Chirag's temper creates a rift within the family, his strained relationships risk alienating him completely from his loved ones.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p22259614_b_h10_af.jpg"/>
   </programme>
   <programme start="20261028110000 +0000" stop="20261028113000 +0000" channel="sabtv">
     <title lang="en">Kyunki Papa Kehte Hain</title>
-    <desc lang="en">S1 , E31 : Pawan lovingly protects his four younger siblings after sudden parental loss, despite severe financial struggle. Furthermore, strict relatives force traditional values upon these resilient children.</desc>
+    <desc lang="en">S1 , E31 : Everyone questions Amber's decision to leave for America. Meanwhile, Pawan learns Madhavi's shocking secret, leaving him stunned.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p34126806_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261028113000 +0000" stop="20261028120000 +0000" channel="sabtv">
     <title lang="en">Hastinapur Ke Veer</title>
-    <desc lang="en">S1 , E127 : Five noble Pandava brothers bravely unite to combat ruthless injustice threatening their peaceful kingdom. Furthermore, their unwavering devotion to dharma secures total victory.</desc>
+    <desc lang="en">S1 , E127 : Radheya accepts exile to Tosham for Chakradhar. As Arjun journeys there too, Chakradhar reveals Radheya's innocence and seeks justice.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p33120073_b_h10_ab.jpg"/>
   </programme>
   <programme start="20261028120000 +0000" stop="20261028123000 +0000" channel="sabtv">
     <title lang="en">Hui Gumm Yaadein Ek Doctor, Do Zindagiyaan</title>
-    <desc lang="en">S1 , E176 : Following a traumatic accident and an eight-year memory loss, Dr Dev struggles to rebuild his life as his former wife, Srishti, balances motherhood with running their medical facility.</desc>
+    <desc lang="en">S1 , E176 : Uditanshu welcomes an uncharacteristic display of warmth from his spouse. However, Srishty harbours deep reservations regarding the sudden shift in behaviour.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p32794904_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261028123000 +0000" stop="20261028130000 +0000" channel="sabtv">
     <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">S1 , E4852 : The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
+    <desc lang="en">S1 , E4852 : As worries over Navratri celebrations grow, an unexpected development brings fresh hope to the society.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p12557899_b_h11_ad.jpg"/>
   </programme>
   <programme start="20261028130000 +0000" stop="20261028133000 +0000" channel="sabtv">
     <title lang="en">Pushpa Impossible</title>
-    <desc lang="en">S1 , E1374 : After doing various odd jobs, an uneducated woman from Gujarat starts a business to earn a living and attempts to keep her family happy.</desc>
+    <desc lang="en">S1 , E1374 : Dussehra celebrations take a dangerous turn when an unexpected explosion puts Tiger in harm's way and risks everyone's lives.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p22259614_b_h10_af.jpg"/>
   </programme>
   <programme start="20261028133000 +0000" stop="20261028140000 +0000" channel="sabtv">
     <title lang="en">Hastinapur Ke Veer</title>
-    <desc lang="en">S1 , E127 : Five noble Pandava brothers bravely unite to combat ruthless injustice threatening their peaceful kingdom. Furthermore, their unwavering devotion to dharma secures total victory.</desc>
+    <desc lang="en">S1 , E127 : Radheya accepts exile to Tosham for Chakradhar. As Arjun journeys there too, Chakradhar reveals Radheya's innocence and seeks justice.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p33120073_b_h10_ab.jpg"/>
   </programme>
   <programme start="20261028140000 +0000" stop="20261028143000 +0000" channel="sabtv">
     <title lang="en">Hui Gumm Yaadein Ek Doctor, Do Zindagiyaan</title>
-    <desc lang="en">S1 , E176 : Following a traumatic accident and an eight-year memory loss, Dr Dev struggles to rebuild his life as his former wife, Srishti, balances motherhood with running their medical facility.</desc>
+    <desc lang="en">S1 , E176 : Uditanshu welcomes an uncharacteristic display of warmth from his spouse. However, Srishty harbours deep reservations regarding the sudden shift in behaviour.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p32794904_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261028143000 +0000" stop="20261028150000 +0000" channel="sabtv">
     <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">S1 , E4852 : The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
+    <desc lang="en">S1 , E4852 : As worries over Navratri celebrations grow, an unexpected development brings fresh hope to the society.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p12557899_b_h11_ad.jpg"/>
   </programme>
   <programme start="20261028150000 +0000" stop="20261028153000 +0000" channel="sabtv">
     <title lang="en">Kyunki Papa Kehte Hain</title>
-    <desc lang="en">S1 , E31 : Pawan lovingly protects his four younger siblings after sudden parental loss, despite severe financial struggle. Furthermore, strict relatives force traditional values upon these resilient children.</desc>
+    <desc lang="en">S1 , E31 : Everyone questions Amber's decision to leave for America. Meanwhile, Pawan learns Madhavi's shocking secret, leaving him stunned.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p34126806_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261028153000 +0000" stop="20261028160000 +0000" channel="sabtv">
     <title lang="en">Hastinapur Ke Veer</title>
-    <desc lang="en">S1 , E127 : Five noble Pandava brothers bravely unite to combat ruthless injustice threatening their peaceful kingdom. Furthermore, their unwavering devotion to dharma secures total victory.</desc>
+    <desc lang="en">S1 , E127 : Radheya accepts exile to Tosham for Chakradhar. As Arjun journeys there too, Chakradhar reveals Radheya's innocence and seeks justice.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p33120073_b_h10_ab.jpg"/>
   </programme>
   <programme start="20261028160000 +0000" stop="20261028163000 +0000" channel="sabtv">
     <title lang="en">Hui Gumm Yaadein Ek Doctor, Do Zindagiyaan</title>
-    <desc lang="en">S1 , E176 : Following a traumatic accident and an eight-year memory loss, Dr Dev struggles to rebuild his life as his former wife, Srishti, balances motherhood with running their medical facility.</desc>
+    <desc lang="en">S1 , E176 : Uditanshu welcomes an uncharacteristic display of warmth from his spouse. However, Srishty harbours deep reservations regarding the sudden shift in behaviour.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p32794904_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261028163000 +0000" stop="20261028170000 +0000" channel="sabtv">
     <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">S1 , E4852 : The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
+    <desc lang="en">S1 , E4852 : As worries over Navratri celebrations grow, an unexpected development brings fresh hope to the society.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p12557899_b_h11_ad.jpg"/>
   </programme>
   <programme start="20261028170000 +0000" stop="20261028172500 +0000" channel="sabtv">
     <title lang="en">Pushpa Impossible</title>
-    <desc lang="en">S1 , E1374 : After doing various odd jobs, an uneducated woman from Gujarat starts a business to earn a living and attempts to keep her family happy.</desc>
+    <desc lang="en">S1 , E1374 : Dussehra celebrations take a dangerous turn when an unexpected explosion puts Tiger in harm's way and risks everyone's lives.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p22259614_b_h10_af.jpg"/>
   </programme>
   <programme start="20261028172500 +0000" stop="20261028175100 +0000" channel="sabtv">
     <title lang="en">Hui Gumm Yaadein Ek Doctor, Do Zindagiyaan</title>
-    <desc lang="en">S1 , E176 : Following a traumatic accident and an eight-year memory loss, Dr Dev struggles to rebuild his life as his former wife, Srishti, balances motherhood with running their medical facility.</desc>
+    <desc lang="en">S1 , E176 : Uditanshu welcomes an uncharacteristic display of warmth from his spouse. However, Srishty harbours deep reservations regarding the sudden shift in behaviour.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p32794904_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261028175100 +0000" stop="20261028181700 +0000" channel="sabtv">
     <title lang="en">Hastinapur Ke Veer</title>
-    <desc lang="en">S1 , E127 : Five noble Pandava brothers bravely unite to combat ruthless injustice threatening their peaceful kingdom. Furthermore, their unwavering devotion to dharma secures total victory.</desc>
+    <desc lang="en">S1 , E127 : Radheya accepts exile to Tosham for Chakradhar. As Arjun journeys there too, Chakradhar reveals Radheya's innocence and seeks justice.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p33120073_b_h10_ab.jpg"/>
   </programme>
   <programme start="20261028181700 +0000" stop="20261028184300 +0000" channel="sabtv">
     <title lang="en">Kyunki Papa Kehte Hain</title>
-    <desc lang="en">S1 , E31 : Pawan lovingly protects his four younger siblings after sudden parental loss, despite severe financial struggle. Furthermore, strict relatives force traditional values upon these resilient children.</desc>
+    <desc lang="en">S1 , E31 : Everyone questions Amber's decision to leave for America. Meanwhile, Pawan learns Madhavi's shocking secret, leaving him stunned.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p34126806_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261028184300 +0000" stop="20261028190900 +0000" channel="sabtv">
     <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">S1 , E4852 : The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
+    <desc lang="en">S1 , E4852 : As worries over Navratri celebrations grow, an unexpected development brings fresh hope to the society.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p12557899_b_h11_ad.jpg"/>
   </programme>
   <programme start="20261028190900 +0000" stop="20261028193600 +0000" channel="sabtv">
     <title lang="en">Hui Gumm Yaadein Ek Doctor, Do Zindagiyaan</title>
-    <desc lang="en">S1 , E176 : Following a traumatic accident and an eight-year memory loss, Dr Dev struggles to rebuild his life as his former wife, Srishti, balances motherhood with running their medical facility.</desc>
+    <desc lang="en">S1 , E176 : Uditanshu welcomes an uncharacteristic display of warmth from his spouse. However, Srishty harbours deep reservations regarding the sudden shift in behaviour.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p32794904_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261028193600 +0000" stop="20261028200200 +0000" channel="sabtv">
     <title lang="en">Pushpa Impossible</title>
-    <desc lang="en">S1 , E1374 : After doing various odd jobs, an uneducated woman from Gujarat starts a business to earn a living and attempts to keep her family happy.</desc>
+    <desc lang="en">S1 , E1374 : Dussehra celebrations take a dangerous turn when an unexpected explosion puts Tiger in harm's way and risks everyone's lives.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p22259614_b_h10_af.jpg"/>
   </programme>
   <programme start="20261028200200 +0000" stop="20261028202800 +0000" channel="sabtv">
     <title lang="en">Hastinapur Ke Veer</title>
-    <desc lang="en">S1 , E127 : Five noble Pandava brothers bravely unite to combat ruthless injustice threatening their peaceful kingdom. Furthermore, their unwavering devotion to dharma secures total victory.</desc>
+    <desc lang="en">S1 , E127 : Radheya accepts exile to Tosham for Chakradhar. As Arjun journeys there too, Chakradhar reveals Radheya's innocence and seeks justice.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p33120073_b_h10_ab.jpg"/>
   </programme>
   <programme start="20261028202800 +0000" stop="20261028205400 +0000" channel="sabtv">
     <title lang="en">Kyunki Papa Kehte Hain</title>
-    <desc lang="en">S1 , E31 : Pawan lovingly protects his four younger siblings after sudden parental loss, despite severe financial struggle. Furthermore, strict relatives force traditional values upon these resilient children.</desc>
+    <desc lang="en">S1 , E31 : Everyone questions Amber's decision to leave for America. Meanwhile, Pawan learns Madhavi's shocking secret, leaving him stunned.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p34126806_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261028205400 +0000" stop="20261028212000 +0000" channel="sabtv">
     <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">S1 , E4852 : The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
+    <desc lang="en">S1 , E4852 : As worries over Navratri celebrations grow, an unexpected development brings fresh hope to the society.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p12557899_b_h11_ad.jpg"/>
   </programme>
   <programme start="20261028212000 +0000" stop="20261028214600 +0000" channel="sabtv">
     <title lang="en">Pushpa Impossible</title>
-    <desc lang="en">S1 , E1374 : After doing various odd jobs, an uneducated woman from Gujarat starts a business to earn a living and attempts to keep her family happy.</desc>
+    <desc lang="en">S1 , E1374 : Dussehra celebrations take a dangerous turn when an unexpected explosion puts Tiger in harm's way and risks everyone's lives.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p22259614_b_h10_af.jpg"/>
   </programme>
   <programme start="20261028214600 +0000" stop="20261028221200 +0000" channel="sabtv">
     <title lang="en">Kyunki Papa Kehte Hain</title>
-    <desc lang="en">S1 , E31 : Pawan lovingly protects his four younger siblings after sudden parental loss, despite severe financial struggle. Furthermore, strict relatives force traditional values upon these resilient children.</desc>
+    <desc lang="en">S1 , E31 : Everyone questions Amber's decision to leave for America. Meanwhile, Pawan learns Madhavi's shocking secret, leaving him stunned.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p34126806_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261028221200 +0000" stop="20261028223800 +0000" channel="sabtv">
     <title lang="en">Hui Gumm Yaadein Ek Doctor, Do Zindagiyaan</title>
-    <desc lang="en">S1 , E176 : Following a traumatic accident and an eight-year memory loss, Dr Dev struggles to rebuild his life as his former wife, Srishti, balances motherhood with running their medical facility.</desc>
+    <desc lang="en">S1 , E176 : Uditanshu welcomes an uncharacteristic display of warmth from his spouse. However, Srishty harbours deep reservations regarding the sudden shift in behaviour.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p32794904_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261028223800 +0000" stop="20261028230400 +0000" channel="sabtv">
     <title lang="en">Hastinapur Ke Veer</title>
-    <desc lang="en">S1 , E127 : Five noble Pandava brothers bravely unite to combat ruthless injustice threatening their peaceful kingdom. Furthermore, their unwavering devotion to dharma secures total victory.</desc>
+    <desc lang="en">S1 , E127 : Radheya accepts exile to Tosham for Chakradhar. As Arjun journeys there too, Chakradhar reveals Radheya's innocence and seeks justice.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p33120073_b_h10_ab.jpg"/>
   </programme>
   <programme start="20261028230400 +0000" stop="20261028233000 +0000" channel="sabtv">
     <title lang="en">Kyunki Papa Kehte Hain</title>
-    <desc lang="en">S1 , E31 : Pawan lovingly protects his four younger siblings after sudden parental loss, despite severe financial struggle. Furthermore, strict relatives force traditional values upon these resilient children.</desc>
+    <desc lang="en">S1 , E31 : Everyone questions Amber's decision to leave for America. Meanwhile, Pawan learns Madhavi's shocking secret, leaving him stunned.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p34126806_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261028233000 +0000" stop="20261028235600 +0000" channel="sabtv">
     <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">S1 , E4852 : The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
+    <desc lang="en">S1 , E4852 : As worries over Navratri celebrations grow, an unexpected development brings fresh hope to the society.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p12557899_b_h11_ad.jpg"/>
   </programme>
   <programme start="20261028235600 +0000" stop="20261029003000 +0000" channel="sabtv">
     <title lang="en">Pushpa Impossible</title>
-    <desc lang="en">S1 , E1374 : After doing various odd jobs, an uneducated woman from Gujarat starts a business to earn a living and attempts to keep her family happy.</desc>
+    <desc lang="en">S1 , E1374 : Dussehra celebrations take a dangerous turn when an unexpected explosion puts Tiger in harm's way and risks everyone's lives.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p22259614_b_h10_af.jpg"/>
   </programme>
   <programme start="20261028000000 +0000" stop="20261028000000 +0000" channel="flowersinternational">
