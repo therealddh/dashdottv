@@ -323,7 +323,7 @@
   </programme>
   <programme start="20261030200000 +0000" stop="20261030203000 +0000" channel="colorshd">
     <title lang="en">DR. Aarambhi</title>
-    <desc lang="en">S1 , E226 : Bound by marriage, former AIPMT topper Aarambhi clings to a hidden dream, waiting for the spark to ignite her second act.</desc>
+    <desc lang="en">S1 , E226 : Manmeet reveals the entire truth whilst Sunil looks into Dhruv's history overseas. Meanwhile, Aarambhi attends to Kiara despite facing strong opposition.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p32220715_b_h10_ad.jpg"/>
   </programme>
   <programme start="20261030203000 +0000" stop="20261030210000 +0000" channel="colorshd">
@@ -363,7 +363,7 @@
   </programme>
   <programme start="20261031000000 +0000" stop="20261031003000 +0000" channel="colorshd">
     <title lang="en">Mahadev &amp; Sons</title>
-    <desc lang="en">S1 , E230 : Mahadev's principled approach to guiding his family with a firm hand unintentionally sows the seeds of rebellion, ushering in an era of generational discord.</desc>
+    <desc lang="en">S1 , E230 : Rajji and Dheeraj have a tender moment before she opens up to him about her anxieties regarding forthcoming difficulties. Meanwhile, Vishwa secretly encounters Priya and a drunken Yash notices them.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p32050463_b_h8_ac.jpg"/>
   </programme>
   <programme start="20261030000000 +0000" stop="20261030020000 +0000" channel="asianethd">
@@ -723,7 +723,7 @@
   </programme>
   <programme start="20261030210000 +0000" stop="20261030213000 +0000" channel="colorskannada">
     <title lang="en">Nandagokula</title>
-    <desc lang="en">S1 , E371 : Nandakumar shares a close relationship with his family. However, when enemies threaten his loved ones, can he stop his family from breaking apart?</desc>
+    <desc lang="en">S1 , E371 : Madhava inspects Priya's room to recover her missing papers and protect her livelihood. Meanwhile, Rajini stuns Raksha by laying bare the covert identity Srikanta kept hidden for so long.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p30380510_b_h10_ab.jpg"/>
   </programme>
   <programme start="20261030213000 +0000" stop="20261030220000 +0000" channel="colorskannada">
@@ -3053,38 +3053,38 @@
   </programme>
   <programme start="20261030200000 +0000" stop="20261030210000 +0000" channel="flowersinternational">
     <title lang="en">Flowers Comedy Ith Item Vere</title>
-    <desc lang="en">Comedians take the stage and perform hilarious skits, showcasing their talent and attempting to impress the judges, in order to win the competition.</desc>
+    <desc lang="en">S1 , E701 : Comedians take the stage and perform hilarious skits, showcasing their talent and attempting to impress the judges, in order to win the competition.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29170189_b_h8_ab.jpg"/>
   </programme>
   <programme start="20261030210000 +0000" stop="20261030213000 +0000" channel="flowersinternational">
-    <title lang="en">Panchagni</title>
-    <desc lang="en">A restaurant named Pancharatnam is run by five sisters, while their stepmother tries different tactics to close their business.</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29170753_b_h8_ab.jpg"/>
+    <title lang="en">Sithara</title>
+    <desc lang="en">S1 , E19 : </desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/UcNLhTLh.jpg"/>
   </programme>
   <programme start="20261030213000 +0000" stop="20261030220000 +0000" channel="flowersinternational">
-    <title lang="en">Veettile Vilakku</title>
-    <desc lang="en">A mother goes through various struggles and hardships as she battles for her child and motherhood amidst a complex family relationship.</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29496588_b_h10_ac.jpg"/>
-  </programme>
-  <programme start="20261030220000 +0000" stop="20261030223000 +0000" channel="flowersinternational">
     <title lang="en">Uppum Mulakum</title>
-    <desc lang="en">Balachandran and Neelima, who face many challenges to earn a living, aim to successfully fulfil their wish of going to a foreign country.</desc>
+    <desc lang="en">S1 , E744 : Balachandran and Neelima, who face many challenges to earn a living, aim to successfully fulfil their wish of going to a foreign country.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29171156_b_h8_ad.jpg"/>
   </programme>
+  <programme start="20261030220000 +0000" stop="20261030223000 +0000" channel="flowersinternational">
+    <title lang="en">Sukhamo Devi</title>
+    <desc lang="en">S1 , E1090 : Devika is in love with Nandagopan, but Karthikeyan forces her to marry him. She elopes with Nandagopan only to get abandoned by him at the temple, which leads her to marry his friend.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29170986_b_h8_ab.jpg"/>
+  </programme>
   <programme start="20261030223000 +0000" stop="20261030230000 +0000" channel="flowersinternational">
-    <title lang="en">Panchagni</title>
-    <desc lang="en">A restaurant named Pancharatnam is run by five sisters, while their stepmother tries different tactics to close their business.</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29170753_b_h8_ab.jpg"/>
+    <title lang="en">Arabia This Week</title>
+    <desc lang="en">S1 , E269 : </desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29516605_b_h8_ab.jpg"/>
   </programme>
   <programme start="20261030230000 +0000" stop="20261031000000 +0000" channel="flowersinternational">
     <title lang="en">Flowers Comedy Ith Item Vere</title>
-    <desc lang="en">Comedians take the stage and perform hilarious skits, showcasing their talent and attempting to impress the judges, in order to win the competition.</desc>
+    <desc lang="en">S1 , E701 : Comedians take the stage and perform hilarious skits, showcasing their talent and attempting to impress the judges, in order to win the competition.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29170189_b_h8_ab.jpg"/>
   </programme>
   <programme start="20261031000000 +0000" stop="20261031003000 +0000" channel="flowersinternational">
-    <title lang="en">Veettile Vilakku</title>
-    <desc lang="en">A mother goes through various struggles and hardships as she battles for her child and motherhood amidst a complex family relationship.</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29496588_b_h10_ac.jpg"/>
+    <title lang="en">Flowers Comedy Golden Moments</title>
+    <desc lang="en">S1 , E188 : Revisit the best moments of the show 'Flowers Comedy,' where comedians put on their greatest skits and performances for the audience.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29170069_b_h10_ab.jpg"/>
   </programme>
   <programme start="20261030000000 +0000" stop="20261030000000 +0000" channel="geotv">
     <title lang="en">Uswah</title>
