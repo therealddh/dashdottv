@@ -2598,7 +2598,7 @@
   </programme>
   <programme start="20261031200100 +0000" stop="20261031202700 +0000" channel="sabtv">
     <title lang="en">Hastinapur Ke Veer</title>
-    <desc lang="en">S1 , E130 : Five noble Pandava brothers bravely unite to combat ruthless injustice threatening their peaceful kingdom. Furthermore, their unwavering devotion to dharma secures total victory.</desc>
+    <desc lang="en">S1 , E130 : Arjun encounters unforeseen challenges during his ongoing training drills. Consequently, an essential lesson regarding accountability and trust reshapes his outlook.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p33120073_b_h10_ab.jpg"/>
   </programme>
   <programme start="20261031202700 +0000" stop="20261031205300 +0000" channel="sabtv">
@@ -2628,7 +2628,7 @@
   </programme>
   <programme start="20261031223600 +0000" stop="20261031230200 +0000" channel="sabtv">
     <title lang="en">Hastinapur Ke Veer</title>
-    <desc lang="en">S1 , E130 : Five noble Pandava brothers bravely unite to combat ruthless injustice threatening their peaceful kingdom. Furthermore, their unwavering devotion to dharma secures total victory.</desc>
+    <desc lang="en">S1 , E130 : Arjun encounters unforeseen challenges during his ongoing training drills. Consequently, an essential lesson regarding accountability and trust reshapes his outlook.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p33120073_b_h10_ab.jpg"/>
   </programme>
   <programme start="20261031230200 +0000" stop="20261031232800 +0000" channel="sabtv">
@@ -3271,15 +3271,20 @@
     <desc lang="en">Movie</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p809737_b_h8_ar.jpg"/>
   </programme>
-  <programme start="20261031200000 +0000" stop="20261031230000 +0000" channel="emsimplysouth">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p809737_b_h8_ar.jpg"/>
+  <programme start="20261031200000 +0000" stop="20261031212500 +0000" channel="emsimplysouth">
+    <title lang="en">Mafia: Chapter 1</title>
+    <desc lang="en">A narcotics officer engages in a cat-and-mouse chase to capture a powerful criminal kingpin, not knowing that it could have a connection to a truth in his past.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p17994791_v_h10_ad.jpg"/>
   </programme>
-  <programme start="20261031230000 +0000" stop="20261101020000 +0000" channel="emsimplysouth">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p809737_b_h8_ar.jpg"/>
+  <programme start="20261031212500 +0000" stop="20261031232400 +0000" channel="emsimplysouth">
+    <title lang="en">Dj</title>
+    <desc lang="en">An undercover officer is tasked with taking down a real estate crime lord and a corrupt politician. However, he faces many obstacles in his mission and tries to overcome them all.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p27678823_v_h10_aa.jpg"/>
+  </programme>
+  <programme start="20261031232400 +0000" stop="20261101024400 +0000" channel="emsimplysouth">
+    <title lang="en">Dasavatharam</title>
+    <desc lang="en">After a scientist realizes the danger of a bioweapon, he races against time to prevent its misuse when it is accidentally brought to India.</desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/GLmMTbx9.jpg"/>
   </programme>
   <programme start="20261031000000 +0000" stop="20261031000000 +0000" channel="zeekeralam">
     <title lang="en">Mangalyam + Valsalyam - Maha Sangamam</title>
@@ -4271,34 +4276,39 @@
     <desc lang="en">S2026 , E63 : Sourav Ganguly hosts celebrity contestants as they live together in a common house, compete in various challenges and have to deal with each other's differences in order to win the prize.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p33941707_b_h8_aa.jpg"/>
   </programme>
-  <programme start="20261031173000 +0000" stop="20261031190000 +0000" channel="starjalsha">
+  <programme start="20261031173000 +0000" stop="20261031183000 +0000" channel="starjalsha">
+    <title lang="en">No program available</title>
+    <desc lang="en">No program available</desc>
+    <icon src="http://mena-img-cdn-lb.aws.playco.com/livechannels/STARJALSHAY2008MBN/STARJALSHAY2008MBN-landscape-poster-v1.jpg"/>
+  </programme>
+  <programme start="20261031183000 +0000" stop="20261031190000 +0000" channel="starjalsha">
     <title lang="en">Bigg Boss Bangla</title>
     <desc lang="en">S2026 , E63 : Sourav Ganguly hosts celebrity contestants as they live together in a common house, compete in various challenges and have to deal with each other's differences in order to win the prize.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p33941707_b_h8_aa.jpg"/>
   </programme>
   <programme start="20261031190000 +0000" stop="20261031193000 +0000" channel="starjalsha">
-    <title lang="en">Ajmeri Gems House</title>
-    <desc lang="en">S1 , E1 : </desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p33303362_b_h10_aa.jpg"/>
+    <title lang="en">Ashirbad</title>
+    <desc lang="en">S1 , E34 : Meghla is devastated after Sambaran chooses to disown her. Later, Pranab rebukes Kedar and Pilu for trying to invite his relatives to Mallar and Meghla's reception.</desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/aASfXKeQ.jpg"/>
   </programme>
   <programme start="20261031193000 +0000" stop="20261031200000 +0000" channel="starjalsha">
     <title lang="en">Parashuram</title>
-    <desc lang="en">S1 , E591 : Parashuram discovers Sheetal's associates concealing cash while Sourav takes their pictures. Later, Karna extorts Parashuram and Totini, threatening to file a bribery accusation against them.</desc>
+    <desc lang="en">S1 , E598 : Bhumika falsely tells the police that Parashuram shot at her. Meanwhile, Parashuram is gripped by fear after learning that Maya has allied with Sourav.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p30738894_b_h8_ab.jpg"/>
   </programme>
   <programme start="20261031200000 +0000" stop="20261031220000 +0000" channel="starjalsha">
     <title lang="en">Sreemoyee</title>
-    <desc lang="en">S1 , E171 : Sreemoyee, a dedicated housewife, takes care of her family. However, when she realises that they are taking her for granted, she decides to reclaim her dignity and goes on a journey of self-discovery.</desc>
+    <desc lang="en">S1 , E178 : Sreemoyee, a dedicated housewife, takes care of her family. However, when she realises that they are taking her for granted, she decides to reclaim her dignity and goes on a journey of self-discovery.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p21611210_b_h8_aa.jpg"/>
   </programme>
   <programme start="20261031220000 +0000" stop="20261101000000 +0000" channel="starjalsha">
-    <title lang="en">Tumi Chherona Haat Pothe</title>
-    <desc lang="en">S1 , E380 : Kokila escapes from prison, carefully eluding violent assassins hired by Gauri. Furthermore, Bhabani and Gauri collaborate to eliminate Kokila.</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p31393443_b_h8_ac.jpg"/>
+    <title lang="en">Maa</title>
+    <desc lang="en">S1 , E7 : Pratima Mukherjee, a mother, witnesses her daughter Pari being kidnapped. Years later, she crosses paths with her again after she's all grown up.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p26889340_b_h10_ab.jpg"/>
   </programme>
   <programme start="20261101000000 +0000" stop="20261101003000 +0000" channel="starjalsha">
     <title lang="en">Lokkhi Jhnapi</title>
-    <desc lang="en">S1 , E452 : Heritage jewels are presented to Jhanpi by Malabika during festivities. However, the sacred occasion is spoiled after the treasures are stolen by Turna.</desc>
+    <desc lang="en">S1 , E459 : The celebrations help Utsab recall his true identity as Dip. Later, Rishabh attempts to murder him but fails.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p30821897_b_h8_ad.jpg"/>
   </programme>
   <programme start="20261031000000 +0000" stop="20261031000000 +0000" channel="colorsbangla">
