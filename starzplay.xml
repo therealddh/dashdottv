@@ -966,20 +966,20 @@
     <desc lang="en">While on a road trip, Meera and Arjun witness an honour killing committed by a powerful gangster, Satbir. However, the latter soon starts pursuing the couple to eliminate them.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p11587745_v_h10_aa.jpg"/>
   </programme>
-  <programme start="20261031184800 +0000" stop="20261031200000 +0000" channel="embollywoodunlimited">
+  <programme start="20261031184800 +0000" stop="20261031211400 +0000" channel="embollywoodunlimited">
     <title lang="en">Kabali</title>
     <desc lang="en">When Kabali raises his voice against the oppression faced by Tamil labourers in Malaysia, he is imprisoned for 25 years. After being released, he seeks revenge on the ones who wronged him.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p21280524_v_h10_aa.jpg"/>
   </programme>
-  <programme start="20261031200000 +0000" stop="20261031230000 +0000" channel="embollywoodunlimited">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/2KIOKvF9.jpg"/>
+  <programme start="20261031211400 +0000" stop="20261031231600 +0000" channel="embollywoodunlimited">
+    <title lang="en">Veerappan</title>
+    <desc lang="en">Veerappan, a teenager, trains under his uncle to learn to smuggle and becomes a dacoit. When the police attempts to arrest him for his activities, he plans to make an escape.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p14393474_v_h10_aa.jpg"/>
   </programme>
-  <programme start="20261031230000 +0000" stop="20261101020000 +0000" channel="embollywoodunlimited">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/2KIOKvF9.jpg"/>
+  <programme start="20261031231600 +0000" stop="20261101012500 +0000" channel="embollywoodunlimited">
+    <title lang="en">Cirkus</title>
+    <desc lang="en">Two sets of identical twins are separated at birth and grow in two different cities. Years later, chaos ensues when one set of twins decides to visit the town where the other runs a circus.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p22538614_v_h10_aa.jpg"/>
   </programme>
   <programme start="20261031000000 +0000" stop="20261031003000 +0000" channel="sonytv">
     <title lang="en">The Kapil Sharma Show</title>
@@ -2503,7 +2503,7 @@
   </programme>
   <programme start="20261031110000 +0000" stop="20261031113000 +0000" channel="sabtv">
     <title lang="en">Kyunki Papa Kehte Hain</title>
-    <desc lang="en">S1 , E34 : Pawan lovingly protects his four younger siblings after sudden parental loss, despite severe financial struggle. Furthermore, strict relatives force traditional values upon these resilient children.</desc>
+    <desc lang="en">S1 , E34 : Amber breaks down before his siblings, confessing his reluctance to move abroad. Consequently, the family attempts to persuade Madhavi to reconsider the relocation.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p34126806_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261031113000 +0000" stop="20261031120000 +0000" channel="sabtv">
@@ -2513,17 +2513,17 @@
   </programme>
   <programme start="20261031120000 +0000" stop="20261031123000 +0000" channel="sabtv">
     <title lang="en">Hui Gumm Yaadein Ek Doctor, Do Zindagiyaan</title>
-    <desc lang="en">S1 , E179 : Following a traumatic accident and an eight-year memory loss, Dr Dev struggles to rebuild his life as his former wife, Srishti, balances motherhood with running their medical facility.</desc>
+    <desc lang="en">S1 , E179 : Dev and Srishty have an earnest discussion about their future together. Later, Dev defends himself alongside Jiya when a patient casts doubt on his parenting ability.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p32794904_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261031123000 +0000" stop="20261031130000 +0000" channel="sabtv">
     <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">S1 , E4855 : The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
+    <desc lang="en">S1 , E4855 : Gokuldham society prepares for the upcoming Navratri celebrations with great enthusiasm. However, a sudden discovery threatens to disrupt the festive spirit of Tappu Sena.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p12557899_b_h11_ad.jpg"/>
   </programme>
   <programme start="20261031130000 +0000" stop="20261031133000 +0000" channel="sabtv">
     <title lang="en">Pushpa Impossible</title>
-    <desc lang="en">S1 , E1377 : After doing various odd jobs, an uneducated woman from Gujarat starts a business to earn a living and attempts to keep her family happy.</desc>
+    <desc lang="en">S1 , E1377 : Pushpa successfully arranges Chirag's release from custody, offering him immense comfort. Meanwhile, Varun begins to acknowledge his deep affection towards Shanaya.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p22259614_b_h10_af.jpg"/>
   </programme>
   <programme start="20261031133000 +0000" stop="20261031140000 +0000" channel="sabtv">
@@ -2533,17 +2533,17 @@
   </programme>
   <programme start="20261031140000 +0000" stop="20261031143000 +0000" channel="sabtv">
     <title lang="en">Hui Gumm Yaadein Ek Doctor, Do Zindagiyaan</title>
-    <desc lang="en">S1 , E179 : Following a traumatic accident and an eight-year memory loss, Dr Dev struggles to rebuild his life as his former wife, Srishti, balances motherhood with running their medical facility.</desc>
+    <desc lang="en">S1 , E179 : Dev and Srishty have an earnest discussion about their future together. Later, Dev defends himself alongside Jiya when a patient casts doubt on his parenting ability.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p32794904_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261031143000 +0000" stop="20261031150000 +0000" channel="sabtv">
     <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">S1 , E4855 : The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
+    <desc lang="en">S1 , E4855 : Gokuldham society prepares for the upcoming Navratri celebrations with great enthusiasm. However, a sudden discovery threatens to disrupt the festive spirit of Tappu Sena.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p12557899_b_h11_ad.jpg"/>
   </programme>
   <programme start="20261031150000 +0000" stop="20261031153000 +0000" channel="sabtv">
     <title lang="en">Kyunki Papa Kehte Hain</title>
-    <desc lang="en">S1 , E34 : Pawan lovingly protects his four younger siblings after sudden parental loss, despite severe financial struggle. Furthermore, strict relatives force traditional values upon these resilient children.</desc>
+    <desc lang="en">S1 , E34 : Amber breaks down before his siblings, confessing his reluctance to move abroad. Consequently, the family attempts to persuade Madhavi to reconsider the relocation.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p34126806_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261031153000 +0000" stop="20261031160000 +0000" channel="sabtv">
@@ -2553,22 +2553,22 @@
   </programme>
   <programme start="20261031160000 +0000" stop="20261031163000 +0000" channel="sabtv">
     <title lang="en">Hui Gumm Yaadein Ek Doctor, Do Zindagiyaan</title>
-    <desc lang="en">S1 , E179 : Following a traumatic accident and an eight-year memory loss, Dr Dev struggles to rebuild his life as his former wife, Srishti, balances motherhood with running their medical facility.</desc>
+    <desc lang="en">S1 , E179 : Dev and Srishty have an earnest discussion about their future together. Later, Dev defends himself alongside Jiya when a patient casts doubt on his parenting ability.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p32794904_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261031163000 +0000" stop="20261031170000 +0000" channel="sabtv">
     <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">S1 , E4855 : The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
+    <desc lang="en">S1 , E4855 : Gokuldham society prepares for the upcoming Navratri celebrations with great enthusiasm. However, a sudden discovery threatens to disrupt the festive spirit of Tappu Sena.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p12557899_b_h11_ad.jpg"/>
   </programme>
   <programme start="20261031170000 +0000" stop="20261031172500 +0000" channel="sabtv">
     <title lang="en">Pushpa Impossible</title>
-    <desc lang="en">S1 , E1377 : After doing various odd jobs, an uneducated woman from Gujarat starts a business to earn a living and attempts to keep her family happy.</desc>
+    <desc lang="en">S1 , E1377 : Pushpa successfully arranges Chirag's release from custody, offering him immense comfort. Meanwhile, Varun begins to acknowledge his deep affection towards Shanaya.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p22259614_b_h10_af.jpg"/>
   </programme>
   <programme start="20261031172500 +0000" stop="20261031175100 +0000" channel="sabtv">
     <title lang="en">Hui Gumm Yaadein Ek Doctor, Do Zindagiyaan</title>
-    <desc lang="en">S1 , E179 : Following a traumatic accident and an eight-year memory loss, Dr Dev struggles to rebuild his life as his former wife, Srishti, balances motherhood with running their medical facility.</desc>
+    <desc lang="en">S1 , E179 : Dev and Srishty have an earnest discussion about their future together. Later, Dev defends himself alongside Jiya when a patient casts doubt on his parenting ability.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p32794904_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261031175100 +0000" stop="20261031181700 +0000" channel="sabtv">
@@ -2578,22 +2578,22 @@
   </programme>
   <programme start="20261031181700 +0000" stop="20261031184300 +0000" channel="sabtv">
     <title lang="en">Kyunki Papa Kehte Hain</title>
-    <desc lang="en">S1 , E34 : Pawan lovingly protects his four younger siblings after sudden parental loss, despite severe financial struggle. Furthermore, strict relatives force traditional values upon these resilient children.</desc>
+    <desc lang="en">S1 , E34 : Amber breaks down before his siblings, confessing his reluctance to move abroad. Consequently, the family attempts to persuade Madhavi to reconsider the relocation.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p34126806_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261031184300 +0000" stop="20261031190900 +0000" channel="sabtv">
     <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">S1 , E4855 : The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
+    <desc lang="en">S1 , E4855 : Gokuldham society prepares for the upcoming Navratri celebrations with great enthusiasm. However, a sudden discovery threatens to disrupt the festive spirit of Tappu Sena.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p12557899_b_h11_ad.jpg"/>
   </programme>
   <programme start="20261031190900 +0000" stop="20261031193500 +0000" channel="sabtv">
     <title lang="en">Hui Gumm Yaadein Ek Doctor, Do Zindagiyaan</title>
-    <desc lang="en">S1 , E179 : Following a traumatic accident and an eight-year memory loss, Dr Dev struggles to rebuild his life as his former wife, Srishti, balances motherhood with running their medical facility.</desc>
+    <desc lang="en">S1 , E179 : Dev and Srishty have an earnest discussion about their future together. Later, Dev defends himself alongside Jiya when a patient casts doubt on his parenting ability.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p32794904_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261031193500 +0000" stop="20261031200100 +0000" channel="sabtv">
     <title lang="en">Pushpa Impossible</title>
-    <desc lang="en">S1 , E1377 : After doing various odd jobs, an uneducated woman from Gujarat starts a business to earn a living and attempts to keep her family happy.</desc>
+    <desc lang="en">S1 , E1377 : Pushpa successfully arranges Chirag's release from custody, offering him immense comfort. Meanwhile, Varun begins to acknowledge his deep affection towards Shanaya.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p22259614_b_h10_af.jpg"/>
   </programme>
   <programme start="20261031200100 +0000" stop="20261031202700 +0000" channel="sabtv">
@@ -2603,27 +2603,27 @@
   </programme>
   <programme start="20261031202700 +0000" stop="20261031205300 +0000" channel="sabtv">
     <title lang="en">Kyunki Papa Kehte Hain</title>
-    <desc lang="en">S1 , E34 : Pawan lovingly protects his four younger siblings after sudden parental loss, despite severe financial struggle. Furthermore, strict relatives force traditional values upon these resilient children.</desc>
+    <desc lang="en">S1 , E34 : Amber breaks down before his siblings, confessing his reluctance to move abroad. Consequently, the family attempts to persuade Madhavi to reconsider the relocation.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p34126806_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261031205300 +0000" stop="20261031211900 +0000" channel="sabtv">
     <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">S1 , E4855 : The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
+    <desc lang="en">S1 , E4855 : Gokuldham society prepares for the upcoming Navratri celebrations with great enthusiasm. However, a sudden discovery threatens to disrupt the festive spirit of Tappu Sena.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p12557899_b_h11_ad.jpg"/>
   </programme>
   <programme start="20261031211900 +0000" stop="20261031214500 +0000" channel="sabtv">
     <title lang="en">Pushpa Impossible</title>
-    <desc lang="en">S1 , E1377 : After doing various odd jobs, an uneducated woman from Gujarat starts a business to earn a living and attempts to keep her family happy.</desc>
+    <desc lang="en">S1 , E1377 : Pushpa successfully arranges Chirag's release from custody, offering him immense comfort. Meanwhile, Varun begins to acknowledge his deep affection towards Shanaya.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p22259614_b_h10_af.jpg"/>
   </programme>
   <programme start="20261031214500 +0000" stop="20261031221100 +0000" channel="sabtv">
     <title lang="en">Kyunki Papa Kehte Hain</title>
-    <desc lang="en">S1 , E34 : Pawan lovingly protects his four younger siblings after sudden parental loss, despite severe financial struggle. Furthermore, strict relatives force traditional values upon these resilient children.</desc>
+    <desc lang="en">S1 , E34 : Amber breaks down before his siblings, confessing his reluctance to move abroad. Consequently, the family attempts to persuade Madhavi to reconsider the relocation.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p34126806_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261031221100 +0000" stop="20261031223600 +0000" channel="sabtv">
     <title lang="en">Hui Gumm Yaadein Ek Doctor, Do Zindagiyaan</title>
-    <desc lang="en">S1 , E179 : Following a traumatic accident and an eight-year memory loss, Dr Dev struggles to rebuild his life as his former wife, Srishti, balances motherhood with running their medical facility.</desc>
+    <desc lang="en">S1 , E179 : Dev and Srishty have an earnest discussion about their future together. Later, Dev defends himself alongside Jiya when a patient casts doubt on his parenting ability.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p32794904_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261031223600 +0000" stop="20261031230200 +0000" channel="sabtv">
@@ -2633,17 +2633,17 @@
   </programme>
   <programme start="20261031230200 +0000" stop="20261031232800 +0000" channel="sabtv">
     <title lang="en">Kyunki Papa Kehte Hain</title>
-    <desc lang="en">S1 , E34 : Pawan lovingly protects his four younger siblings after sudden parental loss, despite severe financial struggle. Furthermore, strict relatives force traditional values upon these resilient children.</desc>
+    <desc lang="en">S1 , E34 : Amber breaks down before his siblings, confessing his reluctance to move abroad. Consequently, the family attempts to persuade Madhavi to reconsider the relocation.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p34126806_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261031232800 +0000" stop="20261031235400 +0000" channel="sabtv">
     <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">S1 , E4855 : The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
+    <desc lang="en">S1 , E4855 : Gokuldham society prepares for the upcoming Navratri celebrations with great enthusiasm. However, a sudden discovery threatens to disrupt the festive spirit of Tappu Sena.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p12557899_b_h11_ad.jpg"/>
   </programme>
   <programme start="20261031235400 +0000" stop="20261101003000 +0000" channel="sabtv">
     <title lang="en">Pushpa Impossible</title>
-    <desc lang="en">S1 , E1377 : After doing various odd jobs, an uneducated woman from Gujarat starts a business to earn a living and attempts to keep her family happy.</desc>
+    <desc lang="en">S1 , E1377 : Pushpa successfully arranges Chirag's release from custody, offering him immense comfort. Meanwhile, Varun begins to acknowledge his deep affection towards Shanaya.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p22259614_b_h10_af.jpg"/>
   </programme>
   <programme start="20261031000000 +0000" stop="20261031000000 +0000" channel="flowersinternational">
@@ -3073,7 +3073,7 @@
   </programme>
   <programme start="20261031153000 +0000" stop="20261031160000 +0000" channel="mazhavilmanorama">
     <title lang="en">Super Kanmani</title>
-    <desc lang="en">S1 , E643 : Rejected by most of her family and community since infancy due to a birth defect, Kanmani aspires to become a fashion designer and support her father.</desc>
+    <desc lang="en">S1 , E643 : Krish and Kanmani resolve to work together to bring Alikha back. Meanwhile, Devji decides to help Krish reunite with her.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p28406469_b_h10_ac.jpg"/>
   </programme>
   <programme start="20261031160000 +0000" stop="20261031163000 +0000" channel="mazhavilmanorama">
@@ -3108,7 +3108,7 @@
   </programme>
   <programme start="20261031202400 +0000" stop="20261031204800 +0000" channel="mazhavilmanorama">
     <title lang="en">Super Kanmani</title>
-    <desc lang="en">S1 , E643 : Rejected by most of her family and community since infancy due to a birth defect, Kanmani aspires to become a fashion designer and support her father.</desc>
+    <desc lang="en">S1 , E643 : Krish and Kanmani resolve to work together to bring Alikha back. Meanwhile, Devji decides to help Krish reunite with her.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p28406469_b_h10_ac.jpg"/>
   </programme>
   <programme start="20261031204800 +0000" stop="20261031211200 +0000" channel="mazhavilmanorama">
@@ -4203,7 +4203,7 @@
   </programme>
   <programme start="20261031053000 +0000" stop="20261031070000 +0000" channel="starjalsha">
     <title lang="en">Bigg Boss Bangla</title>
-    <desc lang="en">S2026 , E62 : Sourav Ganguly hosts celebrity contestants as they live together in a common house, compete in various challenges and have to deal with each other's differences in order to win the prize.</desc>
+    <desc lang="en">S2026 , E62 : Rajveer and Monami successfully liberate three housemates during a tense luxury budget challenge. Meanwhile, a covert reward awaits Rajveer and Saurav as Sonamoni stays locked away.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p33941707_b_h8_aa.jpg"/>
   </programme>
   <programme start="20261031070000 +0000" stop="20261031073000 +0000" channel="starjalsha">
@@ -4353,7 +4353,7 @@
   </programme>
   <programme start="20261031104500 +0000" stop="20261031120000 +0000" channel="colorsbangla">
     <title lang="en">Bigg Boss Bangla</title>
-    <desc lang="en">S2026 , E62 : Sourav Ganguly hosts celebrity contestants as they live together in a common house, compete in various challenges and have to deal with each other's differences in order to win the prize.</desc>
+    <desc lang="en">S2026 , E62 : Rajveer and Monami successfully liberate three housemates during a tense luxury budget challenge. Meanwhile, a covert reward awaits Rajveer and Saurav as Sonamoni stays locked away.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p33941707_b_h8_aa.jpg"/>
   </programme>
   <programme start="20261031120000 +0000" stop="20261031130000 +0000" channel="colorsbangla">
