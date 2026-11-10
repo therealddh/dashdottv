@@ -708,12 +708,12 @@
   </programme>
   <programme start="20261110190000 +0000" stop="20261110193000 +0000" channel="colorskannada">
     <title lang="en">Sri Gandhada Gudi</title>
-    <desc lang="en">S1 , E385 : Chandana marries into a family with a troubled past in order to escape her fate. However, can she restore the family's hope?</desc>
+    <desc lang="en">S1 , E385 : Chandana is shocked to learn about Hari's accident after leaving the house over his lies. Meanwhile, Vaibhavi rejects marriage, leaving everyone stunned.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p31372046_b_h8_ab.jpg"/>
   </programme>
   <programme start="20261110193000 +0000" stop="20261110200000 +0000" channel="colorskannada">
     <title lang="en">Muddu Sose</title>
-    <desc lang="en">S1 , E555 : Vidya's dream of becoming a doctor is threatened when her father decides to get her married. Unfortunately, her father-in-law also believes that women should not pursue education.</desc>
+    <desc lang="en">S1 , E555 : Shivaramegowda faces pressure from villagers to secure justice for Vidya. However, Vidya chooses to break all marital ties with Bhadra and part ways with him forever.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29992770_b_h8_ab.jpg"/>
   </programme>
   <programme start="20261110200000 +0000" stop="20261110203000 +0000" channel="colorskannada">
@@ -748,12 +748,12 @@
   </programme>
   <programme start="20261110230000 +0000" stop="20261110233000 +0000" channel="colorskannada">
     <title lang="en">Muddu Sose</title>
-    <desc lang="en">S1 , E555 : Vidya's dream of becoming a doctor is threatened when her father decides to get her married. Unfortunately, her father-in-law also believes that women should not pursue education.</desc>
+    <desc lang="en">S1 , E555 : Shivaramegowda faces pressure from villagers to secure justice for Vidya. However, Vidya chooses to break all marital ties with Bhadra and part ways with him forever.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29992770_b_h8_ab.jpg"/>
   </programme>
   <programme start="20261110233000 +0000" stop="20261111000000 +0000" channel="colorskannada">
     <title lang="en">Sri Gandhada Gudi</title>
-    <desc lang="en">S1 , E385 : Chandana marries into a family with a troubled past in order to escape her fate. However, can she restore the family's hope?</desc>
+    <desc lang="en">S1 , E385 : Chandana is shocked to learn about Hari's accident after leaving the house over his lies. Meanwhile, Vaibhavi rejects marriage, leaving everyone stunned.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p31372046_b_h8_ab.jpg"/>
   </programme>
   <programme start="20261111000000 +0000" stop="20261111003000 +0000" channel="colorskannada">
@@ -2858,7 +2858,7 @@
   </programme>
   <programme start="20261110184000 +0000" stop="20261110190600 +0000" channel="sabtv">
     <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">S1 , E4863 : The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
+    <desc lang="en">S1 , E4863 : Tapu finally reveals the real reason behind Jigna and Jackson's delay, leaving Vishwasur stunned and everyone eager to know the truth.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p12557899_b_h11_ad.jpg"/>
   </programme>
   <programme start="20261110190600 +0000" stop="20261110193200 +0000" channel="sabtv">
@@ -2873,17 +2873,17 @@
   </programme>
   <programme start="20261110195800 +0000" stop="20261110202400 +0000" channel="sabtv">
     <title lang="en">Kyunki Papa Kehte Hain</title>
-    <desc lang="en">S1 , E42 : Pawan lovingly protects his four younger siblings after sudden parental loss, despite severe financial struggle. Furthermore, strict relatives force traditional values upon these resilient children.</desc>
+    <desc lang="en">S1 , E42 : Pawan confronts Simran over the unusually high electricity bill, blaming her AC usage. However, Simran refuses to back down and gives an equally sharp response.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p34126806_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261110202400 +0000" stop="20261110205000 +0000" channel="sabtv">
     <title lang="en">Hastinapur Ke Veer</title>
-    <desc lang="en">S1 , E138 : Five noble Pandava brothers bravely unite to combat ruthless injustice threatening their peaceful kingdom. Furthermore, their unwavering devotion to dharma secures total victory.</desc>
+    <desc lang="en">S1 , E138 : Karna's talent earns praise at the Gurukul, but growing rivalries and questions about discipline threaten to shape his journey ahead.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p33120073_b_h10_ab.jpg"/>
   </programme>
   <programme start="20261110205000 +0000" stop="20261110211600 +0000" channel="sabtv">
     <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">S1 , E4863 : The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
+    <desc lang="en">S1 , E4863 : Tapu finally reveals the real reason behind Jigna and Jackson's delay, leaving Vishwasur stunned and everyone eager to know the truth.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p12557899_b_h11_ad.jpg"/>
   </programme>
   <programme start="20261110211600 +0000" stop="20261110214200 +0000" channel="sabtv">
@@ -2893,7 +2893,7 @@
   </programme>
   <programme start="20261110214200 +0000" stop="20261110220800 +0000" channel="sabtv">
     <title lang="en">Kyunki Papa Kehte Hain</title>
-    <desc lang="en">S1 , E42 : Pawan lovingly protects his four younger siblings after sudden parental loss, despite severe financial struggle. Furthermore, strict relatives force traditional values upon these resilient children.</desc>
+    <desc lang="en">S1 , E42 : Pawan confronts Simran over the unusually high electricity bill, blaming her AC usage. However, Simran refuses to back down and gives an equally sharp response.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p34126806_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261110220800 +0000" stop="20261110223400 +0000" channel="sabtv">
@@ -2903,17 +2903,17 @@
   </programme>
   <programme start="20261110223400 +0000" stop="20261110230000 +0000" channel="sabtv">
     <title lang="en">Hastinapur Ke Veer</title>
-    <desc lang="en">S1 , E138 : Five noble Pandava brothers bravely unite to combat ruthless injustice threatening their peaceful kingdom. Furthermore, their unwavering devotion to dharma secures total victory.</desc>
+    <desc lang="en">S1 , E138 : Karna's talent earns praise at the Gurukul, but growing rivalries and questions about discipline threaten to shape his journey ahead.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p33120073_b_h10_ab.jpg"/>
   </programme>
   <programme start="20261110230000 +0000" stop="20261110232600 +0000" channel="sabtv">
     <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">S1 , E4863 : The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
+    <desc lang="en">S1 , E4863 : Tapu finally reveals the real reason behind Jigna and Jackson's delay, leaving Vishwasur stunned and everyone eager to know the truth.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p12557899_b_h11_ad.jpg"/>
   </programme>
   <programme start="20261110232600 +0000" stop="20261110235100 +0000" channel="sabtv">
     <title lang="en">Kyunki Papa Kehte Hain</title>
-    <desc lang="en">S1 , E42 : Pawan lovingly protects his four younger siblings after sudden parental loss, despite severe financial struggle. Furthermore, strict relatives force traditional values upon these resilient children.</desc>
+    <desc lang="en">S1 , E42 : Pawan confronts Simran over the unusually high electricity bill, blaming her AC usage. However, Simran refuses to back down and gives an equally sharp response.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p34126806_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261110235100 +0000" stop="20261111003000 +0000" channel="sabtv">
@@ -3256,17 +3256,17 @@
     <desc lang="en">Sachi and his girlfriend, Vasudha, go on a date to celebrate her birthday. Things go sideways, and their love is tested when they are harassed by two men on a late-night drive.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p16973218_v_h10_ab.jpg"/>
   </programme>
-  <programme start="20261110193000 +0000" stop="20261110211000 +0000" channel="asianetmovieshd">
+  <programme start="20261110193000 +0000" stop="20261110213000 +0000" channel="asianetmovieshd">
     <title lang="en">Pakal</title>
     <desc lang="en">Nandakumar, a reporter, is assigned to cover the hapless plight of farmers at Pannakamkudi. Upon seeing their sufferings in person, he decides to help them.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p10817738_b_h10_aa.jpg"/>
   </programme>
-  <programme start="20261110211000 +0000" stop="20261110225500 +0000" channel="asianetmovieshd">
+  <programme start="20261110213000 +0000" stop="20261110233000 +0000" channel="asianetmovieshd">
     <title lang="en">Deepangal Sakshi</title>
     <desc lang="en">Rishi is a diligent collector who works honestly for the good of people. However, things take a turn after he draws the attention of corrupt politicians and businessmen who want to cause trouble.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p14654428_b_h8_ad.jpg"/>
   </programme>
-  <programme start="20261110225500 +0000" stop="20261111013000 +0000" channel="asianetmovieshd">
+  <programme start="20261110233000 +0000" stop="20261111013000 +0000" channel="asianetmovieshd">
     <title lang="en">Mahanati</title>
     <desc lang="en">Savitri, an energetic and jubilant child, grows up to become an actress. She faces several challenges and overcomes hurdles to become the first female superstar in South India.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p15326058_v_h10_aa.jpg"/>
@@ -4753,7 +4753,7 @@
   </programme>
   <programme start="20261110190000 +0000" stop="20261110193000 +0000" channel="starjalsha">
     <title lang="en">Ashirbad</title>
-    <desc lang="en">S1 , E44 : After falling in love with Mallar, the youngest son in an affection-starved, all-male family, Meghla sets out to turn their disorganised residence into a warm, loving home.</desc>
+    <desc lang="en">S1 , E44 : Arpan urges Sambaran to move on from Meghla and resume work. Parallelly, Mallar rescues Meghla from a goon's trap after she struggles to find hostel accommodation.</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/aASfXKeQ.jpg"/>
   </programme>
   <programme start="20261110193000 +0000" stop="20261110200000 +0000" channel="starjalsha">
