@@ -333,7 +333,7 @@
   </programme>
   <programme start="20261112210000 +0000" stop="20261112213000 +0000" channel="colorshd">
     <title lang="en">Shayad Yahi Hai Pyaar</title>
-    <desc lang="en">S1 , E35 : Preeti's photograph from Dehradun lands in Shanti's possession. Meanwhile, tender romantic moments are shared by Preeti and Aarav over his thoughtful sweet surprise.</desc>
+    <desc lang="en">S1 , E35 : Preeti's photograph from Dehradun lands in Shanti's possession. Meanwhile, romantic moments are shared by Preeti and Aarav over his thoughtful surprise.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p34138733_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261112213000 +0000" stop="20261112220000 +0000" channel="colorshd">
@@ -733,7 +733,7 @@
   </programme>
   <programme start="20261112220000 +0000" stop="20261112223000 +0000" channel="colorskannada">
     <title lang="en">Raani</title>
-    <desc lang="en">S1 , E244 : Raani brings immense joy to her mother while growing up inside the prison walls. As an adult, she now prepares to step outside and navigate the real world completely on her own.</desc>
+    <desc lang="en">S1 , E244 : Kaveri hopes to express her love, but Balakrishna is shocked to see his father working as a cleaner and stands up for him. Meanwhile, Sathya suspects Sarala.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p25470729_b_h8_ab.jpg"/>
   </programme>
   <programme start="20261112223000 +0000" stop="20261112230000 +0000" channel="colorskannada">
@@ -2612,7 +2612,7 @@
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p15959186_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261112210000 +0000" stop="20261112213000 +0000" channel="zeetvhd">
-    <title lang="en">Hamari Radha</title>
+    <title lang="en">Humari Radha</title>
     <desc lang="en">S1 , E84 : Ratna's arrival makes Giridhar grow anxious. Meanwhile, Radha privately speaks with Shanaya when she arrives for the puja.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p33586417_b_h10_ab.jpg"/>
   </programme>
@@ -2632,7 +2632,7 @@
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p33959512_b_h10_ab.jpg"/>
   </programme>
   <programme start="20261112233000 +0000" stop="20261113000000 +0000" channel="zeetvhd">
-    <title lang="en">Tum Se Tum Tak</title>
+    <title lang="en">Tumm Se Tumm Tak</title>
     <desc lang="en">S1 , E490 : A young woman's unexpected bond with a much older businessman brings emotional twists while challenging societal expectations and family ideals.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p30514065_b_h8_ac.jpg"/>
   </programme>
@@ -2863,7 +2863,7 @@
   </programme>
   <programme start="20261112193200 +0000" stop="20261112195800 +0000" channel="sabtv">
     <title lang="en">Pushpa Impossible</title>
-    <desc lang="en">S1 , E1387 : After doing various odd jobs, an uneducated woman from Gujarat starts a business to earn a living and attempts to keep her family happy.</desc>
+    <desc lang="en">S1 , E1387 : After an unexpected health scare, the chawl turns a festive concern into a meaningful campaign, giving Bapodra a new issue to champion.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p22259614_b_h10_af.jpg"/>
   </programme>
   <programme start="20261112195800 +0000" stop="20261112202400 +0000" channel="sabtv">
@@ -2883,7 +2883,7 @@
   </programme>
   <programme start="20261112211600 +0000" stop="20261112214200 +0000" channel="sabtv">
     <title lang="en">Pushpa Impossible</title>
-    <desc lang="en">S1 , E1387 : After doing various odd jobs, an uneducated woman from Gujarat starts a business to earn a living and attempts to keep her family happy.</desc>
+    <desc lang="en">S1 , E1387 : After an unexpected health scare, the chawl turns a festive concern into a meaningful campaign, giving Bapodra a new issue to champion.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p22259614_b_h10_af.jpg"/>
   </programme>
   <programme start="20261112214200 +0000" stop="20261112220800 +0000" channel="sabtv">
@@ -2913,7 +2913,7 @@
   </programme>
   <programme start="20261112235100 +0000" stop="20261113003000 +0000" channel="sabtv">
     <title lang="en">Pushpa Impossible</title>
-    <desc lang="en">S1 , E1387 : After doing various odd jobs, an uneducated woman from Gujarat starts a business to earn a living and attempts to keep her family happy.</desc>
+    <desc lang="en">S1 , E1387 : After an unexpected health scare, the chawl turns a festive concern into a meaningful campaign, giving Bapodra a new issue to champion.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p22259614_b_h10_af.jpg"/>
   </programme>
   <programme start="20261112000000 +0000" stop="20261112000000 +0000" channel="flowersinternational">
@@ -3048,38 +3048,38 @@
   </programme>
   <programme start="20261112200000 +0000" stop="20261112210000 +0000" channel="flowersinternational">
     <title lang="en">Flowers Comedy Ith Item Vere</title>
-    <desc lang="en">Comedians take the stage and perform hilarious skits, showcasing their talent and attempting to impress the judges, in order to win the competition.</desc>
+    <desc lang="en">S1 , E710 : Comedians take the stage and perform hilarious skits, showcasing their talent and attempting to impress the judges, in order to win the competition.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29170189_b_h8_ab.jpg"/>
   </programme>
   <programme start="20261112210000 +0000" stop="20261112213000 +0000" channel="flowersinternational">
-    <title lang="en">Panchagni</title>
-    <desc lang="en">A restaurant named Pancharatnam is run by five sisters, while their stepmother tries different tactics to close their business.</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29170753_b_h8_ab.jpg"/>
+    <title lang="en">Sithara</title>
+    <desc lang="en">S1 , E30 : </desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/UcNLhTLh.jpg"/>
   </programme>
   <programme start="20261112213000 +0000" stop="20261112220000 +0000" channel="flowersinternational">
-    <title lang="en">Veettile Vilakku</title>
-    <desc lang="en">A mother goes through various struggles and hardships as she battles for her child and motherhood amidst a complex family relationship.</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29496588_b_h10_ac.jpg"/>
-  </programme>
-  <programme start="20261112220000 +0000" stop="20261112223000 +0000" channel="flowersinternational">
     <title lang="en">Uppum Mulakum</title>
-    <desc lang="en">Balachandran and Neelima, who face many challenges to earn a living, aim to successfully fulfil their wish of going to a foreign country.</desc>
+    <desc lang="en">S1 , E755 : Balachandran and Neelima, who face many challenges to earn a living, aim to successfully fulfil their wish of going to a foreign country.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29171156_b_h8_ad.jpg"/>
   </programme>
-  <programme start="20261112223000 +0000" stop="20261112233000 +0000" channel="flowersinternational">
-    <title lang="en">Flowers Top Singer 5</title>
-    <desc lang="en">Talented young singers compete against each other as they perform on stage in front of a panel of judges to emerge victorious and win the title.</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29495896_b_h10_ac.jpg"/>
+  <programme start="20261112220000 +0000" stop="20261112223000 +0000" channel="flowersinternational">
+    <title lang="en">Sukhamo Devi</title>
+    <desc lang="en">S1 , E1101 : Devika is in love with Nandagopan, but Karthikeyan forces her to marry him. She elopes with Nandagopan only to get abandoned by him at the temple, which leads her to marry his friend.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29170986_b_h8_ab.jpg"/>
   </programme>
-  <programme start="20261112233000 +0000" stop="20261113000000 +0000" channel="flowersinternational">
-    <title lang="en">Veettile Vilakku</title>
-    <desc lang="en">A mother goes through various struggles and hardships as she battles for her child and motherhood amidst a complex family relationship.</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29496588_b_h10_ac.jpg"/>
+  <programme start="20261112223000 +0000" stop="20261112230000 +0000" channel="flowersinternational">
+    <title lang="en">Mahalakshmi</title>
+    <desc lang="en">S1 , E630 : Mahalakshmi faces the consequences of her stepfather's actions with strength, while Kannan, who survives an unexpected tragedy, becomes her unexpected support in a journey of survival.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29379941_b_h8_ab.jpg"/>
+  </programme>
+  <programme start="20261112230000 +0000" stop="20261113000000 +0000" channel="flowersinternational">
+    <title lang="en">Flowers Comedy Ith Item Vere</title>
+    <desc lang="en">S1 , E710 : Comedians take the stage and perform hilarious skits, showcasing their talent and attempting to impress the judges, in order to win the competition.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29170189_b_h8_ab.jpg"/>
   </programme>
   <programme start="20261113000000 +0000" stop="20261113003000 +0000" channel="flowersinternational">
-    <title lang="en">Sukhamo Devi</title>
-    <desc lang="en">Devika is in love with Nandagopan, but Karthikeyan forces her to marry him. She elopes with Nandagopan only to get abandoned by him at the temple, which leads her to marry his friend.</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29170986_b_h8_ab.jpg"/>
+    <title lang="en">Flowers Comedy Golden Moments</title>
+    <desc lang="en">S1 , E197 : Revisit the best moments of the show 'Flowers Comedy,' where comedians put on their greatest skits and performances for the audience.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29170069_b_h10_ab.jpg"/>
   </programme>
   <programme start="20261112000000 +0000" stop="20261112000000 +0000" channel="geotv">
     <title lang="en">Uswah</title>
@@ -4763,7 +4763,7 @@
   </programme>
   <programme start="20261112190000 +0000" stop="20261112193000 +0000" channel="starjalsha">
     <title lang="en">Ashirbad</title>
-    <desc lang="en">S1 , E46 : After falling in love with Mallar, the youngest son in an affection-starved, all-male family, Meghla sets out to turn their disorganised residence into a warm, loving home.</desc>
+    <desc lang="en">S1 , E46 : Driven by jealousy, Binita plots to disrupt the celebrations. Later, she and Pranab demand a fine for the unauthorised reception pandal, leaving Bhairab's family shocked and tense.</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/aASfXKeQ.jpg"/>
   </programme>
   <programme start="20261112193000 +0000" stop="20261112200000 +0000" channel="starjalsha">
