@@ -333,7 +333,7 @@
   </programme>
   <programme start="20261118210000 +0000" stop="20261118213000 +0000" channel="colorshd">
     <title lang="en">Shayad Yahi Hai Pyaar</title>
-    <desc lang="en">S1 , E39 : Preeti unseals an envelope and discovers altered images of herself and Gaurav. Rajat looks at one of the photos and ridicules her.</desc>
+    <desc lang="en">S1 , E39 : Preeti unseals an envelope and discovers altered images of herself and Gaurav. Meanwhile, Rajat looks at one of the photos and ridicules her.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p34138733_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261118213000 +0000" stop="20261118220000 +0000" channel="colorshd">
@@ -728,7 +728,7 @@
   </programme>
   <programme start="20261118213000 +0000" stop="20261118220000 +0000" channel="colorskannada">
     <title lang="en">Pavithra Bandhana</title>
-    <desc lang="en">S1 , E228 : Fate leads Pavithra to an unexpected encounter at Amma's Coffee shop, oblivious to the peril around her. Her life takes a dramatic turn when an unforeseen marriage to Dev abruptly alters her destiny.</desc>
+    <desc lang="en">S1 , E228 : Namrata and Mangala's unexpected arrival ruins Vishal and his team's scheme. Meanwhile, Pramod's strange appearance baffles Ranganna and Putanna.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p32260804_b_h8_ac.jpg"/>
   </programme>
   <programme start="20261118220000 +0000" stop="20261118223000 +0000" channel="colorskannada">
@@ -1131,15 +1131,20 @@
     <desc lang="en">The relationship between two stepbrothers develops cracks when they fall in love with the same woman. As a result, the younger brother tries to kill the other and inherit the insurance money.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p178791_v_h10_ab.jpg"/>
   </programme>
-  <programme start="20261118192900 +0000" stop="20261118230000 +0000" channel="embollywoodunlimited">
+  <programme start="20261118192900 +0000" stop="20261118220300 +0000" channel="embollywoodunlimited">
     <title lang="en">Housefull 2</title>
     <desc lang="en">A comedy of errors wherein four men help each other to fool their prospective fathers-in-law creating a cascade of confusion and mayhem.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p9133931_v_h10_ae.jpg"/>
   </programme>
-  <programme start="20261118230000 +0000" stop="20261119020000 +0000" channel="embollywoodunlimited">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/2KIOKvF9.jpg"/>
+  <programme start="20261118220300 +0000" stop="20261118233900 +0000" channel="embollywoodunlimited">
+    <title lang="en">Dark Chocolate</title>
+    <desc lang="en">This thriller murder mystery is an adaptation of the real life murder case of Sheena Bora. The discovery of a charred corpse in the woods, leads to a high-profile murder investigation.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p13207369_v_h11_aa.jpg"/>
+  </programme>
+  <programme start="20261118233900 +0000" stop="20261119021200 +0000" channel="embollywoodunlimited">
+    <title lang="en">Bhagam Bhag</title>
+    <desc lang="en">Champak and his theatre troupe travel to London for a show. However, their plans go awry when they accidentally become pawns in a murder and drug conspiracy.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p165137_v_h10_ad.jpg"/>
   </programme>
   <programme start="20261118000000 +0000" stop="20261118010000 +0000" channel="sonytv">
     <title lang="en">The Kapil Sharma Show</title>
@@ -2853,67 +2858,67 @@
   </programme>
   <programme start="20261118184300 +0000" stop="20261118190900 +0000" channel="sabtv">
     <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">S1 , E4870 : The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
+    <desc lang="en">S1 , E4870 : Iyer, Bhide and Sodhi's party plan faces trouble when Roshan overhears their conversation. Subsequently, she takes an unexpected step.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p12557899_b_h11_ad.jpg"/>
   </programme>
   <programme start="20261118190900 +0000" stop="20261118193500 +0000" channel="sabtv">
     <title lang="en">Pushpa Impossible</title>
-    <desc lang="en">S1 , E1392 : After doing various odd jobs, an uneducated woman from Gujarat starts a business to earn a living and attempts to keep her family happy.</desc>
+    <desc lang="en">S1 , E1392 : A partner challenge showcases Tiger and Shanaya's deep compatibility as they tackle prompts effortlessly. Meanwhile, Chirag battles to conceal his unease over their impressive synergy.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p22259614_b_h10_af.jpg"/>
   </programme>
   <programme start="20261118193500 +0000" stop="20261118200100 +0000" channel="sabtv">
     <title lang="en">Hui Gumm Yaadein Ek Doctor, Do Zindagiyaan</title>
-    <desc lang="en">S1 , E194 : Following a traumatic accident and an eight-year memory loss, Dr Dev struggles to rebuild his life as his former wife, Srishti, balances motherhood with running their medical facility.</desc>
+    <desc lang="en">S1 , E194 : An unexpected disclosure compels Dr Dev and Dr Srishty to face their genuine emotions. Consequently, the pair must decide whether to unite at long last.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p32794904_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261118200100 +0000" stop="20261118202700 +0000" channel="sabtv">
     <title lang="en">Kyunki Papa Kehte Hain</title>
-    <desc lang="en">S1 , E49 : Pawan lovingly protects his four younger siblings after sudden parental loss, despite severe financial struggle. Furthermore, strict relatives force traditional values upon these resilient children.</desc>
+    <desc lang="en">S1 , E49 : Pawan's digital detox leaves the family restless as everyone tries to find a way to get their phones back.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p34126806_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261118202700 +0000" stop="20261118205300 +0000" channel="sabtv">
     <title lang="en">Hastinapur Ke Veer</title>
-    <desc lang="en">S1 , E145 : Five noble Pandava brothers bravely unite to combat ruthless injustice threatening their peaceful kingdom. Furthermore, their unwavering devotion to dharma secures total victory.</desc>
+    <desc lang="en">S1 , E145 : An enigmatic bowman averts a catastrophic deluge before disappearing without seeking credit. Consequently, Karna and Arjun resolve to discover the real identity of the fabled Chhayaveer.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p33120073_b_h10_ab.jpg"/>
   </programme>
   <programme start="20261118205300 +0000" stop="20261118211900 +0000" channel="sabtv">
     <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">S1 , E4870 : The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
+    <desc lang="en">S1 , E4870 : Iyer, Bhide and Sodhi's party plan faces trouble when Roshan overhears their conversation. Subsequently, she takes an unexpected step.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p12557899_b_h11_ad.jpg"/>
   </programme>
   <programme start="20261118211900 +0000" stop="20261118214500 +0000" channel="sabtv">
     <title lang="en">Pushpa Impossible</title>
-    <desc lang="en">S1 , E1392 : After doing various odd jobs, an uneducated woman from Gujarat starts a business to earn a living and attempts to keep her family happy.</desc>
+    <desc lang="en">S1 , E1392 : A partner challenge showcases Tiger and Shanaya's deep compatibility as they tackle prompts effortlessly. Meanwhile, Chirag battles to conceal his unease over their impressive synergy.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p22259614_b_h10_af.jpg"/>
   </programme>
   <programme start="20261118214500 +0000" stop="20261118221100 +0000" channel="sabtv">
     <title lang="en">Kyunki Papa Kehte Hain</title>
-    <desc lang="en">S1 , E49 : Pawan lovingly protects his four younger siblings after sudden parental loss, despite severe financial struggle. Furthermore, strict relatives force traditional values upon these resilient children.</desc>
+    <desc lang="en">S1 , E49 : Pawan's digital detox leaves the family restless as everyone tries to find a way to get their phones back.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p34126806_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261118221100 +0000" stop="20261118223600 +0000" channel="sabtv">
     <title lang="en">Hui Gumm Yaadein Ek Doctor, Do Zindagiyaan</title>
-    <desc lang="en">S1 , E194 : Following a traumatic accident and an eight-year memory loss, Dr Dev struggles to rebuild his life as his former wife, Srishti, balances motherhood with running their medical facility.</desc>
+    <desc lang="en">S1 , E194 : An unexpected disclosure compels Dr Dev and Dr Srishty to face their genuine emotions. Consequently, the pair must decide whether to unite at long last.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p32794904_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261118223600 +0000" stop="20261118230200 +0000" channel="sabtv">
     <title lang="en">Hastinapur Ke Veer</title>
-    <desc lang="en">S1 , E145 : Five noble Pandava brothers bravely unite to combat ruthless injustice threatening their peaceful kingdom. Furthermore, their unwavering devotion to dharma secures total victory.</desc>
+    <desc lang="en">S1 , E145 : An enigmatic bowman averts a catastrophic deluge before disappearing without seeking credit. Consequently, Karna and Arjun resolve to discover the real identity of the fabled Chhayaveer.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p33120073_b_h10_ab.jpg"/>
   </programme>
   <programme start="20261118230200 +0000" stop="20261118232800 +0000" channel="sabtv">
     <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">S1 , E4870 : The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
+    <desc lang="en">S1 , E4870 : Iyer, Bhide and Sodhi's party plan faces trouble when Roshan overhears their conversation. Subsequently, she takes an unexpected step.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p12557899_b_h11_ad.jpg"/>
   </programme>
   <programme start="20261118232800 +0000" stop="20261118235400 +0000" channel="sabtv">
     <title lang="en">Kyunki Papa Kehte Hain</title>
-    <desc lang="en">S1 , E49 : Pawan lovingly protects his four younger siblings after sudden parental loss, despite severe financial struggle. Furthermore, strict relatives force traditional values upon these resilient children.</desc>
+    <desc lang="en">S1 , E49 : Pawan's digital detox leaves the family restless as everyone tries to find a way to get their phones back.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p34126806_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261118235400 +0000" stop="20261119003000 +0000" channel="sabtv">
     <title lang="en">Pushpa Impossible</title>
-    <desc lang="en">S1 , E1392 : After doing various odd jobs, an uneducated woman from Gujarat starts a business to earn a living and attempts to keep her family happy.</desc>
+    <desc lang="en">S1 , E1392 : A partner challenge showcases Tiger and Shanaya's deep compatibility as they tackle prompts effortlessly. Meanwhile, Chirag battles to conceal his unease over their impressive synergy.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p22259614_b_h10_af.jpg"/>
   </programme>
   <programme start="20261118000000 +0000" stop="20261118000000 +0000" channel="flowersinternational">
@@ -3586,20 +3591,25 @@
     <desc lang="en">Manikandan, a young boy, endures many hardships and faces the challenges of raising a son as a single parent after accidentally impregnating his lover.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p24017689_v_h10_aa.jpg"/>
   </programme>
-  <programme start="20261118191300 +0000" stop="20261118212500 +0000" channel="emsimplysouth">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/GLmMTbx9.jpg"/>
+  <programme start="20261118191300 +0000" stop="20261118191400 +0000" channel="emsimplysouth">
+    <title lang="en">No program available</title>
+    <desc lang="en">No program available</desc>
+    <icon src="http://mena-img-cdn-lb.aws.playco.com/ev-livechannels-avod/AVODEMSIMPLYSOUTHY2004M/AVODEMSIMPLYSOUTHY2004M-landscape-poster-v1.jpg"/>
   </programme>
-  <programme start="20261118212500 +0000" stop="20261118233700 +0000" channel="emsimplysouth">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/GLmMTbx9.jpg"/>
+  <programme start="20261118191400 +0000" stop="20261118212800 +0000" channel="emsimplysouth">
+    <title lang="en">Eleven</title>
+    <desc lang="en">A seasoned police officer begins an investigation after a series of gruesome murders targeting twins comes to light. However, he soon encounters a sinister game of psychological manipulation.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p30594304_v_h8_aa.jpg"/>
   </programme>
-  <programme start="20261118233700 +0000" stop="20261119020000 +0000" channel="emsimplysouth">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/GLmMTbx9.jpg"/>
+  <programme start="20261118212800 +0000" stop="20261118235400 +0000" channel="emsimplysouth">
+    <title lang="en">Haram</title>
+    <desc lang="en">Balu and Isha are colleagues in a corporate company who fall in love and get married. This urban married couple's life changes, and they begin to struggle with irreconcilable differences.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p14779831_b_h10_aa.jpg"/>
+  </programme>
+  <programme start="20261118235400 +0000" stop="20261119012800 +0000" channel="emsimplysouth">
+    <title lang="en">Kottukkaali</title>
+    <desc lang="en">A young woman refuses her arranged match due to her love for a man of a lower caste. Horrified, her family drags her to a seer with the intentions of removing the spell they believe she is under.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p28286302_v_h10_aa.jpg"/>
   </programme>
   <programme start="20261118000000 +0000" stop="20261118000000 +0000" channel="zeekeralam">
     <title lang="en">Mangalyam + Valsalyam - Maha Sangamam</title>
@@ -4758,7 +4768,7 @@
   </programme>
   <programme start="20261118190000 +0000" stop="20261118193000 +0000" channel="starjalsha">
     <title lang="en">Ashirbad</title>
-    <desc lang="en">S1 , E52 : After falling in love with Mallar, the youngest son in an affection-starved, all-male family, Meghla sets out to turn their disorganised residence into a warm, loving home.</desc>
+    <desc lang="en">S1 , E52 : Meghla is shattered when Sambaran rejects her as his daughter. Afterwards, Sunny angrily demands to wed Meghla without delay to avenge her humiliation, threatening Sambaran with legal action.</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/aASfXKeQ.jpg"/>
   </programme>
   <programme start="20261118193000 +0000" stop="20261118200000 +0000" channel="starjalsha">
@@ -4982,9 +4992,9 @@
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p34096251_b_h10_ab.jpg"/>
   </programme>
   <programme start="20261118210000 +0000" stop="20261118220000 +0000" channel="arydigital">
-    <title lang="en">Izzat</title>
-    <desc lang="en">Izzat</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p34096337_b_h10_ab.jpg"/>
+    <title lang="en">Mera Ghar</title>
+    <desc lang="en">Mera Ghar</desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/SFeblxjv.jpg"/>
   </programme>
   <programme start="20261118220000 +0000" stop="20261118230000 +0000" channel="arydigital">
     <title lang="en">Lagan Lagi</title>
