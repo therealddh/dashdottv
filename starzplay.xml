@@ -718,7 +718,7 @@
   </programme>
   <programme start="20261120203000 +0000" stop="20261120210000 +0000" channel="colorskannada">
     <title lang="en">Gowri Kalyana</title>
-    <desc lang="en">S1 , E288 : Gowri and her sisters experience a life-altering shift upon encountering the Deenabandhu brothers, as fate draws the two families together into an uncertain future.</desc>
+    <desc lang="en">S1 , E288 : Fearing the Pooja may stop, Gowri secretly visits Chinmayi, who urgently needs rare blood. Her absence angers the family, but Vivek defends her and reveals the truth.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p32235063_b_h8_ab.jpg"/>
   </programme>
   <programme start="20261120210000 +0000" stop="20261120213000 +0000" channel="colorskannada">
@@ -728,7 +728,7 @@
   </programme>
   <programme start="20261120213000 +0000" stop="20261120220000 +0000" channel="colorskannada">
     <title lang="en">Pavithra Bandhana</title>
-    <desc lang="en">S1 , E230 : A devoted wife, a caring husband and a jealous intruder challenge trust and tradition, as secrets threaten a sacred bond that must survive every storm.</desc>
+    <desc lang="en">S1 , E230 : Pavithra promises to bring Radhika and Govardhan together, as Radhika's action delights him. Meanwhile, Dev intends to profess his love, leaving Pavithra bewildered by his behaviour.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p32260804_b_h8_ac.jpg"/>
   </programme>
   <programme start="20261120220000 +0000" stop="20261120223000 +0000" channel="colorskannada">
@@ -753,7 +753,7 @@
   </programme>
   <programme start="20261121000000 +0000" stop="20261121003000 +0000" channel="colorskannada">
     <title lang="en">Gowri Kalyana</title>
-    <desc lang="en">S1 , E288 : Gowri and her sisters experience a life-altering shift upon encountering the Deenabandhu brothers, as fate draws the two families together into an uncertain future.</desc>
+    <desc lang="en">S1 , E288 : Fearing the Pooja may stop, Gowri secretly visits Chinmayi, who urgently needs rare blood. Her absence angers the family, but Vivek defends her and reveals the truth.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p32235063_b_h8_ab.jpg"/>
   </programme>
   <programme start="20261120000000 +0000" stop="20261120002600 +0000" channel="zeebangla">
@@ -1131,15 +1131,20 @@
     <desc lang="en">Sam Manekshaw, an Indian army officer, navigates through his eventful life filled with ups and downs, including him getting promoted to the rank of Field Marshal.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p26109898_v_h8_ab.jpg"/>
   </programme>
-  <programme start="20261120192300 +0000" stop="20261120230000 +0000" channel="embollywoodunlimited">
+  <programme start="20261120192300 +0000" stop="20261120212700 +0000" channel="embollywoodunlimited">
     <title lang="en">Hamari Adhuri Kahani</title>
     <desc lang="en">Half a decade after her husband went missing, Vasudha, a single mother, falls for Aarav, a hotelier. However, her missing husband, Hari, returns, thereby creating a rift between the two lovers.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p11764059_v_h10_ab.jpg"/>
   </programme>
-  <programme start="20261120230000 +0000" stop="20261121020000 +0000" channel="embollywoodunlimited">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/2KIOKvF9.jpg"/>
+  <programme start="20261120212700 +0000" stop="20261120235000 +0000" channel="embollywoodunlimited">
+    <title lang="en">Kabali</title>
+    <desc lang="en">When Kabali raises his voice against the oppression faced by Tamil labourers in Malaysia, he is imprisoned for 25 years. After being released, he seeks revenge on the ones who wronged him.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p21280524_v_h10_aa.jpg"/>
+  </programme>
+  <programme start="20261120235000 +0000" stop="20261121015700 +0000" channel="embollywoodunlimited">
+    <title lang="en">Calendar Girls</title>
+    <desc lang="en">Five girls from different parts of the country become the cover girls of a prestigious annual calendar. Thereafter, they face a series of challenges while pursuing their goals.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p12494992_v_h10_aa.jpg"/>
   </programme>
   <programme start="20261120000000 +0000" stop="20261120010000 +0000" channel="sonytv">
     <title lang="en">The Kapil Sharma Show</title>
@@ -3251,22 +3256,22 @@
     <desc lang="en">Madhavan is an honest and hardworking man. However, when a rich man's daughter, Eliana, asks him to abduct her and demand a ransom from her father, his life turns upside down.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p27360660_v_h8_aa.jpg"/>
   </programme>
-  <programme start="20261120170000 +0000" stop="20261120193000 +0000" channel="asianetmovieshd">
-    <title lang="en">Avihitham</title>
-    <desc lang="en">Prakashan, after drinking, encounters Vinod and a young woman near a carpenter's abode. Subsequently, both men, Prakashan and Venu, perceive this duo as an affectionate couple, suspecting the woman is Nirmala.</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p31944645_b_h8_aa.jpg"/>
+  <programme start="20261120170000 +0000" stop="20261120190500 +0000" channel="asianetmovieshd">
+    <title lang="en">No program available</title>
+    <desc lang="en">No program available</desc>
+    <icon src="http://mena-img-cdn-lb.aws.playco.com/livechannels/ASIANETMOVIESHDY2012MML/ASIANETMOVIESHDY2012MML-landscape-poster-v1.jpg"/>
   </programme>
-  <programme start="20261120193000 +0000" stop="20261120213000 +0000" channel="asianetmovieshd">
+  <programme start="20261120190500 +0000" stop="20261120214000 +0000" channel="asianetmovieshd">
     <title lang="en">Aamayum Muyalum</title>
     <desc lang="en">After a lottery ticket salesman learns that one of his customers has won INR five crores, he tries to get back the ticket. Unfortunately, he finds the customer dead and has to lie to protect himself.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p12278837_b_h8_af.jpg"/>
   </programme>
-  <programme start="20261120213000 +0000" stop="20261120233000 +0000" channel="asianetmovieshd">
+  <programme start="20261120214000 +0000" stop="20261120234000 +0000" channel="asianetmovieshd">
     <title lang="en">Aayushmanbhava</title>
     <desc lang="en">Krishna works as a caretaker for Gopi, the free-spirited patriarch of a joint family. However, when he learns of Lakshmi, Gopi's granddaughter with a mental disability, he tries to cure her.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p18587341_b_h8_ag.jpg"/>
   </programme>
-  <programme start="20261120233000 +0000" stop="20261121013000 +0000" channel="asianetmovieshd">
+  <programme start="20261120234000 +0000" stop="20261121013000 +0000" channel="asianetmovieshd">
     <title lang="en">Zachariayude Garbhinikal</title>
     <desc lang="en">Gynaecologist Dr Zacharia encounters women facing unwanted pregnancies, including 18-year-old Zaria, who entrusts her newborn to the doctor after giving birth.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p11307301_b_h10_aa.jpg"/>
@@ -4758,8 +4763,8 @@
   </programme>
   <programme start="20261120190000 +0000" stop="20261120193000 +0000" channel="starjalsha">
     <title lang="en">Ashirbad</title>
-    <desc lang="en">S1 , E54 : After falling in love with Mallar, the youngest son in an affection-starved, all-male family, Meghla sets out to turn their disorganised residence into a warm, loving home.</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/aASfXKeQ.jpg"/>
+    <desc lang="en">S1 , E54 : Meghla spends happy moments with Mallar's family. Meanwhile, Monami and Sambaran plot to lure her back with the promise of her documents and send her away from Mallar.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p34213891_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261120193000 +0000" stop="20261120200000 +0000" channel="starjalsha">
     <title lang="en">Parashuram</title>
@@ -4984,7 +4989,7 @@
   <programme start="20261120210000 +0000" stop="20261120220000 +0000" channel="arydigital">
     <title lang="en">Mera Ghar</title>
     <desc lang="en">Mera Ghar</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/SFeblxjv.jpg"/>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p34638937_b_h10_ab.jpg"/>
   </programme>
   <programme start="20261120220000 +0000" stop="20261120230000 +0000" channel="arydigital">
     <title lang="en">Lagan Lagi</title>
