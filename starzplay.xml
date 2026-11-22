@@ -478,7 +478,7 @@
   </programme>
   <programme start="20261122140000 +0000" stop="20261122143000 +0000" channel="colorskannada">
     <title lang="en">Muddu Sose</title>
-    <desc lang="en">S1 , E567 : Vidya's dream of becoming a doctor is threatened when her father decides to get her married. Unfortunately, her father-in-law also believes that women should not pursue education.</desc>
+    <desc lang="en">S1 , E567 : Eshwari sends Aishwarya to warn Bhadra of the consequences if he does not attend the wedding. Elsewhere, an ominous sense of doom washes over Bhagirathi.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29992770_b_h8_ab.jpg"/>
   </programme>
   <programme start="20261122143000 +0000" stop="20261122150000 +0000" channel="colorskannada">
@@ -503,7 +503,7 @@
   </programme>
   <programme start="20261122193000 +0000" stop="20261122200000 +0000" channel="colorskannada">
     <title lang="en">Muddu Sose</title>
-    <desc lang="en">S1 , E567 : Vidya's dream of becoming a doctor is threatened when her father decides to get her married. Unfortunately, her father-in-law also believes that women should not pursue education.</desc>
+    <desc lang="en">S1 , E567 : Eshwari sends Aishwarya to warn Bhadra of the consequences if he does not attend the wedding. Elsewhere, an ominous sense of doom washes over Bhagirathi.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29992770_b_h8_ab.jpg"/>
   </programme>
   <programme start="20261122200000 +0000" stop="20261122203000 +0000" channel="colorskannada">
@@ -538,7 +538,7 @@
   </programme>
   <programme start="20261122230000 +0000" stop="20261122233000 +0000" channel="colorskannada">
     <title lang="en">Muddu Sose</title>
-    <desc lang="en">S1 , E567 : Vidya's dream of becoming a doctor is threatened when her father decides to get her married. Unfortunately, her father-in-law also believes that women should not pursue education.</desc>
+    <desc lang="en">S1 , E567 : Eshwari sends Aishwarya to warn Bhadra of the consequences if he does not attend the wedding. Elsewhere, an ominous sense of doom washes over Bhagirathi.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29992770_b_h8_ab.jpg"/>
   </programme>
   <programme start="20261122233000 +0000" stop="20261123000000 +0000" channel="colorskannada">
@@ -941,15 +941,20 @@
     <desc lang="en">A police inspector and an eccentric forensic expert investigate the murders of young girls and follow the trail of an unusual serial killer.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p23459826_v_h10_aa.jpg"/>
   </programme>
-  <programme start="20261122191000 +0000" stop="20261122230000 +0000" channel="embollywoodunlimited">
+  <programme start="20261122191000 +0000" stop="20261122213000 +0000" channel="embollywoodunlimited">
     <title lang="en">Jab We Met</title>
     <desc lang="en">Aditya, a heartbroken business tycoon, aimlessly boards a train to escape his depressing life. Soon, he meets Geet, a bubbly Punjabi girl, and gets pulled into her crazy life.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p174678_v_h8_af.jpg"/>
   </programme>
-  <programme start="20261122230000 +0000" stop="20261123020000 +0000" channel="embollywoodunlimited">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/2KIOKvF9.jpg"/>
+  <programme start="20261122213000 +0000" stop="20261122231500 +0000" channel="embollywoodunlimited">
+    <title lang="en">X: Past Is Present</title>
+    <desc lang="en">A filmmaker goes to a party and meets a young girl who is half his age. They start talking and through the course of the night, she reminds him of every girl he has dated in the past.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p12351608_v_h10_aa.jpg"/>
+  </programme>
+  <programme start="20261122231500 +0000" stop="20261123004600 +0000" channel="embollywoodunlimited">
+    <title lang="en">Mantra</title>
+    <desc lang="en">An Indian proprietor strives to sustain his enterprise against fierce global rivalry. Furthermore, he endeavours to compensate his family for lost time.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p14471993_v_h10_ab.jpg"/>
   </programme>
   <programme start="20261122000000 +0000" stop="20261122003000 +0000" channel="sonytv">
     <title lang="en">Indian Game Show With Bharti and Harssh</title>
@@ -1168,7 +1173,7 @@
   </programme>
   <programme start="20261122153000 +0000" stop="20261122160000 +0000" channel="starplushd">
     <title lang="en">Sayoneee</title>
-    <desc lang="en">S1 , E61 : Raised in an orphanage, Saanvi harbours a deep wish to reunite with her mother, Maya. Will they ever get to mend their relationship?</desc>
+    <desc lang="en">S1 , E61 : While discussing the incident with Aditya, Kabir confesses that his son Yuvraj and Aryan crossed the line while Saanvi was innocent. Meanwhile, Ritu pleads with Saanvi to expose her true identity.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p34140797_b_h8_ab.jpg"/>
   </programme>
   <programme start="20261122160000 +0000" stop="20261122173000 +0000" channel="starplushd">
@@ -1188,7 +1193,7 @@
   </programme>
   <programme start="20261122183000 +0000" stop="20261122190000 +0000" channel="starplushd">
     <title lang="en">Apsara</title>
-    <desc lang="en">S1 , E33 : Empowered Sunheri continuously shields her heavenly community against prevailing malevolence. However, her sibling Dhara constantly opposes her.</desc>
+    <desc lang="en">S1 , E33 : Saira escapes Chitra and Sunheri, reaching Shaurya while unconscious. Meanwhile, Sunheri shields Shaurya from Chitra, earning his gratitude for rescuing them both.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p34356169_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261122190000 +0000" stop="20261122193000 +0000" channel="starplushd">
