@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv generator-info-name="Playco EPG Generator" generator-info-url="https://epg.aws.playco.com">
+  <channel id="arydigital">
+    <display-name>ARY Digital</display-name>
+    <icon src="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/arydigital/active/417538aa854c4796f43ac98baf750586.svg"/>
+  </channel>
   <channel id="colorshd">
     <display-name>Colors HD</display-name>
     <icon src="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/colorshd/active/ec7b6d86320e10e8bc0ac713abfc208e.svg"/>
@@ -132,10 +136,111 @@
     <display-name>Colors Bangla</display-name>
     <icon src="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/colorsbangla/active/35011740392936caa776b1df4462c163.svg"/>
   </channel>
-  <channel id="arydigital">
-    <display-name>ARY Digital</display-name>
-    <icon src="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/arydigital/active/417538aa854c4796f43ac98baf750586.svg"/>
-  </channel>
+  <programme start="20261127000000 +0000" stop="20261127010000 +0000" channel="arydigital">
+    <title lang="en">Good Morning Pakistan</title>
+    <desc lang="en">Host Nida Yasir provides the latest happenings from all over the world, discusses the problems of the viewers and chats with various celebrities.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p706783_b_h10_ab.jpg"/>
+  </programme>
+  <programme start="20261127010000 +0000" stop="20261127013000 +0000" channel="arydigital">
+    <title lang="en">Daura e Tarjuma e Quran</title>
+    <desc lang="en">A Muslim cleric reads out verses from the Holy Quran and explains their meaning in a lucid manner to help devotees understand the scripture.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p18238749_b_h10_aa.jpg"/>
+  </programme>
+  <programme start="20261127013000 +0000" stop="20261127020000 +0000" channel="arydigital">
+    <title lang="en">Dars E Bukhari</title>
+    <desc lang="en">The host encourages listeners to lead a devout life while illuminating the teachings and sayings of the Prophet Muhammad (PBUH).</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p13599546_b_h10_ab.jpg"/>
+  </programme>
+  <programme start="20261127020000 +0000" stop="20261127023000 +0000" channel="arydigital">
+    <title lang="en">Bulbulay</title>
+    <desc lang="en">Nabeel and Mehmood slyly move into a flat owned by someone else. However, chaos ensues for Nabeel when Khoobsurat, a runaway bride, decides to stay with them and his mother, Mumtaz, comes visiting.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p8403713_b_h10_ac.jpg"/>
+  </programme>
+  <programme start="20261127023000 +0000" stop="20261127040000 +0000" channel="arydigital">
+    <title lang="en">Dr. Bahu</title>
+    <desc lang="en">A skilled doctor, committed to fulfilling her calling and her daughter-in-law duties, faces the intricate expectations of her marital household.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p32683728_b_h10_aa.jpg"/>
+  </programme>
+  <programme start="20261127040000 +0000" stop="20261127063000 +0000" channel="arydigital">
+    <title lang="en">Good Morning Pakistan</title>
+    <desc lang="en">Host Nida Yasir provides the latest happenings from all over the world, discusses the problems of the viewers and chats with various celebrities.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p706783_b_h10_ab.jpg"/>
+  </programme>
+  <programme start="20261127063000 +0000" stop="20261127070000 +0000" channel="arydigital">
+    <title lang="en">Bulbulay</title>
+    <desc lang="en">Nabeel and Mehmood slyly move into a flat owned by someone else. However, chaos ensues for Nabeel when Khoobsurat, a runaway bride, decides to stay with them and his mother, Mumtaz, comes visiting.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p8403713_b_h10_ac.jpg"/>
+  </programme>
+  <programme start="20261127070000 +0000" stop="20261127080000 +0000" channel="arydigital">
+    <title lang="en">Lagan Lagi</title>
+    <desc lang="en">Lagan Lagi</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p34382448_b_h10_ab.jpg"/>
+  </programme>
+  <programme start="20261127080000 +0000" stop="20261127100000 +0000" channel="arydigital">
+    <title lang="en">Mera Ghar</title>
+    <desc lang="en">Mera Ghar</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p34638937_b_h10_ab.jpg"/>
+  </programme>
+  <programme start="20261127100000 +0000" stop="20261127110000 +0000" channel="arydigital">
+    <title lang="en">Hey FAM</title>
+    <desc lang="en">Hey FAM</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p34096251_b_h10_ab.jpg"/>
+  </programme>
+  <programme start="20261127110000 +0000" stop="20261127130000 +0000" channel="arydigital">
+    <title lang="en">Lagan Lagi</title>
+    <desc lang="en">Lagan Lagi</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p34382448_b_h10_ab.jpg"/>
+  </programme>
+  <programme start="20261127130000 +0000" stop="20261127140000 +0000" channel="arydigital">
+    <title lang="en">Rutba</title>
+    <desc lang="en">A principled, newly assigned civil servant and law enforcement official's steadfast morals set him in opposition to a formidable, corrupt socio-political network.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p34233171_b_h10_ab.jpg"/>
+  </programme>
+  <programme start="20261127140000 +0000" stop="20261127160000 +0000" channel="arydigital">
+    <title lang="en">Mera Ghar</title>
+    <desc lang="en">Mera Ghar</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p34638937_b_h10_ab.jpg"/>
+  </programme>
+  <programme start="20261127160000 +0000" stop="20261127170000 +0000" channel="arydigital">
+    <title lang="en">Dar-e-Nijaat</title>
+    <desc lang="en">Haunted by her past, a married woman attempts to build a new life — until old secrets and attachments resurface and threaten her present.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p33712006_b_h8_ac.jpg"/>
+  </programme>
+  <programme start="20261127170000 +0000" stop="20261127180000 +0000" channel="arydigital">
+    <title lang="en">Lagan Lagi</title>
+    <desc lang="en">Lagan Lagi</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p34382448_b_h10_ab.jpg"/>
+  </programme>
+  <programme start="20261127180000 +0000" stop="20261127193000 +0000" channel="arydigital">
+    <title lang="en">Dr. Bahu</title>
+    <desc lang="en">A skilled doctor, committed to fulfilling her calling and her daughter-in-law duties, faces the intricate expectations of her marital household.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p32683728_b_h10_aa.jpg"/>
+  </programme>
+  <programme start="20261127193000 +0000" stop="20261127200000 +0000" channel="arydigital">
+    <title lang="en">Bulbulay</title>
+    <desc lang="en">Nabeel and Mehmood slyly move into a flat owned by someone else. However, chaos ensues for Nabeel when Khoobsurat, a runaway bride, decides to stay with them and his mother, Mumtaz, comes visiting.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p8403713_b_h10_ac.jpg"/>
+  </programme>
+  <programme start="20261127200000 +0000" stop="20261127210000 +0000" channel="arydigital">
+    <title lang="en">Dar-e-Nijaat</title>
+    <desc lang="en">Haunted by her past, a married woman attempts to build a new life — until old secrets and attachments resurface and threaten her present.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p33712006_b_h8_ac.jpg"/>
+  </programme>
+  <programme start="20261127210000 +0000" stop="20261127220000 +0000" channel="arydigital">
+    <title lang="en">Mera Ghar</title>
+    <desc lang="en">Mera Ghar</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p34638937_b_h10_ab.jpg"/>
+  </programme>
+  <programme start="20261127220000 +0000" stop="20261127230000 +0000" channel="arydigital">
+    <title lang="en">Lagan Lagi</title>
+    <desc lang="en">Lagan Lagi</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p34382448_b_h10_ab.jpg"/>
+  </programme>
+  <programme start="20261127230000 +0000" stop="20261128010000 +0000" channel="arydigital">
+    <title lang="en">Good Morning Pakistan</title>
+    <desc lang="en">Host Nida Yasir provides the latest happenings from all over the world, discusses the problems of the viewers and chats with various celebrities.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p706783_b_h10_ab.jpg"/>
+  </programme>
   <programme start="20261127000000 +0000" stop="20261127000000 +0000" channel="colorshd">
     <title lang="en">Bareilly Ki Bacchan</title>
     <desc lang="en">S1 , E144 : Ambitious Sangam marries carefree Krishna Bacchan and moves into a home with only male residents. However, she faces the daunting challenge of winning over her eccentric in-laws.</desc>
@@ -288,7 +393,7 @@
   </programme>
   <programme start="20261127153000 +0000" stop="20261127160000 +0000" channel="colorshd">
     <title lang="en">Mannat Harr Khushi Paane Ki</title>
-    <desc lang="en">S2 , E32 : Mannat, a gifted young chef, dreams big but faces a formidable obstacle, her ruthless employer Aishwarya. Unknown to both, Aishwarya is also Mannat's birth mother who abandoned her when she was born.</desc>
+    <desc lang="en">S2 , E32 : Sarika's Dhaba acquisition incites turmoil when Surinder discloses Mannat's ownership. Later, Jolly is afraid of the Oberois, whereas Sarika controls Karan and Mannat provides a reality check.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29088348_b_h8_ab.jpg"/>
   </programme>
   <programme start="20261127160000 +0000" stop="20261127163000 +0000" channel="colorshd">
@@ -348,7 +453,7 @@
   </programme>
   <programme start="20261127223000 +0000" stop="20261127230000 +0000" channel="colorshd">
     <title lang="en">Mannat Harr Khushi Paane Ki</title>
-    <desc lang="en">S2 , E32 : Mannat, a gifted young chef, dreams big but faces a formidable obstacle, her ruthless employer Aishwarya. Unknown to both, Aishwarya is also Mannat's birth mother who abandoned her when she was born.</desc>
+    <desc lang="en">S2 , E32 : Sarika's Dhaba acquisition incites turmoil when Surinder discloses Mannat's ownership. Later, Jolly is afraid of the Oberois, whereas Sarika controls Karan and Mannat provides a reality check.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29088348_b_h8_ab.jpg"/>
   </programme>
   <programme start="20261127230000 +0000" stop="20261127233000 +0000" channel="colorshd">
@@ -463,7 +568,7 @@
   </programme>
   <programme start="20261127160000 +0000" stop="20261127163000 +0000" channel="asianethd">
     <title lang="en">Kattathe Kilikoodu</title>
-    <desc lang="en">S1 , E336 : Nidhi wants to escape her destiny, so she marries into a family with a bad reputation. But, in this process she will either bring back their lost hope or lose her own.</desc>
+    <desc lang="en">S1 , E336 : Overcoming his initial doubts, Chandini's father accepts Sudheesh's proposal. Meanwhile, Subhash vows to keep his word to Chandini before bidding farewell.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p31653307_b_h10_ac.jpg"/>
   </programme>
   <programme start="20261127163000 +0000" stop="20261127165000 +0000" channel="asianethd">
@@ -633,7 +738,7 @@
   </programme>
   <programme start="20261127123000 +0000" stop="20261127130000 +0000" channel="colorskannada">
     <title lang="en">Raani</title>
-    <desc lang="en">S1 , E259 : Raani brings immense joy to her mother while growing up inside the prison walls. As an adult, she now prepares to step outside and navigate the real world completely on her own.</desc>
+    <desc lang="en">S1 , E259 : Kaveri exposes Sarika and Sharathkumar's wicked plot to steal Balakrishna's wealth and ruin his kin. Later, she reunites with him, bringing immense joy to the entire home.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p25470729_b_h8_ab.jpg"/>
   </programme>
   <programme start="20261127130000 +0000" stop="20261127133000 +0000" channel="colorskannada">
@@ -648,7 +753,7 @@
   </programme>
   <programme start="20261127140000 +0000" stop="20261127143000 +0000" channel="colorskannada">
     <title lang="en">Muddu Sose</title>
-    <desc lang="en">S1 , E572 : Vidya's dream of becoming a doctor is threatened when her father decides to get her married. Unfortunately, her father-in-law also believes that women should not pursue education.</desc>
+    <desc lang="en">S1 , E572 : The family's astonishment grows as the doctor verifies Vidya's memory loss and her childlike cognitive condition. Afterwards, Shivaramegowda requests Bhadra to remain with her.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29992770_b_h8_ab.jpg"/>
   </programme>
   <programme start="20261127143000 +0000" stop="20261127150000 +0000" channel="colorskannada">
@@ -683,7 +788,7 @@
   </programme>
   <programme start="20261127193000 +0000" stop="20261127200000 +0000" channel="colorskannada">
     <title lang="en">Muddu Sose</title>
-    <desc lang="en">S1 , E572 : Vidya's dream of becoming a doctor is threatened when her father decides to get her married. Unfortunately, her father-in-law also believes that women should not pursue education.</desc>
+    <desc lang="en">S1 , E572 : The family's astonishment grows as the doctor verifies Vidya's memory loss and her childlike cognitive condition. Afterwards, Shivaramegowda requests Bhadra to remain with her.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29992770_b_h8_ab.jpg"/>
   </programme>
   <programme start="20261127200000 +0000" stop="20261127203000 +0000" channel="colorskannada">
@@ -708,7 +813,7 @@
   </programme>
   <programme start="20261127220000 +0000" stop="20261127223000 +0000" channel="colorskannada">
     <title lang="en">Raani</title>
-    <desc lang="en">S1 , E259 : Raani brings immense joy to her mother while growing up inside the prison walls. As an adult, she now prepares to step outside and navigate the real world completely on her own.</desc>
+    <desc lang="en">S1 , E259 : Kaveri exposes Sarika and Sharathkumar's wicked plot to steal Balakrishna's wealth and ruin his kin. Later, she reunites with him, bringing immense joy to the entire home.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p25470729_b_h8_ab.jpg"/>
   </programme>
   <programme start="20261127223000 +0000" stop="20261127230000 +0000" channel="colorskannada">
@@ -718,7 +823,7 @@
   </programme>
   <programme start="20261127230000 +0000" stop="20261127233000 +0000" channel="colorskannada">
     <title lang="en">Muddu Sose</title>
-    <desc lang="en">S1 , E572 : Vidya's dream of becoming a doctor is threatened when her father decides to get her married. Unfortunately, her father-in-law also believes that women should not pursue education.</desc>
+    <desc lang="en">S1 , E572 : The family's astonishment grows as the doctor verifies Vidya's memory loss and her childlike cognitive condition. Afterwards, Shivaramegowda requests Bhadra to remain with her.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29992770_b_h8_ab.jpg"/>
   </programme>
   <programme start="20261127233000 +0000" stop="20261128000000 +0000" channel="colorskannada">
@@ -736,64 +841,59 @@
     <desc lang="en">S1 , E1516 : Baba Ramdev emphasises the importance of yoga and demonstrates various asanas and breathing exercises that enable one to lead a healthy and stress-free life.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p28747290_b_h8_ab.jpg"/>
   </programme>
-  <programme start="20261127002500 +0000" stop="20261127023000 +0000" channel="zeebangla">
+  <programme start="20261127002500 +0000" stop="20261127022600 +0000" channel="zeebangla">
     <title lang="en">Prem Amar 2</title>
     <desc lang="en">College mates Apurba and Joy fall in love with each other. However, their lives take an unexpected turn when Apurba's family forces her to marry someone else.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p30099010_b_h10_aa.jpg"/>
   </programme>
-  <programme start="20261127023000 +0000" stop="20261127030000 +0000" channel="zeebangla">
-    <title lang="en">Sakaler Sure</title>
-    <desc lang="en">S1 , E225 : Talented singers and artists perform some of the most popular devotional and folk songs of Bengali music and enthral the audience with their performance.</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29905543_b_h10_aa.jpg"/>
+  <programme start="20261127022600 +0000" stop="20261127032500 +0000" channel="zeebangla">
+    <title lang="en">Sokaler Sure</title>
+    <desc lang="en">S1 , E18 : Talented singers and artists perform some of the most popular devotional and folk songs of Bengali music and enthral the audience with their performance.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29794356_b_h10_aa.jpg"/>
   </programme>
-  <programme start="20261127030000 +0000" stop="20261127033000 +0000" channel="zeebangla">
-    <title lang="en">Sakaler Sure</title>
-    <desc lang="en">S1 , E225 : Talented singers and artists perform some of the most popular devotional and folk songs of Bengali music and enthral the audience with their performance.</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29905543_b_h10_aa.jpg"/>
-  </programme>
-  <programme start="20261127033000 +0000" stop="20261127060000 +0000" channel="zeebangla">
+  <programme start="20261127032500 +0000" stop="20261127055300 +0000" channel="zeebangla">
     <title lang="en">Pratibha</title>
     <desc lang="en">Pratibha and her husband separate for many years following their marriage. However, they eventually reunite after their daughter's husband begins working for his long-lost father-in-law.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29080141_b_h8_aa.jpg"/>
   </programme>
-  <programme start="20261127060000 +0000" stop="20261127090000 +0000" channel="zeebangla">
+  <programme start="20261127055300 +0000" stop="20261127085600 +0000" channel="zeebangla">
     <title lang="en">Guru Dakshina</title>
     <desc lang="en">Jayant, an aspiring singer, finds his way to the city in order to make it big. Soon, he garners accolades for his performances and eventually falls in love with the daughter of a ruthless businessman.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p14870454_b_h8_ac.jpg"/>
   </programme>
-  <programme start="20261127090000 +0000" stop="20261127113000 +0000" channel="zeebangla">
+  <programme start="20261127085600 +0000" stop="20261127112600 +0000" channel="zeebangla">
     <title lang="en">Bidrohini Naari</title>
     <desc lang="en">Saathi, a rebel, marries a rich man named Partho, but his family fails to welcome her. However, when her maid gets molested by her brother-in-law, she raises her voice against her in-laws.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29748395_v_h10_aa.jpg"/>
   </programme>
-  <programme start="20261127113000 +0000" stop="20261127143000 +0000" channel="zeebangla">
+  <programme start="20261127112600 +0000" stop="20261127143200 +0000" channel="zeebangla">
     <title lang="en">Anutap</title>
     <desc lang="en">A singer falls in love with a village beauty, and soon they get married. However, their marital bliss is dampened when they are separated due to an unfortunate event.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29846230_v_h8_aa.jpg"/>
   </programme>
-  <programme start="20261127143000 +0000" stop="20261127163000 +0000" channel="zeebangla">
+  <programme start="20261127143200 +0000" stop="20261127163600 +0000" channel="zeebangla">
     <title lang="en">Bappi Lahiri : Gaaner Amar Sangi</title>
     <desc lang="en">A tribute to the legendary music composer and singer, the late Bappi Lahiri, where top Tollywood and Bollywood artistes sing his popular compositions.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p31943495_b_h10_aa.jpg"/>
   </programme>
-  <programme start="20261127163000 +0000" stop="20261127190000 +0000" channel="zeebangla">
+  <programme start="20261127163600 +0000" stop="20261127192700 +0000" channel="zeebangla">
     <title lang="en">Mangaldeep</title>
     <desc lang="en">Two best friends, Mangal and Deep, embark on a journey to the big city to fulfil their musical dreams. In his quest to see Deep succeed, Mangal risks everything, including his own finances.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p14358491_b_h8_af.jpg"/>
   </programme>
-  <programme start="20261127190000 +0000" stop="20261127210000 +0000" channel="zeebangla">
+  <programme start="20261127192700 +0000" stop="20261127210800 +0000" channel="zeebangla">
     <title lang="en">Swarn Trisha</title>
     <desc lang="en">A Japanese smuggler hires an Indian salvage company to extract his sunken treasure. However, an Interpol agent pretends to be in love with the daughter of the company's owner to expose the smuggler.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p23959313_b_h8_aa.jpg"/>
   </programme>
-  <programme start="20261127210000 +0000" stop="20261127233000 +0000" channel="zeebangla">
+  <programme start="20261127210800 +0000" stop="20261127233000 +0000" channel="zeebangla">
     <title lang="en">Chena Achena</title>
     <desc lang="en">In a village in India, Atashi, a young woman arrives as a new tribal welfare officer. Soon, a man from her past resurfaces who now goes by a different identity.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29892319_v_h10_aa.jpg"/>
   </programme>
-  <programme start="20261127233000 +0000" stop="20261128003000 +0000" channel="zeebangla">
+  <programme start="20261127233000 +0000" stop="20261128002700 +0000" channel="zeebangla">
     <title lang="en">Patanjali Yog - By Yogrishi Swami Ramdev</title>
-    <desc lang="en">S1 , E589 : Baba Ramdev emphasises the importance of yoga and demonstrates various asanas and breathing exercises that enable one to lead a healthy and stress-free life.</desc>
+    <desc lang="en">S1 , E1517 : Baba Ramdev emphasises the importance of yoga and demonstrates various asanas and breathing exercises that enable one to lead a healthy and stress-free life.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p28747290_b_h8_ab.jpg"/>
   </programme>
   <programme start="20261127000000 +0000" stop="20261127003000 +0000" channel="indiatoday">
@@ -1066,50 +1166,65 @@
     <desc lang="en">Kunjunni, an orphan, and Radha, who makes a living by selling statues of deities, love each other. However, problems arise when her father opposes their relationship.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p10785087_v_h10_aa.jpg"/>
   </programme>
-  <programme start="20261127000000 +0000" stop="20261127020000 +0000" channel="embollywoodunlimited">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
+  <programme start="20261127000000 +0000" stop="20261127014200 +0000" channel="embollywoodunlimited">
+    <title lang="en">Judwaa 2</title>
+    <desc lang="en">Raja and Prem, twins separated at birth but connected through reflexes, join forces as adults to take down an underground smuggling kingpin who threatens to destroy their family.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p14486391_v_h8_aa.jpg"/>
+  </programme>
+  <programme start="20261127014200 +0000" stop="20261127033400 +0000" channel="embollywoodunlimited">
+    <title lang="en">Sanak</title>
+    <desc lang="en">Vivaan, a skilled MMA trainer, takes his wife Anshika to the hospital for an urgent operation. However, he is forced to take action when a terrorist group takes Anshika and other patients hostage.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p20981810_v_h8_aa.jpg"/>
+  </programme>
+  <programme start="20261127033400 +0000" stop="20261127061300 +0000" channel="embollywoodunlimited">
+    <title lang="en">Rang de Basanti</title>
+    <desc lang="en">When Sue selects a few students to portray various Indian freedom fighters in her film, she unwittingly awakens their patriotism. The emotional and mental process turns them into rebels for a cause.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p160770_v_h10_aa.jpg"/>
+  </programme>
+  <programme start="20261127061300 +0000" stop="20261127081100 +0000" channel="embollywoodunlimited">
+    <title lang="en">Veere Di Wedding</title>
+    <desc lang="en">Four young women navigate love, family, and careers while supporting one another. The childhood friends are brought together for Kalindi's wedding and are forced to untangle their lives.</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/2KIOKvF9.jpg"/>
   </programme>
-  <programme start="20261127020000 +0000" stop="20261127050000 +0000" channel="embollywoodunlimited">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/2KIOKvF9.jpg"/>
+  <programme start="20261127081100 +0000" stop="20261127102900 +0000" channel="embollywoodunlimited">
+    <title lang="en">Queen</title>
+    <desc lang="en">Rani is devastated after her fiancé leaves her just before the wedding. Undeterred, she decides to go on their honeymoon alone where she gets pulled out of her comfort zone and rediscovers herself.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p10608434_v_h10_ab.jpg"/>
   </programme>
-  <programme start="20261127050000 +0000" stop="20261127080000 +0000" channel="embollywoodunlimited">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/2KIOKvF9.jpg"/>
+  <programme start="20261127102900 +0000" stop="20261127123800 +0000" channel="embollywoodunlimited">
+    <title lang="en">Housefull 3</title>
+    <desc lang="en">A rich businessman does not want his three daughters to get married because of a superstitious belief. Now, their boyfriends must prove to him that they are perfect for his daughters.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p12893097_v_h10_ae.jpg"/>
   </programme>
-  <programme start="20261127080000 +0000" stop="20261127110000 +0000" channel="embollywoodunlimited">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/2KIOKvF9.jpg"/>
+  <programme start="20261127123800 +0000" stop="20261127144900 +0000" channel="embollywoodunlimited">
+    <title lang="en">Omkara</title>
+    <desc lang="en">Ishwar dreams of becoming Omkara's successor after the latter wins the election. However, when Omkara appoints Keshav as his lieutenant, he feels betrayed and plots revenge.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p163303_v_h10_ab.jpg"/>
   </programme>
-  <programme start="20261127110000 +0000" stop="20261127140000 +0000" channel="embollywoodunlimited">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/2KIOKvF9.jpg"/>
+  <programme start="20261127144900 +0000" stop="20261127170000 +0000" channel="embollywoodunlimited">
+    <title lang="en">Golmaal Returns</title>
+    <desc lang="en">Gopal gets stuck in a yacht for a night after he saves an attractive young woman. However, his wife, Ekta, suspects him of having an affair and decides to uncover the truth.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p190560_v_h10_ab.jpg"/>
   </programme>
-  <programme start="20261127140000 +0000" stop="20261127170000 +0000" channel="embollywoodunlimited">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/2KIOKvF9.jpg"/>
+  <programme start="20261127170000 +0000" stop="20261127190200 +0000" channel="embollywoodunlimited">
+    <title lang="en">City Lights</title>
+    <desc lang="en">Deepak Singh, an ex-army person from Rajasthan, moves to Mumbai with his family hoping for a better lifestyle. However, upon arrival, he realises that everything is not as easy as it seems.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p21562158_v_h10_ab.jpg"/>
   </programme>
-  <programme start="20261127170000 +0000" stop="20261127200000 +0000" channel="embollywoodunlimited">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/2KIOKvF9.jpg"/>
+  <programme start="20261127190200 +0000" stop="20261127212700 +0000" channel="embollywoodunlimited">
+    <title lang="en">Golmaal Again</title>
+    <desc lang="en">Five orphan men return to the orphanage they grew up in to attend their mentor's funeral. However, they encounter the ghost of their childhood friend, Khushi, and help her attain salvation.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p14610461_v_h10_aa.jpg"/>
   </programme>
-  <programme start="20261127200000 +0000" stop="20261127230000 +0000" channel="embollywoodunlimited">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/2KIOKvF9.jpg"/>
+  <programme start="20261127212700 +0000" stop="20261127232200 +0000" channel="embollywoodunlimited">
+    <title lang="en">Munjya</title>
+    <desc lang="en">When Bittu visits his village, he uncovers a dark family secret involving a vengeful spirit, Munjya, who is desperate to marry. Bittu must navigate through chaos to protect himself and his lover.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p27543903_v_h8_ab.jpg"/>
   </programme>
-  <programme start="20261127230000 +0000" stop="20261128020000 +0000" channel="embollywoodunlimited">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/2KIOKvF9.jpg"/>
+  <programme start="20261127232200 +0000" stop="20261128014500 +0000" channel="embollywoodunlimited">
+    <title lang="en">Besharam</title>
+    <desc lang="en">Babli is a small-time thief who steals cars in order to support a noble cause. His life takes an interesting turn when he falls in love with Tara and decides to mend his ways.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p10191391_v_h10_aa.jpg"/>
   </programme>
   <programme start="20261127000000 +0000" stop="20261127010000 +0000" channel="sonytv">
     <title lang="en">The Kapil Sharma Show</title>
@@ -1433,12 +1548,12 @@
   </programme>
   <programme start="20261127170000 +0000" stop="20261127173000 +0000" channel="starplushd">
     <title lang="en">Dil Ki Bewafaiyaan</title>
-    <desc lang="en">S1 , E4 : A middle-aged man yearns for a deeper connection and desperately tries to ignite a passionate spark within his comfortable but mundane marriage.</desc>
+    <desc lang="en">S1 , E4 : Sneha gets support after Vikram's infidelity is discovered, while Suhani is encouraged to trust Akshat.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p34616197_b_h10_ab.jpg"/>
   </programme>
   <programme start="20261127173000 +0000" stop="20261127180000 +0000" channel="starplushd">
     <title lang="en">Anupamaa</title>
-    <desc lang="en">S1 , E2215 : Anupamaa sacrifices her personal ambitions to dedicate her life to her family. However, she eventually decides to live on her own terms after failing to receive credit for her many trials.</desc>
+    <desc lang="en">S1 , E2215 : Rahi is warned to stay away from Anupama, while Pari is ignored. Later, Prerana apologises to Ansh and he accepts it.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p18094069_b_h8_ae.jpg"/>
   </programme>
   <programme start="20261127180000 +0000" stop="20261127183000 +0000" channel="starplushd">
@@ -1448,12 +1563,12 @@
   </programme>
   <programme start="20261127183000 +0000" stop="20261127190000 +0000" channel="starplushd">
     <title lang="en">Kyunki Rishton Ke Bhi Roop Badalte Hain</title>
-    <desc lang="en">S1 , E252 : After leaving Akshay and Madhavi at the boarding school, an emotional Vrinda takes over as the new boss of the Jamshedpur plant.</desc>
+    <desc lang="en">S1 , E252 : Hemant persuades Angad to take the stage at a college event, delighting Timsi as she basks in the spotlight. Meanwhile, Madhavi grows uneasy when a peer praises Angad's act.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p32915623_b_h10_ab.jpg"/>
   </programme>
   <programme start="20261127190000 +0000" stop="20261127193000 +0000" channel="starplushd">
     <title lang="en">Apsara</title>
-    <desc lang="en">S1 , E38 : Empowered Sunheri continuously shields her heavenly community against prevailing malevolence. However, her sibling Dhara constantly opposes her.</desc>
+    <desc lang="en">S1 , E38 : Sunheri learns that Saira wants Dhara to marry Shaurya and rushes to help her escape. Meanwhile, Saira waits for the sacrifice.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p34356169_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261127193000 +0000" stop="20261127200000 +0000" channel="starplushd">
@@ -1478,7 +1593,7 @@
   </programme>
   <programme start="20261127223000 +0000" stop="20261127230000 +0000" channel="starplushd">
     <title lang="en">Anupamaa</title>
-    <desc lang="en">S1 , E2215 : Anupamaa sacrifices her personal ambitions to dedicate her life to her family. However, she eventually decides to live on her own terms after failing to receive credit for her many trials.</desc>
+    <desc lang="en">S1 , E2215 : Rahi is warned to stay away from Anupama, while Pari is ignored. Later, Prerana apologises to Ansh and he accepts it.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p18094069_b_h8_ae.jpg"/>
   </programme>
   <programme start="20261127230000 +0000" stop="20261127233000 +0000" channel="starplushd">
@@ -2728,7 +2843,7 @@
   </programme>
   <programme start="20261127120000 +0000" stop="20261127123000 +0000" channel="sabtv">
     <title lang="en">Lo Chudail Chali Sasural</title>
-    <desc lang="en">S1 , E8 : Urvashi, a witch, renounces supernatural powers in order to marry Aarav, a human. However, when she uses her magic to fix small accidents, her spells backfire, leading to chaos.</desc>
+    <desc lang="en">S1 , E8 : Urvashi enchants Aarav, leaving him stern at the office and tender at home. Later, she panics over the turmoil and approaches her mother for assistance.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p34477944_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261127123000 +0000" stop="20261127130000 +0000" channel="sabtv">
@@ -2738,7 +2853,7 @@
   </programme>
   <programme start="20261127130000 +0000" stop="20261127133000 +0000" channel="sabtv">
     <title lang="en">Pushpa Impossible</title>
-    <desc lang="en">S1 , E1400 : After doing various odd jobs, an uneducated woman from Gujarat starts a business to earn a living and attempts to keep her family happy.</desc>
+    <desc lang="en">S1 , E1400 : Fuelled by prolonged agony, Varun shifts to the 'chawl' to avenge his past. Meanwhile, Chirag tries hard to win Shanaya back, fearing Varun's emotions might create a rift between them.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p22259614_b_h10_af.jpg"/>
   </programme>
   <programme start="20261127133000 +0000" stop="20261127140000 +0000" channel="sabtv">
@@ -2748,7 +2863,7 @@
   </programme>
   <programme start="20261127140000 +0000" stop="20261127143000 +0000" channel="sabtv">
     <title lang="en">Lo Chudail Chali Sasural</title>
-    <desc lang="en">S1 , E8 : Urvashi, a witch, renounces supernatural powers in order to marry Aarav, a human. However, when she uses her magic to fix small accidents, her spells backfire, leading to chaos.</desc>
+    <desc lang="en">S1 , E8 : Urvashi enchants Aarav, leaving him stern at the office and tender at home. Later, she panics over the turmoil and approaches her mother for assistance.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p34477944_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261127143000 +0000" stop="20261127150000 +0000" channel="sabtv">
@@ -2768,7 +2883,7 @@
   </programme>
   <programme start="20261127160000 +0000" stop="20261127163000 +0000" channel="sabtv">
     <title lang="en">Lo Chudail Chali Sasural</title>
-    <desc lang="en">S1 , E8 : Urvashi, a witch, renounces supernatural powers in order to marry Aarav, a human. However, when she uses her magic to fix small accidents, her spells backfire, leading to chaos.</desc>
+    <desc lang="en">S1 , E8 : Urvashi enchants Aarav, leaving him stern at the office and tender at home. Later, she panics over the turmoil and approaches her mother for assistance.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p34477944_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261127163000 +0000" stop="20261127165900 +0000" channel="sabtv">
@@ -2778,7 +2893,7 @@
   </programme>
   <programme start="20261127165900 +0000" stop="20261127172500 +0000" channel="sabtv">
     <title lang="en">Pushpa Impossible</title>
-    <desc lang="en">S1 , E1400 : After doing various odd jobs, an uneducated woman from Gujarat starts a business to earn a living and attempts to keep her family happy.</desc>
+    <desc lang="en">S1 , E1400 : Fuelled by prolonged agony, Varun shifts to the 'chawl' to avenge his past. Meanwhile, Chirag tries hard to win Shanaya back, fearing Varun's emotions might create a rift between them.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p22259614_b_h10_af.jpg"/>
   </programme>
   <programme start="20261127172500 +0000" stop="20261127175100 +0000" channel="sabtv">
@@ -2788,7 +2903,7 @@
   </programme>
   <programme start="20261127175100 +0000" stop="20261127181700 +0000" channel="sabtv">
     <title lang="en">Lo Chudail Chali Sasural</title>
-    <desc lang="en">S1 , E8 : Urvashi, a witch, renounces supernatural powers in order to marry Aarav, a human. However, when she uses her magic to fix small accidents, her spells backfire, leading to chaos.</desc>
+    <desc lang="en">S1 , E8 : Urvashi enchants Aarav, leaving him stern at the office and tender at home. Later, she panics over the turmoil and approaches her mother for assistance.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p34477944_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261127181700 +0000" stop="20261127184300 +0000" channel="sabtv">
@@ -2803,12 +2918,12 @@
   </programme>
   <programme start="20261127190900 +0000" stop="20261127193500 +0000" channel="sabtv">
     <title lang="en">Pushpa Impossible</title>
-    <desc lang="en">S1 , E1400 : After doing various odd jobs, an uneducated woman from Gujarat starts a business to earn a living and attempts to keep her family happy.</desc>
+    <desc lang="en">S1 , E1400 : Fuelled by prolonged agony, Varun shifts to the 'chawl' to avenge his past. Meanwhile, Chirag tries hard to win Shanaya back, fearing Varun's emotions might create a rift between them.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p22259614_b_h10_af.jpg"/>
   </programme>
   <programme start="20261127193500 +0000" stop="20261127195900 +0000" channel="sabtv">
     <title lang="en">Lo Chudail Chali Sasural</title>
-    <desc lang="en">S1 , E8 : Urvashi, a witch, renounces supernatural powers in order to marry Aarav, a human. However, when she uses her magic to fix small accidents, her spells backfire, leading to chaos.</desc>
+    <desc lang="en">S1 , E8 : Urvashi enchants Aarav, leaving him stern at the office and tender at home. Later, she panics over the turmoil and approaches her mother for assistance.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p34477944_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261127195900 +0000" stop="20261127202500 +0000" channel="sabtv">
@@ -2828,7 +2943,7 @@
   </programme>
   <programme start="20261127211600 +0000" stop="20261127214200 +0000" channel="sabtv">
     <title lang="en">Pushpa Impossible</title>
-    <desc lang="en">S1 , E1400 : After doing various odd jobs, an uneducated woman from Gujarat starts a business to earn a living and attempts to keep her family happy.</desc>
+    <desc lang="en">S1 , E1400 : Fuelled by prolonged agony, Varun shifts to the 'chawl' to avenge his past. Meanwhile, Chirag tries hard to win Shanaya back, fearing Varun's emotions might create a rift between them.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p22259614_b_h10_af.jpg"/>
   </programme>
   <programme start="20261127214200 +0000" stop="20261127220800 +0000" channel="sabtv">
@@ -2838,7 +2953,7 @@
   </programme>
   <programme start="20261127220800 +0000" stop="20261127223400 +0000" channel="sabtv">
     <title lang="en">Lo Chudail Chali Sasural</title>
-    <desc lang="en">S1 , E8 : Urvashi, a witch, renounces supernatural powers in order to marry Aarav, a human. However, when she uses her magic to fix small accidents, her spells backfire, leading to chaos.</desc>
+    <desc lang="en">S1 , E8 : Urvashi enchants Aarav, leaving him stern at the office and tender at home. Later, she panics over the turmoil and approaches her mother for assistance.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p34477944_b_h10_aa.jpg"/>
   </programme>
   <programme start="20261127223400 +0000" stop="20261127230000 +0000" channel="sabtv">
@@ -2858,7 +2973,7 @@
   </programme>
   <programme start="20261127235100 +0000" stop="20261128003000 +0000" channel="sabtv">
     <title lang="en">Pushpa Impossible</title>
-    <desc lang="en">S1 , E1400 : After doing various odd jobs, an uneducated woman from Gujarat starts a business to earn a living and attempts to keep her family happy.</desc>
+    <desc lang="en">S1 , E1400 : Fuelled by prolonged agony, Varun shifts to the 'chawl' to avenge his past. Meanwhile, Chirag tries hard to win Shanaya back, fearing Varun's emotions might create a rift between them.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p22259614_b_h10_af.jpg"/>
   </programme>
   <programme start="20261127000000 +0000" stop="20261127000000 +0000" channel="flowersinternational">
@@ -3181,37 +3296,37 @@
     <desc lang="en">In the year 1983, the emotional fixation of a young man with his Maruti 800 car gets tested when he falls for his childhood confidante.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p24204434_b_h8_aa.jpg"/>
   </programme>
-  <programme start="20261127073000 +0000" stop="20261127103000 +0000" channel="asianetmovieshd">
+  <programme start="20261127073000 +0000" stop="20261127104000 +0000" channel="asianetmovieshd">
     <title lang="en">Kanmadham</title>
     <desc lang="en">A taxi driver goes to a village to return the belongings of a deceased person, but falls in love with his sister instead.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p10642001_b_h10_ab.jpg"/>
   </programme>
-  <programme start="20261127103000 +0000" stop="20261127133000 +0000" channel="asianetmovieshd">
+  <programme start="20261127104000 +0000" stop="20261127133500 +0000" channel="asianetmovieshd">
     <title lang="en">Lift</title>
     <desc lang="en">A man's first day on the job turns into a nightmare after some vengeful spirits begin to create trouble by trapping him in an elevator.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p20775032_v_h10_aa.jpg"/>
   </programme>
-  <programme start="20261127133000 +0000" stop="20261127173000 +0000" channel="asianetmovieshd">
+  <programme start="20261127133500 +0000" stop="20261127173000 +0000" channel="asianetmovieshd">
     <title lang="en">The King and the Commissioner</title>
     <desc lang="en">Joseph Alex and Bharathchandran, two police officers, try to prevent Major Abu Jalal Rana, a terrorist, from attacking New Delhi.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p9230791_b_h8_af.jpg"/>
   </programme>
-  <programme start="20261127173000 +0000" stop="20261127193000 +0000" channel="asianetmovieshd">
+  <programme start="20261127173000 +0000" stop="20261127194500 +0000" channel="asianetmovieshd">
     <title lang="en">Ponmuttayidunna tharavu</title>
     <desc lang="en">Bhaskaran, a goldsmith, is madly in love with Snehalatha, the daughter of the astrologer, Panicker. When he asks for her hand in marriage, to his shock, she denies their love affair.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p10188222_b_h8_ac.jpg"/>
   </programme>
-  <programme start="20261127193000 +0000" stop="20261127213000 +0000" channel="asianetmovieshd">
+  <programme start="20261127194500 +0000" stop="20261127220500 +0000" channel="asianetmovieshd">
     <title lang="en">Love in Kerala</title>
     <desc lang="en">Love in Kerala</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p34679418_b_h10_aa.jpg"/>
   </programme>
-  <programme start="20261127213000 +0000" stop="20261127233000 +0000" channel="asianetmovieshd">
+  <programme start="20261127220500 +0000" stop="20261127235000 +0000" channel="asianetmovieshd">
     <title lang="en">Highway Police</title>
     <desc lang="en">United by tragedy, Mahmud and Inspector Jayachandran forge an alliance to dismantle a powerful crime syndicate, combining their quest for justice with personal vendettas.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p10772505_b_h10_ac.jpg"/>
   </programme>
-  <programme start="20261127233000 +0000" stop="20261128013000 +0000" channel="asianetmovieshd">
+  <programme start="20261127235000 +0000" stop="20261128013000 +0000" channel="asianetmovieshd">
     <title lang="en">Kanyakumari Express</title>
     <desc lang="en">A policeman's enemies die one by one while he investigates a case. When everyone starts to suspect him, he tries to solve the mystery behind the murders.</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/k3V7Ffzi.jpg"/>
@@ -3491,50 +3606,70 @@
     <desc lang="en">Movie</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p809737_b_h8_ar.jpg"/>
   </programme>
-  <programme start="20261127000000 +0000" stop="20261127020000 +0000" channel="emsimplysouth">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
+  <programme start="20261127000000 +0000" stop="20261127001700 +0000" channel="emsimplysouth">
+    <title lang="en">Safe</title>
+    <desc lang="en">Shreya, an IPS officer, faces troubles while investigating a sexual abuse case. Her paths cross with Arundhathi, an activist, who runs an initiative for the safety of women.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p17858519_v_h10_aa.jpg"/>
+  </programme>
+  <programme start="20261127001700 +0000" stop="20261127015500 +0000" channel="emsimplysouth">
+    <title lang="en">Eighteen Hours</title>
+    <desc lang="en">Armed fugitives hijack a bus full of students and teachers headed to a competition. Chaos erupts as the criminals try to evade police, endangering innocent lives.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p22152664_v_h8_ab.jpg"/>
+  </programme>
+  <programme start="20261127015500 +0000" stop="20261127040100 +0000" channel="emsimplysouth">
+    <title lang="en">Vithaikkaaran</title>
+    <desc lang="en">A skilled smuggler is hired to retrieve a stash of stolen goods from a ruthless syndicate. However, as he delves deeper, he uncovers a deadly conspiracy that puts his life at risk.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29284028_v_h8_aa.jpg"/>
+  </programme>
+  <programme start="20261127040100 +0000" stop="20261127061700 +0000" channel="emsimplysouth">
+    <title lang="en">Urumbukal Urangarilla</title>
+    <desc lang="en">Kelu, an old man, teaches Manoj the art of thievery and introduces him to Benny. However, they are unaware of Manoj's true motives behind trying to learn how to steal.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p14567539_b_h10_aa.jpg"/>
+  </programme>
+  <programme start="20261127061700 +0000" stop="20261127082100 +0000" channel="emsimplysouth">
+    <title lang="en">Udhayam NH4</title>
+    <desc lang="en">Prabhu, a young college student, kidnaps his lover Rithika when her father disapproves of their relationship. Manoj Menon, an encounter specialist, is appointed to track them down.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p9921118_b_h8_aa.jpg"/>
+  </programme>
+  <programme start="20261127082100 +0000" stop="20261127100800 +0000" channel="emsimplysouth">
+    <title lang="en">Jerry</title>
+    <desc lang="en">Jerry</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p33972621_b_h8_aa.jpg"/>
+  </programme>
+  <programme start="20261127100800 +0000" stop="20261127123600 +0000" channel="emsimplysouth">
+    <title lang="en">Housekeeping</title>
+    <desc lang="en">Members of a hotel staff discover a backpack full of money, which kicks off a chase to get rid of it before either the police or a mob of criminals catches them.</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/GLmMTbx9.jpg"/>
   </programme>
-  <programme start="20261127020000 +0000" stop="20261127050000 +0000" channel="emsimplysouth">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/GLmMTbx9.jpg"/>
+  <programme start="20261127123600 +0000" stop="20261127141700 +0000" channel="emsimplysouth">
+    <title lang="en">Ambalamukkile Visheshangal</title>
+    <desc lang="en">A man secretly loves his childhood friend but struggles to improve his reputation. However, when hearing about her betrothal to another, he decides to turn his life around.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p31912681_b_h8_aa.jpg"/>
   </programme>
-  <programme start="20261127050000 +0000" stop="20261127080000 +0000" channel="emsimplysouth">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/GLmMTbx9.jpg"/>
+  <programme start="20261127141700 +0000" stop="20261127170100 +0000" channel="emsimplysouth">
+    <title lang="en">Nadigaiyar Thilagam (Tamil)</title>
+    <desc lang="en">Savitri, an energetic and jubilant child, grows up to become an actress. She faces several challenges and overcomes hurdles to become the first female superstar in South India.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p15326058_b_h8_ah.jpg"/>
   </programme>
-  <programme start="20261127080000 +0000" stop="20261127110000 +0000" channel="emsimplysouth">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/GLmMTbx9.jpg"/>
+  <programme start="20261127170100 +0000" stop="20261127185300 +0000" channel="emsimplysouth">
+    <title lang="en">Vyasanasametham Bandhumithradhikal</title>
+    <desc lang="en">In a small town, a shopkeeper's life turns chaotic when his mother-in-law passes away and his daughter begins challenging traditional expectations about her upcoming marriage.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p31056590_b_h8_aa.jpg"/>
   </programme>
-  <programme start="20261127110000 +0000" stop="20261127140000 +0000" channel="emsimplysouth">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/GLmMTbx9.jpg"/>
+  <programme start="20261127185300 +0000" stop="20261127205600 +0000" channel="emsimplysouth">
+    <title lang="en">Theeyavar Kulaigal Nadunga</title>
+    <desc lang="en">A writer's murder shatters the peace of a posh complex. As Inspector Magudapathi probes residents' secrets, Adhi's relationship with his mother's therapist complicates matters.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p31786876_v_h8_aa.jpg"/>
   </programme>
-  <programme start="20261127140000 +0000" stop="20261127170000 +0000" channel="emsimplysouth">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/GLmMTbx9.jpg"/>
+  <programme start="20261127205600 +0000" stop="20261127231900 +0000" channel="emsimplysouth">
+    <title lang="en">Karungaapiyam</title>
+    <desc lang="en">To heal from a painful heartbreak, Karthika decides to spend time at a 100-year-old, unkempt library in an effort to distract herself.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p26175556_v_h10_aa.jpg"/>
   </programme>
-  <programme start="20261127170000 +0000" stop="20261127200000 +0000" channel="emsimplysouth">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/GLmMTbx9.jpg"/>
-  </programme>
-  <programme start="20261127200000 +0000" stop="20261127230000 +0000" channel="emsimplysouth">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/GLmMTbx9.jpg"/>
-  </programme>
-  <programme start="20261127230000 +0000" stop="20261128020000 +0000" channel="emsimplysouth">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/GLmMTbx9.jpg"/>
+  <programme start="20261127231900 +0000" stop="20261128005900 +0000" channel="emsimplysouth">
+    <title lang="en">Momo In Dubai</title>
+    <desc lang="en">Despite the struggles, Momo, a young boy travelling to Dubai with his parents and siblings, finds the family sharing heartwarming moments.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p24434122_v_h10_aa.jpg"/>
   </programme>
   <programme start="20261127000000 +0000" stop="20261127000000 +0000" channel="zeekeralam">
     <title lang="en">Mangalyam + Valsalyam - Maha Sangamam</title>
@@ -3761,69 +3896,69 @@
     <desc lang="en">S1 , E1622 : A comprehensive compilation of songs and snippets from some of the most popular and trending Tamil movies is played to entertain the audience.</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/klN7lrpJ.jpg"/>
   </programme>
-  <programme start="20261127003000 +0000" stop="20261127010000 +0000" channel="zeetamil">
+  <programme start="20261127003000 +0000" stop="20261127005800 +0000" channel="zeetamil">
     <title lang="en">RJR Hospital</title>
     <desc lang="en">S1 , E4 : A medical professional sheds light on a range of treatments provided by a reputed hospital whilst sharing a few tips and suggestions on staying safe.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p25355634_b_h10_aa.jpg"/>
   </programme>
-  <programme start="20261127010000 +0000" stop="20261127013000 +0000" channel="zeetamil">
+  <programme start="20261127005800 +0000" stop="20261127012900 +0000" channel="zeetamil">
     <title lang="en">Teleshopping</title>
     <desc lang="en">The host showcases the features of a variety of products manufactured by renowned brands that can be purchased from the comfort of one's home.</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/klN7lrpJ.jpg"/>
   </programme>
-  <programme start="20261127013000 +0000" stop="20261127020000 +0000" channel="zeetamil">
+  <programme start="20261127012900 +0000" stop="20261127020000 +0000" channel="zeetamil">
     <title lang="en">Olimayamana Ethirkaalam</title>
-    <desc lang="en">S1 , E5956 : Various subject-matter experts provide a comprehensive and detailed insight into future predictions and offer guidance to lead a healthy life.</desc>
+    <desc lang="en">S1 , E5956 : Harikeshanallur Venkataraman shares his predictions for Karthigai Nakshatram. Meanwhile, Dr Jayashree shares a remedy for stress relief.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p11071709_b_h8_ab.jpg"/>
   </programme>
-  <programme start="20261127020000 +0000" stop="20261127023000 +0000" channel="zeetamil">
+  <programme start="20261127020000 +0000" stop="20261127023200 +0000" channel="zeetamil">
     <title lang="en">Olimayamana Ethirkaalam</title>
-    <desc lang="en">S1 , E5956 : Various subject-matter experts provide a comprehensive and detailed insight into future predictions and offer guidance to lead a healthy life.</desc>
+    <desc lang="en">S1 , E5956 : Harikeshanallur Venkataraman shares his predictions for Karthigai Nakshatram. Meanwhile, Dr Jayashree shares a remedy for stress relief.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p11071709_b_h8_ab.jpg"/>
   </programme>
-  <programme start="20261127023000 +0000" stop="20261127030000 +0000" channel="zeetamil">
+  <programme start="20261127023200 +0000" stop="20261127030000 +0000" channel="zeetamil">
     <title lang="en">Sa Re Ga Ma Pa Seniors</title>
     <desc lang="en">Aspiring singers showcase their talents and compete against each other in a series of challenges to win the prestigious competition.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p18296258_b_h8_aj.jpg"/>
   </programme>
-  <programme start="20261127030000 +0000" stop="20261127033000 +0000" channel="zeetamil">
+  <programme start="20261127030000 +0000" stop="20261127032900 +0000" channel="zeetamil">
     <title lang="en">Sa Re Ga Ma Pa Seniors</title>
     <desc lang="en">Aspiring singers showcase their talents and compete against each other in a series of challenges to win the prestigious competition.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p18296258_b_h8_aj.jpg"/>
   </programme>
-  <programme start="20261127033000 +0000" stop="20261127040000 +0000" channel="zeetamil">
+  <programme start="20261127032900 +0000" stop="20261127040000 +0000" channel="zeetamil">
     <title lang="en">Parijadam</title>
-    <desc lang="en">S1 , E232 : After losing her parents and hearing in a tragic accident, Isai is forced to marry Vishal when her aunt Rukmini manipulates her horoscope to meet Subadra's strict astrological beliefs.</desc>
+    <desc lang="en">S1 , E367 : Chintamani approaches Subhadra and expresses false remorse for her past actions. However, her sincere-sounding apology is merely a calculated pretence.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p31143416_b_h8_aa.jpg"/>
   </programme>
   <programme start="20261127040000 +0000" stop="20261127043000 +0000" channel="zeetamil">
     <title lang="en">Annamalai Kudumbam</title>
-    <desc lang="en">S1 , E105 : Annamalai seeks a bride for his son Varun, finding Vennila with traditional values, but complications arise when Vennila's sister Vaanmathy stirs tension.</desc>
+    <desc lang="en">S1 , E314 : Vennila, with her traditional character, catches Annamalai's eye as a potential wife for her son, Varun, until Vaanmathy, Vennila's sister, threatens to unravel everything.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p31786369_b_h8_ab.jpg"/>
   </programme>
   <programme start="20261127043000 +0000" stop="20261127050000 +0000" channel="zeetamil">
     <title lang="en">Thirumangalyam</title>
-    <desc lang="en">S1 , E68 : Seetha faces family duties, social pressure, and love, seeking dignity through marriage and self-respect while balancing illegitimacy, relationships, and redemption in a restrictive society.</desc>
+    <desc lang="en">S1 , E284 : Lakshmi, an orphan subjected to her stepmother's cruelty, briefly tastes the promise of a better life upon meeting Thiru, before circumstances conspire to crush her hopes once more.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p11310624_b_h8_ab.jpg"/>
   </programme>
   <programme start="20261127050000 +0000" stop="20261127053000 +0000" channel="zeetamil">
-    <title lang="en">Chinnan Siru Kiliye</title>
-    <desc lang="en">S1 , E330 : A naturopathy practitioner hunting his daughter's kidnappers exposes a dangerous medical syndicate, fighting modern healthcare crimes with relentless determination and skill.</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p32085372_b_h10_ae.jpg"/>
+    <title lang="en">Chinnan Chiru Kiliye..</title>
+    <desc lang="en">S1 , E356 : A variety of performances take centre stage, including dancing, singing, learning musical instruments and languages and others to entertain and educate kids.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p31372329_b_h8_ae.jpg"/>
   </programme>
-  <programme start="20261127053000 +0000" stop="20261127060000 +0000" channel="zeetamil">
+  <programme start="20261127053000 +0000" stop="20261127055900 +0000" channel="zeetamil">
     <title lang="en">Vaagai Sooda Vaa</title>
-    <desc lang="en">S1 , E140 : Sumathi raises Thenmozhi and Meenakshi with values; Thenmozhi marries into a debt-ridden family, while Meenakshi marries Jeeva to protect Thenmozhi and restore the family's dignity.</desc>
+    <desc lang="en">S1 , E268 : Sumathi raises her daughters Thenmozhi and Meenakshi with care and diligence. Subsequently, Thenmozhi weds into Mano's financially troubled household.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p32267862_b_h8_ab.jpg"/>
   </programme>
-  <programme start="20261127060000 +0000" stop="20261127063000 +0000" channel="zeetamil">
+  <programme start="20261127055900 +0000" stop="20261127062900 +0000" channel="zeetamil">
     <title lang="en">Samanthi</title>
-    <desc lang="en">S1 , E20 : Hoping for a fresh start, a humble village girl moves to the busy city, where bold choices and unexpected encounters completely reshape her future forever.</desc>
+    <desc lang="en">S1 , E99 : A modest country woman takes a daring step by relocating to an urban center. Meanwhile, this brave transition alters the entire course of her future.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p33589718_b_h8_ab.jpg"/>
   </programme>
-  <programme start="20261127063000 +0000" stop="20261127070000 +0000" channel="zeetamil">
+  <programme start="20261127062900 +0000" stop="20261127070000 +0000" channel="zeetamil">
     <title lang="en">Ayali</title>
-    <desc lang="en">S1 , E350 : Ayali's family shunned her due to false accusations. She endures her stepmom's cruelty and joins Siva. They plan to expose Varma, proving her mother's innocence, seeking justice and family reunion.</desc>
+    <desc lang="en">S1 , E464 : After being falsely accused by her family, Ayali is forced to endure the abuse of her stepmother. Determined to restore her mother's reputation, Ayali joins forces with Siva.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p30350157_b_h8_ab.jpg"/>
   </programme>
   <programme start="20261127070000 +0000" stop="20261127073000 +0000" channel="zeetamil">
@@ -3831,127 +3966,127 @@
     <desc lang="en">S1 , E1434 : Deepa, a talented woman, faces discrimination due to her complexion. However, her life changes when she meets Karthikeyan, a businessman.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p24166601_b_h8_af.jpg"/>
   </programme>
-  <programme start="20261127073000 +0000" stop="20261127080000 +0000" channel="zeetamil">
+  <programme start="20261127073000 +0000" stop="20261127075900 +0000" channel="zeetamil">
     <title lang="en">Karthigai Deepam</title>
     <desc lang="en">S1 , E1435 : Deepa, a talented woman, faces discrimination due to her complexion. However, her life changes when she meets Karthikeyan, a businessman.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p24166601_b_h8_af.jpg"/>
   </programme>
-  <programme start="20261127080000 +0000" stop="20261127083000 +0000" channel="zeetamil">
+  <programme start="20261127075900 +0000" stop="20261127083000 +0000" channel="zeetamil">
     <title lang="en">Varisu</title>
     <desc lang="en">S1 , E444 : Savvy businesswoman Janakambal enlists Tamil to reform her wayward grandson Cibi, hoping he'll prove worthy of inheriting her empire.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p30590230_b_h10_ac.jpg"/>
   </programme>
-  <programme start="20261127083000 +0000" stop="20261127090000 +0000" channel="zeetamil">
+  <programme start="20261127083000 +0000" stop="20261127085900 +0000" channel="zeetamil">
     <title lang="en">Idhayam</title>
     <desc lang="en">S1 , E1166 : A shy woman from a small town falls for a wealthy tycoon but struggles to express her feelings. Subsequently, she tries to overcome her insecurities.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29123848_b_h8_ab.jpg"/>
   </programme>
-  <programme start="20261127090000 +0000" stop="20261127093000 +0000" channel="zeetamil">
+  <programme start="20261127085900 +0000" stop="20261127093000 +0000" channel="zeetamil">
     <title lang="en">Annamalai Kudumbam</title>
     <desc lang="en">S1 , E315 : Vennila, with her traditional character, catches Annamalai's eye as a potential wife for her son, Varun, until Vaanmathy, Vennila's sister, threatens to unravel everything.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p31786369_b_h8_ab.jpg"/>
   </programme>
-  <programme start="20261127093000 +0000" stop="20261127100000 +0000" channel="zeetamil">
+  <programme start="20261127093000 +0000" stop="20261127095900 +0000" channel="zeetamil">
     <title lang="en">Salangai Oli</title>
-    <desc lang="en">S1 , E758 : A tragedy separates Bhoomi and Gagan from their fathers, but Bhoomi hopes to find her roots, while Gagan despises his father. As fate entwines them, will truth bridge the chasm between hope and hate?</desc>
+    <desc lang="en">S1 , E761 : Tragedy orphans Bhoomi and Gagan. Bhoomi yearns to find her roots, while Gagan resents his father. However, as their paths cross, truth will pave the way to hope.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p30953754_b_h8_ab.jpg"/>
   </programme>
-  <programme start="20261127100000 +0000" stop="20261127103000 +0000" channel="zeetamil">
+  <programme start="20261127095900 +0000" stop="20261127103000 +0000" channel="zeetamil">
     <title lang="en">Vasudha</title>
     <desc lang="en">S1 , E107 : Vasudha's pre-wedding ceremonies start as she cares for Devansh in Chandrika's absence. Meanwhile, Sarika grows fearful after overhearing Devansh and Avinash.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p28225153_b_h10_ae.jpg"/>
   </programme>
-  <programme start="20261127103000 +0000" stop="20261127110000 +0000" channel="zeetamil">
+  <programme start="20261127103000 +0000" stop="20261127105900 +0000" channel="zeetamil">
     <title lang="en">Vasudha</title>
     <desc lang="en">S1 , E108 : Sarika warns Karishma about Devansh investigating Madhav's kidnapping. Meanwhile, Karishma decides to disclose the wedding truth to Chandrika.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p28225153_b_h10_ae.jpg"/>
   </programme>
-  <programme start="20261127110000 +0000" stop="20261127113000 +0000" channel="zeetamil">
+  <programme start="20261127105900 +0000" stop="20261127113000 +0000" channel="zeetamil">
     <title lang="en">Enna Solla Pogirai</title>
     <desc lang="en">S1 , E107 : </desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/klN7lrpJ.jpg"/>
   </programme>
-  <programme start="20261127113000 +0000" stop="20261127120000 +0000" channel="zeetamil">
+  <programme start="20261127113000 +0000" stop="20261127115700 +0000" channel="zeetamil">
     <title lang="en">Enna Solla Pogirai</title>
     <desc lang="en">S1 , E108 : </desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/klN7lrpJ.jpg"/>
   </programme>
-  <programme start="20261127120000 +0000" stop="20261127123000 +0000" channel="zeetamil">
+  <programme start="20261127115700 +0000" stop="20261127122600 +0000" channel="zeetamil">
     <title lang="en">Varisu</title>
     <desc lang="en">S1 , E444 : Savvy businesswoman Janakambal enlists Tamil to reform her wayward grandson Cibi, hoping he'll prove worthy of inheriting her empire.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p30590230_b_h10_ac.jpg"/>
   </programme>
-  <programme start="20261127123000 +0000" stop="20261127130000 +0000" channel="zeetamil">
+  <programme start="20261127122600 +0000" stop="20261127125500 +0000" channel="zeetamil">
     <title lang="en">Sandhya Raagam</title>
-    <desc lang="en">S1 , E927 : Circumstances separate sisters Janaki and Sandhya. Fate brings Sandhya's daughter, Maya, to Janaki's house, but when Maya's modern attitude influences Janaki's daughter.</desc>
+    <desc lang="en">S1 , E1043 : After the tragic loss of her sister, Sandhya, Janaki becomes the guardian of her niece, Maya. However, Maya's modern approach starts to influence Janaki's daughter.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p26168585_b_h10_aa.jpg"/>
   </programme>
-  <programme start="20261127130000 +0000" stop="20261127133000 +0000" channel="zeetamil">
+  <programme start="20261127125500 +0000" stop="20261127132700 +0000" channel="zeetamil">
     <title lang="en">Parijadam</title>
-    <desc lang="en">S1 , E222 : After losing her parents and hearing in a tragic accident, Isai is forced to marry Vishal when her aunt Rukmini manipulates her horoscope to meet Subadra's strict astrological beliefs.</desc>
+    <desc lang="en">S1 , E368 : After a tragic accident leaves Isai orphaned, her aunt Rukmini fakes her horoscope to satisfy Subadra's rigid astrological demands and secure a marriage to Vishal.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p31143416_b_h8_aa.jpg"/>
   </programme>
-  <programme start="20261127133000 +0000" stop="20261127140000 +0000" channel="zeetamil">
+  <programme start="20261127132700 +0000" stop="20261127135800 +0000" channel="zeetamil">
     <title lang="en">Chinnan Chiru Kiliye..</title>
     <desc lang="en">S1 , E357 : A variety of performances take centre stage, including dancing, singing, learning musical instruments and languages and others to entertain and educate kids.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p31372329_b_h8_ae.jpg"/>
   </programme>
-  <programme start="20261127140000 +0000" stop="20261127143000 +0000" channel="zeetamil">
+  <programme start="20261127135800 +0000" stop="20261127142900 +0000" channel="zeetamil">
     <title lang="en">Thirumangalyam</title>
     <desc lang="en">S1 , E285 : Lakshmi, an orphan subjected to her stepmother's cruelty, briefly tastes the promise of a better life upon meeting Thiru, before circumstances conspire to crush her hopes once more.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p11310624_b_h8_ab.jpg"/>
   </programme>
-  <programme start="20261127143000 +0000" stop="20261127150000 +0000" channel="zeetamil">
+  <programme start="20261127142900 +0000" stop="20261127145900 +0000" channel="zeetamil">
     <title lang="en">Samanthi</title>
     <desc lang="en">S1 , E100 : A modest country woman takes a daring step by relocating to an urban center. Meanwhile, this brave transition alters the entire course of her future.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p33589718_b_h8_ab.jpg"/>
   </programme>
-  <programme start="20261127150000 +0000" stop="20261127153000 +0000" channel="zeetamil">
+  <programme start="20261127145900 +0000" stop="20261127152900 +0000" channel="zeetamil">
     <title lang="en">Ayali</title>
-    <desc lang="en">S1 , E350 : Ayali's family shunned her due to false accusations. She endures her stepmom's cruelty and joins Siva. They plan to expose Varma, proving her mother's innocence, seeking justice and family reunion.</desc>
+    <desc lang="en">S1 , E465 : After being falsely accused by her family, Ayali is forced to endure the abuse of her stepmother. Determined to restore her mother's reputation, Ayali joins forces with Siva.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p30350157_b_h8_ab.jpg"/>
   </programme>
-  <programme start="20261127153000 +0000" stop="20261127160000 +0000" channel="zeetamil">
+  <programme start="20261127152900 +0000" stop="20261127160000 +0000" channel="zeetamil">
     <title lang="en">Karthigai Deepam</title>
     <desc lang="en">S1 , E1436 : Deepa, a talented woman, faces discrimination due to her complexion. However, her life changes when she meets Karthikeyan, a businessman.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p24166601_b_h8_af.jpg"/>
   </programme>
-  <programme start="20261127160000 +0000" stop="20261127163000 +0000" channel="zeetamil">
+  <programme start="20261127160000 +0000" stop="20261127162900 +0000" channel="zeetamil">
     <title lang="en">Karthigai Deepam</title>
     <desc lang="en">S1 , E1437 : Deepa, a talented woman, faces discrimination due to her complexion. However, her life changes when she meets Karthikeyan, a businessman.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p24166601_b_h8_af.jpg"/>
   </programme>
-  <programme start="20261127163000 +0000" stop="20261127170000 +0000" channel="zeetamil">
+  <programme start="20261127162900 +0000" stop="20261127165800 +0000" channel="zeetamil">
     <title lang="en">Vaagai Sooda Vaa</title>
-    <desc lang="en">S1 , E34 : Sumathi raises Thenmozhi and Meenakshi with values. Thenmozhi marries into a debt-ridden family, while Meenakshi marries Jeeva to protect Thenmozhi and restore the family's dignity.</desc>
+    <desc lang="en">S1 , E269 : Sumathi raises her daughters Thenmozhi and Meenakshi with care and diligence. Subsequently, Thenmozhi weds into Mano's financially troubled household.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p32267862_b_h8_ab.jpg"/>
   </programme>
-  <programme start="20261127170000 +0000" stop="20261127173000 +0000" channel="zeetamil">
+  <programme start="20261127165800 +0000" stop="20261127172800 +0000" channel="zeetamil">
     <title lang="en">Varisu</title>
     <desc lang="en">S1 , E444 : Savvy businesswoman Janakambal enlists Tamil to reform her wayward grandson Cibi, hoping he'll prove worthy of inheriting her empire.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p30590230_b_h10_ac.jpg"/>
   </programme>
-  <programme start="20261127173000 +0000" stop="20261127180000 +0000" channel="zeetamil">
+  <programme start="20261127172800 +0000" stop="20261127180000 +0000" channel="zeetamil">
     <title lang="en">Annamalai Kudumbam</title>
     <desc lang="en">S1 , E315 : Vennila, with her traditional character, catches Annamalai's eye as a potential wife for her son, Varun, until Vaanmathy, Vennila's sister, threatens to unravel everything.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p31786369_b_h8_ab.jpg"/>
   </programme>
-  <programme start="20261127180000 +0000" stop="20261127183000 +0000" channel="zeetamil">
+  <programme start="20261127180000 +0000" stop="20261127183100 +0000" channel="zeetamil">
     <title lang="en">Idhayam</title>
     <desc lang="en">S1 , E1166 : A shy woman from a small town falls for a wealthy tycoon but struggles to express her feelings. Subsequently, she tries to overcome her insecurities.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29123848_b_h8_ab.jpg"/>
   </programme>
-  <programme start="20261127183000 +0000" stop="20261127190000 +0000" channel="zeetamil">
+  <programme start="20261127183100 +0000" stop="20261127185900 +0000" channel="zeetamil">
     <title lang="en">Vaagai Sooda Vaa</title>
-    <desc lang="en">S1 , E34 : Sumathi raises Thenmozhi and Meenakshi with values. Thenmozhi marries into a debt-ridden family, while Meenakshi marries Jeeva to protect Thenmozhi and restore the family's dignity.</desc>
+    <desc lang="en">S1 , E269 : Sumathi raises her daughters Thenmozhi and Meenakshi with care and diligence. Subsequently, Thenmozhi weds into Mano's financially troubled household.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p32267862_b_h8_ab.jpg"/>
   </programme>
-  <programme start="20261127190000 +0000" stop="20261127193000 +0000" channel="zeetamil">
+  <programme start="20261127185900 +0000" stop="20261127192900 +0000" channel="zeetamil">
     <title lang="en">Ayali</title>
-    <desc lang="en">S1 , E350 : Ayali's family shunned her due to false accusations. She endures her stepmom's cruelty and joins Siva. They plan to expose Varma, proving her mother's innocence, seeking justice and family reunion.</desc>
+    <desc lang="en">S1 , E465 : After being falsely accused by her family, Ayali is forced to endure the abuse of her stepmother. Determined to restore her mother's reputation, Ayali joins forces with Siva.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p30350157_b_h8_ab.jpg"/>
   </programme>
-  <programme start="20261127193000 +0000" stop="20261127200000 +0000" channel="zeetamil">
+  <programme start="20261127192900 +0000" stop="20261127200000 +0000" channel="zeetamil">
     <title lang="en">Free Ticket</title>
     <desc lang="en">S1 , E1623 : A comprehensive compilation of songs and snippets from some of the most popular and trending Tamil movies is played to entertain the audience.</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/klN7lrpJ.jpg"/>
@@ -4011,92 +4146,92 @@
     <desc lang="en">S1 , E566 : After Ambika's tragic death, her husband Atharva and daughter Veda are heartbroken. However, her spirit returns to watch over and protect Veda in unseen yet powerful ways.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29492543_b_h10_ad.jpg"/>
   </programme>
-  <programme start="20261127003000 +0000" stop="20261127010000 +0000" channel="zeemarathi">
+  <programme start="20261127003000 +0000" stop="20261127005900 +0000" channel="zeemarathi">
     <title lang="en">Kamali</title>
     <desc lang="en">S1 , E499 : A courageous kabaddi champion hailing from the countryside of Maharashtra challenges her family's expectations by venturing to Mumbai in pursuit of her aspirations.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p30594191_b_h8_ad.jpg"/>
   </programme>
-  <programme start="20261127010000 +0000" stop="20261127013000 +0000" channel="zeemarathi">
+  <programme start="20261127005900 +0000" stop="20261127013000 +0000" channel="zeemarathi">
     <title lang="en">Calvary Swar</title>
     <desc lang="en">S1 , E86 : A renowned religious scholar delivers a discourse describing Jesus's crucifixion and encourages followers to lead a pious life.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p12898900_b_h10_aa.jpg"/>
   </programme>
-  <programme start="20261127013000 +0000" stop="20261127023000 +0000" channel="zeemarathi">
+  <programme start="20261127013000 +0000" stop="20261127022900 +0000" channel="zeemarathi">
     <title lang="en">Vedh Bhavishyacha 20</title>
-    <desc lang="en">S1 , E2338 : Renowned astrologer Bhagare Guruji offers horoscope forecasts, Vastu guidance, and insights into physiology, while explaining Vratas and sacred stories from the Bhagavad Gita.</desc>
+    <desc lang="en">S1 , E2364 : An astrologer predicts futures based on zodiac signs and planetary motions, and narrates tales from ancient Hindu scriptures.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29121663_b_h8_ab.jpg"/>
   </programme>
-  <programme start="20261127023000 +0000" stop="20261127030000 +0000" channel="zeemarathi">
+  <programme start="20261127022900 +0000" stop="20261127025900 +0000" channel="zeemarathi">
     <title lang="en">Taarini</title>
     <desc lang="en">S1 , E447 : Taarini and Kedar manage to save the children from the kidnappers. Meanwhile, Kamat makes a shocking discovery.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p30905426_b_h10_ac.jpg"/>
   </programme>
-  <programme start="20261127030000 +0000" stop="20261127033000 +0000" channel="zeemarathi">
+  <programme start="20261127025900 +0000" stop="20261127033000 +0000" channel="zeemarathi">
     <title lang="en">Kamali</title>
     <desc lang="en">S1 , E499 : A courageous kabaddi champion hailing from the countryside of Maharashtra challenges her family's expectations by venturing to Mumbai in pursuit of her aspirations.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p30594191_b_h8_ad.jpg"/>
   </programme>
-  <programme start="20261127033000 +0000" stop="20261127040000 +0000" channel="zeemarathi">
+  <programme start="20261127033000 +0000" stop="20261127035900 +0000" channel="zeemarathi">
     <title lang="en">Home Minister</title>
     <desc lang="en">S1 , E78 : The host visits homemakers from across Maharashtra and challenges them to a series of fun games and gives them a chance to complete all the tasks and win the grand prize.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p32089469_b_h8_aa.jpg"/>
   </programme>
-  <programme start="20261127040000 +0000" stop="20261127043000 +0000" channel="zeemarathi">
+  <programme start="20261127035900 +0000" stop="20261127042900 +0000" channel="zeemarathi">
     <title lang="en">Sanai Chaughade</title>
     <desc lang="en">S1 , E246 : Asavari advocates for holding an intimate marriage ceremony at their family residence. Later, Jay brings a smile to Sharvari's face with a discreet clue.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p32659244_b_h10_ad.jpg"/>
   </programme>
-  <programme start="20261127043000 +0000" stop="20261127050000 +0000" channel="zeemarathi">
+  <programme start="20261127042900 +0000" stop="20261127045900 +0000" channel="zeemarathi">
     <title lang="en">Deep Jyoti</title>
     <desc lang="en">S1 , E220 : The lives of three sisters take a dramatic turn when they marry into a prestigious, wealthy family. Jyoti must navigate family tensions to solve the mystery of her brother's death.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p32865339_b_h8_ac.jpg"/>
   </programme>
-  <programme start="20261127050000 +0000" stop="20261127053000 +0000" channel="zeemarathi">
+  <programme start="20261127045900 +0000" stop="20261127052900 +0000" channel="zeemarathi">
     <title lang="en">Taarini</title>
     <desc lang="en">S1 , E447 : Taarini and Kedar manage to save the children from the kidnappers. Meanwhile, Kamat makes a shocking discovery.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p30905426_b_h10_ac.jpg"/>
   </programme>
-  <programme start="20261127053000 +0000" stop="20261127060000 +0000" channel="zeemarathi">
+  <programme start="20261127052900 +0000" stop="20261127055900 +0000" channel="zeemarathi">
     <title lang="en">Dhaktya Sunbai</title>
     <desc lang="en">S1 , E59 : An orphan girl's beliefs make her fall in love, feel belonged and eventually become a daughter-in-law.</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/UuTeziyy.jpg"/>
   </programme>
-  <programme start="20261127060000 +0000" stop="20261127063000 +0000" channel="zeemarathi">
+  <programme start="20261127055900 +0000" stop="20261127062900 +0000" channel="zeemarathi">
     <title lang="en">Veen Doghantali Hi Tutena</title>
     <desc lang="en">S1 , E465 : Samar, a wealthy tycoon, and Swanandi, a young middle-class professional, enter a marriage of convenience. However, their contractual nuptials gradually evolve into a profound connection.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p30905430_b_h10_ac.jpg"/>
   </programme>
-  <programme start="20261127063000 +0000" stop="20261127070000 +0000" channel="zeemarathi">
+  <programme start="20261127062900 +0000" stop="20261127065900 +0000" channel="zeemarathi">
     <title lang="en">Deep Jyoti</title>
     <desc lang="en">S1 , E220 : The lives of three sisters take a dramatic turn when they marry into a prestigious, wealthy family. Jyoti must navigate family tensions to solve the mystery of her brother's death.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p32865339_b_h8_ac.jpg"/>
   </programme>
-  <programme start="20261127070000 +0000" stop="20261127073000 +0000" channel="zeemarathi">
+  <programme start="20261127065900 +0000" stop="20261127072900 +0000" channel="zeemarathi">
     <title lang="en">Sanai Chaughade</title>
     <desc lang="en">S1 , E246 : Asavari advocates for holding an intimate marriage ceremony at their family residence. Later, Jay brings a smile to Sharvari's face with a discreet clue.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p32659244_b_h10_ad.jpg"/>
   </programme>
-  <programme start="20261127073000 +0000" stop="20261127080000 +0000" channel="zeemarathi">
+  <programme start="20261127072900 +0000" stop="20261127075900 +0000" channel="zeemarathi">
     <title lang="en">Savlayachi Janu Savali</title>
-    <desc lang="en">S1 , E757 : A woman with a dusky complexion and a melodious voice faces various obstacles. Her life gets entangled with a man whose mother wants a beautiful bride for him.</desc>
+    <desc lang="en">S1 , E757 : An unexpected turn of events during the inauguration leaves Savali deeply upset. Consequently, she loses her temper and storms out of the event.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29097156_b_h10_ae.jpg"/>
   </programme>
-  <programme start="20261127080000 +0000" stop="20261127090000 +0000" channel="zeemarathi">
+  <programme start="20261127075900 +0000" stop="20261127090000 +0000" channel="zeemarathi">
     <title lang="en">Lakshmi Nivas</title>
     <desc lang="en">S1 , E656 : Anandi's cherished dream receives strong backing from Lakshmi. However, little does she realise that a shocking revelation awaits her at Ishita's engagement.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29094815_b_h10_ab.jpg"/>
   </programme>
-  <programme start="20261127090000 +0000" stop="20261127093000 +0000" channel="zeemarathi">
+  <programme start="20261127090000 +0000" stop="20261127092900 +0000" channel="zeemarathi">
     <title lang="en">Sanai Chaughade</title>
     <desc lang="en">S1 , E246 : Asavari advocates for holding an intimate marriage ceremony at their family residence. Later, Jay brings a smile to Sharvari's face with a discreet clue.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p32659244_b_h10_ad.jpg"/>
   </programme>
-  <programme start="20261127093000 +0000" stop="20261127100000 +0000" channel="zeemarathi">
+  <programme start="20261127092900 +0000" stop="20261127095900 +0000" channel="zeemarathi">
     <title lang="en">Dhaktya Sunbai</title>
     <desc lang="en">S1 , E59 : An orphan girl's beliefs make her fall in love, feel belonged and eventually become a daughter-in-law.</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/UuTeziyy.jpg"/>
   </programme>
-  <programme start="20261127100000 +0000" stop="20261127103000 +0000" channel="zeemarathi">
+  <programme start="20261127095900 +0000" stop="20261127103000 +0000" channel="zeemarathi">
     <title lang="en">Kamali</title>
     <desc lang="en">S1 , E499 : A courageous kabaddi champion hailing from the countryside of Maharashtra challenges her family's expectations by venturing to Mumbai in pursuit of her aspirations.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p30594191_b_h8_ad.jpg"/>
@@ -4106,82 +4241,77 @@
     <desc lang="en">S1 , E154 : Facing abandonment and pain, a resilient single mother and her three daughters stand united and strong, weathering life's various challenges with perseverance and grace.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p33371774_b_h8_aa.jpg"/>
   </programme>
-  <programme start="20261127110000 +0000" stop="20261127113000 +0000" channel="zeemarathi">
+  <programme start="20261127110000 +0000" stop="20261127112900 +0000" channel="zeemarathi">
     <title lang="en">Taarini</title>
     <desc lang="en">S1 , E447 : Taarini and Kedar manage to save the children from the kidnappers. Meanwhile, Kamat makes a shocking discovery.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p30905426_b_h10_ac.jpg"/>
   </programme>
-  <programme start="20261127113000 +0000" stop="20261127120000 +0000" channel="zeemarathi">
+  <programme start="20261127112900 +0000" stop="20261127115900 +0000" channel="zeemarathi">
     <title lang="en">Veen Doghantali Hi Tutena</title>
     <desc lang="en">S1 , E465 : Samar, a wealthy tycoon, and Swanandi, a young middle-class professional, enter a marriage of convenience. However, their contractual nuptials gradually evolve into a profound connection.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p30905430_b_h10_ac.jpg"/>
   </programme>
-  <programme start="20261127120000 +0000" stop="20261127123000 +0000" channel="zeemarathi">
+  <programme start="20261127115900 +0000" stop="20261127122900 +0000" channel="zeemarathi">
     <title lang="en">Deep Jyoti</title>
     <desc lang="en">S1 , E220 : The lives of three sisters take a dramatic turn when they marry into a prestigious, wealthy family. Jyoti must navigate family tensions to solve the mystery of her brother's death.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p32865339_b_h8_ac.jpg"/>
   </programme>
-  <programme start="20261127123000 +0000" stop="20261127130000 +0000" channel="zeemarathi">
+  <programme start="20261127122900 +0000" stop="20261127130000 +0000" channel="zeemarathi">
     <title lang="en">Home Minister</title>
     <desc lang="en">S1 , E79 : The host visits homemakers from across Maharashtra and challenges them to a series of fun games and gives them a chance to complete all the tasks and win the grand prize.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p32089469_b_h8_aa.jpg"/>
   </programme>
-  <programme start="20261127130000 +0000" stop="20261127133000 +0000" channel="zeemarathi">
+  <programme start="20261127130000 +0000" stop="20261127132900 +0000" channel="zeemarathi">
     <title lang="en">Dhaktya Sunbai</title>
     <desc lang="en">S1 , E60 : An orphan girl's beliefs make her fall in love, feel belonged and eventually become a daughter-in-law.</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/UuTeziyy.jpg"/>
   </programme>
-  <programme start="20261127133000 +0000" stop="20261127140000 +0000" channel="zeemarathi">
+  <programme start="20261127132900 +0000" stop="20261127140000 +0000" channel="zeemarathi">
     <title lang="en">Krushnaichya Leki</title>
     <desc lang="en">S1 , E155 : Facing abandonment and pain, a resilient single mother and her three daughters stand united and strong, weathering life's various challenges with perseverance and grace.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p33371774_b_h8_aa.jpg"/>
   </programme>
-  <programme start="20261127140000 +0000" stop="20261127143000 +0000" channel="zeemarathi">
+  <programme start="20261127140000 +0000" stop="20261127142900 +0000" channel="zeemarathi">
     <title lang="en">Veen Doghantali Hi Tutena</title>
     <desc lang="en">S1 , E466 : Samar, a wealthy tycoon, and Swanandi, a young middle-class professional, enter a marriage of convenience. However, their contractual nuptials gradually evolve into a profound connection.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p30905430_b_h10_ac.jpg"/>
   </programme>
-  <programme start="20261127143000 +0000" stop="20261127150000 +0000" channel="zeemarathi">
+  <programme start="20261127142900 +0000" stop="20261127145900 +0000" channel="zeemarathi">
     <title lang="en">Deep Jyoti</title>
-    <desc lang="en">S1 , E198 : Sulu is utterly dumbfounded by Ganpat's sudden confession. Furthermore, she struggles to accept the shocking truth that Deep loves Jyoti.</desc>
+    <desc lang="en">S1 , E221 : The lives of three sisters take a dramatic turn when they marry into a prestigious, wealthy family. Jyoti must navigate family tensions to solve the mystery of her brother's death.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p32865339_b_h8_ac.jpg"/>
   </programme>
-  <programme start="20261127150000 +0000" stop="20261127153000 +0000" channel="zeemarathi">
+  <programme start="20261127145900 +0000" stop="20261127152800 +0000" channel="zeemarathi">
     <title lang="en">Sanai Chaughade</title>
     <desc lang="en">S1 , E247 : Sharvari outsmarts Jay by making an unexpected revelation about Rohan, her friend from college. Later, the entire situation shifts in her favour.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p32659244_b_h10_ad.jpg"/>
   </programme>
-  <programme start="20261127153000 +0000" stop="20261127160000 +0000" channel="zeemarathi">
+  <programme start="20261127152800 +0000" stop="20261127155900 +0000" channel="zeemarathi">
     <title lang="en">Kamali</title>
     <desc lang="en">S1 , E500 : A courageous kabaddi champion hailing from the countryside of Maharashtra challenges her family's expectations by venturing to Mumbai in pursuit of her aspirations.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p30594191_b_h8_ad.jpg"/>
   </programme>
-  <programme start="20261127160000 +0000" stop="20261127163000 +0000" channel="zeemarathi">
+  <programme start="20261127155900 +0000" stop="20261127163100 +0000" channel="zeemarathi">
     <title lang="en">Taarini</title>
     <desc lang="en">S1 , E448 : Rekha quietly overhears as Sumi engages in a conversation with Taarini regarding the upcoming mission.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p30905426_b_h10_ac.jpg"/>
   </programme>
-  <programme start="20261127163000 +0000" stop="20261127170000 +0000" channel="zeemarathi">
+  <programme start="20261127163100 +0000" stop="20261127170200 +0000" channel="zeemarathi">
     <title lang="en">Devmanus Madhla Adhyay</title>
     <desc lang="en">S1 , E491 : The notorious serial killer, Dr Ajitkumar Dev, relocates to Varanasi where he assumes the identity of Gopal, a tailor who disappeared years ago, and continues his reign of terror.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p30349871_b_h8_ac.jpg"/>
   </programme>
-  <programme start="20261127170000 +0000" stop="20261127173000 +0000" channel="zeemarathi">
+  <programme start="20261127170200 +0000" stop="20261127180300 +0000" channel="zeemarathi">
     <title lang="en">Tula Japnar Aahe</title>
     <desc lang="en">S1 , E567 : After Ambika's tragic death, her husband Atharva and daughter Veda are heartbroken. However, her spirit returns to watch over and protect Veda in unseen yet powerful ways.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29492543_b_h10_ad.jpg"/>
   </programme>
-  <programme start="20261127173000 +0000" stop="20261127180000 +0000" channel="zeemarathi">
+  <programme start="20261127180300 +0000" stop="20261127183100 +0000" channel="zeemarathi">
     <title lang="en">Dhaktya Sunbai</title>
     <desc lang="en">S1 , E60 : An orphan girl's beliefs make her fall in love, feel belonged and eventually become a daughter-in-law.</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/UuTeziyy.jpg"/>
   </programme>
-  <programme start="20261127180000 +0000" stop="20261127183000 +0000" channel="zeemarathi">
-    <title lang="en">Sanai Chaughade</title>
-    <desc lang="en">S1 , E247 : Sharvari outsmarts Jay by making an unexpected revelation about Rohan, her friend from college. Later, the entire situation shifts in her favour.</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p32659244_b_h10_ad.jpg"/>
-  </programme>
-  <programme start="20261127183000 +0000" stop="20261127190000 +0000" channel="zeemarathi">
+  <programme start="20261127183100 +0000" stop="20261127190000 +0000" channel="zeemarathi">
     <title lang="en">Kamali</title>
     <desc lang="en">S1 , E500 : A courageous kabaddi champion hailing from the countryside of Maharashtra challenges her family's expectations by venturing to Mumbai in pursuit of her aspirations.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p30594191_b_h8_ad.jpg"/>
@@ -4191,45 +4321,40 @@
     <desc lang="en">S1 , E466 : Samar, a wealthy tycoon, and Swanandi, a young middle-class professional, enter a marriage of convenience. However, their contractual nuptials gradually evolve into a profound connection.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p30905430_b_h10_ac.jpg"/>
   </programme>
-  <programme start="20261127193000 +0000" stop="20261127200000 +0000" channel="zeemarathi">
+  <programme start="20261127193000 +0000" stop="20261127203000 +0000" channel="zeemarathi">
     <title lang="en">Tula Japnar Aahe</title>
     <desc lang="en">S1 , E567 : After Ambika's tragic death, her husband Atharva and daughter Veda are heartbroken. However, her spirit returns to watch over and protect Veda in unseen yet powerful ways.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29492543_b_h10_ad.jpg"/>
-  </programme>
-  <programme start="20261127200000 +0000" stop="20261127203000 +0000" channel="zeemarathi">
-    <title lang="en">Kamali</title>
-    <desc lang="en">S1 , E500 : A courageous kabaddi champion hailing from the countryside of Maharashtra challenges her family's expectations by venturing to Mumbai in pursuit of her aspirations.</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p30594191_b_h8_ad.jpg"/>
   </programme>
   <programme start="20261127203000 +0000" stop="20261127210000 +0000" channel="zeemarathi">
     <title lang="en">Veen Doghantali Hi Tutena</title>
     <desc lang="en">S1 , E466 : Samar, a wealthy tycoon, and Swanandi, a young middle-class professional, enter a marriage of convenience. However, their contractual nuptials gradually evolve into a profound connection.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p30905430_b_h10_ac.jpg"/>
   </programme>
-  <programme start="20261127210000 +0000" stop="20261127220000 +0000" channel="zeemarathi">
+  <programme start="20261127210000 +0000" stop="20261127215900 +0000" channel="zeemarathi">
     <title lang="en">Lakshmi Nivas</title>
     <desc lang="en">S1 , E656 : Anandi's cherished dream receives strong backing from Lakshmi. However, little does she realise that a shocking revelation awaits her at Ishita's engagement.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29094815_b_h10_ab.jpg"/>
   </programme>
-  <programme start="20261127220000 +0000" stop="20261127223000 +0000" channel="zeemarathi">
+  <programme start="20261127215900 +0000" stop="20261127222900 +0000" channel="zeemarathi">
     <title lang="en">Devmanus Madhla Adhyay</title>
     <desc lang="en">S1 , E491 : The notorious serial killer, Dr Ajitkumar Dev, relocates to Varanasi where he assumes the identity of Gopal, a tailor who disappeared years ago, and continues his reign of terror.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p30349871_b_h8_ac.jpg"/>
   </programme>
-  <programme start="20261127223000 +0000" stop="20261127230000 +0000" channel="zeemarathi">
+  <programme start="20261127222900 +0000" stop="20261127225900 +0000" channel="zeemarathi">
     <title lang="en">Veen Doghantali Hi Tutena</title>
     <desc lang="en">S1 , E466 : Samar, a wealthy tycoon, and Swanandi, a young middle-class professional, enter a marriage of convenience. However, their contractual nuptials gradually evolve into a profound connection.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p30905430_b_h10_ac.jpg"/>
   </programme>
-  <programme start="20261127230000 +0000" stop="20261128000000 +0000" channel="zeemarathi">
+  <programme start="20261127225900 +0000" stop="20261127235900 +0000" channel="zeemarathi">
     <title lang="en">Lakshmi Nivas</title>
     <desc lang="en">S1 , E656 : Anandi's cherished dream receives strong backing from Lakshmi. However, little does she realise that a shocking revelation awaits her at Ishita's engagement.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29094815_b_h10_ab.jpg"/>
   </programme>
-  <programme start="20261128000000 +0000" stop="20261128003000 +0000" channel="zeemarathi">
-    <title lang="en">Tula Japnar Aahe</title>
-    <desc lang="en">S1 , E567 : After Ambika's tragic death, her husband Atharva and daughter Veda are heartbroken. However, her spirit returns to watch over and protect Veda in unseen yet powerful ways.</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29492543_b_h10_ad.jpg"/>
+  <programme start="20261127235900 +0000" stop="20261128003000 +0000" channel="zeemarathi">
+    <title lang="en">Veen Doghantali Hi Tutena</title>
+    <desc lang="en">S1 , E567 : Samar, a wealthy tycoon, and Swanandi, a young middle-class professional, enter a marriage of convenience. However, their contractual nuptials gradually evolve into a profound connection.</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p30905430_b_h10_ac.jpg"/>
   </programme>
   <programme start="20261127000000 +0000" stop="20261127000000 +0000" channel="m80moasa">
     <title lang="en">M80 Moosa</title>
@@ -4638,7 +4763,7 @@
   </programme>
   <programme start="20261127053000 +0000" stop="20261127070000 +0000" channel="starjalsha">
     <title lang="en">Bigg Boss Bangla</title>
-    <desc lang="en">S2026 , E89 : Sourav Ganguly hosts celebrity contestants as they live together in a common house, compete in various challenges and have to deal with each other's differences in order to win the prize.</desc>
+    <desc lang="en">S2026 , E89 : Bablatala bursts with excitement during a vibrant cultural showcase of music, dance and drama. Amidst the festivities, Saurav successfully wins Monami over with his marriage proposal.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p33941707_b_h8_aa.jpg"/>
   </programme>
   <programme start="20261127070000 +0000" stop="20261127073000 +0000" channel="starjalsha">
@@ -4683,7 +4808,7 @@
   </programme>
   <programme start="20261127143000 +0000" stop="20261127150000 +0000" channel="starjalsha">
     <title lang="en">Parashuram</title>
-    <desc lang="en">S1 , E625 : Parashuram, a mild-mannered family man, leads a double life as an undercover agent, without the knowledge of his wife and children.</desc>
+    <desc lang="en">S1 , E625 : Bhumika stands firmly by Parashuram and warns Satyajit about Karna's trap. Meanwhile, Balaram reveals a key piece of information, leading Parashuram to punish Karna and his accomplices.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p30738894_b_h8_ab.jpg"/>
   </programme>
   <programme start="20261127150000 +0000" stop="20261127153000 +0000" channel="starjalsha">
@@ -4718,7 +4843,7 @@
   </programme>
   <programme start="20261127193000 +0000" stop="20261127200000 +0000" channel="starjalsha">
     <title lang="en">Parashuram</title>
-    <desc lang="en">S1 , E625 : Parashuram, a mild-mannered family man, leads a double life as an undercover agent, without the knowledge of his wife and children.</desc>
+    <desc lang="en">S1 , E625 : Bhumika stands firmly by Parashuram and warns Satyajit about Karna's trap. Meanwhile, Balaram reveals a key piece of information, leading Parashuram to punish Karna and his accomplices.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p30738894_b_h8_ab.jpg"/>
   </programme>
   <programme start="20261127200000 +0000" stop="20261127220000 +0000" channel="starjalsha">
@@ -4778,7 +4903,7 @@
   </programme>
   <programme start="20261127104500 +0000" stop="20261127120000 +0000" channel="colorsbangla">
     <title lang="en">Bigg Boss Bangla</title>
-    <desc lang="en">S2026 , E89 : Sourav Ganguly hosts celebrity contestants as they live together in a common house, compete in various challenges and have to deal with each other's differences in order to win the prize.</desc>
+    <desc lang="en">S2026 , E89 : Bablatala bursts with excitement during a vibrant cultural showcase of music, dance and drama. Amidst the festivities, Saurav successfully wins Monami over with his marriage proposal.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p33941707_b_h8_aa.jpg"/>
   </programme>
   <programme start="20261127120000 +0000" stop="20261127130000 +0000" channel="colorsbangla">
@@ -4845,110 +4970,5 @@
     <title lang="en">Mangal Chandi</title>
     <desc lang="en">S1 , E70 : A spiritual saga unfolds as Goddess Chandi utilises her otherworldly abilities to receive the devotion of the extremely powerful Dhanapati.</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p17224972_b_h10_aa.jpg"/>
-  </programme>
-  <programme start="20261127000000 +0000" stop="20261127010000 +0000" channel="arydigital">
-    <title lang="en">Good Morning Pakistan</title>
-    <desc lang="en">Host Nida Yasir provides the latest happenings from all over the world, discusses the problems of the viewers and chats with various celebrities.</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p706783_b_h10_ab.jpg"/>
-  </programme>
-  <programme start="20261127010000 +0000" stop="20261127013000 +0000" channel="arydigital">
-    <title lang="en">Daura e Tarjuma e Quran</title>
-    <desc lang="en">A Muslim cleric reads out verses from the Holy Quran and explains their meaning in a lucid manner to help devotees understand the scripture.</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p18238749_b_h10_aa.jpg"/>
-  </programme>
-  <programme start="20261127013000 +0000" stop="20261127020000 +0000" channel="arydigital">
-    <title lang="en">Dars E Bukhari</title>
-    <desc lang="en">The host encourages listeners to lead a devout life while illuminating the teachings and sayings of the Prophet Muhammad (PBUH).</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p13599546_b_h10_ab.jpg"/>
-  </programme>
-  <programme start="20261127020000 +0000" stop="20261127023000 +0000" channel="arydigital">
-    <title lang="en">Bulbulay</title>
-    <desc lang="en">Nabeel and Mehmood slyly move into a flat owned by someone else. However, chaos ensues for Nabeel when Khoobsurat, a runaway bride, decides to stay with them and his mother, Mumtaz, comes visiting.</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p8403713_b_h10_ac.jpg"/>
-  </programme>
-  <programme start="20261127023000 +0000" stop="20261127040000 +0000" channel="arydigital">
-    <title lang="en">Dr. Bahu</title>
-    <desc lang="en">A skilled doctor, committed to fulfilling her calling and her daughter-in-law duties, faces the intricate expectations of her marital household.</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p32683728_b_h10_aa.jpg"/>
-  </programme>
-  <programme start="20261127040000 +0000" stop="20261127063000 +0000" channel="arydigital">
-    <title lang="en">Good Morning Pakistan</title>
-    <desc lang="en">Host Nida Yasir provides the latest happenings from all over the world, discusses the problems of the viewers and chats with various celebrities.</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p706783_b_h10_ab.jpg"/>
-  </programme>
-  <programme start="20261127063000 +0000" stop="20261127070000 +0000" channel="arydigital">
-    <title lang="en">Bulbulay</title>
-    <desc lang="en">Nabeel and Mehmood slyly move into a flat owned by someone else. However, chaos ensues for Nabeel when Khoobsurat, a runaway bride, decides to stay with them and his mother, Mumtaz, comes visiting.</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p8403713_b_h10_ac.jpg"/>
-  </programme>
-  <programme start="20261127070000 +0000" stop="20261127080000 +0000" channel="arydigital">
-    <title lang="en">Lagan Lagi</title>
-    <desc lang="en">Lagan Lagi</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p34382448_b_h10_ab.jpg"/>
-  </programme>
-  <programme start="20261127080000 +0000" stop="20261127100000 +0000" channel="arydigital">
-    <title lang="en">Mera Ghar</title>
-    <desc lang="en">Mera Ghar</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p34638937_b_h10_ab.jpg"/>
-  </programme>
-  <programme start="20261127100000 +0000" stop="20261127110000 +0000" channel="arydigital">
-    <title lang="en">Hey FAM</title>
-    <desc lang="en">Hey FAM</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p34096251_b_h10_ab.jpg"/>
-  </programme>
-  <programme start="20261127110000 +0000" stop="20261127130000 +0000" channel="arydigital">
-    <title lang="en">Lagan Lagi</title>
-    <desc lang="en">Lagan Lagi</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p34382448_b_h10_ab.jpg"/>
-  </programme>
-  <programme start="20261127130000 +0000" stop="20261127140000 +0000" channel="arydigital">
-    <title lang="en">Rutba</title>
-    <desc lang="en">A principled, newly assigned civil servant and law enforcement official's steadfast morals set him in opposition to a formidable, corrupt socio-political network.</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p34233171_b_h10_ab.jpg"/>
-  </programme>
-  <programme start="20261127140000 +0000" stop="20261127160000 +0000" channel="arydigital">
-    <title lang="en">Mera Ghar</title>
-    <desc lang="en">Mera Ghar</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p34638937_b_h10_ab.jpg"/>
-  </programme>
-  <programme start="20261127160000 +0000" stop="20261127170000 +0000" channel="arydigital">
-    <title lang="en">Dar-e-Nijaat</title>
-    <desc lang="en">Haunted by her past, a married woman attempts to build a new life — until old secrets and attachments resurface and threaten her present.</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p33712006_b_h8_ac.jpg"/>
-  </programme>
-  <programme start="20261127170000 +0000" stop="20261127180000 +0000" channel="arydigital">
-    <title lang="en">Lagan Lagi</title>
-    <desc lang="en">Lagan Lagi</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p34382448_b_h10_ab.jpg"/>
-  </programme>
-  <programme start="20261127180000 +0000" stop="20261127193000 +0000" channel="arydigital">
-    <title lang="en">Dr. Bahu</title>
-    <desc lang="en">A skilled doctor, committed to fulfilling her calling and her daughter-in-law duties, faces the intricate expectations of her marital household.</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p32683728_b_h10_aa.jpg"/>
-  </programme>
-  <programme start="20261127193000 +0000" stop="20261127200000 +0000" channel="arydigital">
-    <title lang="en">Bulbulay</title>
-    <desc lang="en">Nabeel and Mehmood slyly move into a flat owned by someone else. However, chaos ensues for Nabeel when Khoobsurat, a runaway bride, decides to stay with them and his mother, Mumtaz, comes visiting.</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p8403713_b_h10_ac.jpg"/>
-  </programme>
-  <programme start="20261127200000 +0000" stop="20261127210000 +0000" channel="arydigital">
-    <title lang="en">Dar-e-Nijaat</title>
-    <desc lang="en">Haunted by her past, a married woman attempts to build a new life — until old secrets and attachments resurface and threaten her present.</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p33712006_b_h8_ac.jpg"/>
-  </programme>
-  <programme start="20261127210000 +0000" stop="20261127220000 +0000" channel="arydigital">
-    <title lang="en">Mera Ghar</title>
-    <desc lang="en">Mera Ghar</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p34638937_b_h10_ab.jpg"/>
-  </programme>
-  <programme start="20261127220000 +0000" stop="20261127230000 +0000" channel="arydigital">
-    <title lang="en">Lagan Lagi</title>
-    <desc lang="en">Lagan Lagi</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p34382448_b_h10_ab.jpg"/>
-  </programme>
-  <programme start="20261127230000 +0000" stop="20261128010000 +0000" channel="arydigital">
-    <title lang="en">Good Morning Pakistan</title>
-    <desc lang="en">Host Nida Yasir provides the latest happenings from all over the world, discusses the problems of the viewers and chats with various celebrities.</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p706783_b_h10_ab.jpg"/>
   </programme>
 </tv>
